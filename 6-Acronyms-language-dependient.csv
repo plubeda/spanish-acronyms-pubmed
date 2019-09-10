@@ -1,0 +1,392 @@
+type,acronym,spanish_description,english_description
+dependent,URS,ureterorrenoscopia retrograda,ureterorenoscopy
+dependent,CHIK,chikunguña,chikungunya fever
+dependent,ADHD-RS,adhd rating scale,attention deficit/hyperactivity disorder rating scale
+dependent,OA,obesidad abdominal,obesity abdominal
+dependent,VitD,vitamina d,vitamin d
+dependent,SEDAR,"sociedad española de anestesiología, reanimación y terapia del dolor","society of anesthesiology, recovery and pain therapy"
+dependent,TAR,trombocitopenia con aplasia de radio,thrombocytopenia with radial aplasia syndrome
+dependent,MDS,multidimensional escalado,multidimensional scaling analysis
+dependent,D.A.T.C.,diisoamiloxitiocarbanilida,diisoamyloxythiocarbanilide
+dependent,ASLO,antiestreptolisina o,antistreptolysin o
+dependent,SEC,sociedad española de cardiología,society of cardiology
+dependent,LJ,lowenstein-jensen,lowenstein-jensen medium
+dependent,MTP,metilprednisolona,methylprednisolone
+dependent,PMN,polimorfonucleares neutrófilos,polymorphonuclear neutrophil
+dependent,VSP-A,vecú et sante perçue de l'adolescent,vécu et santé perçue de l'adolescent
+dependent,NOX,nadph oxidasa,nadph oxidase
+dependent,SUDEP,subita asociada a la epilepsia,sudden unexpected death in epilepsy
+dependent,PHMB,polihexametil biguanida,polyhexamethyl biguanide
+dependent,Sintrom,sometidos a cirugía urológica en tratamiento con acenocumarol,surgery iin the treatment with acenocumarol
+dependent,Mn-SOD,mn-superóxido dismutasa,mn-superoxide dismutasa
+dependent,RICVAL,registro de infartos agudos de miocardio de la ciudad de valencia,registry of acute myocardial infarctions of the city of valencia
+dependent,DIGS,diagnóstica para estudios genéticos,diagnostic interview for genetic studies
+dependent,FI,fracaso intestinal,failure
+dependent,Alb,albúmina plasmática,albumin
+dependent,LDX,lisdexanfetamina dimesilato,lisdexamfetamine dimesylate
+dependent,ASRS,adhd self-report scale</i>,adhd self-report scale
+dependent,GGT,gama glutamil transferasa,gamma glutamyl transferase
+dependent,MNA,mínima nutricional,mini nutritional assessment
+dependent,ASIA,americana de lesion de la medula espinal,association scale
+dependent,DON,deoxinivalenol,deoxynivalenol
+dependent,CS,controles,controls
+dependent,DG,dengue grave,dengue
+dependent,DMA,dimetilarsínico,dimethylarsinic acid
+dependent,INEN,instituto nacional de enfermedades neoplásicas,institute of neoplastic diseases
+dependent,ALTE,a la vida del lactante,apparent life-threatening events in infancy
+dependent,GIST,gastrointestinal,gastrointestinal stromal tumours
+dependent,ROP,"retinopatía del prematuro""",retinopathy of prematurity
+dependent,NP,nanopartículas,nanoparticles
+dependent,MINSA,ministerio de salud,ministry of health
+dependent,EHEC,enterohemorrágico,escherichia coli
+dependent,OC,otras carreras,other careers
+dependent,PAIA,programa de atención al ictus en aragón,programme in aragon
+dependent,PROA,programa de optimización del uso de antimicrobianos,program for optimizing the use of antimicrobials
+dependent,APOE,apolipoproteína e,apolipoprotein e
+dependent,RDoC,research domain criteria,research domain criteria project
+dependent,CISCA,"cisplatino, adriamicina y ciclofosfamida","cisplatin, adriamycin and cyclophosphamide"
+dependent,MIR,médicos internos y residentes,medical residents and interns
+dependent,CCINSHAE,coordinadora de institutos nacionales de salud y hospitales de alta especialidad,coordinating commission of the national institutes of health and high specialty hospitals
+dependent,PTH,parathormona,parathyroid hormone
+dependent,HPP,hiperparatiroidismo,hyperparathyroidism
+dependent,SABE,"salud, bienestar y envejecimiento","survey of health, wellbeing and aging"
+dependent,MMSE,mini mental status examination,mini-mental status examination
+dependent,ETEC,enterotoxigénica,enterotoxigenic escherichia coli
+dependent,VMA,vinilmandélico,vinylmandelic acid
+dependent,FHF,fundación hipercolesterolemia familiar,familial hypercholesterolaemia foundation
+dependent,SEA,sociedad española de arteriosclerosis,society of arteriosclerosis
+dependent,atenolol,arterial durante la ergometría. efectos del tratamiento con vasodilatadores (prazosín) versus bloqueadores beta,arterial pressure during ergometry. effects of treatment with vasodilators (prazosin) versus beta blockers
+dependent,DM2,diabetes mellitus tipo 2,diabetes mellitus type 2
+dependent,PE,preeclampsia,pre-eclampsia
+dependent,RTA,retiniano,retinal thickness analyzer
+dependent,OR,odds ratios ajustadas,odds ratios
+dependent,LF,lactoferrina,lactoferrin
+dependent,EV,efectividad vacunal,effectiveness
+dependent,VEE,venezolana,venezuelan encephalitis
+dependent,FIS,fondo de investigación sanitaria,fondo de investigacíon sanitaria
+dependent,RR,riesgos relativos,relative risk
+dependent,MALT,münchner alkoholismus test,munich alcoholism test
+dependent,I-PSS,internacional de síntomas prostáticos,international prostatic symptoms scale
+dependent,I-V,intervalo,interval
+dependent,LDX,lisdexanfetamina,lisdexanfetamine
+dependent,MCA,mucina asociado a carcinoma,mucin-like carcinoma-associated antigen
+dependent,II,insulina-receptor,interaction
+dependent,STAI,state-trait anxiety inventory,state-trait anxiety inventory questionnaire
+dependent,SAHS,sindrome de apneas-hipopneas,sleep apnoea-hypopnoea syndrome
+dependent,GEMA,guía española para el manejo del asma,guidelines for asthma management
+dependent,IEOF-ID,inmunoelectroosmoforesis-inmunodifusion,immunoelectroosmophoresis-immunodiffusion
+dependent,ANCA,anticitoplasma de neutrófilo,antineutrophil cytoplasm antibodies
+dependent,mMRC,modificada del medical research council,modified dyspnea scale of the medical research council
+dependent,CEA,carcinoembrionario,carcinoembryonic antigen
+dependent,GETH,grupo español de trasplante hemopoyético,group on infectious complications in hematopoietic transplantation
+dependent,ADA,adenosina deaminasa,adenosine deaminase
+dependent,CCC,concordancia canónica,concordance
+dependent,TG,triacilglicerol,triacylglycerol
+dependent,CMLALM,centro médico “lic. adolfo lópez mateos”,"centro medico ""lic. adolfo lopez mateos"""
+dependent,INNSZ,"instituto nacional de la nutrición ""salvador zubirán""",instituto nacional de la nutrición salvador zubirán
+dependent,MNNG,metil-n-nitro-n-nitrosoguanidina,methyl-n-nitro-n-nitrosoguanidine
+dependent,MDA,malondialdehído,malondialdehyde
+dependent,CQ,cloroquina,chloroquine
+dependent,MeSH,medical subjects headings,medical subject headings
+dependent,Tp,tioprolina,thioproline
+dependent,2-AT,2-amino-tiazolina-hcl,2-aminothiazoline hcl
+dependent,EPIC,europeo sobre dieta y cáncer,european prospective investigation on diet and cancer
+dependent,UITB,unidad de investigación en tuberculosis de barcelona,unit on tuberculosis in barcelona
+dependent,REGITELL,registro de pacientes con ataque isquémico transitorio de lleida,registry of patients with transient ischemic attacks from lleida
+dependent,IL-1 beta,interleucina 1 beta,interleukin-1 beta
+dependent,IL-2,interleucina 2,interleukin-2
+dependent,Nematoda,"nematodo parásito romanomermis iyengari (welch, 1964)","nematode romanomermis iyengari (welch, 1964)"
+dependent,ANCA,anticitoplasma de neutrófilos,anti-neutrophil cytoplasmic antibodies
+dependent,SS,similares,syndromes
+dependent,SM,síndrome de marfan,syndrome
+dependent,AP,anteroposterior,antero-posterior
+dependent,HSJO,hospital sant jaume de olot,hospital sant jaume in olot
+dependent,HPV,hospital provincial de valencia,hospital provincial in valencia
+dependent,ANCA,anticuerpos frente al citoplasma de los neutrófilos,antineutrophil cytoplasmic antibodies
+dependent,LACRE,latinoamericana en educación de residentes,latin american conference on resident education
+dependent,NYHA,new yorl health asosiation,new york health association
+dependent,DBH,dopamina-beta-hidroxilasa,dopamine beta hydroxylase
+dependent,SCARTD,"societat catalana d'anestesiologia, reanimació i terapèutica del dolor""","society of anesthesia, resuscitation, and pain therapy"
+dependent,GRECA,grupo de estudio de la calidad asistencial,group of the quality of care
+dependent,HR,hazard ratio,hazard ratios
+dependent,M-CTS,modificada de la conflicts tactics scale,modified version of the conflict tactics scale
+dependent,MTA,metaanálisis,meta-analysis
+dependent,TCI-R,temperamento y carácter de cloninger,temperament and character inventory
+dependent,RIETE,registro informatizado de pacientes con enfermedad tromboembólica en españa,registry of patients with thromboembolic disease in spain
+dependent,III,interacción insulina-receptor,insulin-receptor interaction
+dependent,DDD,diarias definidas,defined daily dose
+dependent,COMIET,"comisión de materiales, instrumentos, equipo y terapéuticos dentales","commission on dental materials, instruments, equipment and therapeutics"
+dependent,COPCORD,comunidad para el control de enfermedades reumáticas,community oriented programme for control of rheumatic disease
+dependent,HNERM,hospital nacional de edgardo rebagliati martins,hospital nacional edgardo rebagliati martins
+dependent,NDM,nueva delhi metalo beta-lactamasas,new delhi metalo beta-lactamases
+dependent,MCC-Spain,multicase-control study in common tumours in spain,multicaso-control de base poblacional de tumores comunes en españa
+dependent,DSD,desarrollo sexual diferente,different sex development
+dependent,ASCA,anti-saccharomyces cerevisiae,anti-saccharomyces cerevisiae antibodies
+dependent,ANCA,anticitoplasma de los neutrófilos,anti-neutrophil cytoplasmic antibodies
+dependent,AA,aguda,acute appendicitis
+dependent,SEEN,sociedad española de endocrinología y nutrición,society of endocrinology and nutrition
+dependent,NF1,neurofibromatosis de tipo 1,neurofibromatosis type 1
+dependent,E.C.G.,electrocardiograma,electrocardiogram
+dependent,VNG,videonistagmográfico,videonystagmographic
+dependent,AGEMZA,academia general militar de zaragoza,at 15-year follow-up in the general military academy of zaragoza
+dependent,GOT,glutámico-oxalacetica,glutamic-oxalacetic transaminase
+dependent,TIR,tuberculosis e infecciones respiratorias,tuberculosis and respiratory infections
+dependent,CIRC,con insuficiencia renal crónica,census patients with chronical renal failure
+dependent,THC,tetrahidrocannabinol,tetrahydrocannabinol
+dependent,IL-2r,interleucina-2r,interleukin-2r
+dependent,IMA,isquemia puede aumentar en el asma,ischemia-modified albumin
+dependent,LOLA,l-ornitina l-aspartato,l-ornithine l-aspartate
+dependent,GOLD,global para la enfermedad pulmonar obstructiva crónica,global initiative for chronic obstructive pulmonary disease
+dependent,TT,testicular,testicular torsion
+dependent,II,iniciales,initial
+dependent,ACGs,"ambulatory care groups""",ambulatory care groups
+dependent,NO,nítrico,nitric oxide
+dependent,SEYLE,saving and empowering young lives in europe,saving and empowering young lives project in europe
+dependent,p&lt,previo del alcohol en el momento t0,previous alcohol abuse at t0
+dependent,EPIC,"europeo sobre dieta, cáncer y salud","european prospective investigation on diet, cancer, and health"
+dependent,LAP,leucinaminopeptidasis,leucine aminopeptidase
+dependent,OB,obesidad,obesity
+dependent,SNSAF,spain, nutrition survey of the armed forces
+dependent,ICNND,interdepartamental commitee on nutririon for national defense,interdepartamental committee on nutrition for national defence
+dependent,AFP,alpha-fetoproteína,alpha-fetoprotein
+dependent,CIN III,casos de neoplasia intraepitelial grado iii,cervical intraepithelial neoplasia grade iii
+dependent,IADS,internacional de sonidos afectivos,international affective digitized sounds
+dependent,DDI,de disciplina,dimensions of discipline inventory
+dependent,CI,control de ingestas,control food intake
+dependent,MPMN,modelo de predicción de mortalidad de navarra,mortality prediction model of navarre
+dependent,MAO,máxima posthistamínica,maximum post-histamine
+dependent,DFT,defibrótido,defibrotide
+dependent,MIP-1β,macrofágica-1β,macrophage inflammatory protein-1β
+dependent,MCP-1,monocitos-1,monocyte chemoattractant protein-1
+dependent,EEV,encefalitis equina venezolana,encephalitis virus
+dependent,SERVEI,sociedad española de radiología vascular e intervencionista,society of vascular and interventional radiology
+dependent,TRUS,transrectal guiada por ultrasonidos,transrectal ultrasound-guided
+dependent,MF,mielofibrosis,myelofibrosis
+dependent,HG,hipogammaglobulinemia,hypogammaglobulinemia
+dependent,TT,total,thyroidectomy
+dependent,ILAE,internacional contra la epilepsia,international league against epilepsy's
+dependent,GEIS,gastrointestinales,gastrointestinal stromal tumours
+dependent,FOS,fructooligosacáridos,fructooligosaccharides
+dependent,CC,calórico de la dieta,caloric intake
+dependent,DHA,docosahexaenoico,docosahexaenoic acid
+dependent,LEP,leptina,leptin
+dependent,LEPR,lep o en su receptor,lep gene or its receptor
+dependent,REVERSE,registro sobre la cardioversión en españa,referred for cardioversion
+dependent,DDDs,diarias definidas,defined daily doses
+dependent,IDPN,iminodipropionitrilo,iminodipropionitrile
+dependent,LAP,leucinoaminopeptidasa,leucine aminopeptidase
+dependent,DBCP,dibromo-3-cloro-propano,dibrome-3-chlor-propane
+dependent,TEM,trietilenmelamina,triethylene melamine
+dependent,BIA,bioimpedancia,bioelectrical impedance analysis
+dependent,NNH,número necesario para hacer daño,number needed to harm
+dependent,NNT,número necesario a tratar,number needed to treat
+dependent,ASO,"antiestreptolisina ""o""",antistreptolysin
+dependent,HY,hoehn y yahr,hoehn and yahr
+dependent,GIST,gastrointestinales,gastrointestinal stromal tumors
+dependent,CC,cervical,cancer
+dependent,TaDiCS ®,tablero dinamico de cubos y signos,tasks by means of a game of dynamic board of cubes and signs
+dependent,PCNA,proliferación celular,proliferating cell nuclear antigen
+dependent,TEM,tri-etilen-melamina,triethylene melamine
+dependent,Pap,papanicolaou,papanicolau
+dependent,MTHFR,metilentetrahidrofolatorreductasa,methylenetetrahydrofolate reductase enzyme
+dependent,BoNT-A,botulínica tipo a,botulinum toxin type a
+dependent,MF,microfracturas,microfracture therapy
+dependent,FR,factor reumatoide,factor
+dependent,DAP IV,dipeptidilaminopeptidasa iv,dipeptidylaminopeptidase iv
+dependent,HR,hipertensión arterial,hazard rate
+dependent,Hb,hemoglobina plasmática,hemoglobin
+dependent,CVC,catéter venoso central,central venous catheter
+dependent,SECAC,"sociedad española de cronobiología aplicada, cronoterapia y riesgo vascular","society of applied chronobiology, chronotherapy, and vascular risk"
+dependent,EDTA,etilén-diamino-tetraacético,ethylenediaminetetraacetic acid
+dependent,SEPEAP,sociedad española de pediatría extrahospitalaria y atención primaria,society of extra-hospital paediatrics and primary health care
+dependent,AEPAP,asociación española de pediatría de atención primaria,"and nutrition (seghnp), the spanish association of paediatric primary care"
+dependent,PCHP,pro children project,pro children project questionnaire
+dependent,EK2,egen klassifikation 2,egen klassifikation 2 scale
+dependent,RAS,renina angiotensina,renin angiotensin system
+dependent,OC,osteocalcina,osteocalcin
+dependent,CDC,centros de desarrollo comunitario,community development centers
+dependent,TAMIS,transanal mínimamente invasiva,transanal minimally invasive surgery
+dependent,ICAM-1,intercelular-1,intercellular adhesion molecule-1
+dependent,HC,hemicranea continua,hemicrania continua
+dependent,VCMP,"vincristina, ciclofosfamida, melfalán y prednisona","vincristine, cyclophosphamide, melphalan and prednisone"
+dependent,GINA,guías internacionales de diagnóstico y tratamiento del asma,guidelines for the diagnosis and treatment of asthma
+dependent,NSA-16,negativos-16,negative symptom assessment-16
+dependent,DDAVP,deamino-8-d-arginina vasopresina,deamino-8-d-arginine vasopressin
+dependent,HN,hidronefrosis,hydronephrosis
+dependent,MEN 2,múltiple tipo 2,multiple endocrine neoplasia type 2
+dependent,NCC,neurocisticercosis,neurocysticercosis
+dependent,AA,abdomen agudo,acute abdomen
+dependent,FINC-NA,familia en los cuidados de enfermería. validación de la versión española,family in nursing care. validation of the spanish version
+dependent,GSRS,gastrointestinales,gastrointestinal symptoms rating scale
+dependent,LDL,ligado a lipoproteínas de baja densidad,low density lipoproteins
+dependent,PCSK9,proproteína convertasa subtilisina / kexina tipo 9,proprotein convertase subtilisin/kexin type 9
+dependent,IIEF,internacional de disfuncion erectil,index of erectile dysfunction
+dependent,SEIMC,sociedad española enfermedades infecciosas y microbiología clínica,society of infectious diseases and clinical microbiology
+dependent,CDI,cuestionario de depresión infantil,children's depression inventory
+dependent,HSV-2,herpes simple-2,herpes simplex virus-2
+dependent,US,ultrasonido,ultrasound
+dependent,CEA,carcino-embrionario,carcinoembryonic antigen
+dependent,MD,mediana,median
+dependent,EEG,electroencefalograma,electroencephalogram
+dependent,B/N,buprenorfina/naloxona (suboxone®),buprenorphine-naloxone (suboxone®)
+dependent,CMJ,counter movement jump,counter-movement jump
+dependent,Primates,"para la reintroducción de monos de los géneros saguinus, aotus y cebus","primates saguinus, aotus and cebus"
+dependent,MMSE,minimental de folstein,minimental state examination
+dependent,CMV,citomegalovirus,cytomegalovirus
+dependent,CVC,catéteres venosos centrales,central venous catheters
+dependent,CEAR,consorcio español para la artritis reumatoide,consortium for rheumatoid arthritis
+dependent,EAS,europea de aterosclerosis,european atherosclerosis society
+dependent,Vit-D,vitamina d,vitamin d
+dependent,LPS,lipopolisacárido,lipopolysaccharide
+dependent,UPDRS,unificada para la evaluación de la enfermedad de parkinson,unified parkinson disease rating scale
+dependent,SAT,sueroaglutinación,serum agglutination test
+dependent,MAT,microaglutinación,microagglutination
+dependent,MLPA,múltiples sondas,multiple ligation-dependent probe amplification
+dependent,SEPN1,selenoproteina 1,selenoprotein 1
+dependent,OI,osteogénesis imperfecta,osteogenesis imperfecta
+dependent,CVC,cateterización venosa central,central venous catheterization
+dependent,CS,coeficiente de spearman,coefficients
+dependent,CI,consistencia interna,consistency
+dependent,HPRT,hipoxantina guanina fosforribosiltransferasa,hypoxanthine guanine phosphoribosyl transferase
+dependent,CDT,carbohidratos,carbohydrate-deficient transferrin
+dependent,PTH,paratohormona,parathyroid hormone
+dependent,IAUC,incremento bajo la curva de glucosa,incremental area under the curve
+dependent,SEFH,sociedad española de farmacia hospitalaria,society of hospital pharmacy
+dependent,Cr,creatina,creatine
+dependent,NAA,n-acetilaspartato,n-acetylaspartate
+dependent,GEW,gaitrite ® electronic walkway,gaitrite ® electronic walkway system
+dependent,NAAG,n-acetil-aspartil-glutamato,n-acetyl-aspartyl-glutamate
+dependent,NAA,n-acetil-l-aspartato,n-acetyl-l-aspartate
+dependent,EPA,eicosapentanoico 20,5 n3
+dependent,IOM,institute of medicine»,institute of medicine
+dependent,FR,fórmula rápida,"formula rápida"""
+dependent,NAG,n-acetil-glucosaminidasa,n-acetyl-glucosaminidase
+dependent,CIR,crecimiento intrauterino,correspond to fetal intrauterine growth retardation
+dependent,CES-D,centro de estudios epidemiologicos,center for epidemiologic studies
+dependent,ALA,alfalinolenico,alpha-linolenic fatty acid
+dependent,EPA,eicosapentaenoico,eicosapentaenoic
+dependent,MM,masa muscular total,muscle mass
+dependent,SEFH,sociedad espanola de farmacia hospitalaria,society of hospital pharmacy
+dependent,RSM,revisiónsistemática con metaanálisis,revisión sistemática con metaanálisis
+dependent,CPCs,células prostáticascirculantes primarias,circulating prostate cells
+dependent,ENG,electroneurograma,electroneurogram
+dependent,ALT,alaninoaminotransferasa,alaninaminotransferase
+dependent,BNB,bateria neuropsicologica breve,brief neuropsychological battery
+dependent,MPO,mieoloperoxidasa,myeloperoxidase
+dependent,EB,epidermólisis bullosa,epidermolysis bullosa
+dependent,INSN,instituto nacional de salud del niño,instituto nacional de salud
+dependent,Cr,creatinina,creatinine
+dependent,NAG,n-acetil-b-d-glucosaminidasa a,n-acetyl-b-d-glucosaminidase a
+dependent,PEP,presión espiratoria positiva,positive expiratory pressure
+dependent,FNA,fina,fine needle aspiration
+dependent,II,iniciado,initiated clinical trial
+dependent,H-LDL,hipercolesterolemia-ldl,hypercholesterolemia-ldl
+dependent,ACE,análisis de coste-efectividad,a primer on cost-effectiveness
+dependent,DI,duplicaciones intestinales,duplications
+dependent,PICI,plan integral de cardiopatía isquémica,plan for ischemic cardiomyopathy
+dependent,RENAVE,red nacional de vigilancia epidemiológica,recommendations established by the national epidemiological surveillance network
+dependent,UNITEC,universidad technológica de méxico,university of mexico
+dependent,FDG,fluoro-desoxiglucosa,fluoro-deoxyglucose
+dependent,BEP,bleomicina y vinblastina (pvb) o etoposido,bleomycin and vinblastine (pvb) or etoposide
+dependent,Tm,transporte máximo,transport maximum
+dependent,EODD,en días alternos sin descanso de 72 horas,every other day dialysis
+dependent,LDH,lactodeshidrogenasa,lactodehydrogenase
+dependent,IR,insulino resistencia,insulin resistance
+dependent,ECG,electrocardiogramas,electrocardiogram
+dependent,NMDA,n-metil-d-aspartato,n-methyl-d-aspartate
+dependent,IFN,interferon alfa-2b,interferon
+dependent,TM,tiempo de mantenimiento,time
+dependent,TN,triple negativo,triple negative
+dependent,MeSH,medical subject headings,medical subheadings
+dependent,APA,americana de psiquiatría,american psychiatry association
+dependent,D.A.T.C.,diisolamiloxitocarbanilida,diisomayloxythiocarbanilide
+dependent,PRUQ,perception of restraintuse questionnaire,perception of restraint use questionnaire
+dependent,Nematoda,nematodo romanomermis iyengari,nematode romanomermis iyengari
+dependent,SAHS,"síndrome de apneas-hipoapneas del sueño, en lo adelante",sleep apnea-hypopnea syndrome
+dependent,DAS,de ansiedad ante la muerte,death anxiety scale
+dependent,QAPAQ,qualitative atributes and measurement properties of physical activity questionnaires,qualitative attributes and measurement properties of physical activity questionnaires checklist
+dependent,IVA,isovalérica,isovaleric acidemia
+dependent,IgM,inmunoglobulina m,immunoglobulin m
+dependent,GLOMANCHA,glomerulonefritis en castilla-la mancha,glomerulonephritis evolution in castilla-la mancha
+dependent,SEN,sociedad española de neurología,society of neurology
+dependent,CSA,ciclosporina a,cyclosporin a
+dependent,PCV,"procarbacina, lomustina y vincristina","procarbazine, lomustine, and vincristine"
+dependent,Nematoda,nematodo parásito romanomermis iyengari,nematode parasite romanomermis iyengari
+dependent,AZT,azidotimidina,azidothymidine
+dependent,SAHS,síndrome de apneas e hipopneas durante el sueño,sleep apnea/hypopnea syndrome
+dependent,DIS-III-R,diagnostic interview schedule. tercera versión revisada,diagnostic interview schedule. third revision
+dependent,IL6,interleuquina 6,interleukin 6
+dependent,GESITRA,grupo de estudio de la infección en el trasplante,group on infections in transplantation
+dependent,ONT,organización nacional de trasplantes,of transplantation
+dependent,Gln,glutamina,glutamine
+dependent,DAS28a,das28 al inicio,das28 value at baseline
+dependent,EULA,evaluacion de la apraxia de los miembros superiores,evaluation of upper limb apraxia
+dependent,NF1,neurofibromatosis tipo 1,neurofibromatosis type 1
+dependent,H.P.,hipertensión portal,hypertension syndrome
+dependent,NGPP,neisseria gonorrhoeae productoras de penicilinasa,neisseria gonorrhoeae producing penicillinase
+dependent,Dx/HA,dextranómreo/ácido hialurónico,dextranomer/hialuronic acid copolimer
+dependent,TTC,tetrazolium cloruro,tetrazolium chloride test
+dependent,SEMI,sociedad española de medicina interna,society of internal medicine
+dependent,TDC,tornillo dinámico condíleo,treatment modalities
+dependent,PPA,placa periarticular,periarticular plate
+dependent,ESL,eslicarbacepina,eslicarbazepine acetate
+dependent,NAG,n-acetil-beta-d-glucosaminidasa,n-acetyl-beta-d-glucosamidase
+dependent,CVCs,cvc subclavio,cvc subclavian
+dependent,IMIP,intención de migrar al interior del país,intention to migrate to the interior of peru
+dependent,GHB,gamma-hidroxi-butirato,gamma-hydroxy-butyrate
+dependent,SEUS,sociedad española de imagen en ultrasonidos,society of ultrasound imaging
+dependent,HECMNSXXI,hospital de especialidades del centro médico nacional siglo xxi,hospital de especialidades del centro medico nacional siglo xxi
+dependent,LAM,linfangioleiomiomatosis pulmonar,lymphangioleiomyomatosis
+dependent,Dng,desoxiribonucleoglobulina,desoxyribonucleoglobulin
+dependent,MGMT,metilguanina-adn-metiltransferasa,methylguanine-dna-methyltransferase
+dependent,SOCALPAR,sociedad castellano-leonesa de patología respiratoria,society of castilla-león of respiratory pathology
+dependent,CMFP,"ciclofosfamida, metotrexate, 5-fluorouracilo y prednisona","cyclophosphamide, methotrexate, 5-fluorouracil and prednisone"
+dependent,SNPs,sugieren que los polimorfismos de nucleótido único,single nucleotides polymorphisms
+dependent,DMSO,dimetil sulfoxido,dimethyl sulfoxide
+dependent,ATP III,adultos iii,adult treatment panel iii
+dependent,EE,estándar del estimador,error of the estimator
+dependent,DFO,deferoxamina,deferoxamine
+dependent,HMB,hidroxi-β-metilbutirato,hydroxy-β-methylbutyrate
+dependent,MNA,mini nutricional assessment,mini nutritional assessment
+dependent,SIOP,sociedad internacional de oncología pediátrica,society of pediatric oncology
+dependent,II,indicadores bibliométricos.,indicators.
+dependent,CRC,clínicas para mejorar los resultados económicos,clinical evidences that improve economic outcomes
+dependent,SEGA,subependimarios de celulas gigantes,subependymal giant cell astrocytomas
+dependent,II,inmunodeficiencia humana,infection
+dependent,AMA,antimiosina,antimyosin monoclonal antibody
+dependent,MTRR,multidimensionaltrauma recovery and resilience,multidimensional trauma recovery and resilience
+dependent,TLI,tucker-lewis,tucker-lewis index
+dependent,IgG,inmunoglobulinas g,immunoglobulins g
+dependent,A.R.,artritis reumatoidea,arthritis
+dependent,Ft,ferritina,ferritin
+dependent,B. P.,bálsamo del peru?,balsam of peru
+dependent,CT,computarizada,computerized axial tomography
+dependent,NMDAR,n-metil-d-aspartato,n-methyl-d-aspartate
+dependent,PROCES,programa de reanimación cardiopulmonar orientado a centros de enseñanza secundaria,program for high school students
+dependent,Nemata,nematodo strelkovimermis spiculatus,nematode strelkovimermis spiculatus
+dependent,Rop,ropivacaína,ropivacaine
+dependent,Rop/Dx,ropivacaína con dexametasona,ropivacaine with dexamethasone
+dependent,CoRIS,con infección por vih sin tratamiento antirretroviral previo,cohort of naïve hiv-infected patients
+dependent,UF,ultrafiltración,ultrafiltration
+dependent,MM,mieloma múltiple,myeloma
+dependent,APC,"anticuerpos monoclonales para cd38 (pecyc5), cd138","antibodies for cd38 (pecyc5), cd138"
+dependent,EEG,electroencefalografico,electroencephalogram
+dependent,As,arsénico,arsenic
+dependent,SiFO,silicona-fluorsilicona,silicone-fluorsilicone copolymer oil
+dependent,PCNA,proliferacion celular,proliferating cell nuclear antigen
+dependent,PIM,potencialmente inapropiados,potentially inappropriate medication
+dependent,ICSI,intracitoplásmica de espermatozoides,intracytoplasmic sperm injection
+dependent,IMID,inmunomediadas,immune-mediated inflammatory diseases
+dependent,TUNA,transuretral con aguja,transurethral needle ablation
+dependent,ABQ,ahtlete burnout questionnaire,athlete burnout questionnaire
+dependent,PV,pitiriasis versicolor,pityriasis versicolor
+dependent,apoE,apolipoproteína e,apolipoprotein e
+dependent,LABC,laboratorio de metales del hospital abc,"laboratories (ohl1v and ohl2df), and the abc hospital"
+dependent,HHM,hemohidrometria,hemohydrometry
+dependent,PNET,primitivo neuroectodérmico,primitive neuroectodermal tumor
+dependent,BXO,balanitis xerotica obliterante,balanitis xerotica obliterans
+dependent,BMQ,beliefs about medicines questionnare,beliefs about medicines questionnaires
+dependent,EPO,eritropoyetina,erythropoietin
+dependent,EPIC,europeo sobre cáncer y nutrición,european prospective investigation about cancer and nutrition
+dependent,AE,aterosclerosis,atherosclerosis
+dependent,ROP,retinopatía del prematuro,retinopathy of prematurity

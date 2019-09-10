@@ -1,0 +1,229 @@
+type,acronym,spanish_description,english_description
+independent,Guatemala,guatemala.,guatemala.
+independent,HAD,hospital anxiety and depression scale,hospital anxiety and depression scale
+independent,MNA,mini nutritional assessment,mini nutritional assessment
+independent,TCSS,toronto clinical scoring system,toronto clinical scoring system
+independent,MGH-SFQ,massachusetts general hospital-sexual functioning questionnaire,massachusetts general hospital-sexual functioning questionnaire
+independent,GINA,global initiative for asthma,global initiative for asthma
+independent,IMSS,instituto mexicano del seguro social,instituto mexicano del seguro social
+independent,SCAS,spence children anxiety scale,spence children anxiety scale
+independent,CAST,cannabis abuse screening test,cannabis abuse screening test
+independent,MSHAQ,modified stanford health assessment questionnaire,modified stanford health assessment questionnaire
+independent,MOS-HIV,medical outcomes study hiv health survey,medical outcomes study hiv health survey
+independent,TB,tuberculosis,tuberculosis
+independent,ZN,ziehl-neelsen,ziehl-neelsen
+independent,NPI,neuropsychiatric inventory,neuropsychiatric inventory
+independent,AHA,american heart association,american heart association
+independent,CBI,cambridge behavioural inventory,cambridge behavioural inventory
+independent,EQUIHP,european quality instrument for health promotion,european quality instrument for health promotion
+independent,ADHD-RS-IV,attention-deficit/hyperactivity disorder rating scale iv,attention-deficit/hyperactivity disorder rating scale iv
+independent,CGI-S,clinical global impression-severity,clinical global impression-severity
+independent,Hp,helicobacter pylori,helicobacter pylori
+independent,Zn,zinc,zinc
+independent,MBI-C,mild behavioral impairment-checklist,mild behavioral impairment-checklist
+independent,E. coli,escherichia coli,escherichia coli
+independent,PANCCO,pan american crohn's and colitis organisation,pan american crohn's and colitis organisation
+independent,EQ-5D,european quality of life-5 dimensions,european quality of life-5 dimensions
+independent,EADV,european academy of dermatology and venereology,european academy of dermatology and venereology
+independent,EV-D68,enterovirus d68,enterovirus d68
+independent,ACR,american college of rheumatology,american college of rheumatology
+independent,EAONO,european academy of otology and neurotology,european academy of otology and neurotology
+independent,AAO-HNS,academy of otolaryngology-head and neck surgery,academy of otolaryngology-head and neck surgery
+independent,HLP,hospital la pedrera,hospital la pedrera
+independent,GCS,glasgow coma scale,glasgow coma scale
+independent,UNAM,universidad nacional autónoma de méxico,universidad nacional autónoma de méxico
+independent,CPAQ,chronic pain acceptance questionnaire,chronic pain acceptance questionnaire
+independent,EAT,eating attitudes test,eating attitudes test
+independent,ORN,osteoradionecrosis,osteoradionecrosis
+independent,ISS,injury severity score,injury severity score
+independent,NISS,new injury severity score,new injury severity score
+independent,W-P-W,wolff-parkinson-white,wolff-parkinson-white
+independent,HZ,herpes zoster,herpes zoster
+independent,SPSS,statistical package for the social sciences,statistical package for the social sciences
+independent,INSP,instituto nacional de salud pública,instituto nacional de salud pública
+independent,STAI,state trait anxiety inventory,state trait anxiety inventory
+independent,BBAQ,barriers to being active quiz,barriers to being active quiz
+independent,IRB-RAT,institutional review board researcher assessment tool,institutional review board researcher assessment tool
+independent,EK,egen klassifikation,egen klassifikation
+independent,ABC,achievable benchmarks of care,achievable benchmarks of care
+independent,IOF,international osteoporosis foundation,international osteoporosis foundation
+independent,MST,malnutrition screening tool,malnutrition screening tool
+independent,ICIQ-SF,incontinence questionnaire short-form,incontinence questionnaire short-form
+independent,CBCL/1.5-5,child behavior checklist 1.5-5,child behavior checklist 1.5-5
+independent,M DMQ-R,modified drinking motives questionnaire-revised,modified drinking motives questionnaire-revised
+independent,OR,odds ratio,odds ratio
+independent,ASI-6,addiction severity index-6,addiction severity index-6
+independent,PDQ-4+,personality diagnostic questionnaire-4+,personality diagnostic questionnaire-4+
+independent,HP,helicobacter pylori,helicobacter pylori
+independent,Mp,mycoplasma pneumoniae,mycoplasma pneumoniae
+independent,MFS,morse fall scale,morse fall scale
+independent,ABSST,actionable bladder symptoms screening tool,actionable bladder symptoms screening tool
+independent,BCG,bacillus calmette-guérin,bacillus calmette-guérin
+independent,MUSIQ,model for understanding success in quality,model for understanding success in quality
+independent,KOOS,knee injury and osteoarthritis outcome score,knee injury and osteoarthritis outcome score
+independent,HB,hepatitis b,hepatitis b
+independent,CAMCOG,cambridge cognitive examination,cambridge cognitive examination
+independent,QOL-AD,quality of life in alzheimer's disease,quality of life in alzheimer's disease
+independent,KADDS,knowledge of attention deficit hyperactivity disorder scale,knowledge of attention deficit hyperactivity disorder scale
+independent,C.,culex,culex
+independent,IOM,institute of medicine,institute of medicine
+independent,HSNS,hypersensitive narcissism scale,hypersensitive narcissism scale
+independent,CCHS,celiac health survey,celiac health survey
+independent,AUDIT,alcohol use disorders identification test,alcohol use disorders identification test
+independent,SLE,systemic lupus erythematosus,systemic lupus erythematosus
+independent,POSIT,problem oriented screening instrument for teenagers,problem oriented screening instrument for teenagers
+independent,MPN,museo pedagógico nacional,museo pedagógico nacional
+independent,CCC,communication checklist,communication checklist
+independent,GMFCS,gross motor function classification system,gross motor function classification system
+independent,BRIEF,behavior rating inventory of executive function,behavior rating inventory of executive function
+independent,HG,hospital garrahan,hospital garrahan
+independent,SCI,science citation index,science citation index
+independent,CPT,continuous performance test,continuous performance test
+independent,A.G.A.,american gastroenterological association,american gastroenterological association
+independent,WISC III,wechsler intelligence scale for children iii,wechsler intelligence scale for children iii
+independent,WOK,web of knowledge,web of knowledge
+independent,FIWOS,first international workshop on ocular sarcoidosis,first international workshop on ocular sarcoidosis
+independent,SENEP,sociedad española de neurologia pediatrica,sociedad española de neurologia pediatrica
+independent,ACE,aid to capacity evaluation,aid to capacity evaluation
+independent,BXO,balanitis xerotica obliterans,balanitis xerotica obliterans
+independent,ADAS,alzheimer's disease assessment scale,alzheimer's disease assessment scale
+independent,PG-SGA,patient generated subjective global assessment,patient generated subjective global assessment
+independent,HUVN,hospital universitario virgen de las nieves,hospital universitario virgen de las nieves
+independent,SMAQ,simplified medication adherence questionnaire,simplified medication adherence questionnaire
+independent,TMT,trail making test,trail making test
+independent,GEQ,group environment questionnaire,group environment questionnaire
+independent,SDS,severity of dependence scale,severity of dependence scale
+independent,MGIT,mycobacteria growth indicator tube,mycobacteria growth indicator tube
+independent,BP,bordetella pertussis,bordetella pertussis
+independent,HoNOS-LD,health of the nation outcome scales for people with learning disabilities,health of the nation outcome scales for people with learning disabilities
+independent,ADA,adalimumab,adalimumab
+independent,ETN,etanercept,etanercept
+independent,AD8,alzheimer's disease 8,alzheimer's disease 8
+independent,MUST,malnutrition universal screening tool,malnutrition universal screening tool
+independent,NRS-2002,nutritional risk screening 2002,nutritional risk screening 2002
+independent,ESI,emergency severity index,emergency severity index
+independent,ISUP,international society of urological pathology,international society of urological pathology
+independent,LARCE,laboratorio regional de citología exfoliativa,laboratorio regional de citología exfoliativa
+independent,ERSPC,european randomized study of screening for prostate cancer,european randomized study of screening for prostate cancer
+independent,PTTG,pituitary tumour-transforming gene,pituitary tumour-transforming gene
+independent,MINI,mini international neuropsychiatric interview,mini international neuropsychiatric interview
+independent,MMORPG,massively multiplayer online role playing games,massively multiplayer online role playing games
+independent,Piscis,plagioscion squamosissimus,plagioscion squamosissimus
+independent,AAMCC,association of medical chronobiology and chronotherapeutics,association of medical chronobiology and chronotherapeutics
+independent,ISC,international society for chronobiology,international society for chronobiology
+independent,RSIM,romanian society of internal medicine,romanian society of internal medicine
+independent,RACHS,risk adjustment for congenital heart surgery,risk adjustment for congenital heart surgery
+independent,MBSRQ,multidimensional body self relations questionnaire,multidimensional body self relations questionnaire
+independent,EXIT,ex-utero intrapartum treatment,ex-utero intrapartum treatment
+independent,DAQ,depression attitudes questionnaire,depression attitudes questionnaire
+independent,EUGMS,european union of geriatric medicine society,european union of geriatric medicine society
+independent,EuSEM,european society for emergency medicine,european society for emergency medicine
+independent,MLQ,multifactor leadership questionnaire,multifactor leadership questionnaire
+independent,GENTE,grupo de estudio de nuevas terapias de enfermedades reumáticas,grupo de estudio de nuevas terapias de enfermedades reumáticas
+independent,CAU,confederación americana de urología,confederación americana de urología
+independent,FES,facultad de estudios superiores,facultad de estudios superiores
+independent,WAST,woman abuse screening tool,woman abuse screening tool
+independent,SJ,squat jump,squat jump
+independent,CyL,castilla y león,castilla y león
+independent,BPIC-SS,bladder pain/interstitial cystitis-symptom score,bladder pain/interstitial cystitis-symptom score
+independent,VSP-A,vecú et santé perçue de l'adolescent,vecú et santé perçue de l'adolescent
+independent,EV,enterovirus sp.,enterovirus sp.
+independent,AL,ascaris lumbricoides,ascaris lumbricoides
+independent,HOMA 2,homeostatic model assessment 2,homeostatic model assessment 2
+independent,MD,merle daubigné,merle daubigné
+independent,FIQ,fibromyalgia impact questionnaire,fibromyalgia impact questionnaire
+independent,RAQoL,rheumatoid arthritis quality of life scale,rheumatoid arthritis quality of life scale
+independent,BIC,bayesian information criterion,bayesian information criterion
+independent,AIC,akaike's information criterion,akaike's information criterion
+independent,HUM Mederi,hospital universitario mayor mederi,hospital universitario mayor mederi
+independent,ARCI,addiction research center inventory,addiction research center inventory
+independent,SAS,sexual assertiveness scale,sexual assertiveness scale
+independent,AAST,association for the surgery of trauma,association for the surgery of trauma
+independent,ABiF,andalusian bipolar family,andalusian bipolar family
+independent,HADS,hospital anxiety and depression scale,hospital anxiety and depression scale
+independent,SPPB,short physical performance battery,short physical performance battery
+independent,NSSS,nursing student satisfaction scale,nursing student satisfaction scale
+independent,RBANS,repeatable battery for the assessment of neuropsychological status,repeatable battery for the assessment of neuropsychological status
+independent,T. cruzi,trypanosoma cruzi,trypanosoma cruzi
+independent,MRC,medical research council,medical research council
+independent,BSFI,brief sexual function inventory,brief sexual function inventory
+independent,ISAK,international society for the advancement of kinanthropometry,international society for the advancement of kinanthropometry
+independent,BPAQ-MI,barriers to physical activity questionnaire for people with mobility impairments,barriers to physical activity questionnaire for people with mobility impairments
+independent,DIB-R,diagnostic interview for bordelines-revised,diagnostic interview for bordelines-revised
+independent,AC,anomalías congénitas,anomalías congénitas
+independent,ADVISE,adenovirus initiative study in epidemiology,adenovirus initiative study in epidemiology
+independent,PRISMA-P,preferred reporting items for systematic reviews and meta-analyses protocols,preferred reporting items for systematic reviews and meta-analyses protocols
+independent,HB,harris-benedict,harris-benedict
+independent,VA,valencia,valencia
+independent,MF,mifflin,mifflin
+independent,ISAK,international society for the advancement of kineanthropometry,international society for the advancement of kineanthropometry
+independent,UF,uretrocistoscopia flexible,uretrocistoscopia flexible
+independent,PSMAR,parc de salut mar,parc de salut mar
+independent,NEWSQOL,newcastle stroke-specific quality of life measure,newcastle stroke-specific quality of life measure
+independent,JWC,journal of wound care,journal of wound care
+independent,Inca,instituto nacional do câncer,instituto nacional do câncer
+independent,TCCC,tactical combat casualty care,tactical combat casualty care
+independent,PDSQ,psychiatric diagnostic screening questionnaire,psychiatric diagnostic screening questionnaire
+independent,IRSPC,iowa rating scale for personality change,iowa rating scale for personality change
+independent,Mch,matricaria chamomilla l.,matricaria chamomilla l.
+independent,SQLS,schizophrenia quality of life scale,schizophrenia quality of life scale
+independent,QUALIDIAB,quality of diabetes care,quality of diabetes care
+independent,ASAS-R,agency scale-revised,agency scale-revised
+independent,KDPI,kidney donor profile index,kidney donor profile index
+independent,CAPS,cardiff anomalous perceptions scale,cardiff anomalous perceptions scale
+independent,PBI,parental bonding instrument,parental bonding instrument
+independent,SRHI,self-report habit index,self-report habit index
+independent,ECI-4,early childhood inventory-4,early childhood inventory-4
+independent,GWAS,genomewide association studies,genomewide association studies
+independent,EAEAE,escala de autoeficacia para el afrontamiento del estrés,escala de autoeficacia para el afrontamiento del estrés
+independent,CMT,charcot-marie-tooth,charcot-marie-tooth
+independent,ESUS,embolic stroke of undetermined source,embolic stroke of undetermined source
+independent,UEGW,united european gastroenterology week,united european gastroenterology week
+independent,WOS,web of science,web of science
+independent,vHIT,video head impulse test,video head impulse test
+independent,DUSOI,duke severity of illness scale,duke severity of illness scale
+independent,GBM,glioblastoma multiforme,glioblastoma multiforme
+independent,SURPS,substance use risk profile scale,substance use risk profile scale
+independent,CHUVI,complexo hospitalario universitario de vigo,complexo hospitalario universitario de vigo
+independent,PADS,physical activity and disability survey,physical activity and disability survey
+independent,ASSIST,and substance involvement screening test,and substance involvement screening test
+independent,PD,phlebodium decumanum,phlebodium decumanum
+independent,ACSC,ambulatory care sensitive conditions,ambulatory care sensitive conditions
+independent,UPDRS,unified parkinson's disease rating scale,unified parkinson's disease rating scale
+independent,SIGN,scottish intercollegiate guidelines network,scottish intercollegiate guidelines network
+independent,EV-A71,enterovirus a71,enterovirus a71
+independent,ETV,entecavir,entecavir
+independent,INQoL,individualized neuromuscular quality of life,individualized neuromuscular quality of life
+independent,ICAM,institut català d'avaluacions mèdiques,institut català d'avaluacions mèdiques
+independent,IgA,immunoglobulina a,immunoglobulina a
+independent,MBI,maslach burnout inventory,maslach burnout inventory
+independent,MNA,mini nutritional assesment,mini nutritional assesment
+independent,EDL,extensor digitorum longus,extensor digitorum longus
+independent,TFEQ,three factor eating questionnaire,three factor eating questionnaire
+independent,VOCI,vancouver obsessional compulsive inventory,vancouver obsessional compulsive inventory
+independent,MMPI-2,minnesota multiphasic personality inventory-2,minnesota multiphasic personality inventory-2
+independent,HIT-6,headache impact test-6,headache impact test-6
+independent,PERSTEMI,peruvian registry of st-segment elevation myocardial infarction,peruvian registry of st-segment elevation myocardial infarction
+independent,DREEM,dundee ready education environment measure,dundee ready education environment measure
+independent,EQ,expectancy questionnaire,expectancy questionnaire
+independent,GEE,generalized estimating equations,generalized estimating equations
+independent,CAS,composite abuse scale,composite abuse scale
+independent,CPQ-A,cannabis problems questionnaire,cannabis problems questionnaire
+independent,BEDS,bipolar eating disorder scale,bipolar eating disorder scale
+independent,CAMCOG-DS,cambridge cognitive examination for older adults with down's syndrome,cambridge cognitive examination for older adults with down's syndrome
+independent,SCOPA-Cog,scales for outcomes in parkinson's disease-cognition,scales for outcomes in parkinson's disease-cognition
+independent,CTC,communities that care,communities that care
+independent,CQC,comunidades que se cuidan,comunidades que se cuidan
+independent,SA,staphylococcus aureus,staphylococcus aureus
+independent,MOSPSC,medical office survey on patient safety culture,medical office survey on patient safety culture
+independent,SCOFF,"sick, control, one, fat, food","sick, control, one, fat, food"
+independent,PNED,progetto nazionale emorragia digestiva,progetto nazionale emorragia digestiva
+independent,MIS,memory impairment screen,memory impairment screen
+independent,NNIS,nosocomial infection surveillance,nosocomial infection surveillance
+independent,SDSCA,summary of diabetes self-care activities measure,summary of diabetes self-care activities measure
+independent,MMM,marihuana motives measure,marihuana motives measure
+independent,BDI,beck depression inventory,beck depression inventory
+independent,SDI,sheehan disability inventory,sheehan disability inventory
+independent,RR,recovery,recovery
+independent,SDS-R,self-directed search,self-directed search
+independent,COPD-PS,chronic obstructive pulmonary disease-population screener,chronic obstructive pulmonary disease-population screener
