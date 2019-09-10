@@ -1,0 +1,280 @@
+pair,acronym,description,frequency
+"('TMIV', 'tiroidectomía mini-invasiva video asistida')",TMIV,tiroidectomía mini-invasiva video asistida,1
+"('NNE-GEP', 'neuroendocrinas del aparato gastrointestinal y páncreas')",NNE-GEP,neuroendocrinas del aparato gastrointestinal y páncreas,1
+"('ADA', 'american diabetes association')",ADA,american diabetes association,1
+"('DDD', 'diarias definidas')",DDD,diarias definidas,1
+"('G%', 'grasas')",G%,grasas,1
+"('CGE', 'carga global de la enfermedad')",CGE,carga global de la enfermedad,1
+"('RN', 'riesgo nutricional')",RN,riesgo nutricional,1
+"('WISC III', 'wechsler intelligence scale for children iii')",WISC III,wechsler intelligence scale for children iii,1
+"('VPP', 'valor predictivo positivo')",VPP,valor predictivo positivo,1
+"('EAS', 'europea de aterosclerosis')",EAS,europea de aterosclerosis,1
+"('RP', 'razones de prevalencia')",RP,razones de prevalencia,1
+"('ACV', 'accidente cerebro vascular')",ACV,accidente cerebro vascular,1
+"('REMAH', 'registro molecular de adenomas hipofisarios')",REMAH,registro molecular de adenomas hipofisarios,1
+"('ELA', 'esclerosis lateral amiotrófica')",ELA,esclerosis lateral amiotrófica,1
+"('CD', 'cociente de desarrollo')",CD,cociente de desarrollo,1
+"('DT2', 'diabetes tipo 2')",DT2,diabetes tipo 2,4
+"('IAM CEST', 'infarto agudo al miocardio con elevación del segmento st')",IAM CEST,infarto agudo al miocardio con elevación del segmento st,1
+"('CCI', 'citorreducción de intervalo')",CCI,citorreducción de intervalo,1
+"('AMG', 'automedición de la glucemia')",AMG,automedición de la glucemia,1
+"('CG', 'carga glucémica')",CG,carga glucémica,1
+"('IgE', 'inmunoglobulina e')",IgE,inmunoglobulina e,1
+"('SEEN', 'sociedad española de endocrinología y nutrición')",SEEN,sociedad española de endocrinología y nutrición,2
+"('MNA', 'mini nutricional assessment')",MNA,mini nutricional assessment,1
+"('FRCV', 'factores de riesgo cardiovascular')",FRCV,factores de riesgo cardiovascular,1
+"('DBC', 'dietas bajas en carbohidratos')",DBC,dietas bajas en carbohidratos,1
+"('BEP', 'bleomicina y vinblastina (pvb) o etoposido')",BEP,bleomicina y vinblastina (pvb) o etoposido,1
+"('PPCI', 'pubertad precoz central idiopatica')",PPCI,pubertad precoz central idiopatica,1
+"('PGN', 'pacientes (75,8%) con glucosa normalizada')",PGN,"pacientes (75,8%) con glucosa normalizada",1
+"('NDPD', 'neuropatía diabética periférica dolorosa')",NDPD,neuropatía diabética periférica dolorosa,1
+"('AGA', 'alteración de glucosa en ayunas')",AGA,alteración de glucosa en ayunas,1
+"('DMID', 'diabetes mellitus insulino dependiente')",DMID,diabetes mellitus insulino dependiente,1
+"('RPa', 'razones de prevalencia ajustadas')",RPa,razones de prevalencia ajustadas,1
+"('IAUC', 'incremento bajo la curva de glucosa')",IAUC,incremento bajo la curva de glucosa,1
+"('DM', 'diabetes mellitus')",DM,diabetes mellitus,12
+"('IR', 'insulino resistencia')",IR,insulino resistencia,1
+"('PTTG', 'pituitary tumour-transforming gene')",PTTG,pituitary tumour-transforming gene,1
+"('DI', 'duplicaciones intestinales')",DI,duplicaciones intestinales,1
+"('PRL', 'prolactina')",PRL,prolactina,3
+"('ZSO', 'zona suroeste')",ZSO,zona suroeste,1
+"('as', 'agricultores y sus compañeros')",as,agricultores y sus compañeros,1
+"('DSD', 'desarrollo sexual diferente')",DSD,desarrollo sexual diferente,1
+"('BN', 'binomial negativa')",BN,binomial negativa,1
+"('AF', 'actividad física')",AF,actividad física,1
+"('RN', 'receptores nucleares')",RN,receptores nucleares,1
+"('DN', 'desnutrición')",DN,desnutrición,1
+"('FNT–alfa', 'factor de necrosis tumoral alfa')",FNT–alfa,factor de necrosis tumoral alfa,1
+"('PAAF', 'punción-aspiración con aguja fina')",PAAF,punción-aspiración con aguja fina,1
+"('CI', 'control de ingestas')",CI,control de ingestas,1
+"('MDA', 'malondialdehído')",MDA,malondialdehído,1
+"('ENN', 'edulcorantes no nutritivos')",ENN,edulcorantes no nutritivos,1
+"('PAI', 'procesos asistenciales integrados')",PAI,procesos asistenciales integrados,1
+"('EA', 'enfermedad de alzheimer')",EA,enfermedad de alzheimer,1
+"('M-PTH', 'media de hormona parathiroidea')",M-PTH,media de hormona parathiroidea,1
+"('HC', 'hidratos de carbono')",HC,hidratos de carbono,1
+"('DMT2', 'diabetes mellitus tipo 2')",DMT2,diabetes mellitus tipo 2,3
+"('STC', 'síndrome del túnel del carpo')",STC,síndrome del túnel del carpo,1
+"('FRR', 'función renal residual')",FRR,función renal residual,1
+"('BICI', 'bomba de infusión continua de insulina')",BICI,bomba de infusión continua de insulina,1
+"('PAAF', 'punción aspiración con aguja fina')",PAAF,punción aspiración con aguja fina,2
+"('NYHA', 'new yorl health asosiation')",NYHA,new yorl health asosiation,1
+"('GLI', 'global de función pulmonar')",GLI,global de función pulmonar,1
+"('GBA', 'glucemia basal alterada')",GBA,glucemia basal alterada,1
+"('DM1', 'diabetes mellitus 1')",DM1,diabetes mellitus 1,1
+"('INMA', 'infancia y medio ambiente')",INMA,infancia y medio ambiente,1
+"('HChr', 'hormona de crecimiento humana recombinante')",HChr,hormona de crecimiento humana recombinante,1
+"('zIMC', 'z del índice de masa corporal')",zIMC,z del índice de masa corporal,1
+"('TGT', 'tumores germinales de testículo')",TGT,tumores germinales de testículo,1
+"('II', 'insulina-receptor')",II,insulina-receptor,1
+"('SUN', 'seguimiento universidad de navarra')",SUN,seguimiento universidad de navarra,1
+"('CEA', 'carcinoembrionario')",CEA,carcinoembrionario,1
+"('CI', 'cociente intelectual')",CI,cociente intelectual,1
+"('HTA', 'hipertensión arterial')",HTA,hipertensión arterial,3
+"('DBCH', 'dietas bajas en carbohidratos')",DBCH,dietas bajas en carbohidratos,1
+"('IGP', 'intolerancia a la glucosa postprandial')",IGP,intolerancia a la glucosa postprandial,1
+"('STC', 'sindrome del tunel carpiano')",STC,sindrome del tunel carpiano,2
+"('SM', 'síndrome metabólico')",SM,síndrome metabólico,8
+"('DP', 'diálisis peritoneal')",DP,diálisis peritoneal,1
+"('STIR', 'short-tau inversion-recovery')",STIR,short-tau inversion-recovery,1
+"('HSRV', 'hiperplasia suprarrenal virilizante')",HSRV,hiperplasia suprarrenal virilizante,1
+"('AGS', 'aporte de ácidos grasos saturados')",AGS,aporte de ácidos grasos saturados,1
+"('EHNA', 'esteatohepatitis no alcohólica')",EHNA,esteatohepatitis no alcohólica,2
+"('SNG', 'sonda nasogástrica')",SNG,sonda nasogástrica,1
+"('QUALIDIAB', 'quality of diabetes care')",QUALIDIAB,quality of diabetes care,1
+"('DPCA', 'diálisis peritoneal continua ambulatoria')",DPCA,diálisis peritoneal continua ambulatoria,2
+"('DMPT', 'diabetes mellitus postrasplante')",DMPT,diabetes mellitus postrasplante,1
+"('CT', 'colesterol total')",CT,colesterol total,2
+"('SGLT2', 'sodio-glucosa tipo 2')",SGLT2,sodio-glucosa tipo 2,1
+"('NAG', 'n-acetil-glucosaminidasa')",NAG,n-acetil-glucosaminidasa,1
+"('DFO', 'deferoxamina')",DFO,deferoxamina,1
+"('kD', 'kilodalton')",kD,kilodalton,1
+"('CHO', 'carbohidratos')",CHO,carbohidratos,1
+"('VMNI', 'ventilación mecánica no invasiva')",VMNI,ventilación mecánica no invasiva,1
+"('IMSS', 'instituto mexicano del seguro social')",IMSS,instituto mexicano del seguro social,3
+"('IC', 'intervalo de confianza')",IC,intervalo de confianza,1
+"('NED', 'nutrición enteral domiciliaria')",NED,nutrición enteral domiciliaria,1
+"('ASAS-R', 'agency scale-revised')",ASAS-R,agency scale-revised,1
+"('EO', 'estrés oxidativo')",EO,estrés oxidativo,1
+"('SC', 'síndrome de cushing')",SC,síndrome de cushing,1
+"('CCHS', 'celiac health survey')",CCHS,celiac health survey,1
+"('HAS', 'hipertensión arterial sistémica')",HAS,hipertensión arterial sistémica,1
+"('CG', 'carga glicémica')",CG,carga glicémica,3
+"('MEN 1', 'múltiple tipo 1')",MEN 1,múltiple tipo 1,1
+"('NRS-2002', 'nutritional risk screening 2002')",NRS-2002,nutritional risk screening 2002,1
+"('Tg', 'tiroglobulina')",Tg,tiroglobulina,1
+"('Ensanut', 'encuesta nacional de salud y nutrición')",Ensanut,encuesta nacional de salud y nutrición,1
+"('PET-FDG', 'positrones mediante 18-fluoro-2-desoxi-d-glucosa')",PET-FDG,positrones mediante 18-fluoro-2-desoxi-d-glucosa,1
+"('CAPS', 'centro de atención primaria de salud')",CAPS,centro de atención primaria de salud,1
+"('HPRL', 'hiperprolactinemia')",HPRL,hiperprolactinemia,1
+"('TG', 'triacilglicerol')",TG,triacilglicerol,1
+"('VIH', 'virus de la inmunodeficiencia humana')",VIH,virus de la inmunodeficiencia humana,1
+"('DBG', 'dietas bajas en grasas')",DBG,dietas bajas en grasas,1
+"('ditizona', 'difeniltiocarbazona')",ditizona,difeniltiocarbazona,1
+"('FAT', 'fosfatasa alcalina total')",FAT,fosfatasa alcalina total,1
+"('CVF', 'capacidad vital forzada')",CVF,capacidad vital forzada,1
+"('PG', 'porcentaje de grasa corporal')",PG,porcentaje de grasa corporal,1
+"('r.i.a.', 'radioinmunoanálisis')",r.i.a.,radioinmunoanálisis,1
+"('PAEAFT', 'punción aspiración ecoguiada con aguja fina de tiroides')",PAEAFT,punción aspiración ecoguiada con aguja fina de tiroides,1
+"('CTOG', 'curva de tolerancia a la glucosa')",CTOG,curva de tolerancia a la glucosa,1
+"('CMNS', 'células mononucleares sanguíneas')",CMNS,células mononucleares sanguíneas,1
+"('ACP', 'análisis de componentes principales')",ACP,análisis de componentes principales,1
+"('RE', 'receptor de estrógenos')",RE,receptor de estrógenos,1
+"('AF', 'anemia ferropénica')",AF,anemia ferropénica,1
+"('PTH', 'paratohormona')",PTH,paratohormona,1
+"('NAC', 'neuropatía autonómica cardíaca')",NAC,neuropatía autonómica cardíaca,1
+"('DMNID', 'diabetes mellitus no insulino dependiente')",DMNID,diabetes mellitus no insulino dependiente,2
+"('FRC', 'factores de riesgo cardiometabólico')",FRC,factores de riesgo cardiometabólico,1
+"('GlicA', 'glicemias capilares de ayuno')",GlicA,glicemias capilares de ayuno,1
+"('PET-TC', 'positrones-tomografía computarizada')",PET-TC,positrones-tomografía computarizada,1
+"('AP', 'atención primaria')",AP,atención primaria,2
+"('GIMC', 'grosor de la íntima media carotídea')",GIMC,grosor de la íntima media carotídea,1
+"('HPMF', 'hipotiroidismo materno-fetal')",HPMF,hipotiroidismo materno-fetal,1
+"('ERC', 'enfermedad renal crónica')",ERC,enfermedad renal crónica,4
+"('MUST', 'malnutrition universal screening tool')",MUST,malnutrition universal screening tool,1
+"('THC', 'tratamiento hormonal cruzado')",THC,tratamiento hormonal cruzado,1
+"('UMAE', 'unidad médica de alta especialidad')",UMAE,unidad médica de alta especialidad,1
+"('EPOC', 'enfermedad pulmonar obstructiva crónica')",EPOC,enfermedad pulmonar obstructiva crónica,1
+"('MNA', 'mini nutritional assessment')",MNA,mini nutritional assessment,2
+"('DT2', 'diabetes mellitus tipo 2')",DT2,diabetes mellitus tipo 2,1
+"('tipo I', 'tratamiento de pacientes diabéticos dependientes de la insulina')",tipo I,tratamiento de pacientes diabéticos dependientes de la insulina,1
+"('IRC', 'insuficiencia renal crónica')",IRC,insuficiencia renal crónica,1
+"('AVPMP', 'años de vida perdidos por muerte prematura')",AVPMP,años de vida perdidos por muerte prematura,1
+"('TT', 'total')",TT,total,1
+"('ENG', 'electroneurograma')",ENG,electroneurograma,2
+"('GLP-1', 'glucagon-like peptide-1')",GLP-1,glucagon-like peptide-1,2
+"('DMBVC', 'de muy bajo valor calórico')",DMBVC,de muy bajo valor calórico,2
+"('BPT', 'biopsia percutánea de tiroides')",BPT,biopsia percutánea de tiroides,1
+"('RIA', 'radioinmunoanálisis')",RIA,radioinmunoanálisis,1
+"('RI', 'resistencia a la insulina')",RI,resistencia a la insulina,1
+"('NPD', 'nutrición parenteral domiciliaria')",NPD,nutrición parenteral domiciliaria,1
+"('HGNA', 'hígado graso no alcohólico')",HGNA,hígado graso no alcohólico,1
+"('HPP', 'hiperparatiroidismo')",HPP,hiperparatiroidismo,1
+"('HT', 'hormonas tiroideas')",HT,hormonas tiroideas,1
+"('CT', 'cintigrafía tiroidea')",CT,cintigrafía tiroidea,1
+"('EVC', 'enfermedad vascular cerebral')",EVC,enfermedad vascular cerebral,1
+"('III', 'interacción insulina-receptor')",III,interacción insulina-receptor,1
+"('HAD', 'hospital anxiety and depression scale')",HAD,hospital anxiety and depression scale,1
+"('NEM', 'neoplasia endócrina múltiple')",NEM,neoplasia endócrina múltiple,1
+"('RI', 'resistencia insulínica')",RI,resistencia insulínica,1
+"('SLAGO', 'simposio latinoamericano de gastroenterología oncológica')",SLAGO,simposio latinoamericano de gastroenterología oncológica,1
+"('EE', 'epileptico')",EE,epileptico,1
+"('IOM', 'institute of medicine')",IOM,institute of medicine,1
+"('TDAH', 'trastorno por deficit de atencion/hiperactividad')",TDAH,trastorno por deficit de atencion/hiperactividad,1
+"('CF', 'componente físico')",CF,componente físico,1
+"('GEEP', 'grupo español de endocirugía pediátrica')",GEEP,grupo español de endocirugía pediátrica,1
+"('DM1', 'diabetes mellitus tipo 1')",DM1,diabetes mellitus tipo 1,3
+"('SOP', 'síndrome de ovarios poliquísticos')",SOP,síndrome de ovarios poliquísticos,1
+"('CAD', 'cetoacidosis diabética')",CAD,cetoacidosis diabética,2
+"('GRP', 'gastrostomías percutáneas radiológicas')",GRP,gastrostomías percutáneas radiológicas,1
+"('DRE', 'desnutrición relacionada con la enfermedad')",DRE,desnutrición relacionada con la enfermedad,2
+"('Treg', 't reguladoras')",Treg,t reguladoras,1
+"('DAM', 'desnutrición aguda moderada')",DAM,desnutrición aguda moderada,1
+"('COSFAMM', 'cohorte de obesidad, sarcopenia y fragilidad en adultos mayores de méxico')",COSFAMM,"cohorte de obesidad, sarcopenia y fragilidad en adultos mayores de méxico",1
+"('SDSCA', 'summary of diabetes self-care activities measure')",SDSCA,summary of diabetes self-care activities measure,1
+"('IC', 'insuficiencia cardiaca')",IC,insuficiencia cardiaca,2
+"('DMNID', 'diabetes mellitus no insulinodependiente')",DMNID,diabetes mellitus no insulinodependiente,1
+"('FR', 'factores de riesgo')",FR,factores de riesgo,1
+"('NHG', 'nuevos hiperglucémicos')",NHG,nuevos hiperglucémicos,1
+"('SES', 'servicio extremeño de salud')",SES,servicio extremeño de salud,1
+"('RST', 'receptor soluble de transferrina')",RST,receptor soluble de transferrina,1
+"('SED', 'sociedad española de diabetes')",SED,sociedad española de diabetes,2
+"('S.P.O.D.', 'sindrome periodontal orientador de diabétes')",S.P.O.D.,sindrome periodontal orientador de diabétes,1
+"('GCED', 'grupo catalán de estudio de la diabetes')",GCED,grupo catalán de estudio de la diabetes,1
+"('HP', 'hipotiroidismo primario')",HP,hipotiroidismo primario,1
+"('mipth', 'monitoreo intraoperatorio de paratohormona')",mipth,monitoreo intraoperatorio de paratohormona,1
+"('IRT', 'insuficiencia renal terminal,')",IRT,"insuficiencia renal terminal,",1
+"('SCIVDc', 'sindrome de coagulación intravascular diseminada crónica')",SCIVDc,sindrome de coagulación intravascular diseminada crónica,1
+"('GIDSEEN', 'grupo de identidad y diferenciación sexual de la seen')",GIDSEEN,grupo de identidad y diferenciación sexual de la seen,1
+"('NEM I', 'neoplasias endocrinas múltiples')",NEM I,neoplasias endocrinas múltiples,1
+"('UI', 'unidades internacionales')",UI,unidades internacionales,1
+"('NE', 'nutrición enteral')",NE,nutrición enteral,2
+"('ERCA', 'enfermedad renal cronica avanzada')",ERCA,enfermedad renal cronica avanzada,1
+"('ZNO', 'zona noroeste')",ZNO,zona noroeste,1
+"('SIADH', 'secrecion inadecuada de adh')",SIADH,secrecion inadecuada de adh,1
+"('NPT', 'nutrición parenteral total')",NPT,nutrición parenteral total,2
+"('media', 'mostro celulas foliculo-estrelladas positivas para s-100')",media,mostro celulas foliculo-estrelladas positivas para s-100,1
+"('C.P.R.E.', 'colangio pancreatografía retrógrada por vía endoscópica')",C.P.R.E.,colangio pancreatografía retrógrada por vía endoscópica,1
+"('NICE', 'national institute for health and clinical excellence')",NICE,national institute for health and clinical excellence,1
+"('ADO', 'antidiabeticos orales')",ADO,antidiabeticos orales,1
+"('SNC', 'sistema nervioso central')",SNC,sistema nervioso central,1
+"('PGB', 'pregabalina')",PGB,pregabalina,1
+"('ICSI', 'infusión continua subcutánea de insulina')",ICSI,infusión continua subcutánea de insulina,1
+"('DM2', 'diabetes mellitus tipo 2')",DM2,diabetes mellitus tipo 2,10
+"('SAEN', 'sociedad andaluza de endocrinología y nutrición')",SAEN,sociedad andaluza de endocrinología y nutrición,1
+"('CDT', 'cáncer diferenciado de tiroides')",CDT,cáncer diferenciado de tiroides,1
+"('SG', 'solución glucosada')",SG,solución glucosada,1
+"('DID', 'diabéticos insulinodependientes')",DID,diabéticos insulinodependientes,1
+"('EC', 'enfermedad celíaca')",EC,enfermedad celíaca,1
+"('OA', 'obesidad abdominal')",OA,obesidad abdominal,1
+"('ERCO', 'enfermedad renal crónica oculta')",ERCO,enfermedad renal crónica oculta,1
+"('PTH', 'parathormona')",PTH,parathormona,1
+"('AFS', 'alteraciones de la función sexual')",AFS,alteraciones de la función sexual,1
+"('ACG', 'adjusted clinical groups\x94')",ACG,adjusted clinical groups,1
+"('NRS- 2002', 'nutritional risk screening 2002')",NRS- 2002,nutritional risk screening 2002,1
+"('SCIE', 'science citation index expanded')",SCIE,science citation index expanded,1
+"('ERO', 'especies reactivas de oxígeno')",ERO,especies reactivas de oxígeno,1
+"('AGF', 'angiografía con fluoresceína')",AGF,angiografía con fluoresceína,1
+"('SEA', 'sociedad española de arteriosclerosis')",SEA,sociedad española de arteriosclerosis,2
+"('ADS', 'anomalías de la diferenciación sexual')",ADS,anomalías de la diferenciación sexual,1
+"('CI', 'cardiopatía isquémica')",CI,cardiopatía isquémica,1
+"('D.M.H', 'descompensación metabólica hiperosmolar')",D.M.H,descompensación metabólica hiperosmolar,1
+"('EG', 'enfermedad de graves')",EG,enfermedad de graves,1
+"('SIADH', 'secreción inadecuada de adh')",SIADH,secreción inadecuada de adh,1
+"('CVC', 'catéter venoso central')",CVC,catéter venoso central,1
+"('EHGNA', 'enfermedad hepática grasa no alcohólica')",EHGNA,enfermedad hepática grasa no alcohólica,2
+"('INCMNSZ', 'instituto nacional de ciencias médicas y nutrición salvador zubirán')",INCMNSZ,instituto nacional de ciencias médicas y nutrición salvador zubirán,1
+"('CHUVI', 'complexo hospitalario universitario de vigo')",CHUVI,complexo hospitalario universitario de vigo,1
+"('HC', 'hipotiroidismo congénito')",HC,hipotiroidismo congénito,3
+"('FHF', 'fundación hipercolesterolemia familiar')",FHF,fundación hipercolesterolemia familiar,1
+"('RMN', 'resonancia magnética nuclear')",RMN,resonancia magnética nuclear,1
+"('iPCSK9', 'inhibidores de proproteína convertasa subtilisina/kexina tipo 9')",iPCSK9,inhibidores de proproteína convertasa subtilisina/kexina tipo 9,1
+"('SW', 'síndrome de wolfram')",SW,síndrome de wolfram,1
+"('ATPO', 'anti-tiroperoxidasa')",ATPO,anti-tiroperoxidasa,1
+"('SON', 'suplementos orales nutricionales')",SON,suplementos orales nutricionales,1
+"('GEVA', 'grupo de enfermedades vasculares de albacete')",GEVA,grupo de enfermedades vasculares de albacete,1
+"('FG', 'filtración glomerular')",FG,filtración glomerular,1
+"('IMC', 'indice de masa corporal')",IMC,indice de masa corporal,3
+"('SMS', 'servicio murciano de salud')",SMS,servicio murciano de salud,1
+"('CFTNM', 'carcinoma familiar del tiroides no medular')",CFTNM,carcinoma familiar del tiroides no medular,1
+"('SOP', 'síndrome de ovario poliquístico')",SOP,síndrome de ovario poliquístico,2
+"('edad media', 'enero 2014. se recogieron datos demográficos y clínicos. resultados: se incluyeron 15 pacientes')",edad media,enero 2014. se recogieron datos demográficos y clínicos. resultados: se incluyeron 15 pacientes,1
+"('CEIPC', 'comité español interdisciplinario para la prevención cardiovascular')",CEIPC,comité español interdisciplinario para la prevención cardiovascular,1
+"('SUH', 'servicio de urgencias hospitalario')",SUH,servicio de urgencias hospitalario,1
+"('MTP', 'metilprednisolona')",MTP,metilprednisolona,1
+"('TCSS', 'toronto clinical scoring system')",TCSS,toronto clinical scoring system,1
+"('MEN 2', 'múltiple tipo 2')",MEN 2,múltiple tipo 2,1
+"('CB', 'circunferencia del brazo')",CB,circunferencia del brazo,1
+"('FRV', 'factores de riesgo vascular')",FRV,factores de riesgo vascular,1
+"('MCF', 'malformaciones creaneofaciales')",MCF,malformaciones creaneofaciales,1
+"('ARA-II', 'antagonistas de los receptores de la angiotensina ii')",ARA-II,antagonistas de los receptores de la angiotensina ii,1
+"('CB', 'cirugía bariátrica')",CB,cirugía bariátrica,1
+"('UNCyD-SEyN', 'unidad de nutrición clínica y dietética de la sección de endocrinología y nutrición')",UNCyD-SEyN,unidad de nutrición clínica y dietética de la sección de endocrinología y nutrición,1
+"('CAM', 'comunidad autónoma de madrid')",CAM,comunidad autónoma de madrid,1
+"('PFT', 'pruebas de función tiroidea')",PFT,pruebas de función tiroidea,1
+"('AST-M', 'area de seccion transversal del nervio mediano en la muñeca')",AST-M,area de seccion transversal del nervio mediano en la muñeca,2
+"('tipo II', 'tratamiento de pacientes diabéticos no dependientes de la insulina')",tipo II,tratamiento de pacientes diabéticos no dependientes de la insulina,1
+"('NADYA', 'nutrición artificial domiciliaria y ambulatoria')",NADYA,nutrición artificial domiciliaria y ambulatoria,1
+"('SNPs', 'sugieren que los polimorfismos de nucleótido único')",SNPs,sugieren que los polimorfismos de nucleótido único,1
+"('DUL', 'duloxetina')",DUL,duloxetina,1
+"('CCi', 'circunferencia de cintura')",CCi,circunferencia de cintura,1
+"('FAL', 'fosfatasa alcalina')",FAL,fosfatasa alcalina,1
+"('OR', 'odds ratio')",OR,odds ratio,1
+"('SNE', 'soporte nutricional especializado')",SNE,soporte nutricional especializado,1
+"('MT', 'microlitiasis testicular')",MT,microlitiasis testicular,1
+"('BMNB', 'bocio multinodular beningo')",BMNB,bocio multinodular beningo,1
+"('BAC', 'bacteriemia asociada al catéter')",BAC,bacteriemia asociada al catéter,1
+"('FRC', 'factores de riesgo coronario')",FRC,factores de riesgo coronario,1
+"('RNHMD', 'recién nacido hijo de madre diabética')",RNHMD,recién nacido hijo de madre diabética,2
+"('CCR', 'cáncer colorrectal')",CCR,cáncer colorrectal,1
+"('FESNAD', 'federación española de sociedades de alimentación, nutrición y dietética')",FESNAD,"federación española de sociedades de alimentación, nutrición y dietética",1
+"('VSG', 'valoración subjetiva global')",VSG,valoración subjetiva global,1
+"('RN', 'recién nacidos')",RN,recién nacidos,2
+"('DG', 'de género')",DG,de género,1
+"('EVRD', 'estudio valencia sobre retinopatía diabética')",EVRD,estudio valencia sobre retinopatía diabética,1
+"('VPN', 'valor predictivo negativo')",VPN,valor predictivo negativo,1
+"('DM2', 'diabetes mellitus 2')",DM2,diabetes mellitus 2,2
+"('LES', 'lupus eritematoso sistémico')",LES,lupus eritematoso sistémico,1
+"('HSC', 'hiperplasia suprarrenal congénita')",HSC,hiperplasia suprarrenal congénita,1
+"('SAHS', 'síndrome apnea-hipopnea del sueño')",SAHS,síndrome apnea-hipopnea del sueño,1
+"('BAAF', 'biopsia con aguja fina')",BAAF,biopsia con aguja fina,1

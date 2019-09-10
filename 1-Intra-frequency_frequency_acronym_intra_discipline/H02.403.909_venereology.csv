@@ -1,0 +1,102 @@
+pair,acronym,description,frequency
+"('ANCA', 'anticitoplasma de neutrófilos')",ANCA,anticitoplasma de neutrófilos,1
+"('NIC', 'neoplasia intraepitelial cervical')",NIC,neoplasia intraepitelial cervical,1
+"('AZT', 'azidotimidina')",AZT,azidotimidina,1
+"('ITS', 'infecciones de transmisión sexual')",ITS,infecciones de transmisión sexual,4
+"('HIA', 'hepatitis infecciosa aguda')",HIA,hepatitis infecciosa aguda,1
+"('T.P.I.', 'treponemica de nelson')",T.P.I.,treponemica de nelson,1
+"('TRS', 'teoría de la representación social')",TRS,teoría de la representación social,1
+"('PMIT', 'proyecto multicéntrico de investigación en tuberculosis')",PMIT,proyecto multicéntrico de investigación en tuberculosis,1
+"('II', 'inmunodeficiencia humana')",II,inmunodeficiencia humana,1
+"('SEIMC', 'sociedad española de enfermedades infecciosas y microbiología clínica')",SEIMC,sociedad española de enfermedades infecciosas y microbiología clínica,4
+"('EIA', 'enzimoinmunoanálisis')",EIA,enzimoinmunoanálisis,1
+"('UDVP', 'usuarios de drogas por vía parenteral')",UDVP,usuarios de drogas por vía parenteral,1
+"('SAAS', 'sin antecedente de abuso sexual')",SAAS,sin antecedente de abuso sexual,1
+"('HSH', 'hombres que tienen sexo con hombres')",HSH,hombres que tienen sexo con hombres,1
+"('TARVAE', 'tratamiento antirretroviral de alta eficacia')",TARVAE,tratamiento antirretroviral de alta eficacia,1
+"('V.P.H.', 'virus del papiloma humano')",V.P.H.,virus del papiloma humano,1
+"('AAS', 'antecedente de abuso sexual')",AAS,antecedente de abuso sexual,1
+"('AF', 'atención farmacéutica')",AF,atención farmacéutica,2
+"('SAS', 'sexual assertiveness scale')",SAS,sexual assertiveness scale,1
+"('VIH', 'virus de immunodeficiencia humana')",VIH,virus de immunodeficiencia humana,1
+"('SIDA', 'síndrome de inmunodeficiencia humana adquirida')",SIDA,síndrome de inmunodeficiencia humana adquirida,1
+"('vih', 'virus de la inmunodeficiencia humana')",vih,virus de la inmunodeficiencia humana,1
+"('NGPP', 'neisseria gonorrhoeae productoras de penicilinasa')",NGPP,neisseria gonorrhoeae productoras de penicilinasa,1
+"('España', 'en un hospital terciario de la coruña')",España,en un hospital terciario de la coruña,1
+"('SSPA 7', 'servicio de salud pública del área 7')",SSPA 7,servicio de salud pública del área 7,1
+"('SIDA', 'sindrome de immunodeficiencia adquirida')",SIDA,sindrome de immunodeficiencia adquirida,1
+"('VIH', 'virus de inmunodeficiencia humano')",VIH,virus de inmunodeficiencia humano,1
+"('TARGA', 'tratamiento antirretroviral de gran actividad')",TARGA,tratamiento antirretroviral de gran actividad,1
+"('CV', 'carga viral')",CV,carga viral,1
+"('S.I.D.A.', 'síndrome de inmunodeficiencia adquirida')",S.I.D.A.,síndrome de inmunodeficiencia adquirida,1
+"('SIDA', 'síndrome de inmunodeficiencia adquirida')",SIDA,síndrome de inmunodeficiencia adquirida,21
+"('AC-VIH', 'anticuerpos contra el virus de la inmunodeficiencia humana')",AC-VIH,anticuerpos contra el virus de la inmunodeficiencia humana,1
+"('TS', 'trabajadoras sexuales')",TS,trabajadoras sexuales,1
+"('SIDA', 'sarcoma epidémico de kaposi')",SIDA,sarcoma epidémico de kaposi,1
+"('IA', 'incidencias acumuladas')",IA,incidencias acumuladas,1
+"('BMQ', 'beliefs about medicines questionnare')",BMQ,beliefs about medicines questionnare,1
+"('CoRIS', 'con infección por vih sin tratamiento antirretroviral previo')",CoRIS,con infección por vih sin tratamiento antirretroviral previo,1
+"('MSC', 'ministerio de sanidad y consumo')",MSC,ministerio de sanidad y consumo,1
+"('TAR', 'tratamiento antirretroviral')",TAR,tratamiento antirretroviral,2
+"('VIH', 'virus de la inmunodeficiencia del humano')",VIH,virus de la inmunodeficiencia del humano,1
+"('ESG', 'evaluación subjetiva global')",ESG,evaluación subjetiva global,1
+"('VIH', 'virus de inmunodeficiencia humana')",VIH,virus de inmunodeficiencia humana,11
+"('UVBBE', 'ultravioleta b de banda estrecha')",UVBBE,ultravioleta b de banda estrecha,1
+"('TARGA', 'terapia antirretroviral de gran actividad')",TARGA,terapia antirretroviral de gran actividad,1
+"('VIH', 'virus de la inmunodeficiencia humana')",VIH,virus de la inmunodeficiencia humana,45
+"('GESIDA', 'grupo de estudio del sida')",GESIDA,grupo de estudio del sida,2
+"('SIDA', 'síndrome de inmuno-deficiencia adquirida')",SIDA,síndrome de inmuno-deficiencia adquirida,1
+"('SAEI', 'sociedad andaluza de enfermedades infecciosas')",SAEI,sociedad andaluza de enfermedades infecciosas,1
+"('beta 2M', 'beta 2-microglobulina')",beta 2M,beta 2-microglobulina,1
+"('VIH-2', 'virus de la inmunodeficiencia humana tipo 2')",VIH-2,virus de la inmunodeficiencia humana tipo 2,3
+"('VSG', 'velocidad de sedimentación globular')",VSG,velocidad de sedimentación globular,1
+"('DAS', 'de ansiedad ante la muerte')",DAS,de ansiedad ante la muerte,1
+"('SIDA', 'sindrome de inmunodeficiencia adquirida')",SIDA,sindrome de inmunodeficiencia adquirida,2
+"('VPH', 'virus del papiloma humano')",VPH,virus del papiloma humano,3
+"('MOS-HIV', 'medical outcomes study hiv health survey')",MOS-HIV,medical outcomes study hiv health survey,1
+"('VHS-1', 'virus del herpes simple tipo 1')",VHS-1,virus del herpes simple tipo 1,1
+"('TARMA', 'terapia antirretroviral muy activa')",TARMA,terapia antirretroviral muy activa,1
+"('ZBS', 'zona básica de salud')",ZBS,zona básica de salud,1
+"('MGIT', 'mycobacteria growth indicator tube')",MGIT,mycobacteria growth indicator tube,1
+"('COMESEM', 'corona metropolitana sudeste de madrid')",COMESEM,corona metropolitana sudeste de madrid,1
+"('IP', 'inhibidores de la proteasa')",IP,inhibidores de la proteasa,1
+"('VIH-1', 'virus de inmunodeficiencia humana tipo 1')",VIH-1,virus de inmunodeficiencia humana tipo 1,1
+"('UFPE', 'unidad de atención farmacéutica a pacientes externos')",UFPE,unidad de atención farmacéutica a pacientes externos,1
+"('TARV', 'terapia antirretroviral')",TARV,terapia antirretroviral,1
+"('RR', 'riesgo relativo')",RR,riesgo relativo,1
+"('E.T.S.', 'enfermedades sexualmente transmitidas')",E.T.S.,enfermedades sexualmente transmitidas,1
+"('SNS', 'servicio nacional de salud')",SNS,servicio nacional de salud,1
+"('MORTAR', 'mortalidad de pacientes vih (+) chilenos: estudio caso-control')",MORTAR,mortalidad de pacientes vih (+) chilenos: estudio caso-control,1
+"('AEDV', 'academia española de dermatología y venereología')",AEDV,academia española de dermatología y venereología,1
+"('LM', 'leucocitos mononucleares')",LM,leucocitos mononucleares,1
+"('ODM', 'objetivos de desarrollo del milenio')",ODM,objetivos de desarrollo del milenio,1
+"('SEFH', 'sociedad española de farmacia hospitalaria')",SEFH,sociedad española de farmacia hospitalaria,1
+"('ETS', 'enfermedades de transmisión sexual')",ETS,enfermedades de transmisión sexual,2
+"('ZDV', 'zidovudina')",ZDV,zidovudina,1
+"('SIDA', 'síndrome de inmuno deficiencia adquirida')",SIDA,síndrome de inmuno deficiencia adquirida,1
+"('VIH', 'virus de la immunodeficiencia humana')",VIH,virus de la immunodeficiencia humana,5
+"('SIDA', 'síndrome de immunodeficiencia adquirida')",SIDA,síndrome de immunodeficiencia adquirida,3
+"('SALVAR', 'sistema de administración, logística y vigilancia de antirretrovirales')",SALVAR,"sistema de administración, logística y vigilancia de antirretrovirales",1
+"('EADV', 'european academy of dermatology and venereology')",EADV,european academy of dermatology and venereology,1
+"('PVV', 'personas viviendo con vih')",PVV,personas viviendo con vih,1
+"('VIH-2', 'virus de la inmunodeficiencia humana de tipo 2')",VIH-2,virus de la inmunodeficiencia humana de tipo 2,2
+"('BACOVA', 'balance del contenido vaginal')",BACOVA,balance del contenido vaginal,1
+"('TAR', 'tratamientos antirretrovirales')",TAR,tratamientos antirretrovirales,1
+"('ESPA', 'escala simplificada para detectar problemas de adherencia')",ESPA,escala simplificada para detectar problemas de adherencia,1
+"('TARV', 'tratamiento antirretroviral')",TARV,tratamiento antirretroviral,1
+"('GESIDA', 'grupo de estudio de sida')",GESIDA,grupo de estudio de sida,4
+"('HB', 'hepatitis b')",HB,hepatitis b,1
+"('EIP', 'enfermedad inflamatoria pélvica leve y moderada')",EIP,enfermedad inflamatoria pélvica leve y moderada,1
+"('SUH', 'servicio de urgencias hospitalario')",SUH,servicio de urgencias hospitalario,1
+"('VPH', 'virus de papiloma humano')",VPH,virus de papiloma humano,1
+"('PNS', 'plan nacional sobre el sida')",PNS,plan nacional sobre el sida,1
+"('VIH-1', 'virus de la inmunodeficiencia humana tipo 1')",VIH-1,virus de la inmunodeficiencia humana tipo 1,4
+"('TMI', 'transmisión materno-infantil')",TMI,transmisión materno-infantil,1
+"('CV', 'calidad de vida')",CV,calidad de vida,1
+"('PVIH/sida', 'personas con vih/sida')",PVIH/sida,personas con vih/sida,1
+"('GPSIDA', 'grupos de prevención del sida')",GPSIDA,grupos de prevención del sida,1
+"('E.T.S.', 'enfermedades de transmisión sexual')",E.T.S.,enfermedades de transmisión sexual,1
+"('ADVP', 'a drogas por vía parenteral')",ADVP,a drogas por vía parenteral,3
+"('Ag-VIH', 'antígeno(s) del virus de la inmunodeficiencia humana')",Ag-VIH,antígeno(s) del virus de la inmunodeficiencia humana,1
+"('PR', 'prueba rápida')",PR,prueba rápida,1
+"('DAP IV', 'dipeptidilaminopeptidasa iv')",DAP IV,dipeptidilaminopeptidasa iv,1

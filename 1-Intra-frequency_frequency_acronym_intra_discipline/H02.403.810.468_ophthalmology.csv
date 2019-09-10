@@ -1,0 +1,73 @@
+pair,acronym,description,frequency
+"('BPN', 'bajo peso al nacer')",BPN,bajo peso al nacer,1
+"('QLAD', 'queratoplastia lamelar anterior descemética')",QLAD,queratoplastia lamelar anterior descemética,1
+"('ADA', 'american diabetes association')",ADA,american diabetes association,1
+"('VPP', 'valor predictivo positivo')",VPP,valor predictivo positivo,1
+"('RP', 'razones de prevalencia')",RP,razones de prevalencia,1
+"('PHMB', 'polihexametil biguanida')",PHMB,polihexametil biguanida,1
+"('DA', 'dermatitis atópica')",DA,dermatitis atópica,1
+"('T.A.C.', 'tomografía computerizada')",T.A.C.,tomografía computerizada,1
+"('GCP', 'glaucoma congénito primario')",GCP,glaucoma congénito primario,1
+"('ROP', 'retinopatía del prematuro')",ROP,retinopatía del prematuro,1
+"('OD', 'ojo derecho')",OD,ojo derecho,1
+"('DMAE', 'degeneración macular asociada a la edad')",DMAE,degeneración macular asociada a la edad,4
+"('HICI', 'hipertension intracraneal idiopatica')",HICI,hipertension intracraneal idiopatica,1
+"('NO', 'neuritis optica')",NO,neuritis optica,1
+"('RM', 'resonancia magnetica')",RM,resonancia magnetica,1
+"('SSp', 'síndrome de sjögren primario')",SSp,síndrome de sjögren primario,1
+"('STIR', 'short-tau inversion-recovery')",STIR,short-tau inversion-recovery,1
+"('SIDA', 'síndrome de inmunodeficiencia adquirida')",SIDA,síndrome de inmunodeficiencia adquirida,1
+"('EDSS', 'expanded disability status scale')",EDSS,expanded disability status scale,1
+"('IMID', 'inmunomediadas')",IMID,inmunomediadas,2
+"('DMRE', 'degeneración macular relacionada con la edad')",DMRE,degeneración macular relacionada con la edad,1
+"('OI', 'ojo izquierdo')",OI,ojo izquierdo,1
+"('IMSS', 'instituto mexicano del seguro social')",IMSS,instituto mexicano del seguro social,1
+"('TDP', 'test digital de percepción')",TDP,test digital de percepción,1
+"('GPAA', 'glaucoma primario de ángulo abierto')",GPAA,glaucoma primario de ángulo abierto,1
+"('RMf', 'resonancia magnetica funcional')",RMf,resonancia magnetica funcional,1
+"('TDA', 'trastornos por deficit de atencion')",TDA,trastornos por deficit de atencion,1
+"('LVQOL', 'low vision quality of life')",LVQOL,low vision quality of life,1
+"('VHS', 'virus herpes simple')",VHS,virus herpes simple,1
+"('OPELUCE', 'organización peruana de lucha contra la ceguera')",OPELUCE,organización peruana de lucha contra la ceguera,1
+"('SiFO', 'silicona-fluorsilicona')",SiFO,silicona-fluorsilicona,1
+"('QP', 'queratoplastía penetrante')",QP,queratoplastía penetrante,1
+"('SCB', 'sindrome de charles bonnet')",SCB,sindrome de charles bonnet,1
+"('PIO', 'presión intraocular')",PIO,presión intraocular,4
+"('TQE', 'tiempos quirúrgicos estándar')",TQE,tiempos quirúrgicos estándar,1
+"('CFNR', 'capa de fibras nerviosas retiniana')",CFNR,capa de fibras nerviosas retiniana,1
+"('ROC', 'reflejo oculocardíaco')",ROC,reflejo oculocardíaco,1
+"('ADVISE', 'adenovirus initiative study in epidemiology')",ADVISE,adenovirus initiative study in epidemiology,1
+"('OCB', 'oclusion carotidea bilateral')",OCB,oclusion carotidea bilateral,1
+"('NMO', 'neuromielitis optica')",NMO,neuromielitis optica,2
+"('ARIA', 'alérgica y su impacto en el asma')",ARIA,alérgica y su impacto en el asma,1
+"('RHC', 'reserva hemodinamica cerebral')",RHC,reserva hemodinamica cerebral,1
+"('EE', 'error estándar')",EE,error estándar,1
+"('TDAH', 'trastorno por deficit de atencion/hiperactividad')",TDAH,trastorno por deficit de atencion/hiperactividad,1
+"('RPAD', 'retinosis pigmentaria autosómica dominante')",RPAD,retinosis pigmentaria autosómica dominante,1
+"('D.C.R.', 'dacriocistorrinostomía')",D.C.R.,dacriocistorrinostomía,1
+"('PMC', 'programa madre canguro')",PMC,programa madre canguro,1
+"('LCR', 'liquido cefalorraquideo')",LCR,liquido cefalorraquideo,1
+"('VRP', 'vitreorretinopatía proliferante')",VRP,vitreorretinopatía proliferante,3
+"('GES', 'garantías explicitas en salud')",GES,garantías explicitas en salud,1
+"('CCC', 'congènita crítica')",CCC,congènita crítica,1
+"('DCR-E', 'dacriocistorrinostomía endocanalicular')",DCR-E,dacriocistorrinostomía endocanalicular,1
+"('FIWOS', 'first international workshop on ocular sarcoidosis')",FIWOS,first international workshop on ocular sarcoidosis,1
+"('PALOC', 'perimetría automatizada de longitud de onda corta')",PALOC,perimetría automatizada de longitud de onda corta,4
+"('N2 LIQ.', 'nitrogeno liquido')",N2 LIQ.,nitrogeno liquido,1
+"('VPPB', 'vertigo posicional paroxistico benigno')",VPPB,vertigo posicional paroxistico benigno,1
+"('AGF', 'angiografía con fluoresceína')",AGF,angiografía con fluoresceína,1
+"('EG', 'enfermedad de graves')",EG,enfermedad de graves,1
+"('SW', 'síndrome de wolfram')",SW,síndrome de wolfram,1
+"('ASIA', 'americana de lesion de la medula espinal')",ASIA,americana de lesion de la medula espinal,1
+"('ROP', 'retinopatía del prematuro""')",ROP,"retinopatía del prematuro""",1
+"('HET-CAM', 'hen s egg test-chorioallantoic membrane')",HET-CAM,hen s egg test-chorioallantoic membrane,1
+"('SOM', 'sistema oculomotor')",SOM,sistema oculomotor,1
+"('LIO', 'lente intraocular')",LIO,lente intraocular,1
+"('UNO', 'unidad de neurooftalmologia')",UNO,unidad de neurooftalmologia,1
+"('LA/RC', 'longitud axial/radio corneal')",LA/RC,longitud axial/radio corneal,1
+"('ET', 'esclerosis tuberosa')",ET,esclerosis tuberosa,1
+"('SS', 'síndrome de sjögren')",SS,síndrome de sjögren,2
+"('EM', 'esclerosis multiple')",EM,esclerosis multiple,3
+"('EVRD', 'estudio valencia sobre retinopatía diabética')",EVRD,estudio valencia sobre retinopatía diabética,1
+"('VPN', 'valor predictivo negativo')",VPN,valor predictivo negativo,1
+"('HTO', 'hipertensión ocular')",HTO,hipertensión ocular,1

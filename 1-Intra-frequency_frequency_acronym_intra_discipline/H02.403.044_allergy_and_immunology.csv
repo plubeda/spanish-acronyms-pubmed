@@ -1,0 +1,21 @@
+pair,acronym,description,frequency
+"('SLP', 'síndrome látex-papaya')",SLP,síndrome látex-papaya,1
+"('VPR', 'volumen plaquetario relativo')",VPR,volumen plaquetario relativo,1
+"('IgIV', 'inmunoglobulina, con mayor frecuencia intravenosa')",IgIV,"inmunoglobulina, con mayor frecuencia intravenosa",1
+"('TARGA', 'tratamiento antirretroviral de gran actividad')",TARGA,tratamiento antirretroviral de gran actividad,1
+"('OMS', 'organización mundial de la salud')",OMS,organización mundial de la salud,1
+"('BQs', 'bronquiectasias')",BQs,bronquiectasias,1
+"('IC95%', 'intervalos de confianza de 95%')",IC95%,intervalos de confianza de 95%,1
+"('RM', 'razones de momios')",RM,razones de momios,1
+"('TARAA', 'terapia antirretroviral altamente activa')",TARAA,terapia antirretroviral altamente activa,1
+"('ARIA', 'alérgica y su impacto en el asma')",ARIA,alérgica y su impacto en el asma,1
+"('IgIV', 'inmunoglobulina intravenosa')",IgIV,inmunoglobulina intravenosa,2
+"('IDP', 'inmunodeficiencias primarias')",IDP,inmunodeficiencias primarias,2
+"('IC 95%', 'intervalos de confianza a 95%')",IC 95%,intervalos de confianza a 95%,1
+"('RAF', 'rinosinusitis alérgica fúngica')",RAF,rinosinusitis alérgica fúngica,1
+"('IDCV', 'inmunodeficiencia común variable')",IDCV,inmunodeficiencia común variable,4
+"('ACT', 'asthma control test')",ACT,asthma control test,1
+"('VPM', 'volumen plaquetario medio')",VPM,volumen plaquetario medio,1
+"('IC', 'intervalos de confianza')",IC,intervalos de confianza,2
+"('UISI', 'unión internacional de sociedades de inmunología')",UISI,unión internacional de sociedades de inmunología,1
+"('SLF', 'síndrome látex-fruta')",SLF,síndrome látex-fruta,1

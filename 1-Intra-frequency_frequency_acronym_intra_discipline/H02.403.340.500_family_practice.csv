@@ -1,0 +1,147 @@
+pair,acronym,description,frequency
+"('PPAF', 'programa de promoción de actividad física')",PPAF,programa de promoción de actividad física,1
+"('BPN', 'bajo peso al nacer')",BPN,bajo peso al nacer,1
+"('ASRS', 'adhd self-report scale</i>')",ASRS,adhd self-report scale</i>,1
+"('PCAT', 'primary care assessment tools')",PCAT,primary care assessment tools,1
+"('CDMX', 'ciudad de méxico')",CDMX,ciudad de méxico,1
+"('ITUS', 'infecciones del tracto urinario superior')",ITUS,infecciones del tracto urinario superior,1
+"('CRM', 'customer relationship management')",CRM,customer relationship management,1
+"('ITL', 'infección tuberculosa latente')",ITL,infección tuberculosa latente,2
+"('SEIMC', 'sociedad española de enfermedades infecciosas y microbiología clínica')",SEIMC,sociedad española de enfermedades infecciosas y microbiología clínica,1
+"('TLIV', 'trombolisis intravenosa')",TLIV,trombolisis intravenosa,1
+"('AMPA', 'automedida de presión arterial domiciliaria')",AMPA,automedida de presión arterial domiciliaria,1
+"('DA', 'del alcohol')",DA,del alcohol,1
+"('HAD', 'hospitalización a domicilio')",HAD,hospitalización a domicilio,1
+"('Sinais', 'sistema nacional de información en salud')",Sinais,sistema nacional de información en salud,1
+"('DM', 'diabetes mellitus')",DM,diabetes mellitus,1
+"('SaAP', 'sistema de acreditación en atención primaria')",SaAP,sistema de acreditación en atención primaria,3
+"('y II', 'y entrevista clínica')",y II,y entrevista clínica,1
+"('IVE', 'interrupción voluntaria del embarazo')",IVE,interrupción voluntaria del embarazo,1
+"('ACSC', 'ambulatory care sensitive conditions')",ACSC,ambulatory care sensitive conditions,1
+"('AUDIT', 'alcohol use disorders identification test')",AUDIT,alcohol use disorders identification test,1
+"('SDRA', 'síndrome de distrés respiratorio del adulto')",SDRA,síndrome de distrés respiratorio del adulto,1
+"('ZSO', 'zona suroeste')",ZSO,zona suroeste,1
+"('CA', 'consumo de alcohol')",CA,consumo de alcohol,1
+"('GINA', 'guías internacionales de diagnóstico y tratamiento del asma')",GINA,guías internacionales de diagnóstico y tratamiento del asma,1
+"('CMC', 'consulta monografica de cefaleas')",CMC,consulta monografica de cefaleas,1
+"('AF', 'atención farmacéutica')",AF,atención farmacéutica,1
+"('EFAM', 'evaluación funcional del adulto mayor')",EFAM,evaluación funcional del adulto mayor,1
+"('PAI', 'procesos asistenciales integrados')",PAI,procesos asistenciales integrados,1
+"('VICNA', 'violencia familiar contra niños y adolescentes')",VICNA,violencia familiar contra niños y adolescentes,1
+"('SDOM', 'síndrome de disfunción orgánica múltiple')",SDOM,síndrome de disfunción orgánica múltiple,1
+"('CV', 'calcificación vascular')",CV,calcificación vascular,1
+"('SAMFYC', 'sociedad andaluza de medicina familiar y comunitaria')",SAMFYC,sociedad andaluza de medicina familiar y comunitaria,1
+"('GRD', 'grupos relacionados por el diagnóstico')",GRD,grupos relacionados por el diagnóstico,1
+"('t/b', 'tobillo/brazo')",t/b,tobillo/brazo,1
+"('AFHAP', 'abordaje farmacológico de la hipertensión en atención primaria')",AFHAP,abordaje farmacológico de la hipertensión en atención primaria,1
+"('IC 95%', 'informado escrito en el 48.9%')",IC 95%,informado escrito en el 48.9%,1
+"('AINE', 'antiinflamatorios no esteroideos')",AINE,antiinflamatorios no esteroideos,1
+"('CCP', 'cuidado centrado en las personas')",CCP,cuidado centrado en las personas,1
+"('PAPPS', 'programa de actividades preventivas y de promoción de la salud')",PAPPS,programa de actividades preventivas y de promoción de la salud,2
+"('SNG', 'sonda nasogástrica')",SNG,sonda nasogástrica,1
+"('ECV', 'enfermedad cardiovascular')",ECV,enfermedad cardiovascular,3
+"('CEIC', 'comité ético de investigación clínica')",CEIC,comité ético de investigación clínica,1
+"('AP', 'admisión primaria')",AP,admisión primaria,1
+"('UCE', 'unidad de corta estancia')",UCE,unidad de corta estancia,1
+"('IMSS', 'instituto mexicano del seguro social')",IMSS,instituto mexicano del seguro social,2
+"('IC', 'intervalo de confianza')",IC,intervalo de confianza,1
+"('ISVP', 'instrumento índice de severidad de violencia de pareja')",ISVP,instrumento índice de severidad de violencia de pareja,1
+"('RVDD', 'respuesta ventilatoria disfuncional al destete')",RVDD,respuesta ventilatoria disfuncional al destete,1
+"('NED', 'nutrición enteral domiciliaria')",NED,nutrición enteral domiciliaria,1
+"('AMFE', 'academia de medicina de familia de españa')",AMFE,academia de medicina de familia de españa,1
+"('SINAN', 'sistema de información de enfermedades de notificación')",SINAN,sistema de información de enfermedades de notificación,1
+"('VIH', 'virus de inmunodeficiencia humana')",VIH,virus de inmunodeficiencia humana,1
+"('IBP', 'inhibidores de la bomba de protones')",IBP,inhibidores de la bomba de protones,1
+"('MOSPSC', 'medical office survey on patient safety culture')",MOSPSC,medical office survey on patient safety culture,1
+"('BP', 'bienestar psicológico')",BP,bienestar psicológico,1
+"('DIU', 'dispositivo intrauterino')",DIU,dispositivo intrauterino,2
+"('URMES', 'urgencias reumatológicas y musculoesqueléticas')",URMES,urgencias reumatológicas y musculoesqueléticas,1
+"('EET', 'estrategia educativa tradicional')",EET,estrategia educativa tradicional,1
+"('UAM', 'universidad autónoma de madrid')",UAM,universidad autónoma de madrid,1
+"('CAPS', 'centro de atención primaria de salud')",CAPS,centro de atención primaria de salud,1
+"('ACGs', 'ambulatory care groups""')",ACGs,"ambulatory care groups""",1
+"('AS', 'admisión secundaria')",AS,admisión secundaria,1
+"('MF', 'medicina familiar')",MF,medicina familiar,1
+"('CMSL', 'cuestionario de mejora de la satisfacción laboral')",CMSL,cuestionario de mejora de la satisfacción laboral,1
+"('AP', 'atención primaria')",AP,atención primaria,5
+"('MIR', 'médicos internos residentes')",MIR,médicos internos residentes,1
+"('ERC', 'enfermedad renal crónica')",ERC,enfermedad renal crónica,3
+"('EPOC', 'enfermedad pulmonar obstructiva crónica')",EPOC,enfermedad pulmonar obstructiva crónica,3
+"('ANC', 'atención nutricional convencional')",ANC,atención nutricional convencional,1
+"('SNO', 'suplementos nutricionales orales')",SNO,suplementos nutricionales orales,1
+"('PIO', 'presión intraocular')",PIO,presión intraocular,1
+"('VPH', 'virus del papiloma humano')",VPH,virus del papiloma humano,1
+"('HTAS', 'hipertensión arterial sistémica')",HTAS,hipertensión arterial sistémica,1
+"('Hib', 'haemophilus influenzae tipo b')",Hib,haemophilus influenzae tipo b,1
+"('MEV', 'modificación de estilos de vida')",MEV,modificación de estilos de vida,1
+"('EEPP', 'educativa promotora de la participación')",EEPP,educativa promotora de la participación,1
+"('TCE', 'traumatismo craneoencefálico')",TCE,traumatismo craneoencefálico,1
+"('AS', 'alimentación saludable')",AS,alimentación saludable,1
+"('TDAH', 'trastorno por deficit de atencion/hiperactividad')",TDAH,trastorno por deficit de atencion/hiperactividad,1
+"('UMF 171', 'unidad de medicina familiar 171')",UMF 171,unidad de medicina familiar 171,1
+"('semFYC', 'sociedad española de medicina de familia y comunitaria')",semFYC,sociedad española de medicina de familia y comunitaria,1
+"('EAP', 'equipos de atención primaria')",EAP,equipos de atención primaria,1
+"('DRE', 'desnutrición relacionada con la enfermedad')",DRE,desnutrición relacionada con la enfermedad,1
+"('CUS', 'cobertura universal en salud')",CUS,cobertura universal en salud,1
+"('GTEB', 'grupo de trabajo de expertos en terapia biológica')",GTEB,grupo de trabajo de expertos en terapia biológica,1
+"('UCI', 'unidad de cuidados intensivos')",UCI,unidad de cuidados intensivos,1
+"('REAP', 'red española de atención primaria')",REAP,red española de atención primaria,1
+"('HZ', 'herpes zoster')",HZ,herpes zoster,1
+"('PMC', 'programa madre canguro')",PMC,programa madre canguro,1
+"('EPI', 'equipos de protección individual')",EPI,equipos de protección individual,1
+"('NHG', 'nuevos hiperglucémicos')",NHG,nuevos hiperglucémicos,1
+"('PC', 'pensamiento crítico')",PC,pensamiento crítico,1
+"('DAQ', 'depression attitudes questionnaire')",DAQ,depression attitudes questionnaire,1
+"('GCED', 'grupo catalán de estudio de la diabetes')",GCED,grupo catalán de estudio de la diabetes,1
+"('DN', 'dolor neuropático')",DN,dolor neuropático,1
+"('II', 'intestinal')",II,intestinal,1
+"('EFG', 'especialidades farmacéuticas genéricas')",EFG,especialidades farmacéuticas genéricas,1
+"('TDI', 'trastornos del desarrollo intelectual')",TDI,trastornos del desarrollo intelectual,1
+"('CuSEMF', 'curso semiescolarizado de especialización en medicina familiar')",CuSEMF,curso semiescolarizado de especialización en medicina familiar,1
+"('CAP', 'centros de atención primaria')",CAP,centros de atención primaria,1
+"('EF', 'ejercicio físico')",EF,ejercicio físico,1
+"('TA', 'tensión arterial')",TA,tensión arterial,1
+"('ZNO', 'zona noroeste')",ZNO,zona noroeste,1
+"('APS', 'atención primaria de salud')",APS,atención primaria de salud,1
+"('SUP', 'servicios de urgencias pediátricos')",SUP,servicios de urgencias pediátricos,1
+"('SVS', 'sistema vasco de salud')",SVS,sistema vasco de salud,1
+"('SICAP', 'sistema de información informatizado de centros de atención primaria')",SICAP,sistema de información informatizado de centros de atención primaria,1
+"('HA', 'hipertensión arterial')",HA,hipertensión arterial,1
+"('DHD', 'dosis por 1000 habitantes/día')",DHD,dosis por 1000 habitantes/día,1
+"('F.L.A.P.', 'fisurado labio alveolo palatino')",F.L.A.P.,fisurado labio alveolo palatino,1
+"('ACG', 'adjusted clinical groups\x94')",ACG,adjusted clinical groups,1
+"('DE', 'de 30,2 puntos')",DE,"de 30,2 puntos",1
+"('AREDA', 'asociación de redes docentes y asesoras del estado')",AREDA,asociación de redes docentes y asesoras del estado,1
+"('PVV', 'personas viviendo con vih')",PVV,personas viviendo con vih,1
+"('DUSOI', 'duke severity of illness scale')",DUSOI,duke severity of illness scale,1
+"('OT', 'objetivo terapéutico')",OT,objetivo terapéutico,2
+"('TARV', 'tratamiento antirretroviral')",TARV,tratamiento antirretroviral,1
+"('CC', 'calórico de la dieta')",CC,calórico de la dieta,1
+"('FC', 'frecuencia cardiaca')",FC,frecuencia cardiaca,1
+"('HC', 'hospitalización convencional')",HC,hospitalización convencional,1
+"('SMS', 'servicio murciano de salud')",SMS,servicio murciano de salud,1
+"('PICI', 'plan integral de cardiopatía isquémica')",PICI,plan integral de cardiopatía isquémica,1
+"('ICV', 'indice de calidad de vida')",ICV,indice de calidad de vida,1
+"('TIAM', 'trombectomia intraarterial mecanica')",TIAM,trombectomia intraarterial mecanica,1
+"('CS', 'centros de salud')",CS,centros de salud,1
+"('DVA', 'de voluntades anticipadas')",DVA,de voluntades anticipadas,1
+"('I.E.I.', 'informe de enfermería al ingreso')",I.E.I.,informe de enfermería al ingreso,1
+"('PRESENCIAP', 'prevención secundaria de la cardiopatía isquémica en la atención primaria')",PRESENCIAP,prevención secundaria de la cardiopatía isquémica en la atención primaria,1
+"('SERUMS', 'servicio rural y urbano-marginal en salud')",SERUMS,servicio rural y urbano-marginal en salud,1
+"('PAE', 'protocolo de evaluación de la adecuación')",PAE,protocolo de evaluación de la adecuación,1
+"('GEMA', 'guía española para el manejo del asma')",GEMA,guía española para el manejo del asma,1
+"('ACH', 'anticonceptivos hormonales')",ACH,anticonceptivos hormonales,1
+"('GEMPPZ, AP', 'grupo de estudio de la morbilidad psíquica y psicosomática de zaragoza, sección de atención primaria')","GEMPPZ, AP","grupo de estudio de la morbilidad psíquica y psicosomática de zaragoza, sección de atención primaria",1
+"('Spain-RDR', 'se consolidó la red española de registros de enfermedades raras para la investigación')",Spain-RDR,se consolidó la red española de registros de enfermedades raras para la investigación,1
+"('SM', 'salud mental')",SM,salud mental,1
+"('OR', 'odds ratio')",OR,odds ratio,2
+"('SNE', 'soporte nutricional especializado')",SNE,soporte nutricional especializado,1
+"('PR', 'prueba rápida')",PR,prueba rápida,1
+"('TC', 'tomografia computarizada')",TC,tomografia computarizada,1
+"('NAS', 'nursing activity score')",NAS,nursing activity score,1
+"('GCNE', 'grupo control no equivalente')",GCNE,grupo control no equivalente,1
+"('AMPA', 'automedida de la presión arterial')",AMPA,automedida de la presión arterial,2
+"('GI', 'grupo intervención')",GI,grupo intervención,1
+"('MAP', 'médicos de atención primaria')",MAP,médicos de atención primaria,1
+"('AP', 'atencion primaria')",AP,atencion primaria,1
+"('PNA', 'primer nivel de atención')",PNA,primer nivel de atención,1

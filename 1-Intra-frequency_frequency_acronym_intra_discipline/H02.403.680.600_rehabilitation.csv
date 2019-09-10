@@ -1,0 +1,133 @@
+pair,acronym,description,frequency
+"('ESUS', 'embolic stroke of undetermined source')",ESUS,embolic stroke of undetermined source,2
+"('GOLD', 'global para la enfermedad pulmonar obstructiva crónica')",GOLD,global para la enfermedad pulmonar obstructiva crónica,1
+"('KOOS', 'knee injury and osteoarthritis outcome score')",KOOS,knee injury and osteoarthritis outcome score,1
+"('SLA', ""screening lexico para las afasias'"")",SLA,screening lexico para las afasias',1
+"('CMT', 'charcot-marie-tooth')",CMT,charcot-marie-tooth,1
+"('SEN', 'sociedad española de neurologia')",SEN,sociedad española de neurologia,1
+"('EMT', 'estimulacion magnetica transcraneal')",EMT,estimulacion magnetica transcraneal,1
+"('TANIT', 'tamiz auditivo neonatal e intervención temprana')",TANIT,tamiz auditivo neonatal e intervención temprana,1
+"('AME', 'atrofia muscular espinal')",AME,atrofia muscular espinal,1
+"('DF', 'dependencia funcional')",DF,dependencia funcional,1
+"('ENP', 'estimulacion nerviosa periferica')",ENP,estimulacion nerviosa periferica,3
+"('FX', 'fluoxetina')",FX,fluoxetina,1
+"('ACV', 'accidentes cerebrovasculares')",ACV,accidentes cerebrovasculares,5
+"('UDH', 'unidad de desintoxicacion hospitalaria')",UDH,unidad de desintoxicacion hospitalaria,1
+"('EsC', 'estimulacion cognitiva')",EsC,estimulacion cognitiva,1
+"('ISP', 'inventario de sintomas prefrontales')",ISP,inventario de sintomas prefrontales,1
+"('AF', 'actividad física')",AF,actividad física,2
+"('LCA', 'ligamento cruzado anterior')",LCA,ligamento cruzado anterior,1
+"('DDA', 'de atención e hiperactividad')",DDA,de atención e hiperactividad,1
+"('EK2', 'egen klassifikation 2')",EK2,egen klassifikation 2,1
+"('EA', 'enfermedad de alzheimer')",EA,enfermedad de alzheimer,1
+"('STC', 'síndrome del túnel del carpo')",STC,síndrome del túnel del carpo,1
+"('BNB', 'bateria neuropsicologica breve')",BNB,bateria neuropsicologica breve,1
+"('GTU', 'grupo que recibio tratamiento usual')",GTU,grupo que recibio tratamiento usual,1
+"('Gln', 'glutamina')",Gln,glutamina,2
+"('MS', 'miembro superior')",MS,miembro superior,2
+"('NIHSS', 'national institute of health stroke scale')",NIHSS,national institute of health stroke scale,3
+"('EK', 'egen klassifikation')",EK,egen klassifikation,1
+"('CMJ', 'counter movement jump')",CMJ,counter movement jump,1
+"('OP', 'osteoporosis')",OP,osteoporosis,1
+"('OMS', 'organización mundial de la salud')",OMS,organización mundial de la salud,1
+"('PTDO', 'programa de tratamiento con derivados opiáceos')",PTDO,programa de tratamiento con derivados opiáceos,1
+"('SM', 'síndrome metabólico')",SM,síndrome metabólico,1
+"('TI', 'trabajo infantil')",TI,trabajo infantil,1
+"('ULM', 'unidades de lesionados medulares')",ULM,unidades de lesionados medulares,1
+"('TEA', 'trastorno del espectro autista')",TEA,trastorno del espectro autista,2
+"('BPAQ-MI', 'barriers to physical activity questionnaire for people with mobility impairments')",BPAQ-MI,barriers to physical activity questionnaire for people with mobility impairments,1
+"('CTT', 'cefaleas de tipo tensional')",CTT,cefaleas de tipo tensional,1
+"('MNIO', 'monitoreo neurofisiológico intraoperatorio')",MNIO,monitoreo neurofisiológico intraoperatorio,1
+"('GPAA', 'glaucoma primario de ángulo abierto')",GPAA,glaucoma primario de ángulo abierto,1
+"('UTAC', 'unidades de tratamiento del ataque cerebrovascular')",UTAC,unidades de tratamiento del ataque cerebrovascular,1
+"('RBC', 'rehabilitación basada en la comunidad')",RBC,rehabilitación basada en la comunidad,1
+"('ECP', 'estimulacion cerebral profunda')",ECP,estimulacion cerebral profunda,1
+"('SAAC', 'sistemas de comunicacion aumentativa y alternativa')",SAAC,sistemas de comunicacion aumentativa y alternativa,1
+"('VIH', 'virus de inmunodeficiencia humana')",VIH,virus de inmunodeficiencia humana,1
+"('PRC', 'programa de rehabilitación cardiaca')",PRC,programa de rehabilitación cardiaca,2
+"('MRC', 'medical research council')",MRC,medical research council,1
+"('PADS', 'physical activity and disability survey')",PADS,physical activity and disability survey,2
+"('LMR', 'lesión del manguito rotador')",LMR,lesión del manguito rotador,1
+"('BoNT-A', 'botulínica tipo a')",BoNT-A,botulínica tipo a,1
+"('TCE', 'traumatismos craneoencefalicos')",TCE,traumatismos craneoencefalicos,3
+"('CEMPV', 'cuestionario para la evaluación de la minusvalía en patología vestibular')",CEMPV,cuestionario para la evaluación de la minusvalía en patología vestibular,1
+"('SHC', 'síndrome de hiperémesis cannábica')",SHC,síndrome de hiperémesis cannábica,1
+"('TCE', 'traumatismo craneoencefalico')",TCE,traumatismo craneoencefalico,5
+"('CI', 'código infarto')",CI,código infarto,2
+"('NMDA', 'n-metil-d-aspartato')",NMDA,n-metil-d-aspartato,1
+"('SSPA', 'sistema sanitario público de andalucía')",SSPA,sistema sanitario público de andalucía,1
+"('UMRF', 'unidades moviles de rehabilitacion-fisioterapia')",UMRF,unidades moviles de rehabilitacion-fisioterapia,2
+"('ECV', 'enfermedades cardiovasculares')",ECV,enfermedades cardiovasculares,2
+"('RNP', 'recién nacidos prematuros')",RNP,recién nacidos prematuros,1
+"('IR', 'insuficiencia respiratoria')",IR,insuficiencia respiratoria,1
+"('FEM', 'flujo espiratorio máximo')",FEM,flujo espiratorio máximo,1
+"('NST', 'nucleo subtalamico')",NST,nucleo subtalamico,1
+"('Primates', 'para la reintroducción de monos de los géneros saguinus, aotus y cebus')",Primates,"para la reintroducción de monos de los géneros saguinus, aotus y cebus",1
+"('EPOC', 'enfermedad pulmonar obstructiva crónica')",EPOC,enfermedad pulmonar obstructiva crónica,2
+"('EMAD', 'encefalomielitis aguda diseminada')",EMAD,encefalomielitis aguda diseminada,2
+"('EP', 'enfermedad de parkinson')",EP,enfermedad de parkinson,2
+"('EMRR', 'esclerosis multiple remitente recurrente')",EMRR,esclerosis multiple remitente recurrente,2
+"('VN', 'vejiga neurógena')",VN,vejiga neurógena,1
+"('RCT', 'rehabilitación cardiaca temprana')",RCT,rehabilitación cardiaca temprana,2
+"('TDC', 'trastorno del desarrollo de la coordinación')",TDC,trastorno del desarrollo de la coordinación,1
+"('ICAM', ""institut català d'avaluacions mèdiques"")",ICAM,institut català d'avaluacions mèdiques,1
+"('EVC', 'enfermedad vascular cerebral')",EVC,enfermedad vascular cerebral,1
+"('TDAH', 'trastorno por déficit de atención e hiperactividad')",TDAH,trastorno por déficit de atención e hiperactividad,1
+"('PRFA', 'proteínas séricas reactantes de fase aguda')",PRFA,proteínas séricas reactantes de fase aguda,1
+"('RVUPS', 'red valenciana de universidades públicas saludables')",RVUPS,red valenciana de universidades públicas saludables,1
+"('AR', 'artritis reumatoide')",AR,artritis reumatoide,1
+"('TDAH', 'trastorno por deficit de atencion/hiperactividad')",TDAH,trastorno por deficit de atencion/hiperactividad,1
+"('ADMMR', 'artropatía por desgarro masivo del manguito de los rotadores')",ADMMR,artropatía por desgarro masivo del manguito de los rotadores,1
+"('BETA', 'bateria para la evaluacion de los trastornos afasicos')",BETA,bateria para la evaluacion de los trastornos afasicos,1
+"('ECV', 'enfermedad cerebrovascular')",ECV,enfermedad cerebrovascular,2
+"('INSS', 'instituto nacional de la seguridad social')",INSS,instituto nacional de la seguridad social,1
+"('TDAH', 'trastorno por déficit de atención hiperactividad')",TDAH,trastorno por déficit de atención hiperactividad,1
+"('SIS', 'síndrome de pinzamiento subacromial')",SIS,síndrome de pinzamiento subacromial,1
+"('IC', 'insuficiencia cardiaca')",IC,insuficiencia cardiaca,2
+"('MIQ', 'movement imagery questionnaire')",MIQ,movement imagery questionnaire,2
+"('SCP', 'scale for contraversive pushing')",SCP,scale for contraversive pushing,1
+"('INR', 'instituto nacional de rehabilitación')",INR,instituto nacional de rehabilitación,1
+"('Neuro-ACMI', 'neurología crítica de la asociación catalana de medicina intensiva')",Neuro-ACMI,neurología crítica de la asociación catalana de medicina intensiva,1
+"('RR', 'recovery')",RR,recovery,1
+"('AAS', 'acido acetilsalicilico')",AAS,acido acetilsalicilico,2
+"('ATR', 'artroplastia total de rodilla')",ATR,artroplastia total de rodilla,1
+"('NE', 'nutrición enteral')",NE,nutrición enteral,1
+"('RRE', 'rehabilitacion del reconocimiento de emociones')",RRE,rehabilitacion del reconocimiento de emociones,1
+"('PEP', 'presión espiratoria positiva')",PEP,presión espiratoria positiva,1
+"('DCA', 'daño cerebral adquirido')",DCA,daño cerebral adquirido,2
+"('AFG', 'actividades fisicas grupales')",AFG,actividades fisicas grupales,2
+"('DOMS', 'delayed onset muscular soreness')",DOMS,delayed onset muscular soreness,1
+"('DM2', 'diabetes mellitus tipo 2')",DM2,diabetes mellitus tipo 2,1
+"('GEW', 'gaitrite ® electronic walkway')",GEW,gaitrite ® electronic walkway,1
+"('GMFCS', 'gross motor function classification system')",GMFCS,gross motor function classification system,1
+"('SIC', 'síndrome de intestino corto')",SIC,síndrome de intestino corto,1
+"('RA', 'reparación artroscópica')",RA,reparación artroscópica,1
+"('TAP', 'tenotomía y aponeurotomía percutánea')",TAP,tenotomía y aponeurotomía percutánea,2
+"('PAIA', 'plan de atencion al ictus de aragon')",PAIA,plan de atencion al ictus de aragon,2
+"('NEC', 'nutrición enteral completa')",NEC,nutrición enteral completa,1
+"('MRP', 'modelo de regresión de poisson')",MRP,modelo de regresión de poisson,1
+"('TD', 'test de denver')",TD,test de denver,1
+"('ACV', 'accidente cerebrovascular')",ACV,accidente cerebrovascular,1
+"('TAB', 'tasa anual de brotes')",TAB,tasa anual de brotes,1
+"('RENAPREC', 'registro nacional sobre programas de rehabilitación cardíaca en méxico')",RENAPREC,registro nacional sobre programas de rehabilitación cardíaca en méxico,2
+"('NP', 'nutrición parenteral')",NP,nutrición parenteral,1
+"('CHUVI', 'complexo hospitalario universitario de vigo')",CHUVI,complexo hospitalario universitario de vigo,1
+"('PTUIP', 'programa de tamizaje universal e intervención precoz')",PTUIP,programa de tamizaje universal e intervención precoz,1
+"('ER-IgG4', 'enfermedad relacionada con la inmunoglobulina g4')",ER-IgG4,enfermedad relacionada con la inmunoglobulina g4,1
+"('RA-LMMR', 'reparación artroscópica de lesión masiva del manguito rotador')",RA-LMMR,reparación artroscópica de lesión masiva del manguito rotador,1
+"('RM', 'reconstrucción mamaria')",RM,reconstrucción mamaria,1
+"('SPA', 'sustancias psicoactivas')",SPA,sustancias psicoactivas,1
+"('RV', 'realidad virtual')",RV,realidad virtual,1
+"('ECA', 'estudios clinicos aleatorizados')",ECA,estudios clinicos aleatorizados,2
+"('TEA', 'trastornos del espectro autista')",TEA,trastornos del espectro autista,1
+"('EPOC', 'enfermedad pulmonar obstructiva cronica')",EPOC,enfermedad pulmonar obstructiva cronica,1
+"('TAB', 'tasa anualizada de brotes')",TAB,tasa anualizada de brotes,1
+"('IMSS', 'instituto mexicano seguro social')",IMSS,instituto mexicano seguro social,1
+"('SJ', 'squat jump')",SJ,squat jump,1
+"('BRIEF', 'behavior rating inventory of executive function')",BRIEF,behavior rating inventory of executive function,1
+"('TaDiCS ®', 'tablero dinamico de cubos y signos')",TaDiCS ®,tablero dinamico de cubos y signos,1
+"('FRC', 'fatiga relacionada con el cáncer')",FRC,fatiga relacionada con el cáncer,1
+"('ILT', 'incapacidad laboral transitoria')",ILT,incapacidad laboral transitoria,1
+"('EM', 'esclerosis multiple')",EM,esclerosis multiple,1
+"('ELEP', 'estudio longitudinal de pacientes con enfermedad de parkinson')",ELEP,estudio longitudinal de pacientes con enfermedad de parkinson,1
+"('INE', 'instituto nacional de estadística')",INE,instituto nacional de estadística,1

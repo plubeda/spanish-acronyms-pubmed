@@ -1,0 +1,245 @@
+pair,acronym,description,frequency
+"('Sinasc', 'sistema de informações sobre nascidos vivos')",Sinasc,sistema de informações sobre nascidos vivos,1
+"('BPN', 'bajo peso al nacer')",BPN,bajo peso al nacer,3
+"('PEG', 'para su edad gestacional')",PEG,para su edad gestacional,1
+"('PTFE', 'politetrafluoroetileno expandido')",PTFE,politetrafluoroetileno expandido,1
+"('PEG', 'para la edad gestacional')",PEG,para la edad gestacional,1
+"('NPT', 'nutricion parental total')",NPT,nutricion parental total,1
+"('R.A.B.D.H.', 'reflejo aurículo-braquio-dorsal heterolateral')",R.A.B.D.H.,reflejo aurículo-braquio-dorsal heterolateral,1
+"('TMI', 'tasa de mortalidad infantil')",TMI,tasa de mortalidad infantil,1
+"('PN', 'peso al nacimiento')",PN,peso al nacimiento,1
+"('TMP', 'tasa de mortalidad posneonatal')",TMP,tasa de mortalidad posneonatal,1
+"('RNMBP', 'recién nacido de muy bajo peso')",RNMBP,recién nacido de muy bajo peso,1
+"('ECLAMC', 'estudio colaborativo latino americano de malformaciones congénitas')",ECLAMC,estudio colaborativo latino americano de malformaciones congénitas,2
+"('CD', 'cociente de desarrollo')",CD,cociente de desarrollo,1
+"('TANIT', 'tamiz auditivo neonatal e intervención temprana')",TANIT,tamiz auditivo neonatal e intervención temprana,1
+"('TRA', 'técnicas de reproducción asistida')",TRA,técnicas de reproducción asistida,1
+"('EXIT', 'ex-utero intrapartum treatment')",EXIT,ex-utero intrapartum treatment,1
+"('FIVTE', 'fertilización in vitro con transferencia de embriones')",FIVTE,fertilización in vitro con transferencia de embriones,1
+"('SEIMC', 'sociedad española de enfermedades infecciosas y microbiología clínica')",SEIMC,sociedad española de enfermedades infecciosas y microbiología clínica,1
+"('PVE', 'pie varus equino congénito')",PVE,pie varus equino congénito,1
+"('IgE', 'inmunoglobulina e')",IgE,inmunoglobulina e,1
+"('NAV', 'neumonía asociada a ventilador')",NAV,neumonía asociada a ventilador,1
+"('RENAC', 'red nacional de anomalías congénitas')",RENAC,red nacional de anomalías congénitas,2
+"('SAAS', 'sin antecedente de abuso sexual')",SAAS,sin antecedente de abuso sexual,1
+"('CCUSG-061', 'coordinación de urgencias sanitarias de galicia-061')",CCUSG-061,coordinación de urgencias sanitarias de galicia-061,1
+"('CIR', 'crecimiento intrauterino')",CIR,crecimiento intrauterino,1
+"('IC 95%', 'intervalo de confianza del 95%')",IC 95%,intervalo de confianza del 95%,1
+"('IN', 'infección nosocomial')",IN,infección nosocomial,1
+"('NPT', 'nutrición parenteral')",NPT,nutrición parenteral,1
+"('BPT', 'bajo peso a término')",BPT,bajo peso a término,1
+"('LH', 'leche humana')",LH,leche humana,1
+"('AAS', 'antecedente de abuso sexual')",AAS,antecedente de abuso sexual,1
+"('LME', 'lactancia materna exclusiva')",LME,lactancia materna exclusiva,2
+"('RNP-BP', 'recién nacido prematuro hospitalizado de bajo peso')",RNP-BP,recién nacido prematuro hospitalizado de bajo peso,1
+"('FC', 'fenilcetonuria')",FC,fenilcetonuria,1
+"('Red INMA', ""red de investigación 'infancia y medio ambiente'"")",Red INMA,red de investigación 'infancia y medio ambiente',1
+"('DM', 'diabetes mellitus')",DM,diabetes mellitus,1
+"('CID', 'coagulación intravascular diseminada')",CID,coagulación intravascular diseminada,1
+"('HACRE', 'hidroarsenicismo crónico regional endémico')",HACRE,hidroarsenicismo crónico regional endémico,1
+"('DI', 'duplicaciones intestinales')",DI,duplicaciones intestinales,1
+"('SCV', 'secreción cervicovaginal')",SCV,secreción cervicovaginal,1
+"('ROP', 'retinopatía del prematuro')",ROP,retinopatía del prematuro,1
+"('DCP', 'desnutrición calórico-proteica')",DCP,desnutrición calórico-proteica,1
+"('RN', 'recién nacido')",RN,recién nacido,4
+"('FI', 'fracaso intestinal')",FI,fracaso intestinal,1
+"('MDA', 'malondialdehído')",MDA,malondialdehído,1
+"('SEPAR', 'sociedad española de neumología y cirugía torácica')",SEPAR,sociedad española de neumología y cirugía torácica,1
+"('CIE-9', 'clasificación internacional de enfermedades, 9.(a) revisión')",CIE-9,"clasificación internacional de enfermedades, 9.(a) revisión",1
+"('SENPE', 'sociedad espanola de nutricion parenteral y enteral')",SENPE,sociedad espanola de nutricion parenteral y enteral,1
+"('FETI', 'fetal endosc6pica')",FETI,fetal endosc6pica,1
+"('S.F.A', 'síndrome fetal alcohólico')",S.F.A,síndrome fetal alcohólico,1
+"('LIHC', 'lesiones isquémico hemorrágicas cerebrales')",LIHC,lesiones isquémico hemorrágicas cerebrales,1
+"('DR', 'dificultad respiratoria')",DR,dificultad respiratoria,1
+"('INMA', 'infancia y medio ambiente')",INMA,infancia y medio ambiente,1
+"('MN', 'meningitis neonatal')",MN,meningitis neonatal,1
+"('TGO', 'transaminasa glutamico oxalacetica')",TGO,transaminasa glutamico oxalacetica,1
+"('DCI', 'desnutrición crónica infantil')",DCI,desnutrición crónica infantil,1
+"('FNf', 'fibronectina fetal')",FNf,fibronectina fetal,1
+"('CI', 'cociente intelectual')",CI,cociente intelectual,1
+"('RNPT', 'recién nacidos prematuros')",RNPT,recién nacidos prematuros,1
+"('IC 95%', 'intervalos de confianza al 95%')",IC 95%,intervalos de confianza al 95%,2
+"('CET', 'complejo esclerosis tuberosa')",CET,complejo esclerosis tuberosa,1
+"('BCCU', 'banco de células de\xa0cordón umbilical')",BCCU,banco de células de cordón umbilical,1
+"('PIVh', 'parainfluenza virus humano')",PIVh,parainfluenza virus humano,1
+"('E.C.E.P.', 'escherichia coli enteropatógeno clásico')",E.C.E.P.,escherichia coli enteropatógeno clásico,1
+"('GEN-VN', 'grupo de estudios neonatales vasco-navarro')",GEN-VN,grupo de estudios neonatales vasco-navarro,1
+"('OMS', 'organización mundial de la salud')",OMS,organización mundial de la salud,3
+"('casos', 'controles, en 123 recién nacidos de bajo peso')",casos,"controles, en 123 recién nacidos de bajo peso",1
+"('SDG', 'semanas de gestación')",SDG,semanas de gestación,1
+"('CAVC', 'canal atrioventricular completo')",CAVC,canal atrioventricular completo,1
+"('IVA', 'isovalérica')",IVA,isovalérica,1
+"('SM', 'síndrome metabólico')",SM,síndrome metabólico,1
+"('HSRV', 'hiperplasia suprarrenal virilizante')",HSRV,hiperplasia suprarrenal virilizante,1
+"('HR', 'hazard ratio')",HR,hazard ratio,1
+"('LA', 'lactancia artificial')",LA,lactancia artificial,1
+"('IC 95%', 'intervalos de confianza al 95 %')",IC 95%,intervalos de confianza al 95 %,1
+"('MARS', 'multivariate adaptative regression splines')",MARS,multivariate adaptative regression splines,1
+"('SMSL', 'síndrome de la muerte súbita del lactante')",SMSL,síndrome de la muerte súbita del lactante,2
+"('PN', 'peso al nacer')",PN,peso al nacer,1
+"('SN', 'síndrome de netherton')",SN,síndrome de netherton,1
+"('ISD', 'inventario de la situación diagnóstica')",ISD,inventario de la situación diagnóstica,1
+"('IC', 'intervalo de confianza')",IC,intervalo de confianza,1
+"('NED', 'nutrición enteral domiciliaria')",NED,nutrición enteral domiciliaria,1
+"('BGN-MR', 'bacilos gram-negativos multirresistentes')",BGN-MR,bacilos gram-negativos multirresistentes,1
+"('IPI', 'indice ponderal intrauterino')",IPI,indice ponderal intrauterino,1
+"('SINAN', 'sistema de información de enfermedades de notificación')",SINAN,sistema de información de enfermedades de notificación,1
+"('VIH', 'virus de inmunodeficiencia humana')",VIH,virus de inmunodeficiencia humana,1
+"('SDR', 'síndrome de dificultad respiratoria')",SDR,síndrome de dificultad respiratoria,2
+"('ES/E', 'estatura sentada/estatura')",ES/E,estatura sentada/estatura,1
+"('IRA', 'infección respiratoria aguda')",IRA,infección respiratoria aguda,2
+"('NIE III', 'neoplasia intraepitelial de alto grado')",NIE III,neoplasia intraepitelial de alto grado,1
+"('SIRI', 'síndrome de insuficiencia respiratoria idiopática')",SIRI,síndrome de insuficiencia respiratoria idiopática,1
+"('SNS', 'sistema de nutrición suplementaria para lactar')",SNS,sistema de nutrición suplementaria para lactar,1
+"('CI', 'coeficiente intelectual')",CI,coeficiente intelectual,1
+"('IC95%', 'intervalos de confianza del 95%')",IC95%,intervalos de confianza del 95%,1
+"('VHB', 'virus de la hepatitis b')",VHB,virus de la hepatitis b,2
+"('TMI-MC', 'tasa de mortalidad infantil por mc')",TMI-MC,tasa de mortalidad infantil por mc,1
+"('IC', 'indicadores de calidad')",IC,indicadores de calidad,1
+"('EHI', 'encefalopatía hipóxico-isquémica')",EHI,encefalopatía hipóxico-isquémica,1
+"('PC/E', 'perímetro cefálico/estatura')",PC/E,perímetro cefálico/estatura,1
+"('DE', 'disruptores endocrinos')",DE,disruptores endocrinos,1
+"('Rn', 'recién nacidos')",Rn,recién nacidos,1
+"('VIH', 'virus de la inmunodeficiencia humana')",VIH,virus de la inmunodeficiencia humana,3
+"('RNTI', 'registro nacional de tumores infantiles')",RNTI,registro nacional de tumores infantiles,1
+"('TAR', 'trombocitopenia con aplasia de radio')",TAR,trombocitopenia con aplasia de radio,1
+"('ESPII', 'emergencia de salud pública de importancia internacional')",ESPII,emergencia de salud pública de importancia internacional,1
+"('RNT', 'recién nacidos a término')",RNT,recién nacidos a término,1
+"('Hib', 'h influenzae tipo b')",Hib,h influenzae tipo b,1
+"('IR', 'insuficiencia respiratoria')",IR,insuficiencia respiratoria,1
+"('TG', 'triglicéridos')",TG,triglicéridos,1
+"('PIB', 'producto interno bruto')",PIB,producto interno bruto,1
+"('CEC', 'circulación extracorpórea')",CEC,circulación extracorpórea,1
+"('UCIN', 'unidades de cuidados intensivos neonatales')",UCIN,unidades de cuidados intensivos neonatales,1
+"('IP', 'indicadores de proceso')",IP,indicadores de proceso,1
+"('SU', 'servicio de urgencias')",SU,servicio de urgencias,1
+"('HG', 'hospital garrahan')",HG,hospital garrahan,1
+"('TMN', 'tasa de mortalidad neonatal')",TMN,tasa de mortalidad neonatal,1
+"('MN', 'mortalidad neonatal')",MN,mortalidad neonatal,1
+"('NPD', 'nutrición parenteral domiciliaria')",NPD,nutrición parenteral domiciliaria,3
+"('LAP', 'leucinoaminopeptidasa')",LAP,leucinoaminopeptidasa,1
+"('CT', 'cintigrafía tiroidea')",CT,cintigrafía tiroidea,1
+"('D.V.T.A.', 'drenaje venoso pulmonar anómalo total')",D.V.T.A.,drenaje venoso pulmonar anómalo total,1
+"('SDRA', 'síndrome de dificultad respiratoria aguda')",SDRA,síndrome de dificultad respiratoria aguda,1
+"('PAI', 'programa ampliado de inmunizaciones')",PAI,programa ampliado de inmunizaciones,1
+"('LAP', 'leucinaminopeptidasis')",LAP,leucinaminopeptidasis,1
+"('DEI', 'descargas epileptiformes intercriticas')",DEI,descargas epileptiformes intercriticas,1
+"('PRISMA', 'preferred reporting items in systematic\xa0reviews and meta-analyses')",PRISMA,preferred reporting items in systematic reviews and meta-analyses,1
+"('SEMP', 'superficie especial del manejo de la presión')",SEMP,superficie especial del manejo de la presión,1
+"('EE', 'epileptico')",EE,epileptico,1
+"('PEG', 'para edad gestacional')",PEG,para edad gestacional,1
+"('DHA', 'docosahexaenoico')",DHA,docosahexaenoico,2
+"('C.U.A.A.', 'centro universitario de atencion del adolescente')",C.U.A.A.,centro universitario de atencion del adolescente,1
+"('ARAHIP', 'atención integral del recién nacido con agresión hipóxico-isquémica perinatal')",ARAHIP,atención integral del recién nacido con agresión hipóxico-isquémica perinatal,1
+"('ECV', 'enfermedad cerebrovascular')",ECV,enfermedad cerebrovascular,1
+"('FN', 'funduplicatura de nissen')",FN,funduplicatura de nissen,1
+"('DFT', 'defibrótido')",DFT,defibrótido,1
+"('HB Ag', 'hepatitis antígeno australia')",HB Ag,hepatitis antígeno australia,1
+"('AFP', 'alfa-fetoproteína')",AFP,alfa-fetoproteína,1
+"('PPT', 'partos pretérmino')",PPT,partos pretérmino,1
+"('VHC', 'virus de hepatitis c')",VHC,virus de hepatitis c,1
+"('PCA', 'persistencia del conducto arterioso')",PCA,persistencia del conducto arterioso,2
+"('PMC', 'programa madre canguro')",PMC,programa madre canguro,1
+"('LCR', 'liquido cefalorraquideo')",LCR,liquido cefalorraquideo,1
+"('ENT', 'enfermedades no transmisibles')",ENT,enfermedades no transmisibles,1
+"('SDRI', 'sindroma de fificultad respiratoria idiopática')",SDRI,sindroma de fificultad respiratoria idiopática,1
+"('TGP', 'transaminasa glutamico piruvica')",TGP,transaminasa glutamico piruvica,1
+"('PP', 'peso placentario')",PP,peso placentario,1
+"('PNB', 'péptido natriurético b')",PNB,péptido natriurético b,1
+"('PAS', 'presión arterial sistólica')",PAS,presión arterial sistólica,1
+"('CCC', 'congènita crítica')",CCC,congènita crítica,1
+"('SDRI', 'síndrome de distress respiratorio idiopático')",SDRI,síndrome de distress respiratorio idiopático,1
+"('TMI', 'tasas de mortalidad infantil')",TMI,tasas de mortalidad infantil,1
+"('CVC', 'catéteres venosos centrales')",CVC,catéteres venosos centrales,1
+"('THAM', 'tris(hidroximetil)amino-metane')",THAM,tris(hidroximetil)amino-metane,1
+"('VIH-1', 'virus de inmunodeficiencia humana tipo 1')",VIH-1,virus de inmunodeficiencia humana tipo 1,1
+"('TMFT', 'tasa de mortalidad fetal total')",TMFT,tasa de mortalidad fetal total,1
+"('CFP', 'cefditoreno pivoxilo')",CFP,cefditoreno pivoxilo,1
+"('ECN', 'enterocolitis necrotizante')",ECN,enterocolitis necrotizante,1
+"('IRAB', 'ira baja')",IRAB,ira baja,1
+"('SCU', 'sangre de cordón umbilical')",SCU,sangre de cordón umbilical,1
+"('TC', 'tomografía computarizada')",TC,tomografía computarizada,1
+"('CONIN', 'corporación para la nutrición infantil')",CONIN,corporación para la nutrición infantil,1
+"('UITB', 'unidad de investigación en tuberculosis de barcelona')",UITB,unidad de investigación en tuberculosis de barcelona,1
+"('AHA', 'american heart association')",AHA,american heart association,1
+"('VM', 'ventilación mecánica')",VM,ventilación mecánica,2
+"('RR', 'riesgos relativos')",RR,riesgos relativos,1
+"('EGB', 'estreptococo del grupo b')",EGB,estreptococo del grupo b,1
+"('SRAS', 'síndrome respiratorio agudo severo')",SRAS,síndrome respiratorio agudo severo,1
+"('NPT', 'nutrición parenteral total')",NPT,nutrición parenteral total,1
+"('SUP', 'servicios de urgencias pediátricos')",SUP,servicios de urgencias pediátricos,1
+"('NAVM', 'neumonía asociada a ventilación mecánica')",NAVM,neumonía asociada a ventilación mecánica,1
+"('SEPN1', 'selenoproteina 1')",SEPN1,selenoproteina 1,1
+"('A.H.F.', 'anemia hipocroma ferropriva')",A.H.F.,anemia hipocroma ferropriva,1
+"('Hb', 'hemoglobina plasmática')",Hb,hemoglobina plasmática,1
+"('SNT', 'sepsis neonatal temprana')",SNT,sepsis neonatal temprana,1
+"('Pt', 'puntuaciones típicas')",Pt,puntuaciones típicas,1
+"('SD', 'síndrome de down')",SD,síndrome de down,1
+"('SIC', 'síndrome de intestino corto')",SIC,síndrome de intestino corto,3
+"('EEG-V', 'eeg de vigilia')",EEG-V,eeg de vigilia,1
+"('ECN', 'enterocolitis necrosante')",ECN,enterocolitis necrosante,1
+"('S.M.S.L.', 'síndrome de la muerte súbita del lactante')",S.M.S.L.,síndrome de la muerte súbita del lactante,1
+"('SIGN', 'scottish intercollegiate guidelines network')",SIGN,scottish intercollegiate guidelines network,1
+"('IRA', 'infecciones respiratorias agudas')",IRA,infecciones respiratorias agudas,2
+"('EIC', 'ecocardiografía intracardíaca')",EIC,ecocardiografía intracardíaca,1
+"('INPer', 'instituto nacional de perinatología')",INPer,instituto nacional de perinatología,1
+"('AP', 'asfixia perinatal')",AP,asfixia perinatal,1
+"('VIH', 'virus de la immunodeficiencia humana')",VIH,virus de la immunodeficiencia humana,3
+"('ERT', 'enfermedad renal terminal')",ERT,enfermedad renal terminal,1
+"('C.I.E.', 'colestasia intrahepática del embarazo')",C.I.E.,colestasia intrahepática del embarazo,1
+"('TD', 'test de denver')",TD,test de denver,1
+"('EEG-PS', 'eeg de privacion de sueño')",EEG-PS,eeg de privacion de sueño,1
+"('LM', 'lactancia materna')",LM,lactancia materna,3
+"('DG6F', 'de la glucosa 6-fosfato')",DG6F,de la glucosa 6-fosfato,1
+"('GEEDP', 'grupo español para el estudio del dolor pediátrico')",GEEDP,grupo español para el estudio del dolor pediátrico,1
+"('VIH-2', 'virus de la inmunodeficiencia humana de tipo 2')",VIH-2,virus de la inmunodeficiencia humana de tipo 2,1
+"('HUM Mederi', 'hospital universitario mayor mederi')",HUM Mederi,hospital universitario mayor mederi,1
+"('NP', 'nutrición parenteral')",NP,nutrición parenteral,1
+"('NBI', 'necesidades básicas insatisfechas')",NBI,necesidades básicas insatisfechas,1
+"('CMV', 'citomegalovirus')",CMV,citomegalovirus,1
+"('PTUIP', 'programa de tamizaje universal e intervención precoz')",PTUIP,programa de tamizaje universal e intervención precoz,1
+"('HC', 'hipotiroidismo congénito')",HC,hipotiroidismo congénito,1
+"('IDCV', 'inmunodeficiencia común variable')",IDCV,inmunodeficiencia común variable,1
+"('MLA', 'malformación linfática abdominal')",MLA,malformación linfática abdominal,1
+"('S.D.R.I.', 'síndrome de dificultad respiratoria idiopática')",S.D.R.I.,síndrome de dificultad respiratoria idiopática,1
+"('BP', 'bajo peso')",BP,bajo peso,1
+"('GESIDA', 'grupo de estudio de sida')",GESIDA,grupo de estudio de sida,1
+"('VRS', 'virus respiratorio sincicial')",VRS,virus respiratorio sincicial,1
+"('DHAS', 'dehidroepiandrosterona sulfato')",DHAS,dehidroepiandrosterona sulfato,1
+"('ROP', 'retinopatía del prematuro""')",ROP,"retinopatía del prematuro""",1
+"('TIR', 'tuberculosis e infecciones respiratorias')",TIR,tuberculosis e infecciones respiratorias,1
+"('MPVh', 'metapneumovirus humano')",MPVh,metapneumovirus humano,1
+"('SOP', 'síndrome de ovario poliquístico')",SOP,síndrome de ovario poliquístico,1
+"('GGT', 'gama glutamil transferasa')",GGT,gama glutamil transferasa,1
+"('TEA', 'trastornos del espectro autista')",TEA,trastornos del espectro autista,1
+"('ST', 'sepsis tardía')",ST,sepsis tardía,1
+"('BP', 'bordetella pertussis')",BP,bordetella pertussis,1
+"('VMI', 'ventilación mandatoria intermitente')",VMI,ventilación mandatoria intermitente,1
+"('UCIN', 'unidad de cuidados intensivos neonatales')",UCIN,unidad de cuidados intensivos neonatales,2
+"('VIH-1', 'virus de la inmunodeficiencia humana tipo 1')",VIH-1,virus de la inmunodeficiencia humana tipo 1,1
+"('ERC', 'enfermedades respiratorias crónicas')",ERC,enfermedades respiratorias crónicas,1
+"('LCR', 'líquido cefalorraquídeo')",LCR,líquido cefalorraquídeo,1
+"('EEG', 'electroencefalografia')",EEG,electroencefalografia,1
+"('MCF', 'malformaciones creaneofaciales')",MCF,malformaciones creaneofaciales,1
+"('FA', 'fosfatasa alcalina')",FA,fosfatasa alcalina,1
+"('TMI', 'transmisión materno-infantil')",TMI,transmisión materno-infantil,1
+"('SEFH', 'sociedad espanola de farmacia hospitalaria')",SEFH,sociedad espanola de farmacia hospitalaria,1
+"('ECLAMC', 'estudio colaborativo latinoamericano de malformaciones congénitas')",ECLAMC,estudio colaborativo latinoamericano de malformaciones congénitas,2
+"('RM', 'razón de momios')",RM,razón de momios,2
+"('MC', 'malformaciones congénitas')",MC,malformaciones congénitas,1
+"('NADYA', 'nutrición artificial domiciliaria y ambulatoria')",NADYA,nutrición artificial domiciliaria y ambulatoria,1
+"('CIE', 'classificación internacional de enfermedades')",CIE,classificación internacional de enfermedades,1
+"('BT', 'bilirrubina total')",BT,bilirrubina total,1
+"('RCIU', 'restricción del crecimiento intrauterino')",RCIU,restricción del crecimiento intrauterino,1
+"('OR', 'odds ratio')",OR,odds ratio,3
+"('RVU', 'reflujo vesicoureteral')",RVU,reflujo vesicoureteral,1
+"('CABA', 'ciudad autónoma de buenos aires')",CABA,ciudad autónoma de buenos aires,1
+"('EKI', 'enfermedad de kawasaki incompleta')",EKI,enfermedad de kawasaki incompleta,1
+"('SDR', 'síndrome de distrés respiratorio')",SDR,síndrome de distrés respiratorio,1
+"('RNHMD', 'recién nacido hijo de madre diabética')",RNHMD,recién nacido hijo de madre diabética,2
+"('VRS', 'virus respiratorio sincitial')",VRS,virus respiratorio sincitial,2
+"('RN', 'recién nacidos')",RN,recién nacidos,8
+"('AC', 'anomalías congénitas')",AC,anomalías congénitas,1
+"('EC', 'enfermero de consulta')",EC,enfermero de consulta,1
+"('CIV', 'comunicación interventricular aislada')",CIV,comunicación interventricular aislada,1
+"('EG', 'edad gestacional')",EG,edad gestacional,2

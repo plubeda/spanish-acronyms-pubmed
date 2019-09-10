@@ -1,0 +1,73 @@
+pair,acronym,description,frequency
+"('VPP', 'valor predictivo positivo')",VPP,valor predictivo positivo,1
+"('VRI', 'vena renal izquierda')",VRI,vena renal izquierda,1
+"('PET/TC', 'positrones/tomografía computarizada')",PET/TC,positrones/tomografía computarizada,1
+"('DM', 'detorsión testicular manual')",DM,detorsión testicular manual,1
+"('DM', 'diabetes mellitus')",DM,diabetes mellitus,1
+"('SUH', 'servicio urgencias hospitalario')",SUH,servicio urgencias hospitalario,1
+"('MAR', 'malformaciones anorrectales')",MAR,malformaciones anorrectales,1
+"('PAAF', 'punción-aspiración con aguja fina')",PAAF,punción-aspiración con aguja fina,1
+"('SEN', 'sociedad española de neurología')",SEN,sociedad española de neurología,2
+"('ATP', 'angioplastía transluminal percutánea')",ATP,angioplastía transluminal percutánea,1
+"('SAHS', 'síndrome de apneas-hipopneas del sueño')",SAHS,síndrome de apneas-hipopneas del sueño,1
+"('GEP', 'gastrostomía endoscópica percutánea')",GEP,gastrostomía endoscópica percutánea,1
+"('Se', 'sensibilidad')",Se,sensibilidad,1
+"('SERVEI', 'sociedad española de radiología vascular e intervencionista')",SERVEI,sociedad española de radiología vascular e intervencionista,2
+"('PE', 'pectus excavatum')",PE,pectus excavatum,2
+"('SM', 'síndrome metabólico')",SM,síndrome metabólico,1
+"('CPP', 'cociente de probabilidad positivo')",CPP,cociente de probabilidad positivo,1
+"('SEUS', 'sociedad española de imagen en ultrasonidos')",SEUS,sociedad española de imagen en ultrasonidos,1
+"('SCD', 'síndrome de costilla deslizante')",SCD,síndrome de costilla deslizante,1
+"('DC', 'dismorfia costal')",DC,dismorfia costal,1
+"('SENR', 'sociedad española de neurorradiología')",SENR,sociedad española de neurorradiología,3
+"('MDR', 'multirresistencia a drogas')",MDR,multirresistencia a drogas,1
+"('PHH', 'porcentaje de hígado herniado')",PHH,porcentaje de hígado herniado,1
+"('AOMI', 'arteriopatía obliterante de miembros inferiores')",AOMI,arteriopatía obliterante de miembros inferiores,1
+"('VIH', 'virus de la inmunodeficiencia humana')",VIH,virus de la inmunodeficiencia humana,1
+"('SEIP', 'sociedad española de infectología pediátrica')",SEIP,sociedad española de infectología pediátrica,1
+"('TET', 'tubo endotraqueal')",TET,tubo endotraqueal,1
+"('TT', 'testicular')",TT,testicular,1
+"('EHS', 'encefalitis por herpes simple')",EHS,encefalitis por herpes simple,1
+"('CPN', 'cociente de probabilidad negativo')",CPN,cociente de probabilidad negativo,1
+"('LHR o/e', 'lung to head ratio observado/esperado')",LHR o/e,lung to head ratio observado/esperado,1
+"('VCI', 'vena cava inferior')",VCI,vena cava inferior,1
+"('HDC', 'hernia diafragmática congénita')",HDC,hernia diafragmática congénita,1
+"('TCH', 'tomografía computada helicoidal')",TCH,tomografía computada helicoidal,1
+"('SENEC', 'sociedades españolas de neurocirugía')",SENEC,sociedades españolas de neurocirugía,1
+"('CMC', 'ciclo de mejora continua')",CMC,ciclo de mejora continua,1
+"('RVI', 'radiología vascular intervencionista')",RVI,radiología vascular intervencionista,2
+"('RM', 'resonancia magnética fetal')",RM,resonancia magnética fetal,1
+"('PR', 'prostatectomía\xa0radical')",PR,prostatectomía radical,1
+"('PA', 'pancreatitis aguda')",PA,pancreatitis aguda,1
+"('ROLL', 'radioguiada de lesiones ocultas de mama')",ROLL,radioguiada de lesiones ocultas de mama,1
+"('SCP', 'scale for contraversive pushing')",SCP,scale for contraversive pushing,1
+"('Es', 'especificidad')",Es,especificidad,1
+"('GEECV', 'grupo de estudio de enfermedades cerebrovasculares')",GEECV,grupo de estudio de enfermedades cerebrovasculares,2
+"('Pt', 'puntuaciones típicas')",Pt,puntuaciones típicas,1
+"('EIC', 'ecocardiografía intracardíaca')",EIC,ecocardiografía intracardíaca,1
+"('FEVD', 'fracción de eyección del ventrículo derecho')",FEVD,fracción de eyección del ventrículo derecho,1
+"('QETA', 'quimioembolización transarterial')",QETA,quimioembolización transarterial,1
+"('SENEC', 'sociedad española de neurocirugía')",SENEC,sociedad española de neurocirugía,2
+"('RMN', 'resonancia magnética nuclear')",RMN,resonancia magnética nuclear,1
+"('AT', 'arteritis de takayasu')",AT,arteritis de takayasu,1
+"('SENP', 'sociedad española de neumología pediátrica')",SENP,sociedad española de neumología pediátrica,1
+"('HNERM', 'hospital nacionaledgardo rebagliati martins')",HNERM,hospital nacionaledgardo rebagliati martins,1
+"('SPSC', 'shunt porto-sistémico congénito')",SPSC,shunt porto-sistémico congénito,1
+"('GENI', 'grupo español de neurorradiología intervencionista')",GENI,grupo español de neurorradiología intervencionista,3
+"('RMC', 'resonancia magnética cardiovascular')",RMC,resonancia magnética cardiovascular,1
+"('EM', 'esclerosis múltiple')",EM,esclerosis múltiple,1
+"('TRUS', 'transrectal guiada por ultrasonidos')",TRUS,transrectal guiada por ultrasonidos,1
+"('AMS', 'arteria mesentérica superior')",AMS,arteria mesentérica superior,2
+"('RM', 'resonancia magnética')",RM,resonancia magnética,2
+"('VPI', 'volumen pulmonar ipsilateral')",VPI,volumen pulmonar ipsilateral,1
+"('TCMC', 'tc multicorte')",TCMC,tc multicorte,1
+"('MT', 'microlitiasis testicular')",MT,microlitiasis testicular,1
+"('API', 'arteria pudenda interna')",API,arteria pudenda interna,1
+"('VHS', 'virus del herpes simple')",VHS,virus del herpes simple,1
+"('CT', 'computarizada')",CT,computarizada,1
+"('TC', 'tomografía computada')",TC,tomografía computada,2
+"('AP', 'anteroposterior')",AP,anteroposterior,1
+"('TH', 'traumatismos hepáticos')",TH,traumatismos hepáticos,1
+"('II', 'inferior')",II,inferior,1
+"('VPN', 'valor predictivo negativo')",VPN,valor predictivo negativo,1
+"('BAAF', 'biopsia con aguja fina')",BAAF,biopsia con aguja fina,1

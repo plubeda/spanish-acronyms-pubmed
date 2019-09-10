@@ -1,0 +1,34 @@
+pair,acronym,description,frequency
+"('H.P.I.', 'hemosiderosis pulmonar idiopática')",H.P.I.,hemosiderosis pulmonar idiopática,1
+"('PET/TC', 'positrones/tomografía computarizada')",PET/TC,positrones/tomografía computarizada,1
+"('TA', 'test de aliento')",TA,test de aliento,1
+"('CGD', 'colecistogammagrafía dinámica')",CGD,colecistogammagrafía dinámica,1
+"('CEA', 'carcinoembrionario')",CEA,carcinoembrionario,1
+"('IL-1 beta', 'interleucina 1 beta')",IL-1 beta,interleucina 1 beta,1
+"('PE', 'pectus excavatum')",PE,pectus excavatum,1
+"('SC', 'sulfuro coloidal')",SC,sulfuro coloidal,1
+"('SEMN', 'sociedad española de medicina nuclear')",SEMN,sociedad española de medicina nuclear,1
+"('FDG', 'fluoro-desoxiglucosa')",FDG,fluoro-desoxiglucosa,1
+"('VIH', 'virus de la inmunodeficiencia humana')",VIH,virus de la inmunodeficiencia humana,1
+"('Hp', 'helicobacter pylori')",Hp,helicobacter pylori,1
+"('PET-TC', 'positrones-tomografía computarizada')",PET-TC,positrones-tomografía computarizada,1
+"('GC', 'ganglio centinela')",GC,ganglio centinela,1
+"('ERC', 'enfermedad renal crónica')",ERC,enfermedad renal crónica,1
+"('DDD I-131', 'dicloro-difenil-dicloroetano i-131')",DDD I-131,dicloro-difenil-dicloroetano i-131,1
+"('CT', 'cintigrafía tiroidea')",CT,cintigrafía tiroidea,1
+"('SM', 'síndrome de marfan')",SM,síndrome de marfan,1
+"('SS', 'similares')",SS,similares,1
+"('TC', 'trasplante cardíaco')",TC,trasplante cardíaco,1
+"('ROLL', 'radioguiada de lesiones ocultas de mama')",ROLL,radioguiada de lesiones ocultas de mama,1
+"('H.I.', 'hipercalciuria idiopática')",H.I.,hipercalciuria idiopática,1
+"('IL-2', 'interleucina 2')",IL-2,interleucina 2,1
+"('CDT', 'cáncer diferenciado de tiroides')",CDT,cáncer diferenciado de tiroides,1
+"('UID', 'urografía isotópico diurética')",UID,urografía isotópico diurética,1
+"('VG', 'vaciamiento gástrico')",VG,vaciamiento gástrico,1
+"('HC', 'hipotiroidismo congénito')",HC,hipotiroidismo congénito,1
+"('AMA', 'antimiosina')",AMA,antimiosina,1
+"('PET/CT', 'positrones-tomografía computada')",PET/CT,positrones-tomografía computada,1
+"('PC', 'pectus carinatum')",PC,pectus carinatum,1
+"('SEC', 'sociedad española de cardiología')",SEC,sociedad española de cardiología,1
+"('FP-CIT', 'fluoropropil-2ßcarbometoxi-3ß-(4-iodofenil) nortropano')",FP-CIT,fluoropropil-2ßcarbometoxi-3ß-(4-iodofenil) nortropano,1
+"('RN', 'recién nacidos')",RN,recién nacidos,1

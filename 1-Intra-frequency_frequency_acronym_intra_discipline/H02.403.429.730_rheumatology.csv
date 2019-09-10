@@ -1,0 +1,90 @@
+pair,acronym,description,frequency
+"('HADS', 'hospital anxiety and depression scale')",HADS,hospital anxiety and depression scale,1
+"('ANCA', 'anticitoplasma de neutrófilos')",ANCA,anticitoplasma de neutrófilos,1
+"('SAMe', 's-adenosil-l-metionina')",SAMe,s-adenosil-l-metionina,1
+"('EK', 'enfermedad de kawasaki')",EK,enfermedad de kawasaki,1
+"('KOOS', 'knee injury and osteoarthritis outcome score')",KOOS,knee injury and osteoarthritis outcome score,1
+"('SAAa', 'subluxación atlantoaxial anterior')",SAAa,subluxación atlantoaxial anterior,1
+"('VHS', 'vasculitis por hipersensibilidad')",VHS,vasculitis por hipersensibilidad,1
+"('SF', 'síndrome de fragilidad')",SF,síndrome de fragilidad,1
+"('SAF', 'síndrome antifosfolípidos')",SAF,síndrome antifosfolípidos,1
+"('MIP', 'modelo de impacto presupuestario')",MIP,modelo de impacto presupuestario,1
+"('SFC', 'síndrome de fatiga crónica')",SFC,síndrome de fatiga crónica,1
+"('TEP', 'tromboembolismo pulmonar')",TEP,tromboembolismo pulmonar,1
+"('PHA', 'por leucocitos mononucleares activados con fitohemaglutinina')",PHA,por leucocitos mononucleares activados con fitohemaglutinina,1
+"('P.C.P.', 'poliartritis crónica progresiva')",P.C.P.,poliartritis crónica progresiva,1
+"('AVE', 'acontecimientos vitales estresantes')",AVE,acontecimientos vitales estresantes,1
+"('GMSI', 'gamapatía monoclonal de significado indeterminado')",GMSI,gamapatía monoclonal de significado indeterminado,1
+"('VC', 'vasculitis cutáneas')",VC,vasculitis cutáneas,1
+"('HBPM', 'heparina de bajo peso molecular')",HBPM,heparina de bajo peso molecular,1
+"('BN', 'binomial negativa')",BN,binomial negativa,1
+"('ESPIDEP', 'estudio piloto de derivación de pacientes con espondiloartritis precoz')",ESPIDEP,estudio piloto de derivación de pacientes con espondiloartritis precoz,1
+"('PSH', 'púrpura de schönlein-henoch')",PSH,púrpura de schönlein-henoch,1
+"('PCR', 'proteína c reactiva')",PCR,proteína c reactiva,1
+"('SV', 'subluxación vertical')",SV,subluxación vertical,1
+"('GENTE', 'grupo de estudio de nuevas terapias de enfermedades reumáticas')",GENTE,grupo de estudio de nuevas terapias de enfermedades reumáticas,1
+"('SSp', 'síndrome de sjögren primario')",SSp,síndrome de sjögren primario,1
+"('IC 95%', 'intervalos de confianza al 95%')",IC 95%,intervalos de confianza al 95%,1
+"('CHCC', 'chapel hill consensus conference')",CHCC,chapel hill consensus conference,1
+"('ADA', 'adalimumab')",ADA,adalimumab,2
+"('AELO', 'antiestreptolisina o')",AELO,antiestreptolisina o,1
+"('FIQ', 'fibromyalgia impact questionnaire')",FIQ,fibromyalgia impact questionnaire,2
+"('IMID', 'inmunomediadas')",IMID,inmunomediadas,2
+"('RIER', 'red de investigación en inflamación y enfermedades reumáticas')",RIER,red de investigación en inflamación y enfermedades reumáticas,1
+"('ACR', 'american college of rheumatology')",ACR,american college of rheumatology,1
+"('IGEV', 'inmunogtlobulina g humana endovenosa')",IGEV,inmunogtlobulina g humana endovenosa,1
+"('ET', 'enseñanza tradicional')",ET,enseñanza tradicional,1
+"('ASLO', 'antiestreptolisina o')",ASLO,antiestreptolisina o,1
+"('A.R.', 'artritis reumatoidea')",A.R.,artritis reumatoidea,1
+"('CPAQ', 'chronic pain acceptance questionnaire')",CPAQ,chronic pain acceptance questionnaire,1
+"('URMES', 'urgencias reumatológicas y musculoesqueléticas')",URMES,urgencias reumatológicas y musculoesqueléticas,1
+"('AP', 'atención primaria')",AP,atención primaria,1
+"('MIR', 'médicos internos residentes')",MIR,médicos internos residentes,2
+"('AC', 'aprendizaje cooperativo')",AC,aprendizaje cooperativo,1
+"('AT', 'artritis temprana')",AT,artritis temprana,1
+"('SU', 'servicio de urgencias')",SU,servicio de urgencias,2
+"('EBH', 'estreptococo beta hemolítico')",EBH,estreptococo beta hemolítico,1
+"('COPCORD', 'comunidad para el control de enfermedades reumáticas')",COPCORD,comunidad para el control de enfermedades reumáticas,1
+"('FLL', 'fractura-luxación de lisfranc')",FLL,fractura-luxación de lisfranc,1
+"('AR', 'artritis reumatoide')",AR,artritis reumatoide,10
+"('AE', 'actividad de la enfermedad')",AE,actividad de la enfermedad,2
+"('CEAR', 'consorcio español para la artritis reumatoide')",CEAR,consorcio español para la artritis reumatoide,1
+"('ETN', 'etanercept')",ETN,etanercept,2
+"('IC', 'insuficiencia cardiaca')",IC,insuficiencia cardiaca,1
+"('MIR', 'médico interno residente')",MIR,médico interno residente,1
+"('M.I.T.', 'migración linfocitaria')",M.I.T.,migración linfocitaria,1
+"('IA', 'insuficiencia arterial')",IA,insuficiencia arterial,1
+"('TVP', 'trombosis venosa profunda')",TVP,trombosis venosa profunda,1
+"('FIWOS', 'first international workshop on ocular sarcoidosis')",FIWOS,first international workshop on ocular sarcoidosis,1
+"('YY-1', 'yang-1')",YY-1,yang-1,1
+"('ANCA', 'anticitoplasma de neutrófilo')",ANCA,anticitoplasma de neutrófilo,1
+"('ECRAF', 'european consortium for rheumatoid arthritis familiar')",ECRAF,european consortium for rheumatoid arthritis familiar,1
+"('HRV', 'hipertensión renovascular')",HRV,hipertensión renovascular,1
+"('CV', 'comunitat valenciana')",CV,comunitat valenciana,1
+"('DE', 'de 30,2 puntos')",DE,"de 30,2 puntos",1
+"('FISTAC', 'físicos del síndrome de temor a caerse en ancianos')",FISTAC,físicos del síndrome de temor a caerse en ancianos,1
+"('PAN', 'poliarteritis nodosa')",PAN,poliarteritis nodosa,1
+"('TTPA', 'tromboplastina parcial activada')",TTPA,tromboplastina parcial activada,1
+"('AT', 'arteritis de takayasu')",AT,arteritis de takayasu,1
+"('PAM', 'poliangeítis microscópica')",PAM,poliangeítis microscópica,2
+"('EVC', 'enfermedad cerebrovascular')",EVC,enfermedad cerebrovascular,1
+"('SAFP', 'síndrome antifosfolípido primario')",SAFP,síndrome antifosfolípido primario,1
+"('SChS', 'síndrome de churg-strauss')",SChS,síndrome de churg-strauss,1
+"('LEG', 'lupus eritematoso generalizado')",LEG,lupus eritematoso generalizado,1
+"('EAP', 'espondiloartropatias')",EAP,espondiloartropatias,1
+"('SIER-CV', 'sistema de información de enfermedades raras de la cv')",SIER-CV,sistema de información de enfermedades raras de la cv,1
+"('RETOSS', 'reumatología y osteoporosis')",RETOSS,reumatología y osteoporosis,1
+"('OI', 'osteogénesis imperfecta')",OI,osteogénesis imperfecta,1
+"('AMS', 'arteria mesentérica superior')",AMS,arteria mesentérica superior,1
+"('EAD', 'enfermedad articular degenerativa')",EAD,enfermedad articular degenerativa,1
+"('RM', 'razón de momios')",RM,razón de momios,1
+"('DAS28a', 'das28 al inicio')",DAS28a,das28 al inicio,1
+"('FR', 'factor reumatoide')",FR,factor reumatoide,1
+"('A.R.J', 'artritis reumatoidea juvenil')",A.R.J,artritis reumatoidea juvenil,1
+"('y II', 'y aurotiomalato sódico: una revisión comparada')",y II,y aurotiomalato sódico: una revisión comparada,1
+"('RAQoL', 'rheumatoid arthritis quality of life scale')",RAQoL,rheumatoid arthritis quality of life scale,1
+"('SS', 'síndrome de sjögren')",SS,síndrome de sjögren,2
+"('BNS', 'beneficio neto sanitario')",BNS,beneficio neto sanitario,1
+"('SCS', 'síndrome de churg-strauss')",SCS,síndrome de churg-strauss,1
+"('LES', 'lupus eritematoso sistémico')",LES,lupus eritematoso sistémico,3
+"('ECA', 'estudios clinicos aleatorizados y controlados')",ECA,estudios clinicos aleatorizados y controlados,1

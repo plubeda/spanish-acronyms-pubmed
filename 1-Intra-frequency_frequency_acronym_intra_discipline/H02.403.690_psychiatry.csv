@@ -1,0 +1,98 @@
+pair,acronym,description,frequency
+"('RVS', 'respuesta viral sobtenida')",RVS,respuesta viral sobtenida,1
+"('UDVP', 'uso de drogas por vía parenteral')",UDVP,uso de drogas por vía parenteral,1
+"('RIC', 'rango intercuartíl')",RIC,rango intercuartíl,1
+"('CDMX', 'ciudad de méxico')",CDMX,ciudad de méxico,1
+"('VHC', 'virus de la hepatitis c')",VHC,virus de la hepatitis c,1
+"('SMAQ', 'simplified medication adherence questionnaire')",SMAQ,simplified medication adherence questionnaire,2
+"('CBI', 'cambridge behavioural inventory')",CBI,cambridge behavioural inventory,1
+"('SAAS', 'sin antecedente de abuso sexual')",SAAS,sin antecedente de abuso sexual,1
+"('FX', 'fluoxetina')",FX,fluoxetina,1
+"('ARCI', 'addiction research center inventory')",ARCI,addiction research center inventory,1
+"('AAS', 'antecedente de abuso sexual')",AAS,antecedente de abuso sexual,1
+"('DIB-R', 'diagnostic interview for bordelines-revised')",DIB-R,diagnostic interview for bordelines-revised,1
+"('APOE', 'apolipoproteína e')",APOE,apolipoproteína e,1
+"('UDH', 'unidad de desintoxicacion hospitalaria')",UDH,unidad de desintoxicacion hospitalaria,1
+"('PEPs', 'primeros episodios psicóticos')",PEPs,primeros episodios psicóticos,1
+"('DDA', 'de atención e hiperactividad')",DDA,de atención e hiperactividad,1
+"('MPA', 'medidas penales alternativas')",MPA,medidas penales alternativas,1
+"('DO', 'dependencia a opiáceos')",DO,dependencia a opiáceos,1
+"('SOL', 'sueño de ondas lentas')",SOL,sueño de ondas lentas,1
+"('PSRs', 'puntuaciones sumarias recientes')",PSRs,puntuaciones sumarias recientes,1
+"('UCAD', 'unidad de conductas adictivas')",UCAD,unidad de conductas adictivas,1
+"('MOR', 'movimiento oculares rapidos')",MOR,movimiento oculares rapidos,1
+"('GEODA', 'grupo de estudio observacional de la dependencia alcohólica')",GEODA,grupo de estudio observacional de la dependencia alcohólica,1
+"('LACRE', 'latinoamericana en educación de residentes')",LACRE,latinoamericana en educación de residentes,1
+"('TDAH', 'trastorno por déficit de atención con hiperactividad')",TDAH,trastorno por déficit de atención con hiperactividad,1
+"('TMT', 'trail making test')",TMT,trail making test,1
+"('MNIO', 'monitoreo neurofisiológico intraoperatorio')",MNIO,monitoreo neurofisiológico intraoperatorio,1
+"('TAR', 'tratamiento antirretroviral')",TAR,tratamiento antirretroviral,1
+"('B/N', 'buprenorfina/naloxona (suboxone®)')",B/N,buprenorfina/naloxona (suboxone®),1
+"('ECIRyC', 'escala de control de los impulsos ramón y cajal')",ECIRyC,escala de control de los impulsos ramón y cajal,1
+"('LVQOL', 'low vision quality of life')",LVQOL,low vision quality of life,1
+"('DPNT', 'de la psicosis no tratada')",DPNT,de la psicosis no tratada,1
+"('HPM', 'hipotalamotomía posteromedial')",HPM,hipotalamotomía posteromedial,1
+"('SRO', 'síndrome referencial olfatorio')",SRO,síndrome referencial olfatorio,1
+"('VIH', 'virus de la inmunodeficiencia humana')",VIH,virus de la inmunodeficiencia humana,1
+"('NMDA', 'n-metil-d-aspartato')",NMDA,n-metil-d-aspartato,1
+"('UPE', 'unidad de porro estándar')",UPE,unidad de porro estándar,1
+"('MG', 'miastenia gravis')",MG,miastenia gravis,1
+"('SCB', 'sindrome de charles bonnet')",SCB,sindrome de charles bonnet,1
+"('HCC', 'hepatitis c crónica')",HCC,hepatitis c crónica,1
+"('APRI', 'adolescent peer relations instrument')",APRI,adolescent peer relations instrument,1
+"('TRS', 'terapia renal sustitutiva')",TRS,terapia renal sustitutiva,1
+"('EP', 'enfermedad de parkinson')",EP,enfermedad de parkinson,1
+"('CAN', 'con enfermedad esquizofrénica')",CAN,con enfermedad esquizofrénica,1
+"('TDAH', 'trastorno por déficit de atención e hiperactividad')",TDAH,trastorno por déficit de atención e hiperactividad,1
+"('NSA-16', 'negativos-16')",NSA-16,negativos-16,1
+"('ICG', 'impresión clínica global')",ICG,impresión clínica global,1
+"('TDAH', 'trastorno por deficit de atencion/hiperactividad')",TDAH,trastorno por deficit de atencion/hiperactividad,2
+"('ENSM', 'encuesta nacional de\xa0salud mental')",ENSM,encuesta nacional de salud mental,2
+"('HADS', 'hospital anxiety-depressionscale')",HADS,hospital anxiety-depressionscale,1
+"('TAVEC', 'test de aprendizaje verbal españa-complutense')",TAVEC,test de aprendizaje verbal españa-complutense,1
+"('SQLS', 'schizophrenia quality of life scale')",SQLS,schizophrenia quality of life scale,1
+"('CHUC', 'complejo hospitalario universitario de canarias')",CHUC,complejo hospitalario universitario de canarias,1
+"('DSM', 'desarrollo psicomotor')",DSM,desarrollo psicomotor,2
+"('SABE', 'salud, bienestar y envejecimiento')",SABE,"salud, bienestar y envejecimiento",1
+"('IMAO', 'inhibidores de la monoaminooxidasa')",IMAO,inhibidores de la monoaminooxidasa,1
+"('RR', 'riesgo relativo')",RR,riesgo relativo,2
+"('MD', 'mediana')",MD,mediana,1
+"('ECPP', 'estudio chileno de prevalencia de patología psiquiátrica (dsm-iii-r/cidi)')",ECPP,estudio chileno de prevalencia de patología psiquiátrica (dsm-iii-r/cidi),1
+"('VM', 'ventilación mecánica')",VM,ventilación mecánica,1
+"('ROC', 'receiver operating characteristic')",ROC,receiver operating characteristic,2
+"('ADHD-RS', 'adhd rating scale')",ADHD-RS,adhd rating scale,1
+"('DE', 'desviación estándar')",DE,desviación estándar,1
+"('GWAS', 'genomewide association studies')",GWAS,genomewide association studies,1
+"('ABiF', 'andalusian bipolar family')",ABiF,andalusian bipolar family,1
+"('EPT', 'eventos potencialmente traumáticos')",EPT,eventos potencialmente traumáticos,1
+"('AMP', 'asociación mundial de psiquiatría')",AMP,asociación mundial de psiquiatría,1
+"('IPS', 'institución pública de salud')",IPS,institución pública de salud,1
+"('CES-D', 'center for epidemiologic studies-depresion')",CES-D,center for epidemiologic studies-depresion,1
+"('IAL', 'intoxicación aguda por litio')",IAL,intoxicación aguda por litio,1
+"('SPCD', 'síntomas psicológicos y conductuales')",SPCD,síntomas psicológicos y conductuales,1
+"('TUS', 'trastornos por uso de sustancias')",TUS,trastornos por uso de sustancias,1
+"('p&lt', 'previo del alcohol en el momento t0')",p&lt,previo del alcohol en el momento t0,1
+"('CFQ', 'creatinfosfoquinasa')",CFQ,creatinfosfoquinasa,1
+"('HCC', 'hepatitisc crónica')",HCC,hepatitisc crónica,1
+"('CAPS', 'cardiff anomalous perceptions scale')",CAPS,cardiff anomalous perceptions scale,1
+"('TEA', 'trastornos del espectro autista')",TEA,trastornos del espectro autista,5
+"('CS', 'centros de salud')",CS,centros de salud,1
+"('RDoC', 'research domain criteria')",RDoC,research domain criteria,3
+"('PEPSI', 'programa de investigaciones en epidemiología psiquiátrica')",PEPSI,programa de investigaciones en epidemiología psiquiátrica,1
+"('TAB', 'trastorno afectivo bipolar')",TAB,trastorno afectivo bipolar,1
+"('LCR', 'líquido cefalorraquídeo')",LCR,líquido cefalorraquídeo,1
+"('DIGS', 'diagnóstica para estudios genéticos')",DIGS,diagnóstica para estudios genéticos,1
+"('SEYLE', 'saving and empowering young lives in europe')",SEYLE,saving and empowering young lives in europe,1
+"('ENSM', 'encuesta nacional de salud mental')",ENSM,encuesta nacional de salud mental,1
+"('UASLP', 'universidad autónoma de san luís potosí')",UASLP,universidad autónoma de san luís potosí,1
+"('APA', 'americana de psiquiatría')",APA,americana de psiquiatría,1
+"('GEMPPZ, AP', 'grupo de estudio de la morbilidad psíquica y psicosomática de zaragoza, sección de atención primaria')","GEMPPZ, AP","grupo de estudio de la morbilidad psíquica y psicosomática de zaragoza, sección de atención primaria",1
+"('SM', 'salud mental')",SM,salud mental,1
+"('OR', 'odds ratio')",OR,odds ratio,1
+"('PBI', 'parental bonding instrument')",PBI,parental bonding instrument,1
+"('ASI-6', 'addiction severity index-6')",ASI-6,addiction severity index-6,1
+"('IC 95%', 'intervalos de confianza del 95%')",IC 95%,intervalos de confianza del 95%,1
+"('IC', 'intervalos de confianza')",IC,intervalos de confianza,2
+"('VRS', 'virus respiratorio sincitial')",VRS,virus respiratorio sincitial,1
+"('DFT', 'demencia frontotemporal')",DFT,demencia frontotemporal,1
+"('TDAH', 'trastorno por déficit de atención/hiperactividad')",TDAH,trastorno por déficit de atención/hiperactividad,1

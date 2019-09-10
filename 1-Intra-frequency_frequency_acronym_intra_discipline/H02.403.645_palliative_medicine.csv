@@ -1,0 +1,13 @@
+pair,acronym,description,frequency
+"('AME', 'atrofia muscular espinal')",AME,atrofia muscular espinal,1
+"('LMA', 'leucemia mieloblástica')",LMA,leucemia mieloblástica,1
+"('GBM', 'glioblastoma multiforme')",GBM,glioblastoma multiforme,1
+"('ATINA-EPOC', 'atención integral de las agudizaciones de la enfermedad pulmonar obstructiva crónica')",ATINA-EPOC,atención integral de las agudizaciones de la enfermedad pulmonar obstructiva crónica,1
+"('DME', 'de malestar emocional')",DME,de malestar emocional,1
+"('NPD', 'nutrición parenteral domiciliaria')",NPD,nutrición parenteral domiciliaria,1
+"('MBC', 'metastasis sintomaticas de la base craneal')",MBC,metastasis sintomaticas de la base craneal,1
+"('UCI', 'unidad de cuidados intensivos')",UCI,unidad de cuidados intensivos,1
+"('GIMINO', 'grupo interdisciplinar mexicano de investigación en neurooncología')",GIMINO,grupo interdisciplinar mexicano de investigación en neurooncología,1
+"('SEMICYUC', 'sociedad española de medicina intensiva, crítica y unidades coronarias')",SEMICYUC,"sociedad española de medicina intensiva, crítica y unidades coronarias",2
+"('QTI', 'quimioterapia intensa')",QTI,quimioterapia intensa,1
+"('SENEC', 'sociedad española de neurocirugía')",SENEC,sociedad española de neurocirugía,1

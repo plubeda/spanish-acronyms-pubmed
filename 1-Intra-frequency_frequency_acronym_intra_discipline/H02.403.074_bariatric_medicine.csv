@@ -1,0 +1,18 @@
+pair,acronym,description,frequency
+"('DMT2', 'diabetes mellitus tipo 2')",DMT2,diabetes mellitus tipo 2,1
+"('SAHS', 'síndrome de apneas-hipopneas del sueño')",SAHS,síndrome de apneas-hipopneas del sueño,1
+"('HTA', 'hipertensión arterial')",HTA,hipertensión arterial,1
+"('OMS', 'organización mundial de la salud')",OMS,organización mundial de la salud,1
+"('NE', 'no exitosos')",NE,no exitosos,1
+"('BPYR', 'by-pass gástrico en y de roux')",BPYR,by-pass gástrico en y de roux,1
+"('TCC', 'terapia cognitivo conductual')",TCC,terapia cognitivo conductual,1
+"('PEIMCP', 'porcentaje del exceso de índice de masa corporal perdido')",PEIMCP,porcentaje del exceso de índice de masa corporal perdido,1
+"('DMBVC', 'de muy bajo valor calórico')",DMBVC,de muy bajo valor calórico,2
+"('II', 'iniciado')",II,iniciado,1
+"('DM2', 'diabetes mellitus tipo 2')",DM2,diabetes mellitus tipo 2,2
+"('EPP', 'exceso de peso perdido')",EPP,exceso de peso perdido,1
+"('IMC', 'indice de masa corporal')",IMC,indice de masa corporal,1
+"('CC', 'contorno de cintura')",CC,contorno de cintura,3
+"('CB', 'cirugía bariátrica')",CB,cirugía bariátrica,1
+"('GVL', 'gastrectomía vertical laparoscópica')",GVL,gastrectomía vertical laparoscópica,1
+"('SAHS', 'síndrome apnea-hipopnea del sueño')",SAHS,síndrome apnea-hipopnea del sueño,1

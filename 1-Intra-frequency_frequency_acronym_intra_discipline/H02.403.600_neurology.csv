@@ -1,0 +1,559 @@
+pair,acronym,description,frequency
+"('UDP', 'umbrales de dolor a la presion')",UDP,umbrales de dolor a la presion,1
+"('Sinasc', 'sistema de informações sobre nascidos vivos')",Sinasc,sistema de informações sobre nascidos vivos,1
+"('ESUS', 'embolic stroke of undetermined source')",ESUS,embolic stroke of undetermined source,1
+"('HADS', 'hospital anxiety and depression scale')",HADS,hospital anxiety and depression scale,1
+"('N.D.G.A.', 'nor-dihidroguayaretico')",N.D.G.A.,nor-dihidroguayaretico,1
+"('VPPB', 'vértigo posicional paroxístico benigno')",VPPB,vértigo posicional paroxístico benigno,1
+"('ADA', 'american diabetes association')",ADA,american diabetes association,1
+"('EEE', 'equina del este')",EEE,equina del este,1
+"('GRD', 'grupos relacionados por el diagnostico')",GRD,grupos relacionados por el diagnostico,1
+"('SAHOS', 'sindrome de apnea/hipopnea obstructiva del sueño')",SAHOS,sindrome de apnea/hipopnea obstructiva del sueño,2
+"('EH', 'enfermedad de huntington')",EH,enfermedad de huntington,1
+"('DC', 'dieta cetogenica')",DC,dieta cetogenica,2
+"('VPP', 'valor predictivo positivo')",VPP,valor predictivo positivo,1
+"('SLA', ""screening lexico para las afasias'"")",SLA,screening lexico para las afasias',1
+"('RP', 'razones de prevalencia')",RP,razones de prevalencia,1
+"('EMRR', 'em remitente recurrente')",EMRR,em remitente recurrente,1
+"('Rusia', 'restricciones articulares. iniciada por ulzibat')",Rusia,restricciones articulares. iniciada por ulzibat,1
+"('ACV', 'accidente cerebro vascular')",ACV,accidente cerebro vascular,1
+"('MMSE', 'minimental de folstein')",MMSE,minimental de folstein,1
+"('MDC', 'malformaciones del desarrollo cortical')",MDC,malformaciones del desarrollo cortical,1
+"('CMT', 'charcot-marie-tooth')",CMT,charcot-marie-tooth,2
+"('REMAH', 'registro molecular de adenomas hipofisarios')",REMAH,registro molecular de adenomas hipofisarios,1
+"('SEN', 'sociedad española de neurologia')",SEN,sociedad española de neurologia,2
+"('Cr', 'creatina')",Cr,creatina,1
+"('ELA', 'esclerosis lateral amiotrófica')",ELA,esclerosis lateral amiotrófica,1
+"('CD', 'cociente de desarrollo')",CD,cociente de desarrollo,1
+"('PEATC', 'potenciales evocados auditivos del tronco cerebral')",PEATC,potenciales evocados auditivos del tronco cerebral,1
+"('DT2', 'diabetes tipo 2')",DT2,diabetes tipo 2,1
+"('TANIT', 'tamiz auditivo neonatal e intervención temprana')",TANIT,tamiz auditivo neonatal e intervención temprana,1
+"('S.N.M.', 'síndrome neuroléptico maligno')",S.N.M.,síndrome neuroléptico maligno,1
+"('SCOPA-Cog', ""scales for outcomes in parkinson's disease-cognition"")",SCOPA-Cog,scales for outcomes in parkinson's disease-cognition,1
+"('GOT', 'glutámico-oxalacetica')",GOT,glutámico-oxalacetica,1
+"('DCF', 'displasias corticales focales')",DCF,displasias corticales focales,1
+"('SFC', 'síndrome de fatiga crónica')",SFC,síndrome de fatiga crónica,1
+"('AME', 'atrofia muscular espinal')",AME,atrofia muscular espinal,3
+"('CG', 'carga glucémica')",CG,carga glucémica,1
+"('DF', 'dependencia funcional')",DF,dependencia funcional,1
+"('ENP', 'estimulacion nerviosa periferica')",ENP,estimulacion nerviosa periferica,1
+"('ACR', 'adiposidad corporal relativa')",ACR,adiposidad corporal relativa,1
+"('TLIV', 'trombolisis intravenosa')",TLIV,trombolisis intravenosa,1
+"('CBI', 'cambridge behavioural inventory')",CBI,cambridge behavioural inventory,1
+"('NPI-Q', 'neuropsychiatric inventory questionnaire')",NPI-Q,neuropsychiatric inventory questionnaire,1
+"('ADAS', ""alzheimer's disease assessment scale"")",ADAS,alzheimer's disease assessment scale,2
+"('T.A.C.', 'tomografía computerizada')",T.A.C.,tomografía computerizada,1
+"('PubMed', 'publicados en medline')",PubMed,publicados en medline,1
+"('SPI', 'sindrome de piernas inquietas')",SPI,sindrome de piernas inquietas,2
+"('Venezuela', 'venezolano de la encefalomielitis equina ocurrida en 1962 en el estado zulia')",Venezuela,venezolano de la encefalomielitis equina ocurrida en 1962 en el estado zulia,1
+"('ECTC', 'epilepsia con crisis tonicoclonicas solo')",ECTC,epilepsia con crisis tonicoclonicas solo,1
+"('FRCV', 'factores de riesgo cardiovascular')",FRCV,factores de riesgo cardiovascular,1
+"('EEV', 'encefalitis equina venezolana')",EEV,encefalitis equina venezolana,1
+"('QSM', 'quejas subjetivas de memoria')",QSM,quejas subjetivas de memoria,1
+"('IRSPC', 'iowa rating scale for personality change')",IRSPC,iowa rating scale for personality change,2
+"('HC', 'hemicranea continua')",HC,hemicranea continua,1
+"('TAD', 'terapia asistida con delfines')",TAD,terapia asistida con delfines,1
+"('NDPD', 'neuropatía diabética periférica dolorosa')",NDPD,neuropatía diabética periférica dolorosa,1
+"('CAMCOG-DS', ""cambridge cognitive examination for older adults with down's syndrome"")",CAMCOG-DS,cambridge cognitive examination for older adults with down's syndrome,1
+"('ACV', 'accidentes cerebrovasculares')",ACV,accidentes cerebrovasculares,3
+"('ACE-R', ""addenbrooke's cognitive examination-revised"")",ACE-R,addenbrooke's cognitive examination-revised,1
+"('IT', 'infratentoriales')",IT,infratentoriales,1
+"('FC', 'fenilcetonuria')",FC,fenilcetonuria,1
+"('Sinais', 'sistema nacional de información en salud')",Sinais,sistema nacional de información en salud,1
+"('AVE', 'acontecimientos vitales estresantes')",AVE,acontecimientos vitales estresantes,1
+"('PRP', 'plasma rico en plaquetas')",PRP,plasma rico en plaquetas,1
+"('NAA', 'n-acetilaspartato')",NAA,n-acetilaspartato,1
+"('DM', 'diabetes mellitus')",DM,diabetes mellitus,1
+"('POCS', 'punta-onda continua durante el sueño')",POCS,punta-onda continua durante el sueño,1
+"('PLEDs', 'periódicas epileptiformes lateralizadas')",PLEDs,periódicas epileptiformes lateralizadas,1
+"('TB-DI', 'test barcelona para discapacidad intelectual')",TB-DI,test barcelona para discapacidad intelectual,1
+"('APOE', 'apolipoproteína e')",APOE,apolipoproteína e,1
+"('FA', 'fibrilación auricular')",FA,fibrilación auricular,1
+"('PTTG', 'pituitary tumour-transforming gene')",PTTG,pituitary tumour-transforming gene,1
+"('HACRE', 'hidroarsenicismo crónico regional endémico')",HACRE,hidroarsenicismo crónico regional endémico,1
+"('EsC', 'estimulacion cognitiva')",EsC,estimulacion cognitiva,1
+"('GBM', 'glioblastoma multiforme')",GBM,glioblastoma multiforme,1
+"('PRL', 'prolactina')",PRL,prolactina,3
+"('T@M', 'test de alteración de memoria')",T@M,test de alteración de memoria,1
+"('CN', 'complicaciones neurologicas')",CN,complicaciones neurologicas,1
+"('AIT', 'ataque isquemico transitorio')",AIT,ataque isquemico transitorio,2
+"('DCL', 'de comprensión lectora')",DCL,de comprensión lectora,1
+"('ISP', 'inventario de sintomas prefrontales')",ISP,inventario de sintomas prefrontales,4
+"('CMC', 'consulta monografica de cefaleas')",CMC,consulta monografica de cefaleas,1
+"('AF', 'actividad física')",AF,actividad física,1
+"('STE', 'síndrome tóxico epidémico')",STE,síndrome tóxico epidémico,1
+"('MIPSE', ""mortalidad innecesariamente prematura y sanitariamente evitable'"")",MIPSE,mortalidad innecesariamente prematura y sanitariamente evitable',1
+"('EFAM', 'evaluación funcional del adulto mayor')",EFAM,evaluación funcional del adulto mayor,2
+"('DMAE', 'degeneración macular asociada a la edad')",DMAE,degeneración macular asociada a la edad,1
+"('TN', 'triple negativo')",TN,triple negativo,1
+"('MGMT', 'metilguanina-adn-metiltransferasa')",MGMT,metilguanina-adn-metiltransferasa,2
+"('NPI-NH', 'neuropsychiatric inventory-nursing home version')",NPI-NH,neuropsychiatric inventory-nursing home version,1
+"('TEA', 'trastorno del espectro del autismo')",TEA,trastorno del espectro del autismo,1
+"('SEM', 'servicio de emergencias médicas')",SEM,servicio de emergencias médicas,2
+"('HSA', 'hemorragia subaracnoidea')",HSA,hemorragia subaracnoidea,1
+"('EAONO', 'european academy of otology and neurotology')",EAONO,european academy of otology and neurotology,2
+"('FLANC', 'federación latinoamericana de neurocirugía')",FLANC,federación latinoamericana de neurocirugía,1
+"('ECAVIPEP', 'escala de calidad de vida para pacientes epilepticos pediatricos')",ECAVIPEP,escala de calidad de vida para pacientes epilepticos pediatricos,1
+"('PVMD', 'programa de ventilación mecánica domiciliaria')",PVMD,programa de ventilación mecánica domiciliaria,1
+"('EC', 'estenosis carotidea')",EC,estenosis carotidea,1
+"('EK2', 'egen klassifikation 2')",EK2,egen klassifikation 2,1
+"('EA', 'enfermedad de alzheimer')",EA,enfermedad de alzheimer,7
+"('CIE-9', 'clasificación internacional de enfermedades, 9.(a) revisión')",CIE-9,"clasificación internacional de enfermedades, 9.(a) revisión",1
+"('MIP-1β', 'macrofágica-1β')",MIP-1β,macrofágica-1β,1
+"('CIP', 'colesteatoma intrapetroso')",CIP,colesteatoma intrapetroso,1
+"('T.E.C.', 'traumatismo encefalo craneano')",T.E.C.,traumatismo encefalo craneano,1
+"('AAO-HNS', 'academy of otolaryngology-head and neck surgery')",AAO-HNS,academy of otolaryngology-head and neck surgery,2
+"('SEN', 'sociedad española de neurología')",SEN,sociedad española de neurología,1
+"('HICI', 'hipertension intracraneal idiopatica')",HICI,hipertension intracraneal idiopatica,1
+"('STC', 'síndrome del túnel del carpo')",STC,síndrome del túnel del carpo,1
+"('S.F.A', 'síndrome fetal alcohólico')",S.F.A,síndrome fetal alcohólico,1
+"('BNB', 'bateria neuropsicologica breve')",BNB,bateria neuropsicologica breve,1
+"('MCP-1', 'monocitos-1')",MCP-1,monocitos-1,1
+"('NO', 'neuritis optica')",NO,neuritis optica,1
+"('SOL', 'sueño de ondas lentas')",SOL,sueño de ondas lentas,1
+"('LIHC', 'lesiones isquémico hemorrágicas cerebrales')",LIHC,lesiones isquémico hemorrágicas cerebrales,1
+"('PCR', 'proteína c reactiva')",PCR,proteína c reactiva,1
+"('PAAF', 'punción aspiración con aguja fina')",PAAF,punción aspiración con aguja fina,1
+"('GTU', 'grupo que recibio tratamiento usual')",GTU,grupo que recibio tratamiento usual,1
+"('SEM', 'servicios de emergencias médicas')",SEM,servicios de emergencias médicas,1
+"('CR', 'cefalea en racimos')",CR,cefalea en racimos,1
+"('HChr', 'hormona de crecimiento humana recombinante')",HChr,hormona de crecimiento humana recombinante,1
+"('EBA', 'evaluación breve de la afasia')",EBA,evaluación breve de la afasia,1
+"('EW', 'enfermedad de wilson')",EW,enfermedad de wilson,1
+"('MN', 'meningitis neonatal')",MN,meningitis neonatal,1
+"('SAHS', 'síndrome de apneas-hipopneas del sueño')",SAHS,síndrome de apneas-hipopneas del sueño,1
+"('CIH', 'coherencia interhemisferica')",CIH,coherencia interhemisferica,1
+"('MIS', 'memory impairment screen')",MIS,memory impairment screen,1
+"('II', 'insulina-receptor')",II,insulina-receptor,1
+"('MS', 'miembro superior')",MS,miembro superior,1
+"('NF1', 'neurofibromatosis tipo 1')",NF1,neurofibromatosis tipo 1,2
+"('NIHSS', 'national institute of health stroke scale')",NIHSS,national institute of health stroke scale,1
+"('EK', 'egen klassifikation')",EK,egen klassifikation,1
+"('CI', 'cociente intelectual')",CI,cociente intelectual,1
+"('España', 'en un hospital terciario de la coruña')",España,en un hospital terciario de la coruña,1
+"('RM', 'resonancia magnetica')",RM,resonancia magnetica,5
+"('GRD', 'grupos relacionados por el diagnóstico')",GRD,grupos relacionados por el diagnóstico,1
+"('GOS', 'glasgow outcome score')",GOS,glasgow outcome score,1
+"('RNPT', 'recién nacidos prematuros')",RNPT,recién nacidos prematuros,1
+"('CET', 'complejo esclerosis tuberosa')",CET,complejo esclerosis tuberosa,2
+"('SAHS', 'síndrome de apneas e hipopneas durante el sueño')",SAHS,síndrome de apneas e hipopneas durante el sueño,1
+"('H-RP', 'hipersomnia y respiración periódica')",H-RP,hipersomnia y respiración periódica,1
+"('L.C.R.', 'liquido cefaloraquideo')",L.C.R.,liquido cefaloraquideo,1
+"('SAHS', 'síndrome de apnea-hipopnea durante el sueño')",SAHS,síndrome de apnea-hipopnea durante el sueño,1
+"('ABC', 'achievable benchmarks of care')",ABC,achievable benchmarks of care,1
+"('MMPI-2', 'minnesota multiphasic personality inventory-2')",MMPI-2,minnesota multiphasic personality inventory-2,1
+"('PESS', 'potenciales evocados somatosensoriales')",PESS,potenciales evocados somatosensoriales,1
+"('OMS', 'organización mundial de la salud')",OMS,organización mundial de la salud,1
+"('KADDS', 'knowledge of attention deficit hyperactivity disorder scale')",KADDS,knowledge of attention deficit hyperactivity disorder scale,1
+"('MOR', 'movimiento oculares rapidos')",MOR,movimiento oculares rapidos,1
+"('IIEF', 'internacional de disfuncion erectil')",IIEF,internacional de disfuncion erectil,1
+"('MM', 'mujeres mayores')",MM,mujeres mayores,1
+"('ENO', 'estimulacion de nervios occipitales')",ENO,estimulacion de nervios occipitales,1
+"('STC', 'sindrome del tunel carpiano')",STC,sindrome del tunel carpiano,2
+"('I-V', 'intervalo')",I-V,intervalo,1
+"('NF2', 'neurofibromatosis tipo 2')",NF2,neurofibromatosis tipo 2,1
+"('EGI', 'epilepsia generalizada idiopática')",EGI,epilepsia generalizada idiopática,1
+"('MFM', 'miofibrotomia multiple')",MFM,miofibrotomia multiple,1
+"('SIDA', 'síndrome de inmunodeficiencia adquirida')",SIDA,síndrome de inmunodeficiencia adquirida,3
+"('EDSS', 'expanded disability status scale')",EDSS,expanded disability status scale,1
+"('AVAC', 'años de vida ganados ajustados por calidad')",AVAC,años de vida ganados ajustados por calidad,1
+"('LOLA', 'l-ornitina l-aspartato')",LOLA,l-ornitina l-aspartato,1
+"('HSDC', 'hematoma subdural cronico')",HSDC,hematoma subdural cronico,1
+"('EDL', 'extensor digitorum longus')",EDL,extensor digitorum longus,1
+"('EMJ', 'epilepsia mioclonica juvenil')",EMJ,epilepsia mioclonica juvenil,2
+"('PIDA', 'poliradiculoneuritis inflamatoria desmielinizante aguda')",PIDA,poliradiculoneuritis inflamatoria desmielinizante aguda,1
+"('EAI', 'epilepsia de ausencias infantil')",EAI,epilepsia de ausencias infantil,1
+"('EEG', 'electroencefalograma')",EEG,electroencefalograma,1
+"('CdV', 'calidad de vida')",CdV,calidad de vida,1
+"('SAS', 'síntomas asociados con el sueño')",SAS,síntomas asociados con el sueño,1
+"('TEA', 'trastorno del espectro autista')",TEA,trastorno del espectro autista,4
+"('MEC', 'medidas cognitivas')",MEC,medidas cognitivas,1
+"('CTT', 'cefaleas de tipo tensional')",CTT,cefaleas de tipo tensional,1
+"('EMPP', 'em primariamente progresiva')",EMPP,em primariamente progresiva,1
+"('SAHS', 'síndrome de apneas-hipopneas durante el sueño')",SAHS,síndrome de apneas-hipopneas durante el sueño,1
+"('VMNI', 'ventilación mecánica no invasiva')",VMNI,ventilación mecánica no invasiva,1
+"('y II', 'y su fisiopatología')",y II,y su fisiopatología,1
+"('CAMCOG', 'cambridge cognitive examination')",CAMCOG,cambridge cognitive examination,1
+"('ISD', 'inventario de la situación diagnóstica')",ISD,inventario de la situación diagnóstica,1
+"('IMSS', 'instituto mexicano del seguro social')",IMSS,instituto mexicano del seguro social,1
+"('TDP', 'test digital de percepción')",TDP,test digital de percepción,1
+"('MNIO', 'monitoreo neurofisiológico intraoperatorio')",MNIO,monitoreo neurofisiológico intraoperatorio,1
+"('SENR', 'sociedad española de neurorradiología')",SENR,sociedad española de neurorradiología,2
+"('INNN', 'instituto nacional de neurología y neurocirugía')",INNN,instituto nacional de neurología y neurocirugía,1
+"('RMf', 'resonancia magnetica funcional')",RMf,resonancia magnetica funcional,1
+"('UCN', 'unidades de cuidados neurovasculares')",UCN,unidades de cuidados neurovasculares,1
+"('UTAC', 'unidades de tratamiento del ataque cerebrovascular')",UTAC,unidades de tratamiento del ataque cerebrovascular,1
+"('UC', 'unidades de cefalea')",UC,unidades de cefalea,1
+"('AIT', 'accidente isquémico transitorio')",AIT,accidente isquémico transitorio,1
+"('TDA', 'trastornos por deficit de atencion')",TDA,trastornos por deficit de atencion,1
+"('ECP', 'estimulacion cerebral profunda')",ECP,estimulacion cerebral profunda,3
+"('SC', 'síndrome de cushing')",SC,síndrome de cushing,1
+"('PEVAC', 'pie equino varo aducto congénito')",PEVAC,pie equino varo aducto congénito,1
+"('PS', 'privación de sueño')",PS,privación de sueño,1
+"('EPI', 'enfermedad de parkinson idiopatica')",EPI,enfermedad de parkinson idiopatica,1
+"('UPDRS', ""unified parkinson's disease rating scale"")",UPDRS,unified parkinson's disease rating scale,2
+"('MRC', 'medical research council')",MRC,medical research council,1
+"('PADS', 'physical activity and disability survey')",PADS,physical activity and disability survey,1
+"('peso kg', 'predicción final, en la muestra total, fue: mmae (kg) = 0,107')",peso kg,"predicción final, en la muestra total, fue: mmae (kg) = 0,107",1
+"('MeSH', 'medical subject headings')",MeSH,medical subject headings,1
+"('DMT', 'dolor muscular tardío')",DMT,dolor muscular tardío,1
+"('TCE', 'traumatismos craneoencefalicos')",TCE,traumatismos craneoencefalicos,2
+"('CPAQ', 'chronic pain acceptance questionnaire')",CPAQ,chronic pain acceptance questionnaire,1
+"('CEMPV', 'cuestionario para la evaluación de la minusvalía en patología vestibular')",CEMPV,cuestionario para la evaluación de la minusvalía en patología vestibular,1
+"('RPC', 'reacción de polimerasa en cadena')",RPC,reacción de polimerasa en cadena,1
+"('CI', 'coeficiente intelectual')",CI,coeficiente intelectual,1
+"('OnabotA', 'onabotulinumtoxina')",OnabotA,onabotulinumtoxina,2
+"('HPM', 'hipotalamotomía posteromedial')",HPM,hipotalamotomía posteromedial,1
+"('VHB', 'virus de la hepatitis b')",VHB,virus de la hepatitis b,1
+"('NMDAR', 'n-metil-d-aspartato')",NMDAR,n-metil-d-aspartato,1
+"('TCE', 'traumatismo craneoencefalico')",TCE,traumatismo craneoencefalico,3
+"('EHI', 'encefalopatía hipóxico-isquémica')",EHI,encefalopatía hipóxico-isquémica,1
+"('OPELUCE', 'organización peruana de lucha contra la ceguera')",OPELUCE,organización peruana de lucha contra la ceguera,1
+"('ITSD', 'intervencion terapeutica sin delfines')",ITSD,intervencion terapeutica sin delfines,1
+"('NCC', 'neurocisticercosis')",NCC,neurocisticercosis,1
+"('HPRL', 'hiperprolactinemia')",HPRL,hiperprolactinemia,1
+"('VIH', 'virus de la inmunodeficiencia humana')",VIH,virus de la inmunodeficiencia humana,4
+"('ESL', 'eslicarbacepina')",ESL,eslicarbacepina,1
+"('GECSEN', 'grupo de estudio de cefaleas de la sociedad española de neurología')",GECSEN,grupo de estudio de cefaleas de la sociedad española de neurología,1
+"('UPV', 'usuarios profesionales de la voz')",UPV,usuarios profesionales de la voz,1
+"('PRES', 'posterior reversible')",PRES,posterior reversible,1
+"('CVF', 'capacidad vital forzada')",CVF,capacidad vital forzada,1
+"('NMDA', 'n-metil-d-aspartato')",NMDA,n-metil-d-aspartato,1
+"('UPDRS', 'unificada para la evaluación de la enfermedad de parkinson')",UPDRS,unificada para la evaluación de la enfermedad de parkinson,1
+"('SAHS', 'síndrome de apneas-hipoapneas del sueño, en lo adelante')",SAHS,"síndrome de apneas-hipoapneas del sueño, en lo adelante",1
+"('parte I', 'parkinson avanzada. características clínicas y tratamiento')",parte I,parkinson avanzada. características clínicas y tratamiento,1
+"('OR', 'odds ratios')",OR,odds ratios,1
+"('UMRF', 'unidades moviles de rehabilitacion-fisioterapia')",UMRF,unidades moviles de rehabilitacion-fisioterapia,1
+"('ETE', 'ecocardiograma transesofágico')",ETE,ecocardiograma transesofágico,1
+"('EVA', 'escala visual análoga')",EVA,escala visual análoga,1
+"('MG', 'miastenia gravis')",MG,miastenia gravis,1
+"('SIB', 'severe impairment battery')",SIB,severe impairment battery,1
+"('ESPII', 'emergencia de salud pública de importancia internacional')",ESPII,emergencia de salud pública de importancia internacional,1
+"('NAC', 'neuropatía autonómica cardíaca')",NAC,neuropatía autonómica cardíaca,1
+"('HIT-6', 'headache impact test-6')",HIT-6,headache impact test-6,1
+"('IAH', 'indice apnea/hipopnea')",IAH,indice apnea/hipopnea,1
+"('E. M.', 'esclerosis múltiple')",E. M.,esclerosis múltiple,1
+"('Hib', 'h influenzae tipo b')",Hib,h influenzae tipo b,1
+"('CPT', 'continuous performance test')",CPT,continuous performance test,1
+"('SAT', 'síndrome del aceite tóxico')",SAT,síndrome del aceite tóxico,1
+"('HLP', 'hospital la pedrera')",HLP,hospital la pedrera,1
+"('SAdE', 'sociedad andaluza de epilepsia')",SAdE,sociedad andaluza de epilepsia,1
+"('SCB', 'sindrome de charles bonnet')",SCB,sindrome de charles bonnet,1
+"('EHS', 'encefalitis por herpes simple')",EHS,encefalitis por herpes simple,1
+"('AINP', 'academia iberoamericana de neurologia pediatrica')",AINP,academia iberoamericana de neurologia pediatrica,1
+"('GIMC', 'grosor de la íntima media carotídea')",GIMC,grosor de la íntima media carotídea,1
+"('FAE', 'farmacos antiepilepticos')",FAE,farmacos antiepilepticos,2
+"('AFP', 'alfafetoproteina')",AFP,alfafetoproteina,1
+"('EGI', 'epilepsias generalizadas idiopaticas')",EGI,epilepsias generalizadas idiopaticas,1
+"('NST', 'nucleo subtalamico')",NST,nucleo subtalamico,1
+"('MPS-II', 'mucopolisacaridosisde tipo ii')",MPS-II,mucopolisacaridosisde tipo ii,1
+"('EMAD', 'encefalomielitis aguda diseminada')",EMAD,encefalomielitis aguda diseminada,1
+"('UNC', 'unidad de cuidados intensivos neurocriticos')",UNC,unidad de cuidados intensivos neurocriticos,1
+"('EP', 'enfermedad de parkinson')",EP,enfermedad de parkinson,22
+"('MeSH', 'medical subjects headings')",MeSH,medical subjects headings,2
+"('CDM', 'congelacion de la marcha')",CDM,congelacion de la marcha,1
+"('EMRR', 'esclerosis multiple remitente recurrente')",EMRR,esclerosis multiple remitente recurrente,3
+"('CC', 'consultas monograficas de cefalea')",CC,consultas monograficas de cefalea,1
+"('NFPVC', 'neurofibromas plexiformes voluminosos en el cuello')",NFPVC,neurofibromas plexiformes voluminosos en el cuello,1
+"('MHib', 'meningitis por haemophilus influenzae b')",MHib,meningitis por haemophilus influenzae b,1
+"('CFNR', 'capa de fibras nerviosas retiniana')",CFNR,capa de fibras nerviosas retiniana,1
+"('OOS', 'osteosarcopénica')",OOS,osteosarcopénica,1
+"('SU', 'servicio de urgencias')",SU,servicio de urgencias,2
+"('WOS', 'web of science')",WOS,web of science,1
+"('SENFC', 'sociedad española de neurofisiología clínica')",SENFC,sociedad española de neurofisiología clínica,1
+"('E.C.P.S.', 'encefalopatía crónica portosistémica')",E.C.P.S.,encefalopatía crónica portosistémica,1
+"('ENG', 'electroneurograma')",ENG,electroneurograma,2
+"('GLP-1', 'glucagon-like peptide-1')",GLP-1,glucagon-like peptide-1,2
+"('ROC', 'reflejo oculocardíaco')",ROC,reflejo oculocardíaco,1
+"('PrPC', 'proteína priónica celular')",PrPC,proteína priónica celular,1
+"('TNC', 'trastornos neurocognitivos')",TNC,trastornos neurocognitivos,1
+"('CGEO', 'celulas de la glia envolvente olfatoria')",CGEO,celulas de la glia envolvente olfatoria,1
+"('NT', 'neuralgia del trigémino')",NT,neuralgia del trigémino,1
+"('OCB', 'oclusion carotidea bilateral')",OCB,oclusion carotidea bilateral,1
+"('NTB-A', 'neurotoxina botulínica tipo a')",NTB-A,neurotoxina botulínica tipo a,1
+"('TVC', 'trombosis venosa cerebral')",TVC,trombosis venosa cerebral,1
+"('AESP', 'actividad eléctrica sin pulso')",AESP,actividad eléctrica sin pulso,1
+"('EVC', 'enfermedad vascular cerebral')",EVC,enfermedad vascular cerebral,1
+"('III', 'interacción insulina-receptor')",III,interacción insulina-receptor,1
+"('NMO', 'neuromielitis optica')",NMO,neuromielitis optica,2
+"('DEI', 'descargas epileptiformes intercriticas')",DEI,descargas epileptiformes intercriticas,1
+"('RHC', 'reserva hemodinamica cerebral')",RHC,reserva hemodinamica cerebral,1
+"('NORMACODEM', ""normalización españolas de la alzheimer's disease assessment scale (adas)"")",NORMACODEM,normalización españolas de la alzheimer's disease assessment scale (adas),1
+"('SENEC', 'sociedades españolas de neurocirugía')",SENEC,sociedades españolas de neurocirugía,1
+"('TCE', 'traumatismo craneoencefálico')",TCE,traumatismo craneoencefálico,1
+"('MMSE', 'minimental state examination')",MMSE,minimental state examination,1
+"('THC', 'tetrahidrocannabinol')",THC,tetrahidrocannabinol,1
+"('EE', 'epileptico')",EE,epileptico,1
+"('LAM', 'leucemia aguda mieloide')",LAM,leucemia aguda mieloide,1
+"('NEWSQOL', 'newcastle stroke-specific quality of life measure')",NEWSQOL,newcastle stroke-specific quality of life measure,2
+"('LM', 'lesiones medulares')",LM,lesiones medulares,1
+"('MBI-C', 'mild behavioral impairment-checklist')",MBI-C,mild behavioral impairment-checklist,1
+"('E.R.G.', 'electroretinograma')",E.R.G.,electroretinograma,1
+"('ENV', 'estimulacion del nervio vago')",ENV,estimulacion del nervio vago,1
+"('TDAH', 'trastorno por deficit de atencion/hiperactividad')",TDAH,trastorno por deficit de atencion/hiperactividad,18
+"('CFC', 'convulsiones febriles complejas')",CFC,convulsiones febriles complejas,1
+"('DMC', 'distrofias musculares congenitas')",DMC,distrofias musculares congenitas,1
+"('CF', 'conectividad funcional')",CF,conectividad funcional,1
+"('HTIC', 'hipertensión intracraneal')",HTIC,hipertensión intracraneal,1
+"('TVE', 'tercer ventriculostomía endoscópica secundaria')",TVE,tercer ventriculostomía endoscópica secundaria,1
+"('EAJ', 'epilepsia de ausencias juvenil')",EAJ,epilepsia de ausencias juvenil,1
+"('BETA', 'bateria para la evaluacion de los trastornos afasicos')",BETA,bateria para la evaluacion de los trastornos afasicos,1
+"('DBH', 'dopamina-beta-hidroxilasa')",DBH,dopamina-beta-hidroxilasa,1
+"('TCM', 'triglicéridos de cadena media')",TCM,triglicéridos de cadena media,1
+"('ST', 'supratentoriales')",ST,supratentoriales,1
+"('EAM', 'epilepsia con ausencias y mioclonias palpebrales')",EAM,epilepsia con ausencias y mioclonias palpebrales,1
+"('rcmc', 'receptores colinérgicos muscarínicos cardíacos')",rcmc,receptores colinérgicos muscarínicos cardíacos,1
+"('ARAHIP', 'atención integral del recién nacido con agresión hipóxico-isquémica perinatal')",ARAHIP,atención integral del recién nacido con agresión hipóxico-isquémica perinatal,1
+"('ECV', 'enfermedad cerebrovascular')",ECV,enfermedad cerebrovascular,3
+"('EF', 'epilepsia fotogenica pura')",EF,epilepsia fotogenica pura,1
+"('T@M', 'test de alteracion de memoria')",T@M,test de alteracion de memoria,1
+"('miARN', 'microarn')",miARN,microarn,1
+"('ILAE', 'internacional contra la epilepsia')",ILAE,internacional contra la epilepsia,3
+"('MC-1', 'mc tipo 1')",MC-1,mc tipo 1,1
+"('GIMINO', 'grupo interdisciplinar mexicano de investigación en neurooncología')",GIMINO,grupo interdisciplinar mexicano de investigación en neurooncología,1
+"('DM-1', 'distrofia miotonica tipo 1')",DM-1,distrofia miotonica tipo 1,1
+"('NPH', 'neuralgia posherpética')",NPH,neuralgia posherpética,1
+"('VEB', 'virus de epstein-barr')",VEB,virus de epstein-barr,1
+"('UCIP', 'unidad de cuidados intensivos pediatricos')",UCIP,unidad de cuidados intensivos pediatricos,1
+"('TAVEC', 'test de aprendizaje verbal españa-complutense')",TAVEC,test de aprendizaje verbal españa-complutense,1
+"('RHC', 'reserva hemodinámica cerebral')",RHC,reserva hemodinámica cerebral,1
+"('HZ', 'herpes zoster')",HZ,herpes zoster,2
+"('ACOD', 'accion directa')",ACOD,accion directa,1
+"('LCR', 'liquido cefalorraquideo')",LCR,liquido cefalorraquideo,2
+"('DCL', 'deterioro cognitivo leve')",DCL,deterioro cognitivo leve,4
+"('NL', 'normal')",NL,normal,1
+"('FR', 'factores de riesgo')",FR,factores de riesgo,1
+"('DCoL', ""deterioro comportamental leve'"")",DCoL,deterioro comportamental leve',1
+"('AVAC', 'años de vida ajustados por calidad')",AVAC,años de vida ajustados por calidad,1
+"('ADHD-RS-IV', 'attention-deficit/hyperactivity disorder rating scale iv')",ADHD-RS-IV,attention-deficit/hyperactivity disorder rating scale iv,1
+"('SCP', 'scale for contraversive pushing')",SCP,scale for contraversive pushing,1
+"('MMSE', 'mini mental status examination')",MMSE,mini mental status examination,1
+"('EAD', 'encefalomielitis aguda diseminada')",EAD,encefalomielitis aguda diseminada,1
+"('ISP', 'inventario de síntomas prefrontales')",ISP,inventario de síntomas prefrontales,1
+"('MC', 'malformacion de chiari')",MC,malformacion de chiari,1
+"('Neuro-ACMI', 'neurología crítica de la asociación catalana de medicina intensiva')",Neuro-ACMI,neurología crítica de la asociación catalana de medicina intensiva,1
+"('TDA', 'tasa de declive anual')",TDA,tasa de declive anual,1
+"('PCV', 'procarbacina, lomustina y vincristina')",PCV,"procarbacina, lomustina y vincristina",1
+"('DN', 'dolor neuropático')",DN,dolor neuropático,1
+"('GMFM', 'gross motor function measure')",GMFM,gross motor function measure,1
+"('IPM', 'intoxicación paralítica por mariscos')",IPM,intoxicación paralítica por mariscos,1
+"('VEE', 'venezolana')",VEE,venezolana,1
+"('REGITELL', 'registro de pacientes con ataque isquémico transitorio de lleida')",REGITELL,registro de pacientes con ataque isquémico transitorio de lleida,1
+"('SAHS', 'sindrome de apneas-hipopneas')",SAHS,sindrome de apneas-hipopneas,1
+"('SHO', 'síndrome de hipoventilación del obeso')",SHO,síndrome de hipoventilación del obeso,1
+"('TRS', 'trastornos respiratorios del sueño')",TRS,trastornos respiratorios del sueño,1
+"('PAS', 'presion arterial sistolica')",PAS,presion arterial sistolica,1
+"('GEECV', 'grupo de estudio de enfermedades cerebrovasculares')",GEECV,grupo de estudio de enfermedades cerebrovasculares,1
+"('WISCI', 'walking index spinal cord injury')",WISCI,walking index spinal cord injury,1
+"('di', 'dosis inicial')",di,dosis inicial,1
+"('AAS', 'acido acetilsalicilico')",AAS,acido acetilsalicilico,1
+"('TC', 'tomografía computarizada')",TC,tomografía computarizada,1
+"('T.E.C.', 'traumatismo encéfano craneano')",T.E.C.,traumatismo encéfano craneano,1
+"('NEM I', 'neoplasias endocrinas múltiples')",NEM I,neoplasias endocrinas múltiples,1
+"('RR', 'riesgo relativo')",RR,riesgo relativo,1
+"('vHIT', 'video head impulse test')",vHIT,video head impulse test,1
+"('IAH', 'indice de apnea/hipopnea')",IAH,indice de apnea/hipopnea,1
+"('EFBA', 'epilepsia focal benigna atipica')",EFBA,epilepsia focal benigna atipica,1
+"('TDI', 'trastornos del desarrollo intelectual')",TDI,trastornos del desarrollo intelectual,2
+"('AI', 'aneurismas intracraneales')",AI,aneurismas intracraneales,1
+"('E.M.I.H.', 'encefalopatía mioclónica infantil hipsarrítmica')",E.M.I.H.,encefalopatía mioclónica infantil hipsarrítmica,1
+"('RRE', 'rehabilitacion del reconocimiento de emociones')",RRE,rehabilitacion del reconocimiento de emociones,1
+"('CCC', 'communication checklist')",CCC,communication checklist,1
+"('DCM', 'disfunción cerebral mínima')",DCM,disfunción cerebral mínima,1
+"('RG', 'residuo gástrico')",RG,residuo gástrico,1
+"('TdM', 'teoria de la mente')",TdM,teoria de la mente,1
+"('EULA', 'evaluacion de la apraxia de los miembros superiores')",EULA,evaluacion de la apraxia de los miembros superiores,1
+"('SIADH', 'secrecion inadecuada de adh')",SIADH,secrecion inadecuada de adh,1
+"('apoE', 'apolipoproteína e')",apoE,apolipoproteína e,1
+"('NAVM', 'neumonía asociada a ventilación mecánica')",NAVM,neumonía asociada a ventilación mecánica,1
+"('MAV', 'malformaciones arteriovenosas')",MAV,malformaciones arteriovenosas,2
+"('media', 'mostro celulas foliculo-estrelladas positivas para s-100')",media,mostro celulas foliculo-estrelladas positivas para s-100,1
+"('QOL-AD', ""quality of life in alzheimer's disease"")",QOL-AD,quality of life in alzheimer's disease,1
+"('SEPN1', 'selenoproteina 1')",SEPN1,selenoproteina 1,1
+"('DCA', 'daño cerebral adquirido')",DCA,daño cerebral adquirido,1
+"('SNC', 'sistema nervioso central')",SNC,sistema nervioso central,8
+"('SNT', 'sindrome neurologico tardio')",SNT,sindrome neurologico tardio,1
+"('ASA', 'american society of anesthesiologists')",ASA,american society of anesthesiologists,1
+"('TMI-M', 'tasa de mortalidad infantil por microcefalia')",TMI-M,tasa de mortalidad infantil por microcefalia,1
+"('LDX', 'lisdexanfetamina')",LDX,lisdexanfetamina,1
+"('SAOS', 'sindrome de apnea obstructiva del sueño')",SAOS,sindrome de apnea obstructiva del sueño,2
+"('RBANS', 'repeatable battery for the assessment of neuropsychological status')",RBANS,repeatable battery for the assessment of neuropsychological status,1
+"('PGB', 'pregabalina')",PGB,pregabalina,1
+"('ReDeGi', 'registro de demencias de girona')",ReDeGi,registro de demencias de girona,1
+"('AFG', 'actividades fisicas grupales')",AFG,actividades fisicas grupales,1
+"('DOMS', 'delayed onset muscular soreness')",DOMS,delayed onset muscular soreness,1
+"('Glut1', 'glucosa tipo 1')",Glut1,glucosa tipo 1,1
+"('DM2', 'diabetes mellitus tipo 2')",DM2,diabetes mellitus tipo 2,1
+"('eas', 'estenosis aórtica supravalvular')",eas,estenosis aórtica supravalvular,1
+"('SD', 'síndrome de down')",SD,síndrome de down,2
+"('ABiF', 'andalusian bipolar family')",ABiF,andalusian bipolar family,1
+"('GEW', 'gaitrite ® electronic walkway')",GEW,gaitrite ® electronic walkway,1
+"('GMFCS', 'gross motor function classification system')",GMFCS,gross motor function classification system,2
+"('UTM', 'unidades de trastornos del movimiento')",UTM,unidades de trastornos del movimiento,1
+"('UCIP', 'unidades de cuidados intensivos pediatricos')",UCIP,unidades de cuidados intensivos pediatricos,1
+"('HoNOS-LD', 'health of the nation outcome scales for people with learning disabilities')",HoNOS-LD,health of the nation outcome scales for people with learning disabilities,1
+"('EEH', 'espongiformes en humanos')",EEH,espongiformes en humanos,1
+"('FHA', 'fiebre hemorrágica argentina')",FHA,fiebre hemorrágica argentina,1
+"('MMAE', 'masa muscular apendicular esquelética')",MMAE,masa muscular apendicular esquelética,1
+"('PIC', 'presión intracraneal')",PIC,presión intracraneal,1
+"('LAL', 'leucemia aguda linfoide')",LAL,leucemia aguda linfoide,1
+"('US', 'uso de sustancias')",US,uso de sustancias,1
+"('TEPROSIF', 'test para evaluar los procesos fonológicos de simplificación')",TEPROSIF,test para evaluar los procesos fonológicos de simplificación,1
+"('SNS', 'sistema nacional de salud')",SNS,sistema nacional de salud,1
+"('SVSR', 'sindrome de vigilia sin respuesta')",SVSR,sindrome de vigilia sin respuesta,1
+"('EEG-V', 'eeg de vigilia')",EEG-V,eeg de vigilia,1
+"('L.C.R.', 'liquido cefalorraquídeo')",L.C.R.,liquido cefalorraquídeo,1
+"('DEP', 'de parkinson')",DEP,de parkinson,1
+"('TCL', 'tempo cognitivo lento')",TCL,tempo cognitivo lento,1
+"('TAP', 'tenotomía y aponeurotomía percutánea')",TAP,tenotomía y aponeurotomía percutánea,1
+"('PAIA', 'plan de atencion al ictus de aragon')",PAIA,plan de atencion al ictus de aragon,1
+"('PA', 'presion arterial')",PA,presion arterial,1
+"('ISS', 'injury severity score')",ISS,injury severity score,1
+"('VPPB', 'vertigo posicional paroxistico benigno')",VPPB,vertigo posicional paroxistico benigno,1
+"('PEAC', 'potenciales evocados auditivos corticales')",PEAC,potenciales evocados auditivos corticales,1
+"('SENEP', 'sociedad española de neurologia pediatrica')",SENEP,sociedad española de neurologia pediatrica,4
+"('EMC', 'estado de minima conciencia')",EMC,estado de minima conciencia,1
+"('CV', 'comunitat valenciana')",CV,comunitat valenciana,1
+"('TD', 'test de denver')",TD,test de denver,1
+"('IAL', 'intoxicación aguda por litio')",IAL,intoxicación aguda por litio,1
+"('HADS', 'hospitalaria de ansiedad y depresion')",HADS,hospitalaria de ansiedad y depresion,1
+"('ACV', 'accidente cerebrovascular')",ACV,accidente cerebrovascular,2
+"('LQ', 'lesion quirurgica')",LQ,lesion quirurgica,1
+"('EEG-PS', 'eeg de privacion de sueño')",EEG-PS,eeg de privacion de sueño,1
+"('ELT', 'epilepsia del lobulo temporal')",ELT,epilepsia del lobulo temporal,1
+"('PPT', 'pacientes politraumáticos')",PPT,pacientes politraumáticos,1
+"('DM', 'deficientes mentales')",DM,deficientes mentales,1
+"('SPCD', 'síntomas psicológicos y conductuales')",SPCD,síntomas psicológicos y conductuales,1
+"('TAB', 'tasa anual de brotes')",TAB,tasa anual de brotes,1
+"('TUS', 'trastornos por uso de sustancias')",TUS,trastornos por uso de sustancias,1
+"('HY', 'hoehn y yahr')",HY,hoehn y yahr,1
+"('SIADH', 'secreción inadecuada de adh')",SIADH,secreción inadecuada de adh,1
+"('rango', 'recambios de generador. seguimiento medio de 8,4 años')",rango,"recambios de generador. seguimiento medio de 8,4 años",1
+"('AVD', 'actividades de la vida diaria')",AVD,actividades de la vida diaria,1
+"('EPR', 'encefalopatia posterior reversible')",EPR,encefalopatia posterior reversible,1
+"('CFQ', 'creatinfosfoquinasa')",CFQ,creatinfosfoquinasa,1
+"('NF1', 'neurofibromatosis de tipo 1')",NF1,neurofibromatosis de tipo 1,1
+"('EEB', 'espongiformes bovinas')",EEB,espongiformes bovinas,1
+"('NCV', 'nódulos de cuerdas vocales')",NCV,nódulos de cuerdas vocales,1
+"('SEGA', 'subependimarios de celulas gigantes')",SEGA,subependimarios de celulas gigantes,1
+"('DC', 'distoníacervical')",DC,distoníacervical,1
+"('T.E.C.', 'traumatismo encefalocraneal')",T.E.C.,traumatismo encefalocraneal,1
+"('SENEC', 'sociedad española de neurocirugía')",SENEC,sociedad española de neurocirugía,3
+"('INQoL', 'individualized neuromuscular quality of life')",INQoL,individualized neuromuscular quality of life,1
+"('PL', 'punción lumbar')",PL,punción lumbar,1
+"('PEV', 'potenciales evocados visuales')",PEV,potenciales evocados visuales,1
+"('PTUIP', 'programa de tamizaje universal e intervención precoz')",PTUIP,programa de tamizaje universal e intervención precoz,1
+"('TAC', 'tomografia axial computarizada')",TAC,tomografia axial computarizada,1
+"('RCE', 'recuperación de la circulación espontánea')",RCE,recuperación de la circulación espontánea,1
+"('NORMACODEM', 'normalización de instrumentos cognitivos y funcionales para la evaluación de la demencia')",NORMACODEM,normalización de instrumentos cognitivos y funcionales para la evaluación de la demencia,1
+"('RMN', 'resonancia magnética nuclear')",RMN,resonancia magnética nuclear,2
+"('SW', 'síndrome de wolfram')",SW,síndrome de wolfram,1
+"('PAIA', 'programa de atención al ictus en aragón')",PAIA,programa de atención al ictus en aragón,1
+"('ASIA', 'americana de lesion de la medula espinal')",ASIA,americana de lesion de la medula espinal,1
+"('RV', 'realidad virtual')",RV,realidad virtual,1
+"('IMC', 'indice de masa corporal')",IMC,indice de masa corporal,1
+"('PC', 'parálisis cerebral')",PC,parálisis cerebral,1
+"('ECA', 'estudios clinicos aleatorizados')",ECA,estudios clinicos aleatorizados,2
+"('CAPS', 'cardiff anomalous perceptions scale')",CAPS,cardiff anomalous perceptions scale,1
+"('VDA', 'volumen de dieta administrada')",VDA,volumen de dieta administrada,1
+"('Co', 'colina')",Co,colina,1
+"('SLE', 'systemic lupus erythematosus')",SLE,systemic lupus erythematosus,1
+"('AUM', 'acropatía ulceromutilante')",AUM,acropatía ulceromutilante,1
+"('GPC', 'guías de práctica clínica')",GPC,guías de práctica clínica,1
+"('EMBL', 'epilepsia mioclonica benigna del lactante')",EMBL,epilepsia mioclonica benigna del lactante,1
+"('CEIPC', 'comité español interdisciplinario para la prevención cardiovascular')",CEIPC,comité español interdisciplinario para la prevención cardiovascular,1
+"('TEA', 'trastornos del espectro autista')",TEA,trastornos del espectro autista,4
+"('AM', 'adultos mayores')",AM,adultos mayores,2
+"('GENI', 'grupo español de neurorradiología intervencionista')",GENI,grupo español de neurorradiología intervencionista,2
+"('TAB', 'tasa anualizada de brotes')",TAB,tasa anualizada de brotes,1
+"('TCSS', 'toronto clinical scoring system')",TCSS,toronto clinical scoring system,1
+"('HECMNSXXI', 'hospital de especialidades del centro médico nacional siglo xxi')",HECMNSXXI,hospital de especialidades del centro médico nacional siglo xxi,1
+"('LCR', 'líquido céfalo-raquideo')",LCR,líquido céfalo-raquideo,1
+"('TIAM', 'trombectomia intraarterial mecanica')",TIAM,trombectomia intraarterial mecanica,1
+"('EMM', 'enfermedad de moyamoya')",EMM,enfermedad de moyamoya,1
+"('IDL', 'infusion duodenal continua de levodopa/carbidopa')",IDL,infusion duodenal continua de levodopa/carbidopa,1
+"('VIH-1', 'virus de la inmunodeficiencia humana tipo 1')",VIH-1,virus de la inmunodeficiencia humana tipo 1,1
+"('EM', 'esclerosis múltiple')",EM,esclerosis múltiple,2
+"('SOM', 'sistema oculomotor')",SOM,sistema oculomotor,1
+"('EC-PC', 'escala de convivencia con un proceso cronico')",EC-PC,escala de convivencia con un proceso cronico,1
+"('LCR', 'líquido cefalorraquídeo')",LCR,líquido cefalorraquídeo,2
+"('EEG', 'electroencefalografia')",EEG,electroencefalografia,1
+"('SWH', 'sindrome de wolf-hirschhorn')",SWH,sindrome de wolf-hirschhorn,2
+"('HP', 'hemicranea paroxistica')",HP,hemicranea paroxistica,1
+"('ISPLN', 'instituto de salud pública y laboral de navarra')",ISPLN,instituto de salud pública y laboral de navarra,1
+"('CB', 'cirugía bariátrica')",CB,cirugía bariátrica,1
+"('POCS', 'punta-onda continua del sueño lento')",POCS,punta-onda continua del sueño lento,1
+"('EEG', 'electroencefalografico')",EEG,electroencefalografico,1
+"('ABSST', 'actionable bladder symptoms screening tool')",ABSST,actionable bladder symptoms screening tool,1
+"('RM', 'resonancia magnética')",RM,resonancia magnética,2
+"('OnabotA', 'onabotulinumtoxina a')",OnabotA,onabotulinumtoxina a,1
+"('BRIEF', 'behavior rating inventory of executive function')",BRIEF,behavior rating inventory of executive function,2
+"('BPM', 'batería psicomotora')",BPM,batería psicomotora,1
+"('E.T.', 'esclerosis tuberosa')",E.T.,esclerosis tuberosa,1
+"('ECLAMC', 'estudio colaborativo latinoamericano de malformaciones congénitas')",ECLAMC,estudio colaborativo latinoamericano de malformaciones congénitas,1
+"('DFTvc', 'demencia frontotemporal variante conductual')",DFTvc,demencia frontotemporal variante conductual,1
+"('CGI', 'complicaciones gastrointestinales')",CGI,complicaciones gastrointestinales,1
+"('EBA', 'espasticidad del brazo del adulto')",EBA,espasticidad del brazo del adulto,1
+"('NPI', 'neuropsychiatric inventory')",NPI,neuropsychiatric inventory,1
+"('EB', 'exceso de base')",EB,exceso de base,1
+"('WOK', 'web of knowledge')",WOK,web of knowledge,1
+"('FOP', 'foramen oval permeable')",FOP,foramen oval permeable,1
+"('GFA', 'glotograma de flujo aéreo')",GFA,glotograma de flujo aéreo,1
+"('AST-M', 'area de seccion transversal del nervio mediano en la muñeca')",AST-M,area de seccion transversal del nervio mediano en la muñeca,2
+"('DUL', 'duloxetina')",DUL,duloxetina,1
+"('SAOS', 'síndrome de apnea obstructiva del sueño')",SAOS,síndrome de apnea obstructiva del sueño,3
+"('TDAH–', 'tdah (8-13 años) divididos en dos grupos segun la presencia')",TDAH–,tdah (8-13 años) divididos en dos grupos segun la presencia,1
+"('CIE-10', 'clasificacion internacional de enfermedades, 10.ª revision')",CIE-10,"clasificacion internacional de enfermedades, 10.ª revision",1
+"('CV', 'calidad de vida')",CV,calidad de vida,1
+"('FAP', 'fibrilacion auricular paroxistica')",FAP,fibrilacion auricular paroxistica,1
+"('pertofrana', 'parkinsonianos con dos derivados del iminodibencilo: imipramina (tofranil) y desipramina')",pertofrana,parkinsonianos con dos derivados del iminodibencilo: imipramina (tofranil) y desipramina,1
+"('SWB', 'síndrome williams-beuren')",SWB,síndrome williams-beuren,1
+"('UNO', 'unidad de neurooftalmologia')",UNO,unidad de neurooftalmologia,1
+"('LLA', 'linfoblástica aguda')",LLA,linfoblástica aguda,2
+"('ET', 'esclerosis tuberosa')",ET,esclerosis tuberosa,1
+"('SGB', 'síndrome de guillain-barré')",SGB,síndrome de guillain-barré,2
+"('ADVP', 'a drogas por vía parenteral')",ADVP,a drogas por vía parenteral,1
+"('E.A.E.', 'encefalomielítis alérgica experimental')",E.A.E.,encefalomielítis alérgica experimental,1
+"('MMSE', 'mini-mental state examination')",MMSE,mini-mental state examination,1
+"('A/EEG', 'ambulatoria del eeg')",A/EEG,ambulatoria del eeg,1
+"('LNH', 'linfomas no hodgkinianos')",LNH,linfomas no hodgkinianos,1
+"('SGB', 'sindrome de guillain-barre')",SGB,sindrome de guillain-barre,1
+"('LDX', 'lisdexanfetamina dimesilato')",LDX,lisdexanfetamina dimesilato,1
+"('TC', 'tomografia computarizada')",TC,tomografia computarizada,2
+"('TaDiCS ®', 'tablero dinamico de cubos y signos')",TaDiCS ®,tablero dinamico de cubos y signos,1
+"('VHS', 'virus del herpes simple')",VHS,virus del herpes simple,1
+"('ESCID', 'escala de conductas indicadoras de dolor')",ESCID,escala de conductas indicadoras de dolor,1
+"('FP-CIT', 'fluoropropil-2ßcarbometoxi-3ß-(4-iodofenil) nortropano')",FP-CIT,fluoropropil-2ßcarbometoxi-3ß-(4-iodofenil) nortropano,1
+"('MIA', 'movimientos involuntarios anormales')",MIA,movimientos involuntarios anormales,1
+"('OCD', 'oxigenoterapia continuada domiciliaria')",OCD,oxigenoterapia continuada domiciliaria,1
+"('MTHFR', 'metilentetrahidrofolato reductasa')",MTHFR,metilentetrahidrofolato reductasa,2
+"('NAAG', 'n-acetil-aspartil-glutamato')",NAAG,n-acetil-aspartil-glutamato,1
+"('PCT', 'parada cardiaca traumática')",PCT,parada cardiaca traumática,1
+"('OSAS', 'obstructiva del sueño')",OSAS,obstructiva del sueño,2
+"('EMS', 'epilepsia mioclónica severa de la infancia')",EMS,epilepsia mioclónica severa de la infancia,1
+"('ELA', 'esclerosis lateral amiotrofica')",ELA,esclerosis lateral amiotrofica,2
+"('ZSV', 'zona subventricular')",ZSV,zona subventricular,1
+"('dm', 'dosismedia')",dm,dosismedia,1
+"('MC', 'migraña cronica')",MC,migraña cronica,2
+"('AFP', 'alfa fetoproteína')",AFP,alfa fetoproteína,1
+"('FAME', 'farmacos modificadores de la enfermedad')",FAME,farmacos modificadores de la enfermedad,1
+"('OAI', 'orejuela de la aurícula izquierda')",OAI,orejuela de la aurícula izquierda,1
+"('HPN', 'hipotension nocturna')",HPN,hipotension nocturna,1
+"('EVCi', 'evento vascular cerebral isquémico')",EVCi,evento vascular cerebral isquémico,1
+"('LER', 'linforma epidural raquídeo')",LER,linforma epidural raquídeo,1
+"('EM', 'esclerosis multiple')",EM,esclerosis multiple,21
+"('AP', 'atencion primaria')",AP,atencion primaria,1
+"('FANV', 'fibrilacion auricular no valvular')",FANV,fibrilacion auricular no valvular,1
+"('ELEP', 'estudio longitudinal de pacientes con enfermedad de parkinson')",ELEP,estudio longitudinal de pacientes con enfermedad de parkinson,1
+"('DF', 'disfonía funcional')",DF,disfonía funcional,1
+"('VPN', 'valor predictivo negativo')",VPN,valor predictivo negativo,1
+"('VNG', 'videonistagmográfico')",VNG,videonistagmográfico,1
+"('CGI-S', 'clinical global impression-severity')",CGI-S,clinical global impression-severity,1
+"('LCR', 'líquido cefaloraquídeo')",LCR,líquido cefaloraquídeo,1
+"('DCTC', 'duplex color transcraneal')",DCTC,duplex color transcraneal,1
+"('NAA', 'n-acetil-l-aspartato')",NAA,n-acetil-l-aspartato,1
+"('DFT', 'demencia frontotemporal')",DFT,demencia frontotemporal,1
+"('SAHS', 'síndrome apnea-hipopnea del sueño')",SAHS,síndrome apnea-hipopnea del sueño,1
+"('FP', 'fractura de pelvis')",FP,fractura de pelvis,1
+"('ECA', 'estudios clinicos aleatorizados y controlados')",ECA,estudios clinicos aleatorizados y controlados,1
+"('TDAH', 'trastorno por déficit de atención/hiperactividad')",TDAH,trastorno por déficit de atención/hiperactividad,1

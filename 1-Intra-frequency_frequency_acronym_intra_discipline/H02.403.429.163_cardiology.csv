@@ -1,0 +1,471 @@
+pair,acronym,description,frequency
+"('ESUS', 'embolic stroke of undetermined source')",ESUS,embolic stroke of undetermined source,1
+"('MHSO', 'miocardiopatía hipertrófica septal obstructiva')",MHSO,miocardiopatía hipertrófica septal obstructiva,1
+"('S. T.', 'síndrome tóxico')",S. T.,síndrome tóxico,1
+"('atPIG', 'activador tisular del plasminógeno')",atPIG,activador tisular del plasminógeno,1
+"('TTT', 'total de la técnica')",TTT,total de la técnica,1
+"('ANCA', 'anticitoplasma de neutrófilos')",ANCA,anticitoplasma de neutrófilos,2
+"('ADA', 'american diabetes association')",ADA,american diabetes association,1
+"('SCA', 'síndromes coronarios agudos')",SCA,síndromes coronarios agudos,1
+"('CEFEN', 'comité de estudios fetoneonatales')",CEFEN,comité de estudios fetoneonatales,1
+"('SAHOS', 'sindrome de apnea/hipopnea obstructiva del sueño')",SAHOS,sindrome de apnea/hipopnea obstructiva del sueño,1
+"('RENAC', 'registro nacional de angioplastia coronaria')",RENAC,registro nacional de angioplastia coronaria,1
+"('CVP', 'complejos ventriculares prematuros')",CVP,complejos ventriculares prematuros,1
+"('PTFE', 'politetrafluoroetileno expandido')",PTFE,politetrafluoroetileno expandido,1
+"('EMB', 'extensión de media brazada')",EMB,extensión de media brazada,1
+"('EAS', 'europea de aterosclerosis')",EAS,europea de aterosclerosis,1
+"('RP', 'razones de prevalencia')",RP,razones de prevalencia,1
+"('MTHFR', 'metilén tetrahidrofólico reductasa')",MTHFR,metilén tetrahidrofólico reductasa,2
+"('CMB', 'circunferencia media de brazo')",CMB,circunferencia media de brazo,1
+"('ACV', 'accidente cerebro vascular')",ACV,accidente cerebro vascular,1
+"('HVI', 'hipertrofia ventricular izquierda')",HVI,hipertrofia ventricular izquierda,1
+"('SETH', 'sociedad española de trasplante hepático')",SETH,sociedad española de trasplante hepático,1
+"('SCA', 'síndrome coronario agudo')",SCA,síndrome coronario agudo,3
+"('EP', 'embolización percutánea')",EP,embolización percutánea,1
+"('VHS', 'vasculitis por hipersensibilidad')",VHS,vasculitis por hipersensibilidad,1
+"('SF', 'síndrome de fragilidad')",SF,síndrome de fragilidad,1
+"('SAF', 'síndrome antifosfolípidos')",SAF,síndrome antifosfolípidos,1
+"('MAPA', 'monitorización ambulatoria de la presión arterial')",MAPA,monitorización ambulatoria de la presión arterial,3
+"('INR', 'international normalized ratio')",INR,international normalized ratio,2
+"('IAM CEST', 'infarto agudo al miocardio con elevación del segmento st')",IAM CEST,infarto agudo al miocardio con elevación del segmento st,1
+"('NH', 'neoplasias hematológicas')",NH,neoplasias hematológicas,1
+"('AGEMZA', 'academia general militar de zaragoza')",AGEMZA,academia general militar de zaragoza,1
+"('H.P.', 'hipertensión portal')",H.P.,hipertensión portal,1
+"('iam', 'infarto agudo de miocardio')",iam,infarto agudo de miocardio,1
+"('MAPA', 'monitorización ambulatoria de presión arterial')",MAPA,monitorización ambulatoria de presión arterial,2
+"('GEMPO', 'grupo de estudio de morbimortalidad postoperatoria')",GEMPO,grupo de estudio de morbimortalidad postoperatoria,1
+"('CG', 'carga glucémica')",CG,carga glucémica,1
+"('SCORE', 'systematic coronary risk evaluation')",SCORE,systematic coronary risk evaluation,1
+"('NSE', 'nivel socioeconómico')",NSE,nivel socioeconómico,1
+"('TEP', 'tromboembolismo pulmonar')",TEP,tromboembolismo pulmonar,2
+"('ENP', 'estimulacion nerviosa periferica')",ENP,estimulacion nerviosa periferica,1
+"('UDVP', 'usuarios de drogas por vía parenteral')",UDVP,usuarios de drogas por vía parenteral,1
+"('TLIV', 'trombolisis intravenosa')",TLIV,trombolisis intravenosa,1
+"('FL', 'fibrinolisis')",FL,fibrinolisis,1
+"('AMPA', 'automedida de presión arterial domiciliaria')",AMPA,automedida de presión arterial domiciliaria,1
+"('AT', 'autotrasplante')",AT,autotrasplante,1
+"('FRCV', 'factores de riesgo cardiovascular')",FRCV,factores de riesgo cardiovascular,4
+"('NO', 'nítrico')",NO,nítrico,1
+"('MSC', 'muerte súbita cardiaca')",MSC,muerte súbita cardiaca,1
+"('VFC', 'variabilidad de la frecuencia cardiaca')",VFC,variabilidad de la frecuencia cardiaca,1
+"('P.C.P.', 'poliartritis crónica progresiva')",P.C.P.,poliartritis crónica progresiva,1
+"('EN', 'estrategia nueva')",EN,estrategia nueva,1
+"('ACV', 'accidentes cerebrovasculares')",ACV,accidentes cerebrovasculares,3
+"('RCV', 'riesgo cardiovascular')",RCV,riesgo cardiovascular,2
+"('REV-H-30d', 'revisita a urgencias u hospitalización por ica a 30 días')",REV-H-30d,revisita a urgencias u hospitalización por ica a 30 días,1
+"('ANCA', 'anticitoplasma de los neutrófilos')",ANCA,anticitoplasma de los neutrófilos,1
+"('LME', 'lactancia materna exclusiva')",LME,lactancia materna exclusiva,1
+"('TMA', 'tiempo máximo de apnea')",TMA,tiempo máximo de apnea,1
+"('PA', 'presión arterial')",PA,presión arterial,3
+"('DM', 'diabetes mellitus')",DM,diabetes mellitus,3
+"('GEMI', 'grupo de estudio multicéntrico del infarto')",GEMI,grupo de estudio multicéntrico del infarto,1
+"('SUH', 'servicios de urgencias hospitalarios')",SUH,servicios de urgencias hospitalarios,5
+"('HAP-P', 'hipertensión arterial pulmonar primaria')",HAP-P,hipertensión arterial pulmonar primaria,1
+"('eTFG', 'estimación de la tasa de filtración glomerular')",eTFG,estimación de la tasa de filtración glomerular,1
+"('FA', 'fibrilación auricular')",FA,fibrilación auricular,3
+"('VitD', 'vitamina d')",VitD,vitamina d,1
+"('VC', 'vasculitis cutáneas')",VC,vasculitis cutáneas,1
+"('RVA', 'reflejo venoarteriolar')",RVA,reflejo venoarteriolar,1
+"('AEH', 'angioedema hereditario')",AEH,angioedema hereditario,1
+"('AIT', 'ataque isquemico transitorio')",AIT,ataque isquemico transitorio,2
+"('GINA', 'guías internacionales de diagnóstico y tratamiento del asma')",GINA,guías internacionales de diagnóstico y tratamiento del asma,1
+"('RICVAL', 'registro de infartos agudos de miocardio de la ciudad de valencia')",RICVAL,registro de infartos agudos de miocardio de la ciudad de valencia,1
+"('ISP', 'inventario de sintomas prefrontales')",ISP,inventario de sintomas prefrontales,1
+"('PEITHO', 'pulmonary embolism thrombolysis')",PEITHO,pulmonary embolism thrombolysis,1
+"('BN', 'binomial negativa')",BN,binomial negativa,1
+"('AF', 'actividad física')",AF,actividad física,1
+"('copep-es', 'copeptina de elevada sensibilidad')",copep-es,copeptina de elevada sensibilidad,1
+"('VNI', 'ventilación no invasiva')",VNI,ventilación no invasiva,1
+"('TI', 'técnica de ivanissevich')",TI,técnica de ivanissevich,1
+"('MIPSE', ""mortalidad innecesariamente prematura y sanitariamente evitable'"")",MIPSE,mortalidad innecesariamente prematura y sanitariamente evitable',1
+"('D. P.', 'dialisis peritoneal')",D. P.,dialisis peritoneal,1
+"('SECCV', 'sociedad española de cirugía cardiovascular')",SECCV,sociedad española de cirugía cardiovascular,1
+"('SEM', 'servicio de emergencias médicas')",SEM,servicio de emergencias médicas,1
+"('HSA', 'hemorragia subaracnoidea')",HSA,hemorragia subaracnoidea,1
+"('ANCA', 'anticitoplasmáticos del neutrófilo')",ANCA,anticitoplasmáticos del neutrófilo,1
+"('FLANC', 'federación latinoamericana de neurocirugía')",FLANC,federación latinoamericana de neurocirugía,1
+"('cLDL', 'colesterol ldl')",cLDL,colesterol ldl,1
+"('D-D', 'dimero-d')",D-D,dimero-d,1
+"('MDA', 'malondialdehído')",MDA,malondialdehído,1
+"('VD', 'volumen testicular diferencial')",VD,volumen testicular diferencial,1
+"('IMC', 'introducción: el índice de masa corporal')",IMC,introducción: el índice de masa corporal,1
+"('EC', 'estenosis carotidea')",EC,estenosis carotidea,1
+"('SEPAR', 'sociedad española de neumología y cirugía torácica')",SEPAR,sociedad española de neumología y cirugía torácica,2
+"('DMT2', 'diabetes mellitus tipo 2')",DMT2,diabetes mellitus tipo 2,2
+"('CIP', 'colesteatoma intrapetroso')",CIP,colesteatoma intrapetroso,1
+"('ATP', 'angioplastia transluminal percutánea')",ATP,angioplastia transluminal percutánea,2
+"('SEN', 'sociedad española de neurología')",SEN,sociedad española de neurología,1
+"('PSH', 'púrpura de schönlein-henoch')",PSH,púrpura de schönlein-henoch,1
+"('ECOSIAC', 'ecocardiografía de la sociedad interamericana de cardiología')",ECOSIAC,ecocardiografía de la sociedad interamericana de cardiología,1
+"('E.C.G.', 'electrocardiograma')",E.C.G.,electrocardiograma,1
+"('LIHC', 'lesiones isquémico hemorrágicas cerebrales')",LIHC,lesiones isquémico hemorrágicas cerebrales,1
+"('PCR', 'proteína c reactiva')",PCR,proteína c reactiva,1
+"('NYHA', 'new yorl health asosiation')",NYHA,new yorl health asosiation,1
+"('cHDL', 'colesterol hdl')",cHDL,colesterol hdl,1
+"('FS', 'frutos secos')",FS,frutos secos,1
+"('HChr', 'hormona de crecimiento humana recombinante')",HChr,hormona de crecimiento humana recombinante,1
+"('zIMC', 'z del índice de masa corporal')",zIMC,z del índice de masa corporal,1
+"('MS', 'miembro superior')",MS,miembro superior,1
+"('NIHSS', 'national institute of health stroke scale')",NIHSS,national institute of health stroke scale,1
+"('RM', 'resonancia magnetica')",RM,resonancia magnetica,1
+"('ARA2', 'antagonistas del receptor de angiotensina 2')",ARA2,antagonistas del receptor de angiotensina 2,1
+"('GOS', 'glasgow outcome score')",GOS,glasgow outcome score,1
+"('GENTE', 'grupo de estudio de nuevas terapias de enfermedades reumáticas')",GENTE,grupo de estudio de nuevas terapias de enfermedades reumáticas,1
+"('QTa', 'qt auricular')",QTa,qt auricular,1
+"('RNPT', 'recién nacidos prematuros')",RNPT,recién nacidos prematuros,1
+"('HTA', 'hipertensión arterial')",HTA,hipertensión arterial,8
+"('TGA', 'típica completa de las grandes arterias')",TGA,típica completa de las grandes arterias,1
+"('IC 95%', 'intervalos de confianza al 95%')",IC 95%,intervalos de confianza al 95%,2
+"('Tnc T-es', 'troponina cardiaca t de elevada sensibilidad')",Tnc T-es,troponina cardiaca t de elevada sensibilidad,1
+"('H-RP', 'hipersomnia y respiración periódica')",H-RP,hipersomnia y respiración periódica,1
+"('PE', 'pectus excavatum')",PE,pectus excavatum,1
+"('t/b', 'tobillo/brazo')",t/b,tobillo/brazo,1
+"('AFHAP', 'abordaje farmacológico de la hipertensión en atención primaria')",AFHAP,abordaje farmacológico de la hipertensión en atención primaria,1
+"('SOCHMEDEP', 'sociedad chilena de medicina del deporte')",SOCHMEDEP,sociedad chilena de medicina del deporte,1
+"('MPD', 'marcapasos definitivos')",MPD,marcapasos definitivos,1
+"('CHCC', 'chapel hill consensus conference')",CHCC,chapel hill consensus conference,1
+"('ECG', 'electrocardiogramas')",ECG,electrocardiogramas,1
+"('M-30d', 'mortalidad por cualquier causa a 30 días')",M-30d,mortalidad por cualquier causa a 30 días,1
+"('FAVIDE', 'fístulas arteriovenosas intradurales dorsales espinales')",FAVIDE,fístulas arteriovenosas intradurales dorsales espinales,1
+"('OR', 'odss ratio')",OR,odss ratio,1
+"('REVERSE', 'registro sobre la cardioversión en españa')",REVERSE,registro sobre la cardioversión en españa,1
+"('VCMP', 'vincristina, ciclofosfamida, melfalán y prednisona')",VCMP,"vincristina, ciclofosfamida, melfalán y prednisona",1
+"('CAVC', 'canal atrioventricular completo')",CAVC,canal atrioventricular completo,1
+"('PAOP', 'productos avanzados de oxidación proteica')",PAOP,productos avanzados de oxidación proteica,1
+"('SM', 'síndrome metabólico')",SM,síndrome metabólico,6
+"('HR', 'hazard ratio')",HR,hazard ratio,2
+"('AGS', 'aporte de ácidos grasos saturados')",AGS,aporte de ácidos grasos saturados,1
+"('QUALIDIAB', 'quality of diabetes care')",QUALIDIAB,quality of diabetes care,1
+"('IC 95%', 'intervalos de confianza al 95 %')",IC 95%,intervalos de confianza al 95 %,1
+"('HSDC', 'hematoma subdural cronico')",HSDC,hematoma subdural cronico,1
+"('EDL', 'extensor digitorum longus')",EDL,extensor digitorum longus,1
+"('WPW', 'wolff-parkinson-white manifiesto y oculto')",WPW,wolff-parkinson-white manifiesto y oculto,1
+"('DPCA', 'diálisis peritoneal continua ambulatoria')",DPCA,diálisis peritoneal continua ambulatoria,1
+"('CT', 'colesterol total')",CT,colesterol total,2
+"('GOLD', 'global initiative for chronic obstructive lung disease')",GOLD,global initiative for chronic obstructive lung disease,1
+"('GESEPOC', 'guía española de la epoc')",GESEPOC,guía española de la epoc,1
+"('DESA', 'desfibrilador externo semiautomático')",DESA,desfibrilador externo semiautomático,1
+"('ECV', 'enfermedad cardiovascular')",ECV,enfermedad cardiovascular,4
+"('TASPE', 'trasplante autólogo de progenitores hematopoyéticos de sangre periférica')",TASPE,trasplante autólogo de progenitores hematopoyéticos de sangre periférica,1
+"('CA', 'circunferencia abdominal')",CA,circunferencia abdominal,1
+"('Tnc', 'troponina cardiaca')",Tnc,troponina cardiaca,1
+"('II', 'inestables hospitalizados en barcelona')",II,inestables hospitalizados en barcelona,1
+"('MUSIC', 'muerte súbita en insuficiencia cardíaca')",MUSIC,muerte súbita en insuficiencia cardíaca,1
+"('RIETE', 'registro informatizado de pacientes con enfermedad tromboembólica en españa')",RIETE,registro informatizado de pacientes con enfermedad tromboembólica en españa,1
+"('ETMA', 'estudio sobre la tolerancia a la medicación antihipertensiva')",ETMA,estudio sobre la tolerancia a la medicación antihipertensiva,4
+"('ACR', 'american college of rheumatology')",ACR,american college of rheumatology,1
+"('IMSS', 'instituto mexicano del seguro social')",IMSS,instituto mexicano del seguro social,5
+"('PCM', 'primer contacto médico')",PCM,primer contacto médico,1
+"('EC', 'enfermedades cardiovasculares')",EC,enfermedades cardiovasculares,1
+"('SEMN', 'sociedad española de medicina nuclear')",SEMN,sociedad española de medicina nuclear,1
+"('SENR', 'sociedad española de neurorradiología')",SENR,sociedad española de neurorradiología,1
+"('UTAC', 'unidades de tratamiento del ataque cerebrovascular')",UTAC,unidades de tratamiento del ataque cerebrovascular,1
+"('AIT', 'accidente isquémico transitorio')",AIT,accidente isquémico transitorio,1
+"('EC', 'estrategia convencional')",EC,estrategia convencional,1
+"('EO', 'estrés oxidativo')",EO,estrés oxidativo,1
+"('PEFEX', 'para la evaluación de la fibrinólisis extrahospitalaria')",PEFEX,para la evaluación de la fibrinólisis extrahospitalaria,1
+"('REALSICA', 'registro de alteplasa en síndromes coronarios agudos con elevación del st')",REALSICA,registro de alteplasa en síndromes coronarios agudos con elevación del st,1
+"('PCR-us', 'proteína c-reactiva ultrasensible')",PCR-us,proteína c-reactiva ultrasensible,1
+"('PADS', 'physical activity and disability survey')",PADS,physical activity and disability survey,1
+"('MNA', 'mini nutritional assesment')",MNA,mini nutritional assesment,1
+"('TCE', 'traumatismos craneoencefalicos')",TCE,traumatismos craneoencefalicos,1
+"('AAAR', 'aorta abdominal rotos')",AAAR,aorta abdominal rotos,1
+"('CC', 'cardiopatías congénitas')",CC,cardiopatías congénitas,4
+"('ECV', 'eventos cardiovasculares')",ECV,eventos cardiovasculares,1
+"('TCE', 'traumatismo craneoencefalico')",TCE,traumatismo craneoencefalico,1
+"('EHI', 'encefalopatía hipóxico-isquémica')",EHI,encefalopatía hipóxico-isquémica,1
+"('CI', 'código infarto')",CI,código infarto,1
+"('AOMI', 'arteriopatía obliterante de miembros inferiores')",AOMI,arteriopatía obliterante de miembros inferiores,1
+"('CARTO', 'cartografía electroanatómica')",CARTO,cartografía electroanatómica,1
+"('ReMeFA', 'registro mexicano de fibrilación auricular')",ReMeFA,registro mexicano de fibrilación auricular,1
+"('RM', 'razones de momios')",RM,razones de momios,1
+"('PRES', 'posterior reversible')",PRES,posterior reversible,1
+"('IMCEST', 'infarto del miocardio con elevación del segmento st')",IMCEST,infarto del miocardio con elevación del segmento st,1
+"('SOCHIPE', 'sociedad chilena de pediatría')",SOCHIPE,sociedad chilena de pediatría,1
+"('UMRF', 'unidades moviles de rehabilitacion-fisioterapia')",UMRF,unidades moviles de rehabilitacion-fisioterapia,1
+"('ETE', 'ecocardiograma transesofágico')",ETE,ecocardiograma transesofágico,1
+"('SIB', 'severe impairment battery')",SIB,severe impairment battery,1
+"('IAM', 'infarto agudo de miocardio')",IAM,infarto agudo de miocardio,1
+"('ECV', 'enfermedades cardiovasculares')",ECV,enfermedades cardiovasculares,2
+"('EODD', 'en días alternos sin descanso de 72 horas')",EODD,en días alternos sin descanso de 72 horas,1
+"('NAC', 'neuropatía autonómica cardíaca')",NAC,neuropatía autonómica cardíaca,1
+"('FRC', 'factores de riesgo cardiometabólico')",FRC,factores de riesgo cardiometabólico,1
+"('España', 'emplazamiento del mismo fue la atención primaria de cataluña')",España,emplazamiento del mismo fue la atención primaria de cataluña,1
+"('DDc', 'dímero-d corregido por edad')",DDc,dímero-d corregido por edad,1
+"('TG', 'triglicéridos')",TG,triglicéridos,1
+"('RCP', 'reanimación cardiopulmonar')",RCP,reanimación cardiopulmonar,2
+"('APC', 'anticuerpos monoclonales para cd38 (pecyc5), cd138')",APC,"anticuerpos monoclonales para cd38 (pecyc5), cd138",1
+"('AP', 'atención primaria')",AP,atención primaria,3
+"('Tnc-as', 'tnc se mide con métodos de alta sensibilidad')",Tnc-as,tnc se mide con métodos de alta sensibilidad,1
+"('GIMC', 'grosor de la íntima media carotídea')",GIMC,grosor de la íntima media carotídea,1
+"('ERC', 'enfermedad renal crónica')",ERC,enfermedad renal crónica,4
+"('MUST', 'malnutrition universal screening tool')",MUST,malnutrition universal screening tool,1
+"('ENDORSE II', 'en méxico de un estudio transversal multicéntrico')",ENDORSE II,en méxico de un estudio transversal multicéntrico,1
+"('PIB', 'producto interno bruto')",PIB,producto interno bruto,1
+"('EPOC', 'enfermedad pulmonar obstructiva crónica')",EPOC,enfermedad pulmonar obstructiva crónica,2
+"('NN', 'neumonía nosocomial')",NN,neumonía nosocomial,1
+"('UC', 'unidades de críticos')",UC,unidades de críticos,1
+"('EP', 'enfermedad de parkinson')",EP,enfermedad de parkinson,2
+"('CEC', 'circulación extracorpórea')",CEC,circulación extracorpórea,2
+"('C-LDL', 'colesterol-ldl')",C-LDL,colesterol-ldl,1
+"('VCI', 'vena cava inferior')",VCI,vena cava inferior,1
+"('EMRR', 'esclerosis multiple remitente recurrente')",EMRR,esclerosis multiple remitente recurrente,2
+"('CP', 'circunferencia de pantorrilla')",CP,circunferencia de pantorrilla,1
+"('RCT', 'rehabilitación cardiaca temprana')",RCT,rehabilitación cardiaca temprana,1
+"('TEV', 'terapia endovascular')",TEV,terapia endovascular,1
+"('SU', 'servicio de urgencias')",SU,servicio de urgencias,4
+"('ML', 'malformaciones linfáticas')",ML,malformaciones linfáticas,1
+"('SEH-LELHA', 'sociedad española de hipertensión-liga española para la lucha contra la hipertensión arterial')",SEH-LELHA,sociedad española de hipertensión-liga española para la lucha contra la hipertensión arterial,1
+"('EPES', 'empresa pública de emergencias sanitarias')",EPES,empresa pública de emergencias sanitarias,1
+"('CMBD', 'conjunto mínimo básico de datos')",CMBD,conjunto mínimo básico de datos,1
+"('TnT-as', 'troponina t de alta sensibilidad')",TnT-as,troponina t de alta sensibilidad,1
+"('OCB', 'oclusion carotidea bilateral')",OCB,oclusion carotidea bilateral,1
+"('W-P-W', 'wolff-parkinson-white')",W-P-W,wolff-parkinson-white,2
+"('NPD', 'nutrición parenteral domiciliaria')",NPD,nutrición parenteral domiciliaria,1
+"('TVC', 'trombosis venosa cerebral')",TVC,trombosis venosa cerebral,1
+"('AESP', 'actividad eléctrica sin pulso')",AESP,actividad eléctrica sin pulso,1
+"('TCH', 'tomografía computada helicoidal')",TCH,tomografía computada helicoidal,1
+"('EVC', 'enfermedad vascular cerebral')",EVC,enfermedad vascular cerebral,1
+"('D.V.T.A.', 'drenaje venoso pulmonar anómalo total')",D.V.T.A.,drenaje venoso pulmonar anómalo total,1
+"('HTAS', 'hipertensión arterial sistémica')",HTAS,hipertensión arterial sistémica,1
+"('MCH', 'miocardiopatía hipertrófica')",MCH,miocardiopatía hipertrófica,2
+"('CEIPC', 'comité español interdisciplinario de prevención cardiovascular')",CEIPC,comité español interdisciplinario de prevención cardiovascular,2
+"('III', 'interacción insulina-receptor')",III,interacción insulina-receptor,1
+"('CONUT', 'conocimiento nutricional o método ulibarri')",CONUT,conocimiento nutricional o método ulibarri,1
+"('RENAHTA', 're-encuesta nacional de hipertensión arterial')",RENAHTA,re-encuesta nacional de hipertensión arterial,1
+"('CHAL', 'calidad de vida en hipertensión arterial')",CHAL,calidad de vida en hipertensión arterial,2
+"('ECA', 'enzima convertidora de angiotensina')",ECA,enzima convertidora de angiotensina,1
+"('ISC', 'international society for chronobiology')",ISC,international society for chronobiology,1
+"('IAM', 'infarto agudo del miocardio')",IAM,infarto agudo del miocardio,3
+"('CRONOS', 'con una nueva forma farmacéutica de losartán de liberación sostenida')",CRONOS,con una nueva forma farmacéutica de losartán de liberación sostenida,1
+"('RHC', 'reserva hemodinamica cerebral')",RHC,reserva hemodinamica cerebral,1
+"('RI', 'resistencia insulínica')",RI,resistencia insulínica,1
+"('AR', 'artritis reumatoide')",AR,artritis reumatoide,1
+"('IE', 'intubar en estático')",IE,intubar en estático,1
+"('SOCHICAR', 'sociedad chilena de cardiología y cirugía cardiovascular')",SOCHICAR,sociedad chilena de cardiología y cirugía cardiovascular,1
+"('NEWSQOL', 'newcastle stroke-specific quality of life measure')",NEWSQOL,newcastle stroke-specific quality of life measure,2
+"('TDAH', 'trastorno por deficit de atencion/hiperactividad')",TDAH,trastorno por deficit de atencion/hiperactividad,1
+"('WPW', 'wolff parkinson white')",WPW,wolff parkinson white,1
+"('SM', 'síndrome de marfan')",SM,síndrome de marfan,1
+"('CF', 'componente físico')",CF,componente físico,1
+"('RIC', 'rango intercuartil')",RIC,rango intercuartil,1
+"('SOP', 'síndrome de ovarios poliquísticos')",SOP,síndrome de ovarios poliquísticos,1
+"('DCC', 'defectos cardíacos congénitos')",DCC,defectos cardíacos congénitos,1
+"('IECA', 'inhibidores de enzima convertidora de angiotensina')",IECA,inhibidores de enzima convertidora de angiotensina,1
+"('MD', 'miocardiopatía dilatada')",MD,miocardiopatía dilatada,1
+"('WPW', 'wolff-parkinson-white')",WPW,wolff-parkinson-white,1
+"('ARAHIP', 'atención integral del recién nacido con agresión hipóxico-isquémica perinatal')",ARAHIP,atención integral del recién nacido con agresión hipóxico-isquémica perinatal,1
+"('ECV', 'enfermedad cerebrovascular')",ECV,enfermedad cerebrovascular,3
+"('SU', 'servicios de urgencias')",SU,servicios de urgencias,4
+"('DFT', 'defibrótido')",DFT,defibrótido,1
+"('ILAE', 'internacional contra la epilepsia')",ILAE,internacional contra la epilepsia,1
+"('AL', 'actividad laboral')",AL,actividad laboral,1
+"('PCA', 'persistencia del conducto arterioso')",PCA,persistencia del conducto arterioso,4
+"('TCGA', 'transposición corregida de las grandes arterias')",TCGA,transposición corregida de las grandes arterias,1
+"('SEM', 'sistema d’emergències mèdiques')",SEM,sistema d’emergències mèdiques,1
+"('COSFAMM', 'cohorte de obesidad, sarcopenia y fragilidad en adultos mayores de méxico')",COSFAMM,"cohorte de obesidad, sarcopenia y fragilidad en adultos mayores de méxico",1
+"('SS', 'similares')",SS,similares,1
+"('EnT', 'enfermedades no transmisibles')",EnT,enfermedades no transmisibles,1
+"('ACOD', 'accion directa')",ACOD,accion directa,1
+"('DAI', 'desfibrilador automático implantable')",DAI,desfibrilador automático implantable,1
+"('ECVs', 'enfermedades cardiovasculares')",ECVs,enfermedades cardiovasculares,1
+"('IAMEST', 'infarto agudo de miocardio con elevación del st')",IAMEST,infarto agudo de miocardio con elevación del st,1
+"('IC', 'insuficiencia cardiaca')",IC,insuficiencia cardiaca,3
+"('LT', 'larvaterapia')",LT,larvaterapia,1
+"('NL', 'normal')",NL,normal,1
+"('FR', 'factores de riesgo')",FR,factores de riesgo,1
+"('AVAC', 'años de vida ajustados por calidad')",AVAC,años de vida ajustados por calidad,1
+"('EP', 'embolismo pulmonar')",EP,embolismo pulmonar,1
+"('SICA', 'síndrome isquémico coronario agudo')",SICA,síndrome isquémico coronario agudo,1
+"('ISP', 'inventario de síntomas prefrontales')",ISP,inventario de síntomas prefrontales,1
+"('H.P.', 'hipertension portal""')",H.P.,"hipertension portal""",1
+"('RECAVA', 'red temática de investigación cooperativa en enfermedades cardiovasculares')",RECAVA,red temática de investigación cooperativa en enfermedades cardiovasculares,1
+"('Neuro-ACMI', 'neurología crítica de la asociación catalana de medicina intensiva')",Neuro-ACMI,neurología crítica de la asociación catalana de medicina intensiva,1
+"('CCC', 'congènita crítica')",CCC,congènita crítica,1
+"('MM', 'mieloma múltiple')",MM,mieloma múltiple,1
+"('GIM', 'grosor intimo-medial carotídeo')",GIM,grosor intimo-medial carotídeo,1
+"('CTCA', 'cierre transcateterismo del conducto arterioso')",CTCA,cierre transcateterismo del conducto arterioso,1
+"('IA', 'insuficiencia arterial')",IA,insuficiencia arterial,1
+"('ICC', 'indice cintura-cadera')",ICC,indice cintura-cadera,1
+"('REGITELL', 'registro de pacientes con ataque isquémico transitorio de lleida')",REGITELL,registro de pacientes con ataque isquémico transitorio de lleida,1
+"('SRAA', 'sistema renina-angiotensina-aldosterona')",SRAA,sistema renina-angiotensina-aldosterona,1
+"('SHO', 'síndrome de hipoventilación del obeso')",SHO,síndrome de hipoventilación del obeso,1
+"('AE', 'aterosclerosis')",AE,aterosclerosis,1
+"('GEECV', 'grupo de estudio de enfermedades cerebrovasculares')",GEECV,grupo de estudio de enfermedades cerebrovasculares,1
+"('A.T.P.', 'angioplastia transluminal percutánea')",A.T.P.,angioplastia transluminal percutánea,1
+"('AAS', 'acido acetilsalicilico')",AAS,acido acetilsalicilico,1
+"('TC', 'tomografía computarizada')",TC,tomografía computarizada,1
+"('atenolol', 'arterial durante la ergometría. efectos del tratamiento con vasodilatadores (prazosín) versus bloqueadores beta')",atenolol,arterial durante la ergometría. efectos del tratamiento con vasodilatadores (prazosín) versus bloqueadores beta,1
+"('lp(a)', 'lipoproteína (a)')",lp(a),lipoproteína (a),1
+"('TVP', 'trombosis venosa profunda')",TVP,trombosis venosa profunda,1
+"('PERSTEMI', 'peruvian registry of st-segment elevation myocardial infarction')",PERSTEMI,peruvian registry of st-segment elevation myocardial infarction,1
+"('AI', 'aneurismas intracraneales')",AI,aneurismas intracraneales,1
+"('SPO', 'síndrome de platipnea-ortodeoxia')",SPO,síndrome de platipnea-ortodeoxia,1
+"('RCE', 'relación cintura-estatura')",RCE,relación cintura-estatura,1
+"('AHA', 'american heart association')",AHA,american heart association,1
+"('TCMD-16', 'tomografía computarizada de 16 detectores')",TCMD-16,tomografía computarizada de 16 detectores,1
+"('ICFEP', 'insuficiencia cardiaca con fraccion de expulsion preservada')",ICFEP,insuficiencia cardiaca con fraccion de expulsion preservada,1
+"('IRCV', 'integrado de riesgo cardiovascular')",IRCV,integrado de riesgo cardiovascular,1
+"('COR', 'característica operativa del receptor')",COR,característica operativa del receptor,2
+"('TA', 'tensión arterial')",TA,tensión arterial,1
+"('HPS', 'hiperglucemia postoperatoria severa')",HPS,hiperglucemia postoperatoria severa,1
+"('Parte I', 'posible aprovechamiento en la terapéutica')",Parte I,posible aprovechamiento en la terapéutica,1
+"('IAAS', 'infecciones asociadas a la atención en salud')",IAAS,infecciones asociadas a la atención en salud,1
+"('CIA', 'comunicación interauricular')",CIA,comunicación interauricular,2
+"('OAK', 'older acute heart failure key data')",OAK,older acute heart failure key data,1
+"('RR', 'riesgos relativos')",RR,riesgos relativos,1
+"('MAV', 'malformaciones arteriovenosas')",MAV,malformaciones arteriovenosas,2
+"('ROC', 'receiver operating characteristic')",ROC,receiver operating characteristic,1
+"('QOL-AD', ""quality of life in alzheimer's disease"")",QOL-AD,quality of life in alzheimer's disease,1
+"('DCA', 'daño cerebral adquirido')",DCA,daño cerebral adquirido,1
+"('NPA', 'nefropatía secundaria a púrpura anafilactoide')",NPA,nefropatía secundaria a púrpura anafilactoide,1
+"('España', 'españolas, 29 de mayo a l de junio de 1983, oviedo')",España,"españolas, 29 de mayo a l de junio de 1983, oviedo",1
+"('I.', 'infarto agudo del miocardio.')",I.,infarto agudo del miocardio.,1
+"('CRM', 'cirugía de revascularización miocárdica')",CRM,cirugía de revascularización miocárdica,1
+"('IAMSEST', 'infarto agudo de miocardio sin elevación del segmento st')",IAMSEST,infarto agudo de miocardio sin elevación del segmento st,1
+"('ANCA', 'anticitoplasma de neutrófilo')",ANCA,anticitoplasma de neutrófilo,2
+"('EA', 'enfermedades autoinmunes')",EA,enfermedades autoinmunes,1
+"('AFG', 'actividades fisicas grupales')",AFG,actividades fisicas grupales,1
+"('DM2', 'diabetes mellitus tipo 2')",DM2,diabetes mellitus tipo 2,1
+"('eas', 'estenosis aórtica supravalvular')",eas,estenosis aórtica supravalvular,1
+"('SAS', 'servicio andaluz de salud')",SAS,servicio andaluz de salud,1
+"('EHE', 'estados hipertensivos del embarazo')",EHE,estados hipertensivos del embarazo,1
+"('HTA-ALERT', 'hipertensos mediante mensajes de alerta en el teléfono móvil')",HTA-ALERT,hipertensos mediante mensajes de alerta en el teléfono móvil,1
+"('RC', 'ritmo circadiano')",RC,ritmo circadiano,1
+"('SIC', 'síndrome de intestino corto')",SIC,síndrome de intestino corto,1
+"('ADE', 'ancho de distribución eritrocitaria')",ADE,ancho de distribución eritrocitaria,1
+"('HRV', 'hipertensión renovascular')",HRV,hipertensión renovascular,1
+"('HA', 'hipertensión arterial')",HA,hipertensión arterial,1
+"('IAM-CEST', 'infarto agudo al miocardio con elevación del st')",IAM-CEST,infarto agudo al miocardio con elevación del st,1
+"('ETV', 'enfermedad tromboembólica venosa')",ETV,enfermedad tromboembólica venosa,6
+"('TSP- 1', 'trombospondina-1')",TSP- 1,trombospondina-1,1
+"('PAIA', 'plan de atencion al ictus de aragon')",PAIA,plan de atencion al ictus de aragon,1
+"('EIC', 'ecocardiografía intracardíaca')",EIC,ecocardiografía intracardíaca,1
+"('PA', 'presion arterial')",PA,presion arterial,1
+"('ISS', 'injury severity score')",ISS,injury severity score,1
+"('coils', 'conducto arterioso mediante espirales')",coils,conducto arterioso mediante espirales,1
+"('ERCO', 'enfermedad renal crónica oculta')",ERCO,enfermedad renal crónica oculta,1
+"('ANCA', 'anticuerpos contra citoplasma de neutrófilos')",ANCA,anticuerpos contra citoplasma de neutrófilos,1
+"('ACG', 'adjusted clinical groups\x94')",ACG,adjusted clinical groups,1
+"('EPC', 'escalas de probabilidad clínica')",EPC,escalas de probabilidad clínica,1
+"('TD', 'test de denver')",TD,test de denver,1
+"('AAMCC', 'association of medical chronobiology and chronotherapeutics')",AAMCC,association of medical chronobiology and chronotherapeutics,1
+"('SCIE', 'science citation index expanded')",SCIE,science citation index expanded,1
+"('ACV', 'accidente cerebrovascular')",ACV,accidente cerebrovascular,2
+"('ERO', 'especies reactivas de oxígeno')",ERO,especies reactivas de oxígeno,1
+"('LQ', 'lesion quirurgica')",LQ,lesion quirurgica,1
+"('CAR', 'consulta de alta resolución')",CAR,consulta de alta resolución,1
+"('IR', 'imt, índice de resistencia')",IR,"imt, índice de resistencia",1
+"('AGF', 'angiografía con fluoresceína')",AGF,angiografía con fluoresceína,1
+"('SEA', 'sociedad española de arteriosclerosis')",SEA,sociedad española de arteriosclerosis,2
+"('LTSV', 'limitación del tratamiento de soporte vital')",LTSV,limitación del tratamiento de soporte vital,1
+"('RENAPREC', 'registro nacional sobre programas de rehabilitación cardíaca en méxico')",RENAPREC,registro nacional sobre programas de rehabilitación cardíaca en méxico,1
+"('RV5', 'r en la derivación v5')",RV5,r en la derivación v5,1
+"('PCR', 'proteína c-reactiva')",PCR,proteína c-reactiva,2
+"('SENEC', 'sociedad española de neurocirugía')",SENEC,sociedad española de neurocirugía,1
+"('PAN', 'poliarteritis nodosa')",PAN,poliarteritis nodosa,2
+"('maapa', 'monitoreo ambulatorio automático de la presión arterial de 24 horas')",maapa,monitoreo ambulatorio automático de la presión arterial de 24 horas,1
+"('NBI', 'necesidades básicas insatisfechas')",NBI,necesidades básicas insatisfechas,1
+"('PL', 'punción lumbar')",PL,punción lumbar,1
+"('TAC', 'tomografia axial computarizada')",TAC,tomografia axial computarizada,1
+"('RCE', 'recuperación de la circulación espontánea')",RCE,recuperación de la circulación espontánea,1
+"('PGC', 'porcentaje de grasa corporal')",PGC,porcentaje de grasa corporal,1
+"('RECCyL', 'riesgo de enfermedad cardiovascular en castilla y león')",RECCyL,riesgo de enfermedad cardiovascular en castilla y león,1
+"('RNICP', 'registro nacional de intervenciones coronarias percutáneas')",RNICP,registro nacional de intervenciones coronarias percutáneas,1
+"('ER-IgG4', 'enfermedad relacionada con la inmunoglobulina g4')",ER-IgG4,enfermedad relacionada con la inmunoglobulina g4,1
+"('OT', 'objetivo terapéutico')",OT,objetivo terapéutico,2
+"('iPCSK9', 'inhibidores de proproteína convertasa subtilisina/kexina tipo 9')",iPCSK9,inhibidores de proproteína convertasa subtilisina/kexina tipo 9,1
+"('AT', 'arteritis de takayasu')",AT,arteritis de takayasu,2
+"('PAM', 'poliangeítis microscópica')",PAM,poliangeítis microscópica,2
+"('PAIA', 'programa de atención al ictus en aragón')",PAIA,programa de atención al ictus en aragón,1
+"('GV', 'gastrectomía vertical')",GV,gastrectomía vertical,1
+"('AV', 'aneurismas venosos')",AV,aneurismas venosos,1
+"('EVC', 'enfermedad cerebrovascular')",EVC,enfermedad cerebrovascular,1
+"('HR', 'hipertensión arterial')",HR,hipertensión arterial,1
+"('GEVA', 'grupo de enfermedades vasculares de albacete')",GEVA,grupo de enfermedades vasculares de albacete,1
+"('ECNEI', 'endocarditis infecciosa')",ECNEI,endocarditis infecciosa,1
+"('TAD', 'tensión arterial diastólica')",TAD,tensión arterial diastólica,1
+"('SAFP', 'síndrome antifosfolípido primario')",SAFP,síndrome antifosfolípido primario,1
+"('APC', 'apexcardiograma')",APC,apexcardiograma,1
+"('CIV', 'comunicacción interventricular')",CIV,comunicacción interventricular,1
+"('ERCT', 'enfermedad renal crónica terminal')",ERCT,enfermedad renal crónica terminal,1
+"('PICI', 'plan integral de cardiopatía isquémica')",PICI,plan integral de cardiopatía isquémica,1
+"('GPC', 'guías de práctica clínica')",GPC,guías de práctica clínica,1
+"('c-HDL', 'colesterol hdl')",c-HDL,colesterol hdl,1
+"('CEIPC', 'comité español interdisciplinario para la prevención cardiovascular')",CEIPC,comité español interdisciplinario para la prevención cardiovascular,1
+"('SUH', 'servicio de urgencias hospitalario')",SUH,servicio de urgencias hospitalario,1
+"('VMA', 'vinilmandélico')",VMA,vinilmandélico,1
+"('GENI', 'grupo español de neurorradiología intervencionista')",GENI,grupo español de neurorradiología intervencionista,1
+"('TAB', 'tasa anualizada de brotes')",TAB,tasa anualizada de brotes,1
+"('SChS', 'síndrome de churg-strauss')",SChS,síndrome de churg-strauss,1
+"('GRECA', 'grupo de estudio de la calidad asistencial')",GRECA,grupo de estudio de la calidad asistencial,1
+"('SMet', 'síndrome metabólico')",SMet,síndrome metabólico,1
+"('TIAM', 'trombectomia intraarterial mecanica')",TIAM,trombectomia intraarterial mecanica,1
+"('RSIM', 'romanian society of internal medicine')",RSIM,romanian society of internal medicine,1
+"('EMM', 'enfermedad de moyamoya')",EMM,enfermedad de moyamoya,1
+"('PCRus', 'proteína c reactiva ultrasensible')",PCRus,proteína c reactiva ultrasensible,1
+"('RMC', 'resonancia magnética cardiovascular')",RMC,resonancia magnética cardiovascular,1
+"('PRESENCIAP', 'prevención secundaria de la cardiopatía isquémica en la atención primaria')",PRESENCIAP,prevención secundaria de la cardiopatía isquémica en la atención primaria,1
+"('REV-7d', 'revisita a urgencias por ica a 7 días')",REV-7d,revisita a urgencias por ica a 7 días,1
+"('FRV', 'factores de riesgo vascular')",FRV,factores de riesgo vascular,1
+"('ARA-II', 'antagonistas de los receptores de la angiotensina ii')",ARA-II,antagonistas de los receptores de la angiotensina ii,1
+"('NAG', 'n-acetil-beta-d-glucosaminidasa')",NAG,n-acetil-beta-d-glucosaminidasa,2
+"('IAMCEST', 'infarto agudo de miocardio con elevación del segmento st')",IAMCEST,infarto agudo de miocardio con elevación del segmento st,1
+"('c-LDL', 'colesterol ldl')",c-LDL,colesterol ldl,1
+"('ICA', 'insuficiencia cardiaca aguda')",ICA,insuficiencia cardiaca aguda,9
+"('PE', 'preeclampsia')",PE,preeclampsia,1
+"('CAM', 'comunidad autónoma de madrid')",CAM,comunidad autónoma de madrid,1
+"('mapa', 'monitoreo ambulatorio de presión arterial')",mapa,monitoreo ambulatorio de presión arterial,1
+"('TCMC', 'tc multicorte')",TCMC,tc multicorte,1
+"('MAPA', 'monitoreo ambulatorio de presión arterial de 24 horas')",MAPA,monitoreo ambulatorio de presión arterial de 24 horas,1
+"('FOP', 'foramen oval permeable')",FOP,foramen oval permeable,2
+"('E. P.', 'espleno-portografía')",E. P.,espleno-portografía,1
+"('IV', 'investigación en cardiología clínica')",IV,investigación en cardiología clínica,1
+"('SECAC', 'sociedad española de cronobiología aplicada, cronoterapia y riesgo vascular')",SECAC,"sociedad española de cronobiología aplicada, cronoterapia y riesgo vascular",1
+"('SAF', 'síndrome antifosfolípido')",SAF,síndrome antifosfolípido,1
+"('PC', 'parada cardiaca')",PC,parada cardiaca,1
+"('GEMI', 'grupo de estudios multicéntrico de infarto')",GEMI,grupo de estudios multicéntrico de infarto,1
+"('FAP', 'fibrilacion auricular paroxistica')",FAP,fibrilacion auricular paroxistica,1
+"('SWB', 'síndrome williams-beuren')",SWB,síndrome williams-beuren,1
+"('PC', 'pectus carinatum')",PC,pectus carinatum,1
+"('RCP', 'reanimación cardiopulmonar pediátrica')",RCP,reanimación cardiopulmonar pediátrica,1
+"('SEC', 'sociedad española de cardiología')",SEC,sociedad española de cardiología,3
+"('AVK', 'antivitamina k')",AVK,antivitamina k,1
+"('OR', 'odds ratio')",OR,odds ratio,1
+"('PANDA', 'programa nacional de drogas antineoplásicas')",PANDA,programa nacional de drogas antineoplásicas,1
+"('iPCSK9', 'inhibidores de la proprotein convertase subtilisin/kexin-9')",iPCSK9,inhibidores de la proprotein convertase subtilisin/kexin-9,1
+"('ENSA', 'encuesta nacional de salud')",ENSA,encuesta nacional de salud,3
+"('SN', 'síndrome nefrótico')",SN,síndrome nefrótico,1
+"('TC', 'tomografia computarizada')",TC,tomografia computarizada,1
+"('GCNE', 'grupo control no equivalente')",GCNE,grupo control no equivalente,1
+"('AMPA', 'automedida de la presión arterial')",AMPA,automedida de la presión arterial,1
+"('EKI', 'enfermedad de kawasaki incompleta')",EKI,enfermedad de kawasaki incompleta,1
+"('ReMeFa', 'registro mexicano de fibrilación auricular')",ReMeFa,registro mexicano de fibrilación auricular,1
+"('FRC', 'factores de riesgo coronario')",FRC,factores de riesgo coronario,1
+"('MTHFR', 'metilentetrahidrofolato reductasa')",MTHFR,metilentetrahidrofolato reductasa,1
+"('PCT', 'parada cardiaca traumática')",PCT,parada cardiaca traumática,1
+"('GI', 'grupo intervención')",GI,grupo intervención,1
+"('IC', 'intervalos de confianza')",IC,intervalos de confianza,1
+"('ATCC', 'angiotomografía computarizada coronaria')",ATCC,angiotomografía computarizada coronaria,1
+"('IMCEST', 'infarto agudo de miocardio con elevación del segmento st')",IMCEST,infarto agudo de miocardio con elevación del segmento st,1
+"('FESNAD', 'federación española de sociedades de alimentación, nutrición y dietética')",FESNAD,"federación española de sociedades de alimentación, nutrición y dietética",1
+"('VSG', 'valoración subjetiva global')",VSG,valoración subjetiva global,1
+"('DI', 'discapacidad intelectual')",DI,discapacidad intelectual,1
+"('OAI', 'orejuela de la aurícula izquierda')",OAI,orejuela de la aurícula izquierda,1
+"('HPN', 'hipotension nocturna')",HPN,hipotension nocturna,1
+"('EVCi', 'evento vascular cerebral isquémico')",EVCi,evento vascular cerebral isquémico,1
+"('SCS', 'síndrome de churg-strauss')",SCS,síndrome de churg-strauss,1
+"('AP', 'angioplastia primaria')",AP,angioplastia primaria,1
+"('FANV', 'fibrilacion auricular no valvular')",FANV,fibrilacion auricular no valvular,1
+"('FCRS', 'framingham coronary risk score')",FCRS,framingham coronary risk score,1
+"('escopean', 'estudio de correlación entre perfusión miocárdica y angiografía coronaria.')",escopean,estudio de correlación entre perfusión miocárdica y angiografía coronaria.,1
+"('EVRD', 'estudio valencia sobre retinopatía diabética')",EVRD,estudio valencia sobre retinopatía diabética,1
+"('ERC', 'enfermedad renal cronica')",ERC,enfermedad renal cronica,1
+"('CIV', 'comunicación interventricular aislada')",CIV,comunicación interventricular aislada,1
+"('LES', 'lupus eritematoso sistémico')",LES,lupus eritematoso sistémico,2
+"('DCTC', 'duplex color transcraneal')",DCTC,duplex color transcraneal,1
+"('HSC', 'hiperplasia suprarrenal congénita')",HSC,hiperplasia suprarrenal congénita,1
+"('IMPA', 'incremento matutino de la presión arterial')",IMPA,incremento matutino de la presión arterial,1
+"('AAA', 'aorta abdominal')",AAA,aorta abdominal,2
+"('IET', 'intubación endotraqueal')",IET,intubación endotraqueal,1
+"('TAS', 'tensión arterial sistólica')",TAS,tensión arterial sistólica,1

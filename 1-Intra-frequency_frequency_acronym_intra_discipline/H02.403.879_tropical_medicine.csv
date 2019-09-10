@@ -1,0 +1,32 @@
+pair,acronym,description,frequency
+"('ODS', 'objetivos de desarrollo sostenible')",ODS,objetivos de desarrollo sostenible,1
+"('BLEE', 'betalactamasas de espectro extendido')",BLEE,betalactamasas de espectro extendido,2
+"('TARVAE', 'tratamiento antirretroviral de alta eficacia')",TARVAE,tratamiento antirretroviral de alta eficacia,1
+"('CITBM', 'centro de investigaciones, tecnológicas, biomédicas y medioambientales')",CITBM,"centro de investigaciones, tecnológicas, biomédicas y medioambientales",1
+"('REV-H-30d', 'revisita a urgencias u hospitalización por ica a 30 días')",REV-H-30d,revisita a urgencias u hospitalización por ica a 30 días,1
+"('AI', 'aspergilosis invasiva')",AI,aspergilosis invasiva,1
+"('PIVh', 'parainfluenza virus humano')",PIVh,parainfluenza virus humano,1
+"('M-30d', 'mortalidad por cualquier causa a 30 días')",M-30d,mortalidad por cualquier causa a 30 días,1
+"('AcM', 'anticuerpos monoclonales')",AcM,anticuerpos monoclonales,1
+"('XC', 'x-collar')",XC,x-collar,1
+"('TS', 'trabajadoras sexuales')",TS,trabajadoras sexuales,1
+"('T. cruzi', 'trypanosoma cruzi')",T. cruzi,trypanosoma cruzi,1
+"('VIH', 'virus de la inmunodeficiencia humana')",VIH,virus de la inmunodeficiencia humana,2
+"('L.', 'la planta spirodela polirhyza')",L.,la planta spirodela polirhyza,1
+"('SEMTSI', 'sociedad española de medicina tropical y salud internacional')",SEMTSI,sociedad española de medicina tropical y salud internacional,2
+"('C.', 'culex')",C.,culex,3
+"('PAI', 'programa ampliado de inmunizaciones')",PAI,programa ampliado de inmunizaciones,1
+"('ERV', 'enterococo resistente a vancomicina')",ERV,enterococo resistente a vancomicina,1
+"('AE', 'autoextracción')",AE,autoextracción,1
+"('SNS', 'servicio nacional de salud')",SNS,servicio nacional de salud,1
+"('Nematoda', 'nematodo parásito romanomermis iyengari (welch, 1964)')",Nematoda,"nematodo parásito romanomermis iyengari (welch, 1964)",2
+"('COR', 'característica operativa del receptor')",COR,característica operativa del receptor,1
+"('Nematoda', 'nematodo parásito romanomermis iyengari')",Nematoda,nematodo parásito romanomermis iyengari,1
+"('IPK', 'instituto de medicina tropical ""pedro kouri""')",IPK,"instituto de medicina tropical ""pedro kouri""",3
+"('CMV', 'citomegalovirus')",CMV,citomegalovirus,1
+"('SN', 'stifneck')",SN,stifneck,1
+"('IPK', 'instituto de medicina tropical ""pedro kourí""')",IPK,"instituto de medicina tropical ""pedro kourí""",1
+"('REV-7d', 'revisita a urgencias por ica a 7 días')",REV-7d,revisita a urgencias por ica a 7 días,1
+"('ICA', 'insuficiencia cardiaca aguda')",ICA,insuficiencia cardiaca aguda,1
+"('GPSIDA', 'grupos de prevención del sida')",GPSIDA,grupos de prevención del sida,1
+"('VHB', 'virus de hepatitis b')",VHB,virus de hepatitis b,1

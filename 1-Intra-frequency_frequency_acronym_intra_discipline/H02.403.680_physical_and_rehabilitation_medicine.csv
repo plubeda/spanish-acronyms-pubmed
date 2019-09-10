@@ -1,0 +1,12 @@
+pair,acronym,description,frequency
+"('UDP', 'umbrales de dolor a la presion')",UDP,umbrales de dolor a la presion,1
+"('LCA', 'ligamento cruzado anterior')",LCA,ligamento cruzado anterior,1
+"('TE', 'tablero espinal')",TE,tablero espinal,1
+"('VR', 'valgo de rodilla')",VR,valgo de rodilla,1
+"('FR', 'flexión de rodilla')",FR,flexión de rodilla,1
+"('BoNT-A', 'botulínica tipo a')",BoNT-A,botulínica tipo a,1
+"('EP', 'enfermedad de parkinson')",EP,enfermedad de parkinson,1
+"('CC', 'cuchara')",CC,cuchara,1
+"('FC', 'flexión de cadera')",FC,flexión de cadera,1
+"('MEF', 'método de los elementos finitos')",MEF,método de los elementos finitos,1
+"('D.F.', 'dispepsia funcional')",D.F.,dispepsia funcional,1

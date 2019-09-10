@@ -1,0 +1,534 @@
+pair,acronym,description,frequency
+"('TMIV', 'tiroidectomía mini-invasiva video asistida')",TMIV,tiroidectomía mini-invasiva video asistida,1
+"('MHSO', 'miocardiopatía hipertrófica septal obstructiva')",MHSO,miocardiopatía hipertrófica septal obstructiva,1
+"('RIC', 'rangos intercuartílicos')",RIC,rangos intercuartílicos,1
+"('PSC', 'placa de sostén condíleo')",PSC,placa de sostén condíleo,1
+"('CVCs', 'cvc subclavio')",CVCs,cvc subclavio,1
+"('CEP', 'colangitis esclerosante primaria')",CEP,colangitis esclerosante primaria,1
+"('QLAD', 'queratoplastia lamelar anterior descemética')",QLAD,queratoplastia lamelar anterior descemética,1
+"('RSN', 'riesgo septico nutricional')",RSN,riesgo septico nutricional,1
+"('RN', 'riesgo nutricional')",RN,riesgo nutricional,1
+"('RENAC', 'registro nacional de angioplastia coronaria')",RENAC,registro nacional de angioplastia coronaria,1
+"('ACE', 'antígeno carcinoembrionario')",ACE,antígeno carcinoembrionario,1
+"('NIC', 'neoplasia intraepitelial cervical')",NIC,neoplasia intraepitelial cervical,2
+"('AENP', 'asociación española de nefrología pediátrica')",AENP,asociación española de nefrología pediátrica,1
+"('MTHFR', 'metilén tetrahidrofólico reductasa')",MTHFR,metilén tetrahidrofólico reductasa,1
+"('FOI-MM', 'fisura orbitaria inferior-músculo de müller')",FOI-MM,fisura orbitaria inferior-músculo de müller,1
+"('Rusia', 'restricciones articulares. iniciada por ulzibat')",Rusia,restricciones articulares. iniciada por ulzibat,1
+"('SETH', 'sociedad española de trasplante hepático')",SETH,sociedad española de trasplante hepático,5
+"('CP', 'cierre primario')",CP,cierre primario,1
+"('VHG', 'virus de la hepatitis g')",VHG,virus de la hepatitis g,1
+"('Rop/Dx', 'ropivacaína con dexametasona')",Rop/Dx,ropivacaína con dexametasona,1
+"('CRPCE', 'cirugía de resección pulmonar de corta estancia')",CRPCE,cirugía de resección pulmonar de corta estancia,1
+"('Psq', 'pseudoquiste')",Psq,pseudoquiste,1
+"('GCCB-S', 'grupo cooperativo de carcinoma broncogénico de separ')",GCCB-S,grupo cooperativo de carcinoma broncogénico de separ,1
+"('ELA', 'esclerosis lateral amiotrófica')",ELA,esclerosis lateral amiotrófica,1
+"('IFN-gamma', 'interferon gamma')",IFN-gamma,interferon gamma,1
+"('U.P.I.G.O.', 'unión profesional internacional de ginecologos y obstetras')",U.P.I.G.O.,unión profesional internacional de ginecologos y obstetras,1
+"('PEATC', 'potenciales evocados auditivos del tronco cerebral')",PEATC,potenciales evocados auditivos del tronco cerebral,1
+"('CCI', 'citorreducción de intervalo')",CCI,citorreducción de intervalo,1
+"('FE', 'fístulas enterocutáneas')",FE,fístulas enterocutáneas,1
+"('H.P.', 'hipertensión portal')",H.P.,hipertensión portal,1
+"('DCF', 'displasias corticales focales')",DCF,displasias corticales focales,1
+"('EXIT', 'ex-utero intrapartum treatment')",EXIT,ex-utero intrapartum treatment,1
+"('GEMPO', 'grupo de estudio de morbimortalidad postoperatoria')",GEMPO,grupo de estudio de morbimortalidad postoperatoria,1
+"('SEIMC', 'sociedad española de enfermedades infecciosas y microbiología clínica')",SEIMC,sociedad española de enfermedades infecciosas y microbiología clínica,3
+"('V.P.T.E.', 'vesiculografía mediante punción transperineal ecodirigida')",V.P.T.E.,vesiculografía mediante punción transperineal ecodirigida,1
+"('TEP', 'tromboembolismo pulmonar')",TEP,tromboembolismo pulmonar,1
+"('SDTA', 'sistema de drenaje torácico autónomo')",SDTA,sistema de drenaje torácico autónomo,1
+"('LMC', 'leucemia mieloide crónica')",LMC,leucemia mieloide crónica,1
+"('UDVP', 'usuarios de drogas por vía parenteral')",UDVP,usuarios de drogas por vía parenteral,1
+"('CNI', 'cistinosis nefropática infantil')",CNI,cistinosis nefropática infantil,1
+"('TLIV', 'trombolisis intravenosa')",TLIV,trombolisis intravenosa,1
+"('ASCA', 'anti-saccharomyces cerevisiae')",ASCA,anti-saccharomyces cerevisiae,1
+"('PRL', 'prostatectomía radical laparoscópica')",PRL,prostatectomía radical laparoscópica,1
+"('ACE', 'acetilcolinesterasa')",ACE,acetilcolinesterasa,1
+"('IUE', 'incontinencia urinaria de esfuerzo')",IUE,incontinencia urinaria de esfuerzo,1
+"('FL', 'fibrinolisis')",FL,fibrinolisis,1
+"('RDG', 'reflujo duodenogástrico')",RDG,reflujo duodenogástrico,1
+"('AT', 'autotrasplante')",AT,autotrasplante,1
+"('RBZDs', 'receptores de benzodiazepinas centrales')",RBZDs,receptores de benzodiazepinas centrales,1
+"('PEVAC', 'pie equinovaro aducto congénito')",PEVAC,pie equinovaro aducto congénito,1
+"('BEP', 'bleomicina y vinblastina (pvb) o etoposido')",BEP,bleomicina y vinblastina (pvb) o etoposido,1
+"('REPIR', 'registro español pediátrico de insuficiencia renal terminal')",REPIR,registro español pediátrico de insuficiencia renal terminal,1
+"('IN', 'infección nosocomial')",IN,infección nosocomial,1
+"('NO', 'nítrico')",NO,nítrico,1
+"('CTR', 'cistectomía radical')",CTR,cistectomía radical,1
+"('PGN', 'pacientes (75,8%) con glucosa normalizada')",PGN,"pacientes (75,8%) con glucosa normalizada",1
+"('V.P.H.', 'virus del papiloma humano')",V.P.H.,virus del papiloma humano,1
+"('V.C.O.', 'vagotomía de células oxíntica')",V.C.O.,vagotomía de células oxíntica,1
+"('ALT', 'alaninoaminotransferasa')",ALT,alaninoaminotransferasa,1
+"('CAE', 'comisurotomía anterior endoscópica')",CAE,comisurotomía anterior endoscópica,1
+"('ANCA', 'anticitoplasma de los neutrófilos')",ANCA,anticitoplasma de los neutrófilos,1
+"('EDTA', 'etilén-diamino-tetraacético')",EDTA,etilén-diamino-tetraacético,1
+"('USE', 'ultrasonografía endoscópica')",USE,ultrasonografía endoscópica,3
+"('PRP', 'plasma rico en plaquetas')",PRP,plasma rico en plaquetas,2
+"('DM', 'diabetes mellitus')",DM,diabetes mellitus,1
+"('GCP', 'glaucoma congénito primario')",GCP,glaucoma congénito primario,1
+"('IVE', 'interrupción voluntaria del embarazo')",IVE,interrupción voluntaria del embarazo,2
+"('LPS', 'laringectomía parcial supracricoidea')",LPS,laringectomía parcial supracricoidea,1
+"('H.A.C.R.E.', 'hidro-arsenicismo crónico regional endémico')",H.A.C.R.E.,hidro-arsenicismo crónico regional endémico,1
+"('DI', 'duplicaciones intestinales')",DI,duplicaciones intestinales,1
+"('FSR', 'flujo sanguineo renal')",FSR,flujo sanguineo renal,1
+"('TA', 'test de aliento')",TA,test de aliento,1
+"('CN', 'complicaciones neurologicas')",CN,complicaciones neurologicas,1
+"('CVP', 'catéter venoso periférico')",CVP,catéter venoso periférico,2
+"('OD', 'ojo derecho')",OD,ojo derecho,1
+"('PEITHO', 'pulmonary embolism thrombolysis')",PEITHO,pulmonary embolism thrombolysis,1
+"('LCA', 'ligamento cruzado anterior')",LCA,ligamento cruzado anterior,4
+"('GEIPC', 'grupo de estudio de infecciones en el paciente crítico')",GEIPC,grupo de estudio de infecciones en el paciente crítico,1
+"('GLOMANCHA', 'glomerulonefritis en castilla-la mancha')",GLOMANCHA,glomerulonefritis en castilla-la mancha,1
+"('DMAE', 'degeneración macular asociada a la edad')",DMAE,degeneración macular asociada a la edad,1
+"('SECCV', 'sociedad española de cirugía cardiovascular')",SECCV,sociedad española de cirugía cardiovascular,5
+"('CIN III', 'casos de neoplasia intraepitelial grado iii')",CIN III,casos de neoplasia intraepitelial grado iii,1
+"('A/C', 'actividad y cronicidad')",A/C,actividad y cronicidad,1
+"('R.G.E.', 'reflujo gastroesofágico')",R.G.E.,reflujo gastroesofágico,1
+"('UF', 'ultrafiltración')",UF,ultrafiltración,1
+"('MAR', 'malformaciones anorrectales')",MAR,malformaciones anorrectales,1
+"('HSA', 'hemorragia subaracnoidea')",HSA,hemorragia subaracnoidea,1
+"('DN', 'desnutrición')",DN,desnutrición,1
+"('EICIG', 'enfermedad inflamatoria crónica del intestino grueso')",EICIG,enfermedad inflamatoria crónica del intestino grueso,1
+"('FLANC', 'federación latinoamericana de neurocirugía')",FLANC,federación latinoamericana de neurocirugía,1
+"('PAAF', 'punción-aspiración con aguja fina')",PAAF,punción-aspiración con aguja fina,3
+"('D-D', 'dimero-d')",D-D,dimero-d,1
+"('IGU', 'infecciones genitourinarias')",IGU,infecciones genitourinarias,1
+"('IMC', 'introducción: el índice de masa corporal')",IMC,introducción: el índice de masa corporal,1
+"('EDC', 'ecografía doppler color')",EDC,ecografía doppler color,2
+"('SEPAR', 'sociedad española de neumología y cirugía torácica')",SEPAR,sociedad española de neumología y cirugía torácica,1
+"('DMT2', 'diabetes mellitus tipo 2')",DMT2,diabetes mellitus tipo 2,1
+"('CIP', 'colesteatoma intrapetroso')",CIP,colesteatoma intrapetroso,1
+"('ATP', 'angioplastia transluminal percutánea')",ATP,angioplastia transluminal percutánea,2
+"('SEN', 'sociedad española de neurología')",SEN,sociedad española de neurología,1
+"('HICI', 'hipertension intracraneal idiopatica')",HICI,hipertension intracraneal idiopatica,1
+"('FETI', 'fetal endosc6pica')",FETI,fetal endosc6pica,1
+"('IFH', 'isomerasa de fosfohexosa')",IFH,isomerasa de fosfohexosa,1
+"('LAH', 'ligadura de arterias hipogástricas')",LAH,ligadura de arterias hipogástricas,1
+"('T.V.S.I.', 'tumores vesicales iniciales superficiales')",T.V.S.I.,tumores vesicales iniciales superficiales,1
+"('PCR', 'proteína c reactiva')",PCR,proteína c reactiva,2
+"('PAAF', 'punción aspiración con aguja fina')",PAAF,punción aspiración con aguja fina,4
+"('PVC', 'presión venosa central')",PVC,presión venosa central,1
+"('ATP', 'angioplastía transluminal percutánea')",ATP,angioplastía transluminal percutánea,1
+"('SEDAR', 'sociedades españolas de anestesiología y reanimación')",SEDAR,sociedades españolas de anestesiología y reanimación,1
+"('vih', 'virus de la inmunodeficiencia humana')",vih,virus de la inmunodeficiencia humana,1
+"('RSN', 'riesgo séptico nutricional')",RSN,riesgo séptico nutricional,1
+"('DMBA', 'dimetilbenzantraceno')",DMBA,dimetilbenzantraceno,1
+"('SAHS', 'síndrome de apneas-hipopneas del sueño')",SAHS,síndrome de apneas-hipopneas del sueño,1
+"('RAFI', 'reducción abierta y fijación interna')",RAFI,reducción abierta y fijación interna,1
+"('GEP', 'gastrostomía endoscópica percutánea')",GEP,gastrostomía endoscópica percutánea,2
+"('FNA', 'fina')",FNA,fina,1
+"('España', 'en un hospital terciario de la coruña')",España,en un hospital terciario de la coruña,1
+"('CV', 'carcinoma vesical')",CV,carcinoma vesical,1
+"('GOS', 'glasgow outcome score')",GOS,glasgow outcome score,1
+"('CMN', 'centro médico nacional')",CMN,centro médico nacional,1
+"('GENTE', 'grupo de estudio de nuevas terapias de enfermedades reumáticas')",GENTE,grupo de estudio de nuevas terapias de enfermedades reumáticas,1
+"('HTA', 'hipertensión arterial')",HTA,hipertensión arterial,2
+"('IC 95%', 'intervalos de confianza al 95%')",IC 95%,intervalos de confianza al 95%,1
+"('NLPC', 'nefrolitotomía percutánea')",NLPC,nefrolitotomía percutánea,1
+"('SERVEI', 'sociedad española de radiología vascular e intervencionista')",SERVEI,sociedad española de radiología vascular e intervencionista,1
+"('SPN', 'sistema de presión negativa')",SPN,sistema de presión negativa,1
+"('BCCU', 'banco de células de\xa0cordón umbilical')",BCCU,banco de células de cordón umbilical,1
+"('NMP', 'neoplasias mieloproliferativas')",NMP,neoplasias mieloproliferativas,1
+"('ECG-IC', 'electrocardiográfico intracavitario')",ECG-IC,electrocardiográfico intracavitario,2
+"('PESS', 'potenciales evocados somatosensoriales')",PESS,potenciales evocados somatosensoriales,1
+"('SENFC', 'sociedad española de neurofisiologia clinica')",SENFC,sociedad española de neurofisiologia clinica,1
+"('OMS', 'organización mundial de la salud')",OMS,organización mundial de la salud,1
+"('FAVIDE', 'fístulas arteriovenosas intradurales dorsales espinales')",FAVIDE,fístulas arteriovenosas intradurales dorsales espinales,1
+"('FETO', 'fetoscópica')",FETO,fetoscópica,1
+"('LT', 'laringuectomía total')",LT,laringuectomía total,1
+"('UACJ', 'universidad autónoma de ciudad juárez')",UACJ,universidad autónoma de ciudad juárez,1
+"('CPRE', 'colangiopancreatografia retrógrada endoscópica')",CPRE,colangiopancreatografia retrógrada endoscópica,2
+"('ETM', 'escisión total del mesorrecto')",ETM,escisión total del mesorrecto,1
+"('NE', 'no exitosos')",NE,no exitosos,1
+"('VFP', 'vaporizacion fotoselectiva de la prostata')",VFP,vaporizacion fotoselectiva de la prostata,1
+"('SM', 'síndrome metabólico')",SM,síndrome metabólico,2
+"('STIR', 'short-tau inversion-recovery')",STIR,short-tau inversion-recovery,1
+"('CP', 'cáncer de próstata')",CP,cáncer de próstata,1
+"('HR', 'hazard ratio')",HR,hazard ratio,2
+"('MFM', 'miofibrotomia multiple')",MFM,miofibrotomia multiple,1
+"('AVAC', 'años de vida ganados ajustados por calidad')",AVAC,años de vida ganados ajustados por calidad,1
+"('FOI', 'fisura orbitaria inferior')",FOI,fisura orbitaria inferior,1
+"('DMPT', 'diabetes mellitus postrasplante')",DMPT,diabetes mellitus postrasplante,1
+"('SPC', 'síndrome postcolecistectomía')",SPC,síndrome postcolecistectomía,1
+"('MD', 'merle daubigné')",MD,merle daubigné,1
+"('CT', 'colesterol total')",CT,colesterol total,1
+"('PIDA', 'poliradiculoneuritis inflamatoria desmielinizante aguda')",PIDA,poliradiculoneuritis inflamatoria desmielinizante aguda,1
+"('ONT', 'organización nacional de trasplantes')",ONT,organización nacional de trasplantes,1
+"('TASPE', 'trasplante autólogo de progenitores hematopoyéticos de sangre periférica')",TASPE,trasplante autólogo de progenitores hematopoyéticos de sangre periférica,1
+"('URS', 'ureterorrenoscopia')",URS,ureterorrenoscopia,1
+"('Ft', 'ferritina')",Ft,ferritina,1
+"('L.P.C.', 'lavado peritoneal continuo postoperatorio')",L.P.C.,lavado peritoneal continuo postoperatorio,1
+"('HHM', 'hemohidrometría')",HHM,hemohidrometría,1
+"('PCT', 'pliegue cutáneo tricipital')",PCT,pliegue cutáneo tricipital,1
+"('OI', 'ojo izquierdo')",OI,ojo izquierdo,1
+"('NLP', 'nefrolitectomía percutánea')",NLP,nefrolitectomía percutánea,1
+"('AV', 'acceso vascular')",AV,acceso vascular,1
+"('EPR', 'esofagitis por reflujo')",EPR,esofagitis por reflujo,1
+"('DFO', 'deferoxamina')",DFO,deferoxamina,1
+"('VMNI', 'ventilación mecánica no invasiva')",VMNI,ventilación mecánica no invasiva,1
+"('RFB', 'reacción de floculación con bentonita')",RFB,reacción de floculación con bentonita,1
+"('BPYR', 'by-pass gástrico en y de roux')",BPYR,by-pass gástrico en y de roux,1
+"('IMSS', 'instituto mexicano del seguro social')",IMSS,instituto mexicano del seguro social,4
+"('MNIO', 'monitoreo neurofisiológico intraoperatorio')",MNIO,monitoreo neurofisiológico intraoperatorio,1
+"('PCM', 'primer contacto médico')",PCM,primer contacto médico,1
+"('TIP', 'trombocitopenia inmune primaria')",TIP,trombocitopenia inmune primaria,1
+"('HD', 'hemodiálisis')",HD,hemodiálisis,1
+"('Fontana', 'forma de ‘‘y’’ usando sutura mecánica no reabsorbible')",Fontana,forma de ‘‘y’’ usando sutura mecánica no reabsorbible,1
+"('DPNC', 'derrame pleural neoplásico complicado')",DPNC,derrame pleural neoplásico complicado,1
+"('VPH-AR', 'virus del papiloma humano de alto riesgo')",VPH-AR,virus del papiloma humano de alto riesgo,1
+"('SENR', 'sociedad española de neurorradiología')",SENR,sociedad española de neurorradiología,1
+"('CPRE', 'colagiopancreatografía retrógrada endoscópica')",CPRE,colagiopancreatografía retrógrada endoscópica,1
+"('UC', 'unidades de cefalea')",UC,unidades de cefalea,1
+"('CCU', 'cáncer de cérvix uterino')",CCU,cáncer de cérvix uterino,1
+"('NIVa', 'neoplasia intraepitelial vaginal')",NIVa,neoplasia intraepitelial vaginal,1
+"('BIS', 'biespectral')",BIS,biespectral,1
+"('SPC', 'sindromes post-colecistectomia')",SPC,sindromes post-colecistectomia,1
+"('MRT', 'mortalidad relacionada con el trasplante')",MRT,mortalidad relacionada con el trasplante,1
+"('ECP', 'estimulacion cerebral profunda')",ECP,estimulacion cerebral profunda,3
+"('PEVAC', 'pie equino varo aducto congénito')",PEVAC,pie equino varo aducto congénito,1
+"('REALSICA', 'registro de alteplasa en síndromes coronarios agudos con elevación del st')",REALSICA,registro de alteplasa en síndromes coronarios agudos con elevación del st,1
+"('G.T.', 'gastrectomías totales')",G.T.,gastrectomías totales,1
+"('PCT', 'procalcitonina')",PCT,procalcitonina,1
+"('ACMPV', 'anomalías congénitas de mal pronóstico vital')",ACMPV,anomalías congénitas de mal pronóstico vital,1
+"('EPI', 'enfermedad de parkinson idiopatica')",EPI,enfermedad de parkinson idiopatica,1
+"('RACat', 'registro de artroplastias de cataluña')",RACat,registro de artroplastias de cataluña,1
+"('UPDRS', ""unified parkinson's disease rating scale"")",UPDRS,unified parkinson's disease rating scale,1
+"('MRC', 'medical research council')",MRC,medical research council,1
+"('LMR', 'lesión del manguito rotador')",LMR,lesión del manguito rotador,1
+"('RCUI', 'relación coste-utilidad')",RCUI,relación coste-utilidad,1
+"('NIE III', 'neoplasia intraepitelial de alto grado')",NIE III,neoplasia intraepitelial de alto grado,1
+"('VCO', 'vagotomía de células oxínticas')",VCO,vagotomía de células oxínticas,2
+"('MeSH', 'medical subject headings')",MeSH,medical subject headings,1
+"('GVML', 'gastrectomía vertical en manga laparoscópica')",GVML,gastrectomía vertical en manga laparoscópica,1
+"('AMINE', 'asociacion de monitorizacion intraquirurgica neurofisiologica española')",AMINE,asociacion de monitorizacion intraquirurgica neurofisiologica española,1
+"('IUE', 'incontinencia de orina de esfuerzo')",IUE,incontinencia de orina de esfuerzo,1
+"('EE', 'esfinterotomía endoscópica')",EE,esfinterotomía endoscópica,2
+"('CC', 'cardiopatías congénitas')",CC,cardiopatías congénitas,3
+"('NRS-2002', 'nutritional risk screening 2002')",NRS-2002,nutritional risk screening 2002,1
+"('MCA', 'metilcianoacrilato')",MCA,metilcianoacrilato,1
+"('TCE', 'traumatismo craneoencefalico')",TCE,traumatismo craneoencefalico,1
+"('PPA', 'placa periarticular')",PPA,placa periarticular,1
+"('GIHV', 'grupo interhospitalario valenciano')",GIHV,grupo interhospitalario valenciano,2
+"('CARTO', 'cartografía electroanatómica')",CARTO,cartografía electroanatómica,1
+"('ORN', 'osteoradionecrosis')",ORN,osteoradionecrosis,1
+"('E C', 'enfermedad celiaca')",E C,enfermedad celiaca,1
+"('VIH', 'virus de la inmunodeficiencia humana')",VIH,virus de la inmunodeficiencia humana,1
+"('Hp', 'helicobacter pylori')",Hp,helicobacter pylori,1
+"('y III', 'y vesículas seminales-glándulas coagulantes de roedores orquiectomizados')",y III,y vesículas seminales-glándulas coagulantes de roedores orquiectomizados,1
+"('CES', 'colangitis esclerosante secundaria')",CES,colangitis esclerosante secundaria,1
+"('CVF', 'capacidad vital forzada')",CVF,capacidad vital forzada,1
+"('UPDRS', 'unificada para la evaluación de la enfermedad de parkinson')",UPDRS,unificada para la evaluación de la enfermedad de parkinson,1
+"('AMEU', 'aspiración manual endouterina con jeringa de karmann')",AMEU,aspiración manual endouterina con jeringa de karmann,1
+"('SSPA', 'sistema sanitario público de andalucía')",SSPA,sistema sanitario público de andalucía,1
+"('PAEAFT', 'punción aspiración ecoguiada con aguja fina de tiroides')",PAEAFT,punción aspiración ecoguiada con aguja fina de tiroides,1
+"('SiFO', 'silicona-fluorsilicona')",SiFO,silicona-fluorsilicona,1
+"('EVA', 'escala visual análoga')",EVA,escala visual análoga,2
+"('RAM', 'reacciones adversas a medicamentos')",RAM,reacciones adversas a medicamentos,1
+"('SAVC', 'sistemas de acceso venoso central')",SAVC,sistemas de acceso venoso central,1
+"('CENATMER', 'centro nacional de trasplantes y medicina regenerativa')",CENATMER,centro nacional de trasplantes y medicina regenerativa,1
+"('CUCI', 'colitis ulcerativa crónica inespecífica')",CUCI,colitis ulcerativa crónica inespecífica,2
+"('PAAF', 'punción aspirativa con aguja fina')",PAAF,punción aspirativa con aguja fina,1
+"('PTH', 'paratohormona')",PTH,paratohormona,1
+"('EL', 'esplenectomía laparoscópica')",EL,esplenectomía laparoscópica,1
+"('CPRE', 'colangiopancreatografía retrógrada endoscópica')",CPRE,colangiopancreatografía retrógrada endoscópica,6
+"('AEBI', 'asociación nacional de bioética y ética médica')",AEBI,asociación nacional de bioética y ética médica,1
+"('E. M.', 'esclerosis múltiple')",E. M.,esclerosis múltiple,1
+"('TCC', 'terapia cognitivo conductual')",TCC,terapia cognitivo conductual,1
+"('TT', 'testicular')",TT,testicular,1
+"('ERGE', 'enfermedad por reflujo gastroesofágico')",ERGE,enfermedad por reflujo gastroesofágico,1
+"('QP', 'queratoplastía penetrante')",QP,queratoplastía penetrante,1
+"('MAE', 'malnutrición asociada a la enfermedad')",MAE,malnutrición asociada a la enfermedad,1
+"('PET-TC', 'positrones-tomografía computarizada')",PET-TC,positrones-tomografía computarizada,1
+"('RTU', 'resección transuretral de próstata')",RTU,resección transuretral de próstata,1
+"('HUM', 'hematurimetría')",HUM,hematurimetría,1
+"('LEOC', 'litotricia extracorpórea por ondas de choque')",LEOC,litotricia extracorpórea por ondas de choque,1
+"('GC', 'ganglio centinela')",GC,ganglio centinela,1
+"('ERC', 'enfermedad renal crónica')",ERC,enfermedad renal crónica,2
+"('MUST', 'malnutrition universal screening tool')",MUST,malnutrition universal screening tool,1
+"('TAC', 'tomografía axial computarizada')",TAC,tomografía axial computarizada,1
+"('NST', 'nucleo subtalamico')",NST,nucleo subtalamico,1
+"('TR', 'trasplante renal')",TR,trasplante renal,1
+"('EPOC', 'enfermedad pulmonar obstructiva crónica')",EPOC,enfermedad pulmonar obstructiva crónica,1
+"('MNA', 'mini nutritional assessment')",MNA,mini nutritional assessment,1
+"('UNC', 'unidad de cuidados intensivos neurocriticos')",UNC,unidad de cuidados intensivos neurocriticos,1
+"('ANC', 'atención nutricional convencional')",ANC,atención nutricional convencional,1
+"('EP', 'enfermedad de parkinson')",EP,enfermedad de parkinson,3
+"('CEC', 'circulación extracorpórea')",CEC,circulación extracorpórea,1
+"('CC', 'consultas monograficas de cefalea')",CC,consultas monograficas de cefalea,1
+"('PIO', 'presión intraocular')",PIO,presión intraocular,3
+"('NFPVC', 'neurofibromas plexiformes voluminosos en el cuello')",NFPVC,neurofibromas plexiformes voluminosos en el cuello,1
+"('TQE', 'tiempos quirúrgicos estándar')",TQE,tiempos quirúrgicos estándar,1
+"('TT', 'total')",TT,total,1
+"('TEV', 'terapia endovascular')",TEV,terapia endovascular,1
+"('SU', 'servicio de urgencias')",SU,servicio de urgencias,1
+"('SENFC', 'sociedad española de neurofisiología clínica')",SENFC,sociedad española de neurofisiología clínica,1
+"('PEIMCP', 'porcentaje del exceso de índice de masa corporal perdido')",PEIMCP,porcentaje del exceso de índice de masa corporal perdido,1
+"('TCPH', 'trasplante de células progenitoras hematopoyéticas')",TCPH,trasplante de células progenitoras hematopoyéticas,1
+"('ACE', 'análisis de coste-efectividad')",ACE,análisis de coste-efectividad,1
+"('EPES', 'empresa pública de emergencias sanitarias')",EPES,empresa pública de emergencias sanitarias,1
+"('THO', 'trasplante hepático ortotópico')",THO,trasplante hepático ortotópico,1
+"('CMBD', 'conjunto mínimo básico de datos')",CMBD,conjunto mínimo básico de datos,1
+"('NLP', 'nefrolitotricia percutanea')",NLP,nefrolitotricia percutanea,1
+"('DMBVC', 'de muy bajo valor calórico')",DMBVC,de muy bajo valor calórico,2
+"('VPH', 'virus del papiloma humano')",VPH,virus del papiloma humano,6
+"('SEPAR', 'sociedad española de neumología y cirugía torácicaa')",SEPAR,sociedad española de neumología y cirugía torácicaa,1
+"('BPT', 'biopsia percutánea de tiroides')",BPT,biopsia percutánea de tiroides,1
+"('CGEO', 'celulas de la glia envolvente olfatoria')",CGEO,celulas de la glia envolvente olfatoria,1
+"('AD-QT', 'altas dosis de quimioterapia')",AD-QT,altas dosis de quimioterapia,1
+"('NT', 'neuralgia del trigémino')",NT,neuralgia del trigémino,1
+"('NPD', 'nutrición parenteral domiciliaria')",NPD,nutrición parenteral domiciliaria,1
+"('PROA', 'programa de optimización del uso de antimicrobianos')",PROA,programa de optimización del uso de antimicrobianos,1
+"('CUMS', 'cistouretrografía miccional seriada')",CUMS,cistouretrografía miccional seriada,1
+"('D.V.T.A.', 'drenaje venoso pulmonar anómalo total')",D.V.T.A.,drenaje venoso pulmonar anómalo total,1
+"('FUE', 'follicular unit extraction')",FUE,follicular unit extraction,1
+"('NL', 'nefropatía lúpica')",NL,nefropatía lúpica,1
+"('TDO', 'terapia dirigida por objetivos')",TDO,terapia dirigida por objetivos,1
+"('II', 'iniciado')",II,iniciado,1
+"('FLL', 'fractura-luxación de lisfranc')",FLL,fractura-luxación de lisfranc,1
+"('PRFA', 'proteínas séricas reactantes de fase aguda')",PRFA,proteínas séricas reactantes de fase aguda,1
+"('TPN', 'terapia de presión negativa')",TPN,terapia de presión negativa,1
+"('VPH', 'virus papiloma humano')",VPH,virus papiloma humano,1
+"('LAMG', 'la mucosa gástrica')",LAMG,la mucosa gástrica,1
+"('NEM', 'neoplasia endócrina múltiple')",NEM,neoplasia endócrina múltiple,1
+"('SEDAR', 'sociedad española de anestesiología, reanimación y terapia del dolor')",SEDAR,"sociedad española de anestesiología, reanimación y terapia del dolor",1
+"('EE', 'error estándar')",EE,error estándar,1
+"('BP', 'biopsia de próstata')",BP,biopsia de próstata,1
+"('EE', 'epileptico')",EE,epileptico,1
+"('LAM', 'leucemia aguda mieloide')",LAM,leucemia aguda mieloide,1
+"('CVC', 'cateterización venosa central')",CVC,cateterización venosa central,1
+"('TAMIS', 'transanal mínimamente invasiva')",TAMIS,transanal mínimamente invasiva,1
+"('SVP', 'sinovitis vellonodular pigmentada')",SVP,sinovitis vellonodular pigmentada,1
+"('CFC', 'convulsiones febriles complejas')",CFC,convulsiones febriles complejas,1
+"('LEOCH', 'litotricia extracorpórea mediante ondas de choque')",LEOCH,litotricia extracorpórea mediante ondas de choque,1
+"('FVP', 'fotovaporización prostática')",FVP,fotovaporización prostática,1
+"('TVE', 'tercer ventriculostomía endoscópica secundaria')",TVE,tercer ventriculostomía endoscópica secundaria,1
+"('GEEP', 'grupo español de endocirugía pediátrica')",GEEP,grupo español de endocirugía pediátrica,1
+"('GIST', 'gastrointestinal')",GIST,gastrointestinal,2
+"('NL', 'nefritis lúpica')",NL,nefritis lúpica,1
+"('REA', 'reanimación')",REA,reanimación,1
+"('DCC', 'defectos cardíacos congénitos')",DCC,defectos cardíacos congénitos,1
+"('BPTR', 'biopsia prostática transrectal')",BPTR,biopsia prostática transrectal,1
+"('H.A.C.R.E.', 'hidro-arsenicismo cronico regional endemico')",H.A.C.R.E.,hidro-arsenicismo cronico regional endemico,1
+"('EET', 'estimulación eléctrica transcutánea')",EET,estimulación eléctrica transcutánea,1
+"('GRP', 'gastrostomías percutáneas radiológicas')",GRP,gastrostomías percutáneas radiológicas,1
+"('CB', 'candidiasis bucal')",CB,candidiasis bucal,1
+"('H.D.A.', 'hemorragias digestivas altas')",H.D.A.,hemorragias digestivas altas,1
+"('FN', 'funduplicatura de nissen')",FN,funduplicatura de nissen,1
+"('DFT', 'defibrótido')",DFT,defibrótido,1
+"('VCS', 'visión crítica de seguridad')",VCS,visión crítica de seguridad,1
+"('MF', 'microfracturas')",MF,microfracturas,1
+"('RVI', 'radiología vascular intervencionista')",RVI,radiología vascular intervencionista,1
+"('CrS', 'creatinina sérica')",CrS,creatinina sérica,1
+"('RN/DN', 'riesgo nutricional/desnutrición')",RN/DN,riesgo nutricional/desnutrición,1
+"('GMP', 'glomerulonefritis membrano proliferativa')",GMP,glomerulonefritis membrano proliferativa,1
+"('MC-1', 'mc tipo 1')",MC-1,mc tipo 1,1
+"('PCA', 'persistencia del conducto arterioso')",PCA,persistencia del conducto arterioso,1
+"('P.T.C.', 'púrpura trombocitopénica crónica')",P.T.C.,púrpura trombocitopénica crónica,1
+"('CPL', 'complejo posterolateral')",CPL,complejo posterolateral,1
+"('PR', 'prostatectomía\xa0radical')",PR,prostatectomía radical,1
+"('VRP', 'vitreorretinopatía proliferante')",VRP,vitreorretinopatía proliferante,1
+"('TC', 'trasplante cardíaco')",TC,trasplante cardíaco,1
+"('IAMEST', 'infarto agudo de miocardio con elevación del st')",IAMEST,infarto agudo de miocardio con elevación del st,1
+"('LT', 'larvaterapia')",LT,larvaterapia,1
+"('R.T.U.', 'resección transuretral')",R.T.U.,resección transuretral,1
+"('VIP', 'vejiga ileal padovana')",VIP,vejiga ileal padovana,1
+"('EIM', 'errores innatos del metabolismo')",EIM,errores innatos del metabolismo,1
+"('HTA', 'histerectomía abdominal')",HTA,histerectomía abdominal,1
+"('ROLL', 'radioguiada de lesiones ocultas de mama')",ROLL,radioguiada de lesiones ocultas de mama,1
+"('GETH', 'grupo español de trasplante hemopoyético')",GETH,grupo español de trasplante hemopoyético,1
+"('España', 'españolas. 31 mayo, 1 y 2 junio 1984 sevilla')",España,"españolas. 31 mayo, 1 y 2 junio 1984 sevilla",1
+"('DVE', 'drenaje ventricular externo')",DVE,drenaje ventricular externo,1
+"('He-Ne', 'helio-neón')",He-Ne,helio-neón,1
+"('H.P.', 'hipertension portal""')",H.P.,"hipertension portal""",1
+"('MC', 'malformacion de chiari')",MC,malformacion de chiari,1
+"('P.A.D.', 'peritonitis agudas difusas')",P.A.D.,peritonitis agudas difusas,1
+"('MT', 'megacolon tóxico')",MT,megacolon tóxico,1
+"('CRIR', 'cirugía retrógrada intrarrenal')",CRIR,cirugía retrógrada intrarrenal,2
+"('CSPL', 'colposacropexia laparoscópica')",CSPL,colposacropexia laparoscópica,1
+"('CVL', 'con la video-laparoscopia')",CVL,con la video-laparoscopia,1
+"('GIST', 'gastrointestinales estromales')",GIST,gastrointestinales estromales,1
+"('DCR-E', 'dacriocistorrinostomía endocanalicular')",DCR-E,dacriocistorrinostomía endocanalicular,1
+"('HSV-2', 'herpes simple-2')",HSV-2,herpes simple-2,1
+"('GMFM', 'gross motor function measure')",GMFM,gross motor function measure,1
+"('CVC', 'catéteres venosos centrales')",CVC,catéteres venosos centrales,2
+"('RR', 'recovery')",RR,recovery,1
+"('VPH-AR', 'virus de papiloma humano de alto riesgo')",VPH-AR,virus de papiloma humano de alto riesgo,1
+"('EAs', 'efectos adversos')",EAs,efectos adversos,1
+"('SEMICYUC', 'sociedad española de medicina intensiva, crítica y unidades coronarias')",SEMICYUC,"sociedad española de medicina intensiva, crítica y unidades coronarias",1
+"('H.D.A.', 'hemorragia digestiva alta')",H.D.A.,hemorragia digestiva alta,1
+"('ICCQ', 'indice de clasificación de complejidad quirúrgica')",ICCQ,indice de clasificación de complejidad quirúrgica,1
+"('MMA', 'masas mediastínicas anteriores')",MMA,masas mediastínicas anteriores,1
+"('mipth', 'monitoreo intraoperatorio de paratohormona')",mipth,monitoreo intraoperatorio de paratohormona,1
+"('GEECV', 'grupo de estudio de enfermedades cerebrovasculares')",GEECV,grupo de estudio de enfermedades cerebrovasculares,1
+"('URS', 'ureterorrenoscopia retrograda')",URS,ureterorrenoscopia retrograda,1
+"('RITA', 'radiofrecuencia intersticial')",RITA,radiofrecuencia intersticial,1
+"('SCU', 'sangre de cordón umbilical')",SCU,sangre de cordón umbilical,1
+"('A.T.P.', 'angioplastia transluminal percutánea')",A.T.P.,angioplastia transluminal percutánea,1
+"('TC', 'tomografía computarizada')",TC,tomografía computarizada,1
+"('ATR', 'artroplastia total de rodilla')",ATR,artroplastia total de rodilla,1
+"('HLAV', 'histerectomía laparoscópica asistida vaginalmente')",HLAV,histerectomía laparoscópica asistida vaginalmente,1
+"('IPL', 'injertos de piel liofilizada')",IPL,injertos de piel liofilizada,1
+"('TVP', 'trombosis venosa profunda')",TVP,trombosis venosa profunda,1
+"('AI', 'aneurismas intracraneales')",AI,aneurismas intracraneales,1
+"('TaETM', 'transanal etm')",TaETM,transanal etm,1
+"('ATSA', 'a la tsa')",ATSA,a la tsa,1
+"('LE90', 'límite espectral 90%')",LE90,límite espectral 90%,1
+"('HPS', 'hiperglucemia postoperatoria severa')",HPS,hiperglucemia postoperatoria severa,1
+"('CIA', 'comunicación interauricular')",CIA,comunicación interauricular,1
+"('MIS', 'mínima invasión')",MIS,mínima invasión,1
+"('NPT', 'nutrición parenteral total')",NPT,nutrición parenteral total,1
+"('EO', 'emergencias obstétricas')",EO,emergencias obstétricas,1
+"('MAV', 'malformaciones arteriovenosas')",MAV,malformaciones arteriovenosas,1
+"('NPA', 'nefropatía secundaria a púrpura anafilactoide')",NPA,nefropatía secundaria a púrpura anafilactoide,1
+"('C.P.R.E.', 'colangio pancreatografía retrógrada por vía endoscópica')",C.P.R.E.,colangio pancreatografía retrógrada por vía endoscópica,1
+"('España', 'españolas, 29 de mayo a l de junio de 1983, oviedo')",España,"españolas, 29 de mayo a l de junio de 1983, oviedo",1
+"('CBTMO', 'criobiología y biología del trasplante de médula osea')",CBTMO,criobiología y biología del trasplante de médula osea,1
+"('CRM', 'cirugía de revascularización miocárdica')",CRM,cirugía de revascularización miocárdica,1
+"('AST', 'abordaje del seno del tarso')",AST,abordaje del seno del tarso,1
+"('CPCNM', 'carcinoma de pulmón de células no microcelulares')",CPCNM,carcinoma de pulmón de células no microcelulares,1
+"('CCR', 'carcinomas de células renales')",CCR,carcinomas de células renales,1
+"('ASA', 'american society of anesthesiologists')",ASA,american society of anesthesiologists,1
+"('GEEEAAC', 'grupo español de estudio del empleo de aprotinina en artroplastia de cadera')",GEEEAAC,grupo español de estudio del empleo de aprotinina en artroplastia de cadera,1
+"('AVB', 'atresia de vías biliares')",AVB,atresia de vías biliares,1
+"('ZAP', 'zona de alta presión')",ZAP,zona de alta presión,1
+"('LCD', 'leucemia en células del donador')",LCD,leucemia en células del donador,1
+"('IPA', 'incisiones pequeñas adaptadas')",IPA,incisiones pequeñas adaptadas,1
+"('CUCI', 'colitis ulcerosa crónica idiopática')",CUCI,colitis ulcerosa crónica idiopática,1
+"('GETMON', 'grupo español para el trasplante de médula osea en niños')",GETMON,grupo español para el trasplante de médula osea en niños,2
+"('DM2', 'diabetes mellitus tipo 2')",DM2,diabetes mellitus tipo 2,2
+"('GTEI', 'grupo de trabajo enfermedades infecciosas')",GTEI,grupo de trabajo enfermedades infecciosas,1
+"('USEB', 'ultrasonografía endobronquial')",USEB,ultrasonografía endobronquial,1
+"('DPA', 'de pared abdominal')",DPA,de pared abdominal,1
+"('CDT', 'cáncer diferenciado de tiroides')",CDT,cáncer diferenciado de tiroides,1
+"('DPPI', 'derivación portosistémica percutánea intrahepática')",DPPI,derivación portosistémica percutánea intrahepática,1
+"('MC', 'miocapsulotomía endoscopia')",MC,miocapsulotomía endoscopia,1
+"('P.B.T.E.P.', 'punción-biópsica transperineal ecodirigida de próstata')",P.B.T.E.P.,punción-biópsica transperineal ecodirigida de próstata,1
+"('SIC', 'síndrome de intestino corto')",SIC,síndrome de intestino corto,1
+"('LAL', 'leucemia aguda linfoide')",LAL,leucemia aguda linfoide,1
+"('UMI', 'unidad de medicina intensiva')",UMI,unidad de medicina intensiva,1
+"('DZ', 'de zenker')",DZ,de zenker,1
+"('REGESMOHS', 'registro español de cirugía de mohs')",REGESMOHS,registro español de cirugía de mohs,1
+"('CHEP', 'cricohioidoepiglotopexia')",CHEP,cricohioidoepiglotopexia,3
+"('SNS', 'sistema nacional de salud')",SNS,sistema nacional de salud,1
+"('RA', 'reparación artroscópica')",RA,reparación artroscópica,1
+"('IAM-CEST', 'infarto agudo al miocardio con elevación del st')",IAM-CEST,infarto agudo al miocardio con elevación del st,1
+"('ETV', 'enfermedad tromboembólica venosa')",ETV,enfermedad tromboembólica venosa,1
+"('LAM', 'linfangioleiomiomatosis pulmonar')",LAM,linfangioleiomiomatosis pulmonar,1
+"('AEBI', 'asociación española de bioética y ética médica')",AEBI,asociación española de bioética y ética médica,1
+"('REGEMOHS', 'registro español de cirugía de mohs')",REGEMOHS,registro español de cirugía de mohs,1
+"('PAPTAF', 'punción-aspiración pulmonar transtorácica con aguja fina')",PAPTAF,punción-aspiración pulmonar transtorácica con aguja fina,1
+"('NACO', 'nuevos anticoagulantes orales')",NACO,nuevos anticoagulantes orales,1
+"('TAP', 'tenotomía y aponeurotomía percutánea')",TAP,tenotomía y aponeurotomía percutánea,1
+"('EIC', 'ecocardiografía intracardíaca')",EIC,ecocardiografía intracardíaca,1
+"('SF-36', 'salud formato corto-36')",SF-36,salud formato corto-36,1
+"('PTH', 'parathormona')",PTH,parathormona,1
+"('N2 LIQ.', 'nitrogeno liquido')",N2 LIQ.,nitrogeno liquido,1
+"('ERT', 'enfermedad renal terminal')",ERT,enfermedad renal terminal,1
+"('C.I.E.', 'colestasia intrahepática del embarazo')",C.I.E.,colestasia intrahepática del embarazo,1
+"('TD', 'test de denver')",TD,test de denver,1
+"('LB', 'lesiones bucales')",LB,lesiones bucales,1
+"('FRC', 'fístula radiocefálica')",FRC,fístula radiocefálica,1
+"('HBP', 'hiperplasia benigna de próstata')",HBP,hiperplasia benigna de próstata,2
+"('EPP', 'exceso de peso perdido')",EPP,exceso de peso perdido,1
+"('iueff', 'incontinencia urinariade esfuerzo femenina')",iueff,incontinencia urinariade esfuerzo femenina,1
+"('RME', 'resección mucosa endoscópica')",RME,resección mucosa endoscópica,1
+"('controles', 'control de hemorragia obstétrica y puérperas posparto')",controles,control de hemorragia obstétrica y puérperas posparto,1
+"('rango', 'recambios de generador. seguimiento medio de 8,4 años')",rango,"recambios de generador. seguimiento medio de 8,4 años",1
+"('CEM', 'celulas escamosas en miniatura')",CEM,celulas escamosas en miniatura,1
+"('CFQ', 'creatinfosfoquinasa')",CFQ,creatinfosfoquinasa,1
+"('AA', 'aguda')",AA,aguda,1
+"('CVC', 'catéter venoso central')",CVC,catéter venoso central,1
+"('SENEC', 'sociedad española de neurocirugía')",SENEC,sociedad española de neurocirugía,3
+"('DPN', 'derrame pleural neoplásico')",DPN,derrame pleural neoplásico,1
+"('NP', 'nutrición parenteral')",NP,nutrición parenteral,2
+"('PAN', 'poliarteritis nodosa')",PAN,poliarteritis nodosa,1
+"('CMV', 'citomegalovirus')",CMV,citomegalovirus,1
+"('PL', 'punción lumbar')",PL,punción lumbar,1
+"('TCP', 'trigonocervicoprostatotomía')",TCP,trigonocervicoprostatotomía,1
+"('IDCV', 'inmunodeficiencia común variable')",IDCV,inmunodeficiencia común variable,1
+"('PGC', 'porcentaje de grasa corporal')",PGC,porcentaje de grasa corporal,1
+"('RNICP', 'registro nacional de intervenciones coronarias percutáneas')",RNICP,registro nacional de intervenciones coronarias percutáneas,1
+"('DPNNC', 'derrame pleural neoplásico no complicado')",DPNNC,derrame pleural neoplásico no complicado,1
+"('RA-LMMR', 'reparación artroscópica de lesión masiva del manguito rotador')",RA-LMMR,reparación artroscópica de lesión masiva del manguito rotador,1
+"('RM', 'reconstrucción mamaria')",RM,reconstrucción mamaria,1
+"('GV', 'gastrectomía vertical')",GV,gastrectomía vertical,1
+"('C.C.', 'cirugía conservadora')",C.C.,cirugía conservadora,1
+"('Dx/HA', 'dextranómreo/ácido hialurónico')",Dx/HA,dextranómreo/ácido hialurónico,1
+"('IMC', 'indice de masa corporal')",IMC,indice de masa corporal,1
+"('NLP-CR', 'nefrolitectomía percutánea de calibre reducido')",NLP-CR,nefrolitectomía percutánea de calibre reducido,1
+"('DSE', 'disección submucosa endoscópica')",DSE,disección submucosa endoscópica,1
+"('CPTD', 'colangio-pancreatografía transduodenoscópica')",CPTD,colangio-pancreatografía transduodenoscópica,1
+"('C.G.T.', 'cáncer gástrico temprano')",C.G.T.,cáncer gástrico temprano,1
+"('CPRM', 'colangiopancreatografía por resonancia magnética')",CPRM,colangiopancreatografía por resonancia magnética,1
+"('ATC', 'artroplastia total de cadera')",ATC,artroplastia total de cadera,1
+"('B.R.', 'biopsias randomizadas')",B.R.,biopsias randomizadas,1
+"('Rop', 'ropivacaína')",Rop,ropivacaína,1
+"('DS', 'desviación estándar')",DS,desviación estándar,1
+"('ICIQ-SF', 'incontinence questionnaire short-form')",ICIQ-SF,incontinence questionnaire short-form,1
+"('GENI', 'grupo español de neurorradiología intervencionista')",GENI,grupo español de neurorradiología intervencionista,1
+"('VPH', 'virus de papiloma humano')",VPH,virus de papiloma humano,1
+"('HNHU', 'hospital nacional hipolito unanue')",HNHU,hospital nacional hipolito unanue,1
+"('NCT', 'nefropatía crónica del trasplante')",NCT,nefropatía crónica del trasplante,1
+"('R.T.C.', 'resección transcervical')",R.T.C.,resección transcervical,1
+"('TIAM', 'trombectomia intraarterial mecanica')",TIAM,trombectomia intraarterial mecanica,1
+"('CC', 'contorno de cintura')",CC,contorno de cintura,3
+"('UCIN', 'unidad de cuidados intensivos neonatales')",UCIN,unidad de cuidados intensivos neonatales,2
+"('PF', 'prótesis fonatoria')",PF,prótesis fonatoria,1
+"('AMA', 'antimiosina')",AMA,antimiosina,1
+"('RG', 'respuesta glicémica')",RG,respuesta glicémica,1
+"('IDL', 'infusion duodenal continua de levodopa/carbidopa')",IDL,infusion duodenal continua de levodopa/carbidopa,1
+"('MNIO', 'monitorizacion neurofisiologica intraoperatoria')",MNIO,monitorizacion neurofisiologica intraoperatoria,1
+"('NNIS', 'nosocomial infection surveillance')",NNIS,nosocomial infection surveillance,1
+"('PB', 'perímetro braquial')",PB,perímetro braquial,1
+"('PTI', 'púrpura trombocitopénica idiopática')",PTI,púrpura trombocitopénica idiopática,3
+"('CPE', 'colangiopancreatografía endoscópica')",CPE,colangiopancreatografía endoscópica,2
+"('TRUS', 'transrectal guiada por ultrasonidos')",TRUS,transrectal guiada por ultrasonidos,1
+"('CB', 'cirugía bariátrica')",CB,cirugía bariátrica,1
+"('LIO', 'lente intraocular')",LIO,lente intraocular,1
+"('C.R.', 'cirugía radical')",C.R.,cirugía radical,1
+"('DAU', 'desarterialización uterina')",DAU,desarterialización uterina,1
+"('IAMCEST', 'infarto agudo de miocardio con elevación del segmento st')",IAMCEST,infarto agudo de miocardio con elevación del segmento st,1
+"('EAD', 'enfermedad articular degenerativa')",EAD,enfermedad articular degenerativa,1
+"('POP', 'prolapso de órganos pélvicos')",POP,prolapso de órganos pélvicos,1
+"('RM', 'razón de momios')",RM,razón de momios,1
+"('CETON', 'cirugía endoscópica transluminal por orificios naturales')",CETON,cirugía endoscópica transluminal por orificios naturales,1
+"('CD', 'cierre diferido')",CD,cierre diferido,1
+"('I.C.S.S.', 'instituto colombiano de seguros sociales')",I.C.S.S.,instituto colombiano de seguros sociales,1
+"('VIP', 'vattikuti institute prostatectomy')",VIP,vattikuti institute prostatectomy,1
+"('CORA', 'centro de rotación de la deformidad')",CORA,centro de rotación de la deformidad,1
+"('Fontana', 'forma de ""y"" usando sutura mecánica no reabsorbible')",Fontana,"forma de ""y"" usando sutura mecánica no reabsorbible",1
+"('UNO', 'unidad de neurooftalmologia')",UNO,unidad de neurooftalmologia,1
+"('MBE', 'medicina basada en evidencia')",MBE,medicina basada en evidencia,1
+"('TSA', 'transfusión de sangre alogénica')",TSA,transfusión de sangre alogénica,1
+"('TDC', 'tornillo dinámico condíleo')",TDC,tornillo dinámico condíleo,1
+"('OR', 'odds ratio')",OR,odds ratio,1
+"('RVU', 'reflujo vesicoureteral')",RVU,reflujo vesicoureteral,2
+"('TURis', 'transuretral de la próstata en solución salina')",TURis,transuretral de la próstata en solución salina,1
+"('API', 'arteria pudenda interna')",API,arteria pudenda interna,1
+"('BMNB', 'bocio multinodular beningo')",BMNB,bocio multinodular beningo,1
+"('TQ', 'tiempo quirúrgico')",TQ,tiempo quirúrgico,1
+"('GVL', 'gastrectomía vertical laparoscópica')",GVL,gastrectomía vertical laparoscópica,1
+"('ESCID', 'escala de conductas indicadoras de dolor')",ESCID,escala de conductas indicadoras de dolor,1
+"('TC', 'tomografía computada')",TC,tomografía computada,1
+"('UCMA-CE', 'unidad de cirugía mayor ambulatoria y de corta estancia')",UCMA-CE,unidad de cirugía mayor ambulatoria y de corta estancia,1
+"('IC', 'intervalos de confianza')",IC,intervalos de confianza,1
+"('IMCEST', 'infarto agudo de miocardio con elevación del segmento st')",IMCEST,infarto agudo de miocardio con elevación del segmento st,1
+"('PCRE', 'pancreatocolangiografía retrograda endoscópica')",PCRE,pancreatocolangiografía retrograda endoscópica,1
+"('CMV', 'curso de microcirugía vascular')",CMV,curso de microcirugía vascular,1
+"('UNAM', 'universidad nacional autónoma de méxico')",UNAM,universidad nacional autónoma de méxico,1
+"('VSG', 'valoración subjetiva global')",VSG,valoración subjetiva global,1
+"('pHi', 'ph intramucoso gástrico')",pHi,ph intramucoso gástrico,1
+"('RN', 'recién nacidos')",RN,recién nacidos,1
+"('PTTA', 'punción transtraqueal aspirativa')",PTTA,punción transtraqueal aspirativa,2
+"('LSSC', 'laringectomía subtotal supracricoidea')",LSSC,laringectomía subtotal supracricoidea,1
+"('HDA', 'hemorragia digestiva alta')",HDA,hemorragia digestiva alta,1
+"('EM', 'esclerosis multiple')",EM,esclerosis multiple,1
+"('AP', 'angioplastia primaria')",AP,angioplastia primaria,1
+"('LEP', 'litofragmentación extracorpórea piezoeléctrica')",LEP,litofragmentación extracorpórea piezoeléctrica,1
+"('LARCE', 'laboratorio regional de citología exfoliativa')",LARCE,laboratorio regional de citología exfoliativa,1
+"('HTO', 'hipertensión ocular')",HTO,hipertensión ocular,1
+"('Pap', 'papanicolaou')",Pap,papanicolaou,1
+"('LES', 'lupus eritematoso sistémico')",LES,lupus eritematoso sistémico,1
+"('TUI', 'tracto urinario inferior')",TUI,tracto urinario inferior,1
+"('AAA', 'aorta abdominal')",AAA,aorta abdominal,1
+"('SAHS', 'síndrome apnea-hipopnea del sueño')",SAHS,síndrome apnea-hipopnea del sueño,1
+"('UO', 'urgencias obstétricas')",UO,urgencias obstétricas,1

@@ -1,0 +1,37 @@
+pair,acronym,description,frequency
+"('EVN', 'expectativa de vida al nacer')",EVN,expectativa de vida al nacer,1
+"('GEMPO', 'grupo de estudio de morbimortalidad postoperatoria')",GEMPO,grupo de estudio de morbimortalidad postoperatoria,1
+"('RBZDs', 'receptores de benzodiazepinas centrales')",RBZDs,receptores de benzodiazepinas centrales,1
+"('IDH', 'insatisfechas (nbi), índice de desarrollo humano')",IDH,"insatisfechas (nbi), índice de desarrollo humano",1
+"('SEDAR', 'sociedad española de anestesiología, reanimación y terapéutica del dolor')",SEDAR,"sociedad española de anestesiología, reanimación y terapéutica del dolor",2
+"('FETO', 'fetoscópica')",FETO,fetoscópica,1
+"('CuSum', 'curvas de sumas acumulativas')",CuSum,curvas de sumas acumulativas,1
+"('IIS', 'inequidad en salud')",IIS,inequidad en salud,1
+"('SCARTD', 'societat catalana d\'anestesiologia, reanimació i terapèutica del dolor""')",SCARTD,"societat catalana d'anestesiologia, reanimació i terapèutica del dolor""",1
+"('BIS', 'biespectral')",BIS,biespectral,1
+"('DE', 'disruptores endocrinos')",DE,disruptores endocrinos,1
+"('VIH', 'virus de la inmunodeficiencia humana')",VIH,virus de la inmunodeficiencia humana,1
+"('EVA', 'escala visual análoga')",EVA,escala visual análoga,1
+"('TET', 'tubo endotraqueal')",TET,tubo endotraqueal,1
+"('SENSAR', 'seguridad en anestesia y reanimación')",SENSAR,seguridad en anestesia y reanimación,1
+"('PIM', 'presión inspiratoria máxima')",PIM,presión inspiratoria máxima,1
+"('IP', 'indicadores de proceso')",IP,indicadores de proceso,1
+"('THO', 'trasplante hepático ortotópico')",THO,trasplante hepático ortotópico,1
+"('CUMS', 'cistouretrografía miccional seriada')",CUMS,cistouretrografía miccional seriada,1
+"('TDO', 'terapia dirigida por objetivos')",TDO,terapia dirigida por objetivos,1
+"('SEDAR', 'sociedad española de anestesiología, reanimación y terapia del dolor')",SEDAR,"sociedad española de anestesiología, reanimación y terapia del dolor",1
+"('DCC', 'defectos cardíacos congénitos')",DCC,defectos cardíacos congénitos,1
+"('UCI', 'unidad de cuidados intensivos')",UCI,unidad de cuidados intensivos,1
+"('PAS', 'presión arterial sistólica')",PAS,presión arterial sistólica,1
+"('MMA', 'masas mediastínicas anteriores')",MMA,masas mediastínicas anteriores,1
+"('TC', 'tomografía computarizada')",TC,tomografía computarizada,1
+"('LE90', 'límite espectral 90%')",LE90,límite espectral 90%,2
+"('I parte', 'intraoperatoria no terapéutica: causas, complicaciones, prevención y tratamiento')",I parte,"intraoperatoria no terapéutica: causas, complicaciones, prevención y tratamiento",1
+"('PPT', 'pacientes politraumáticos')",PPT,pacientes politraumáticos,1
+"('NBI', 'necesidades básicas insatisfechas')",NBI,necesidades básicas insatisfechas,1
+"('Dx/HA', 'dextranómreo/ácido hialurónico')",Dx/HA,dextranómreo/ácido hialurónico,1
+"('Grupo ED', 'grupos: con endoscopía-dilatación')",Grupo ED,grupos: con endoscopía-dilatación,1
+"('EB', 'exceso de base')",EB,exceso de base,1
+"('RVU', 'reflujo vesicoureteral')",RVU,reflujo vesicoureteral,1
+"('pHi', 'ph intramucoso gástrico')",pHi,ph intramucoso gástrico,1
+"('FP', 'fractura de pelvis')",FP,fractura de pelvis,1

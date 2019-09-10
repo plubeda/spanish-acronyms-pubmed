@@ -1,0 +1,141 @@
+pair,acronym,description,frequency
+"('SEICAP', 'sociedad española de inmunología clínica y alergología pediátrica')",SEICAP,sociedad española de inmunología clínica y alergología pediátrica,1
+"('ACE', 'antígeno carcinoembrionario')",ACE,antígeno carcinoembrionario,2
+"('EMRR', 'em remitente recurrente')",EMRR,em remitente recurrente,1
+"('SETH', 'sociedad española de trasplante hepático')",SETH,sociedad española de trasplante hepático,1
+"('VBH', 'virus b de la hepatitis')",VBH,virus b de la hepatitis,1
+"('IFN-gamma', 'interferon gamma')",IFN-gamma,interferon gamma,1
+"('VHC', 'virus de la hepatitis c')",VHC,virus de la hepatitis c,1
+"('IEOFR', 'inmuno-electro-osmo-foresis radial')",IEOFR,inmuno-electro-osmo-foresis radial,1
+"('T.P.I.', 'treponemica de nelson')",T.P.I.,treponemica de nelson,1
+"('L.E.S.', 'lupus eritematoso sistémico')",L.E.S.,lupus eritematoso sistémico,1
+"('SEIMC', 'sociedad española de enfermedades infecciosas y microbiología clínica')",SEIMC,sociedad española de enfermedades infecciosas y microbiología clínica,1
+"('RHA', 'reacción de hemaglutinación indirecta')",RHA,reacción de hemaglutinación indirecta,1
+"('EIA', 'enzimoinmunoanálisis')",EIA,enzimoinmunoanálisis,1
+"('IEF', 'inmunoelectroforesis')",IEF,inmunoelectroforesis,1
+"('AT', 'autotrasplante')",AT,autotrasplante,1
+"('IL-10', 'interleucina 10')",IL-10,interleucina 10,1
+"('E12', 'españa 0012')",E12,españa 0012,1
+"('ICAM-1', 'intercelular-1')",ICAM-1,intercelular-1,1
+"('as', 'agricultores y sus compañeros')",as,agricultores y sus compañeros,1
+"('IFI', 'inmunofluorescencia indirecta')",IFI,inmunofluorescencia indirecta,3
+"('CN', 'complicaciones neurologicas')",CN,complicaciones neurologicas,1
+"('RH""', 'rh segunda')","RH""",rh segunda,1
+"('MGMT', 'metilguanina-adn-metiltransferasa')",MGMT,metilguanina-adn-metiltransferasa,1
+"('AcMo', 'anticuerpo monoclonal')",AcMo,anticuerpo monoclonal,1
+"('SEPAR', 'sociedad española de neumología y cirugía torácica')",SEPAR,sociedad española de neumología y cirugía torácica,1
+"('M-PTH', 'media de hormona parathiroidea')",M-PTH,media de hormona parathiroidea,1
+"('VIH', 'virus de immunodeficiencia humana')",VIH,virus de immunodeficiencia humana,1
+"('EF', 'encefalolitógeno humano')",EF,encefalolitógeno humano,1
+"('C/T', 'cociente psa:alpha 1 antiquimotripsina/psa total')",C/T,cociente psa:alpha 1 antiquimotripsina/psa total,1
+"('RHAI', 'reacción de hemaglutinación indirecta')",RHAI,reacción de hemaglutinación indirecta,1
+"('CHMSS', 'complejo hospitalario metropolitano del seguro social')",CHMSS,complejo hospitalario metropolitano del seguro social,1
+"('CIE', 'contrainmunoelectroforesis')",CIE,contrainmunoelectroforesis,1
+"('DCI', 'desnutrición crónica infantil')",DCI,desnutrición crónica infantil,1
+"('CEA', 'carcinoembrionario')",CEA,carcinoembrionario,3
+"('NGPP', 'neisseria gonorrhoeae productoras de penicilinasa')",NGPP,neisseria gonorrhoeae productoras de penicilinasa,1
+"('GENTE', 'grupo de estudio de nuevas terapias de enfermedades reumáticas')",GENTE,grupo de estudio de nuevas terapias de enfermedades reumáticas,1
+"('PIVh', 'parainfluenza virus humano')",PIVh,parainfluenza virus humano,1
+"('IEOF-ID', 'inmunoelectroosmoforesis-inmunodifusion')",IEOF-ID,inmunoelectroosmoforesis-inmunodifusion,1
+"('AcM', 'anticuerpos monoclonales')",AcM,anticuerpos monoclonales,1
+"('HVB', 'hepatitis vírica tipo b')",HVB,hepatitis vírica tipo b,1
+"('DB', 'de basófilos')",DB,de basófilos,1
+"('RIA', 'radioinmunoensayo')",RIA,radioinmunoensayo,1
+"('PDF', 'productos de degradación del fibrinógeno')",PDF,productos de degradación del fibrinógeno,1
+"('RAHP', 'receptores frente a albúmina humana polimerizada')",RAHP,receptores frente a albúmina humana polimerizada,1
+"('TASPE', 'trasplante autólogo de progenitores hematopoyéticos de sangre periférica')",TASPE,trasplante autólogo de progenitores hematopoyéticos de sangre periférica,1
+"('GEIDAC', 'grupo español de investigación en dermatitis de contacto y alergia cutánea')",GEIDAC,grupo español de investigación en dermatitis de contacto y alergia cutánea,1
+"('PCNA', 'proliferacion celular')",PCNA,proliferacion celular,1
+"('Au', 'australiano')",Au,australiano,1
+"('EMPP', 'em primariamente progresiva')",EMPP,em primariamente progresiva,1
+"('VHC', 'virus hepatitis c')",VHC,virus hepatitis c,1
+"('MAT', 'microaglutinación')",MAT,microaglutinación,1
+"('RFB', 'reacción de floculación con bentonita')",RFB,reacción de floculación con bentonita,1
+"('SNEM', 'servicio nacional de erradicación de la malaria')",SNEM,servicio nacional de erradicación de la malaria,1
+"('TR', 'termorresistente de leptospira')",TR,termorresistente de leptospira,1
+"('URO', 'urogastrona')",URO,urogastrona,1
+"('A.R.', 'artritis reumatoidea')",A.R.,artritis reumatoidea,1
+"('Tg', 'tiroglobulina')",Tg,tiroglobulina,1
+"('VHB', 'virus de la hepatitis b')",VHB,virus de la hepatitis b,2
+"('IFN', 'interferon alfa-2b')",IFN,interferon alfa-2b,1
+"('NCC', 'neurocisticercosis')",NCC,neurocisticercosis,1
+"('E C', 'enfermedad celiaca')",E C,enfermedad celiaca,1
+"('VIH', 'virus de la inmunodeficiencia humana')",VIH,virus de la inmunodeficiencia humana,9
+"('Hp', 'helicobacter pylori')",Hp,helicobacter pylori,1
+"('r.i.a.', 'radioinmunoanálisis')",r.i.a.,radioinmunoanálisis,1
+"('RHR', 'respuesta immune de hipersensibilidad retardada')",RHR,respuesta immune de hipersensibilidad retardada,1
+"('PCNA', 'proliferación celular')",PCNA,proliferación celular,1
+"('VIH-2', 'virus de la inmunodeficiencia humana tipo 2')",VIH-2,virus de la inmunodeficiencia humana tipo 2,1
+"('GEDSRT-VHC', 'grupo español de estudio de donantes de sangre en riesgo de transmisión del vhc')",GEDSRT-VHC,grupo español de estudio de donantes de sangre en riesgo de transmisión del vhc,1
+"('ETEC', 'enterotoxigénica')",ETEC,enterotoxigénica,1
+"('VPH', 'virus del papiloma humano')",VPH,virus del papiloma humano,1
+"('RIA', 'radioinmunoanálisis')",RIA,radioinmunoanálisis,1
+"('LPS', 'lipopolisacárido')",LPS,lipopolisacárido,1
+"('ZBS', 'zonas básicas de salud')",ZBS,zonas básicas de salud,1
+"('Hib', 'haemophilus influenzae tipo b')",Hib,haemophilus influenzae tipo b,1
+"('ARIA', 'alérgica y su impacto en el asma')",ARIA,alérgica y su impacto en el asma,1
+"('VPH', 'virus papiloma humano')",VPH,virus papiloma humano,1
+"('RFCE', 'receptor del factor de crecimiento epidérmico')",RFCE,receptor del factor de crecimiento epidérmico,1
+"('LAM', 'leucemia aguda mieloide')",LAM,leucemia aguda mieloide,1
+"('GNRP', 'glomerulonefritis rápidamente progresivas')",GNRP,glomerulonefritis rápidamente progresivas,1
+"('RIE', 'radioinmunoensayo')",RIE,radioinmunoensayo,1
+"('CTAT', 'complejos trombina-antitrombina iii')",CTAT,complejos trombina-antitrombina iii,1
+"('AEHH', 'asociación española de hematolgía y hemoterapia')",AEHH,asociación española de hematolgía y hemoterapia,1
+"('VHC', 'virus de hepatitis c')",VHC,virus de hepatitis c,1
+"('ECA', 'enterobacterias')",ECA,enterobacterias,2
+"('GETH', 'grupo español de trasplante hemopoyético')",GETH,grupo español de trasplante hemopoyético,1
+"('MRV', 'monitoreo rápido de vacunación')",MRV,monitoreo rápido de vacunación,1
+"('FHD', 'fiebre hemorrágica por dengue')",FHD,fiebre hemorrágica por dengue,1
+"('HSV-2', 'herpes simple-2')",HSV-2,herpes simple-2,1
+"('CPH', 'cáncer primitivo del higado')",CPH,cáncer primitivo del higado,1
+"('ARP', 'activadad de renina plasmática')",ARP,activadad de renina plasmática,1
+"('PV', 'pentavalente')",PV,pentavalente,1
+"('VAG', 'vacunación antigripal')",VAG,vacunación antigripal,1
+"('UITB', 'unidad de investigación en tuberculosis de barcelona')",UITB,unidad de investigación en tuberculosis de barcelona,2
+"('CAP', 'centros de atención primaria')",CAP,centros de atención primaria,1
+"('VIH-1', 'virus de inmunodeficiencia human tipo 1')",VIH-1,virus de inmunodeficiencia human tipo 1,1
+"('RR', 'riesgos relativos')",RR,riesgos relativos,1
+"('MLC', 'mixto de linfocitos')",MLC,mixto de linfocitos,1
+"('gtc', 'globulina transportadora de corticoides')",gtc,globulina transportadora de corticoides,1
+"('NPA', 'nefropatía secundaria a púrpura anafilactoide')",NPA,nefropatía secundaria a púrpura anafilactoide,1
+"('GETECCU', 'grupo español de trabajo en enfermedad de crohn y colitis ulcerosa')",GETECCU,grupo español de trabajo en enfermedad de crohn y colitis ulcerosa,1
+"('YY-1', 'yang-1')",YY-1,yang-1,1
+"('TAB-Di-Te', 'tífica, paratífica a y b diftérica y tetánica')",TAB-Di-Te,"tífica, paratífica a y b diftérica y tetánica",1
+"('E1', 'españa 0001')",E1,españa 0001,1
+"('IHQ', 'inmunohistoquímica')",IHQ,inmunohistoquímica,1
+"('CCI', 'consultivo de inmunizaciones')",CCI,consultivo de inmunizaciones,1
+"('UCIP', 'unidades de cuidados intensivos pediatricos')",UCIP,unidades de cuidados intensivos pediatricos,1
+"('FHA', 'fiebre hemorrágica argentina')",FHA,fiebre hemorrágica argentina,2
+"('LAL', 'leucemia aguda linfoide')",LAL,leucemia aguda linfoide,1
+"('SNS', 'sistema nacional de salud')",SNS,sistema nacional de salud,1
+"('LAM', 'linfangioleiomiomatosis pulmonar')",LAM,linfangioleiomiomatosis pulmonar,1
+"('IPK', 'instituto de medicina tropical ""pedro kouri""')",IPK,"instituto de medicina tropical ""pedro kouri""",1
+"('ADA', 'adenosina deaminasa')",ADA,adenosina deaminasa,1
+"('LM', 'lactancia materna')",LM,lactancia materna,1
+"('VIH-2', 'virus de la inmunodeficiencia humana de tipo 2')",VIH-2,virus de la inmunodeficiencia humana de tipo 2,1
+"('CMV', 'citomegalovirus')",CMV,citomegalovirus,1
+"('SL', 'sucedáneo de la leche')",SL,sucedáneo de la leche,1
+"('IDCV', 'inmunodeficiencia común variable')",IDCV,inmunodeficiencia común variable,2
+"('GESIDA', 'grupo de estudio de sida')",GESIDA,grupo de estudio de sida,1
+"('HB', 'hepatitis b')",HB,hepatitis b,1
+"('VDVB', 'virus de la diarrea viral bovina')",VDVB,virus de la diarrea viral bovina,1
+"('CAV-AEP', 'calendario de vacunaciones de la asociación española de pediatría')",CAV-AEP,calendario de vacunaciones de la asociación española de pediatría,3
+"('TIR', 'tuberculosis e infecciones respiratorias')",TIR,tuberculosis e infecciones respiratorias,1
+"('SMS', 'servicio murciano de salud')",SMS,servicio murciano de salud,1
+"('SUH', 'servicio de urgencias hospitalario')",SUH,servicio de urgencias hospitalario,1
+"('NCT', 'nefropatía crónica del trasplante')",NCT,nefropatía crónica del trasplante,1
+"('BCG', 'bacillus calmette-guerin')",BCG,bacillus calmette-guerin,1
+"('MTs', 'matricestisulares')",MTs,matricestisulares,1
+"('VIH-1', 'virus de la inmunodeficiencia humana tipo 1')",VIH-1,virus de la inmunodeficiencia humana tipo 1,1
+"('PVA', 'programa de vacunación de andalucía')",PVA,programa de vacunación de andalucía,1
+"('EII', 'enfermedad inflamatoria intestinal')",EII,enfermedad inflamatoria intestinal,1
+"('SIR', 'susceptible-infectado-recuperado')",SIR,susceptible-infectado-recuperado,1
+"('PTI', 'púrpura trombocitopénica idiopática')",PTI,púrpura trombocitopénica idiopática,2
+"('UNP', 'unidades de nitrógeno proteico')",UNP,unidades de nitrógeno proteico,1
+"('ICSH', 'internacional de estandarización en hematología')",ICSH,internacional de estandarización en hematología,1
+"('ADVP', 'a drogas por vía parenteral')",ADVP,a drogas por vía parenteral,1
+"('IC', 'intervalos de confianza')",IC,intervalos de confianza,1
+"('IDR', 'intradermorreacción')",IDR,intradermorreacción,1
+"('EM', 'esclerosis multiple')",EM,esclerosis multiple,2
+"('ANCA', 'anticuerpos frente al citoplasma de los neutrófilos')",ANCA,anticuerpos frente al citoplasma de los neutrófilos,1
+"('EN', 'enfermedad neumocócica')",EN,enfermedad neumocócica,1

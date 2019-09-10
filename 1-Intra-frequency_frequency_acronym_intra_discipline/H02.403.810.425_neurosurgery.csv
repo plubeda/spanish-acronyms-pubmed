@@ -1,0 +1,63 @@
+pair,acronym,description,frequency
+"('UCI', 'unidad de cuidado intensivo')",UCI,unidad de cuidado intensivo,1
+"('PEATC', 'potenciales evocados auditivos del tronco cerebral')",PEATC,potenciales evocados auditivos del tronco cerebral,1
+"('DCF', 'displasias corticales focales')",DCF,displasias corticales focales,1
+"('RDG', 'reflujo duodenogástrico')",RDG,reflujo duodenogástrico,1
+"('V.C.O.', 'vagotomía de células oxíntica')",V.C.O.,vagotomía de células oxíntica,1
+"('GBM', 'glioblastoma multiforme')",GBM,glioblastoma multiforme,1
+"('MGMT', 'metilguanina-adn-metiltransferasa')",MGMT,metilguanina-adn-metiltransferasa,1
+"('FLANC', 'federación latinoamericana de neurocirugía')",FLANC,federación latinoamericana de neurocirugía,1
+"('MIP-1β', 'macrofágica-1β')",MIP-1β,macrofágica-1β,1
+"('T.E.C.', 'traumatismo encefalo craneano')",T.E.C.,traumatismo encefalo craneano,1
+"('SEN', 'sociedad española de neurología')",SEN,sociedad española de neurología,1
+"('MCP-1', 'monocitos-1')",MCP-1,monocitos-1,1
+"('PCR', 'proteína c reactiva')",PCR,proteína c reactiva,1
+"('SMS', 'simplified motor score')",SMS,simplified motor score,1
+"('GOS', 'glasgow outcome score')",GOS,glasgow outcome score,1
+"('PESS', 'potenciales evocados somatosensoriales')",PESS,potenciales evocados somatosensoriales,1
+"('FAVIDE', 'fístulas arteriovenosas intradurales dorsales espinales')",FAVIDE,fístulas arteriovenosas intradurales dorsales espinales,1
+"('HPAF', 'heridas por arma de fuego')",HPAF,heridas por arma de fuego,1
+"('MNIO', 'monitoreo neurofisiológico intraoperatorio')",MNIO,monitoreo neurofisiológico intraoperatorio,1
+"('CMLALM', 'centro médico “lic. adolfo lópez mateos”')",CMLALM,centro médico “lic. adolfo lópez mateos”,1
+"('SENR', 'sociedad española de neurorradiología')",SENR,sociedad española de neurorradiología,2
+"('INNN', 'instituto nacional de neurología y neurocirugía')",INNN,instituto nacional de neurología y neurocirugía,1
+"('UC', 'unidades de cefalea')",UC,unidades de cefalea,1
+"('ECP', 'estimulacion cerebral profunda')",ECP,estimulacion cerebral profunda,1
+"('EPI', 'enfermedad de parkinson idiopatica')",EPI,enfermedad de parkinson idiopatica,1
+"('UPDRS', ""unified parkinson's disease rating scale"")",UPDRS,unified parkinson's disease rating scale,1
+"('MRC', 'medical research council')",MRC,medical research council,1
+"('VCO', 'vagotomía de células oxínticas')",VCO,vagotomía de células oxínticas,2
+"('HPM', 'hipotalamotomía posteromedial')",HPM,hipotalamotomía posteromedial,1
+"('TCE', 'traumatismo craneoencefalico')",TCE,traumatismo craneoencefalico,1
+"('UPDRS', 'unificada para la evaluación de la enfermedad de parkinson')",UPDRS,unificada para la evaluación de la enfermedad de parkinson,1
+"('UNC', 'unidad de cuidados intensivos neurocriticos')",UNC,unidad de cuidados intensivos neurocriticos,1
+"('EP', 'enfermedad de parkinson')",EP,enfermedad de parkinson,4
+"('CC', 'consultas monograficas de cefalea')",CC,consultas monograficas de cefalea,1
+"('TEV', 'terapia endovascular')",TEV,terapia endovascular,1
+"('SH', 'sindrome de «hubris»')",SH,sindrome de «hubris»,1
+"('SENFC', 'sociedad española de neurofisiología clínica')",SENFC,sociedad española de neurofisiología clínica,1
+"('NT', 'neuralgia del trigémino')",NT,neuralgia del trigémino,2
+"('NMO', 'neuromielitis optica')",NMO,neuromielitis optica,1
+"('SENEC', 'sociedades españolas de neurocirugía')",SENEC,sociedades españolas de neurocirugía,1
+"('TCE', 'traumatismo craneoencefálico')",TCE,traumatismo craneoencefálico,1
+"('EE', 'epileptico')",EE,epileptico,1
+"('TVE', 'tercer ventriculostomía endoscópica secundaria')",TVE,tercer ventriculostomía endoscópica secundaria,1
+"('UCI', 'unidad de cuidados intensivos')",UCI,unidad de cuidados intensivos,1
+"('MC-1', 'mc tipo 1')",MC-1,mc tipo 1,1
+"('GIMINO', 'grupo interdisciplinar mexicano de investigación en neurooncología')",GIMINO,grupo interdisciplinar mexicano de investigación en neurooncología,1
+"('ROLL', 'radioguiada de lesiones ocultas de mama')",ROLL,radioguiada de lesiones ocultas de mama,1
+"('DVE', 'drenaje ventricular externo')",DVE,drenaje ventricular externo,1
+"('MC', 'malformacion de chiari')",MC,malformacion de chiari,1
+"('PCV', 'procarbacina, lomustina y vincristina')",PCV,"procarbacina, lomustina y vincristina",1
+"('HIV', 'hemorragia intraventricular')",HIV,hemorragia intraventricular,1
+"('GEECV', 'grupo de estudio de enfermedades cerebrovasculares')",GEECV,grupo de estudio de enfermedades cerebrovasculares,1
+"('T.E.C.', 'traumatismo encéfano craneano')",T.E.C.,traumatismo encéfano craneano,1
+"('AI', 'aneurismas intracraneales')",AI,aneurismas intracraneales,1
+"('apoE', 'apolipoproteína e')",apoE,apolipoproteína e,1
+"('MAV', 'malformaciones arteriovenosas')",MAV,malformaciones arteriovenosas,1
+"('ASA', 'american society of anesthesiologists')",ASA,american society of anesthesiologists,1
+"('SENEC', 'sociedad española de neurocirugía')",SENEC,sociedad española de neurocirugía,3
+"('ASIA', 'americana de lesion de la medula espinal')",ASIA,americana de lesion de la medula espinal,1
+"('GENI', 'grupo español de neurorradiología intervencionista')",GENI,grupo español de neurorradiología intervencionista,2
+"('ECG', 'escala del coma de glasgow')",ECG,escala del coma de glasgow,1
+"('GCS', 'glasgow coma scale')",GCS,glasgow coma scale,1

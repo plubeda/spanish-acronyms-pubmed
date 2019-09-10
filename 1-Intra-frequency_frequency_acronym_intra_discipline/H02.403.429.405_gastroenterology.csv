@@ -1,0 +1,233 @@
+pair,acronym,description,frequency
+"('CEA', 'carcino-embrionario')",CEA,carcino-embrionario,1
+"('NNE-GEP', 'neuroendocrinas del aparato gastrointestinal y páncreas')",NNE-GEP,neuroendocrinas del aparato gastrointestinal y páncreas,1
+"('MAO', 'máxima posthistamínica')",MAO,máxima posthistamínica,1
+"('ACE', 'antígeno carcinoembrionario')",ACE,antígeno carcinoembrionario,1
+"('EAT-10', 'eating assessment tool 10')",EAT-10,eating assessment tool 10,1
+"('NPT', 'nutricion parental total')",NPT,nutricion parental total,1
+"('ACCGED', 'asociación centroamericana y del caribe de gastroenterología y endoscopía digestiva')",ACCGED,asociación centroamericana y del caribe de gastroenterología y endoscopía digestiva,1
+"('VPR', 'volumen plaquetario relativo')",VPR,volumen plaquetario relativo,1
+"('PPI', 'prescripción potencialmente inadecuada')",PPI,prescripción potencialmente inadecuada,1
+"('BUN/Cr', 'bun/creatinina')",BUN/Cr,bun/creatinina,1
+"('ARH2', 'antagonista receptores h2')",ARH2,antagonista receptores h2,1
+"('ELA', 'esclerosis lateral amiotrófica')",ELA,esclerosis lateral amiotrófica,1
+"('VHC', 'virus de la hepatitis c')",VHC,virus de la hepatitis c,1
+"('SOH', 'sangre oculta en heces')",SOH,sangre oculta en heces,1
+"('CTC', 'células tumorales circulantes')",CTC,células tumorales circulantes,1
+"('FE', 'fístulas enterocutáneas')",FE,fístulas enterocutáneas,1
+"('H.P.', 'hipertensión portal')",H.P.,hipertensión portal,1
+"('EIICEA', 'estudio asturiano en cinco áreas')",EIICEA,estudio asturiano en cinco áreas,1
+"('IgE', 'inmunoglobulina e')",IgE,inmunoglobulina e,2
+"('ASCA', 'anti-saccharomyces cerevisiae')",ASCA,anti-saccharomyces cerevisiae,1
+"('ACE', 'acetilcolinesterasa')",ACE,acetilcolinesterasa,1
+"('EHGNA', 'enfermedad por hígado graso no alcohólico')",EHGNA,enfermedad por hígado graso no alcohólico,1
+"('OCic', 'osteocalcina infracarboxilada')",OCic,osteocalcina infracarboxilada,1
+"('RDG', 'reflujo duodenogástrico')",RDG,reflujo duodenogástrico,1
+"('V.C.O.', 'vagotomía de células oxíntica')",V.C.O.,vagotomía de células oxíntica,1
+"('ANCA', 'anticitoplasma de los neutrófilos')",ANCA,anticitoplasma de los neutrófilos,1
+"('E.P.R.', 'esofagitis por reflujo')",E.P.R.,esofagitis por reflujo,1
+"('GB', 'glándulas de brunner')",GB,glándulas de brunner,1
+"('USE', 'ultrasonografía endoscópica')",USE,ultrasonografía endoscópica,3
+"('SUH', 'servicios de urgencias hospitalarios')",SUH,servicios de urgencias hospitalarios,1
+"('PCR-us', 'proteína c reactiva ultrasensible')",PCR-us,proteína c reactiva ultrasensible,1
+"('FQ', 'fibrosis quística')",FQ,fibrosis quística,1
+"('ALEH', 'asociación latinoamericana para el estudio del hígado')",ALEH,asociación latinoamericana para el estudio del hígado,1
+"('APLV', 'a la proteína de la leche de vaca')",APLV,a la proteína de la leche de vaca,1
+"('R.G.E.', 'reflujo gastroesofágico')",R.G.E.,reflujo gastroesofágico,2
+"('FI', 'fracaso intestinal')",FI,fracaso intestinal,1
+"('EICIG', 'enfermedad inflamatoria crónica del intestino grueso')",EICIG,enfermedad inflamatoria crónica del intestino grueso,1
+"('EMA IgA', 'el rendimiento de anticuerpos antitransglutaminasa iga (anti-tg2 iga), antiendomisio iga')",EMA IgA,"el rendimiento de anticuerpos antitransglutaminasa iga (anti-tg2 iga), antiendomisio iga",1
+"('PVMD', 'programa de ventilación mecánica domiciliaria')",PVMD,programa de ventilación mecánica domiciliaria,1
+"('EA', 'enfermedad de alzheimer')",EA,enfermedad de alzheimer,1
+"('EPI', 'enteropatógeno infantil')",EPI,enteropatógeno infantil,1
+"('SGNC', 'sensibilidad al gluten no celíaca')",SGNC,sensibilidad al gluten no celíaca,1
+"('PAAF', 'punción aspiración con aguja fina')",PAAF,punción aspiración con aguja fina,1
+"('PNED', 'progetto nazionale emorragia digestiva')",PNED,progetto nazionale emorragia digestiva,1
+"('vih', 'virus de la inmunodeficiencia humana')",vih,virus de la inmunodeficiencia humana,1
+"('TGO', 'transaminasa glutamico oxalacetica')",TGO,transaminasa glutamico oxalacetica,1
+"('GEP', 'gastrostomía endoscópica percutánea')",GEP,gastrostomía endoscópica percutánea,1
+"('FNA', 'fina')",FNA,fina,1
+"('CEA', 'carcinoembrionario')",CEA,carcinoembrionario,4
+"('AEPAP', 'asociación española de pediatría de atención primaria')",AEPAP,asociación española de pediatría de atención primaria,1
+"('MPO', 'mieoloperoxidasa')",MPO,mieoloperoxidasa,1
+"('SPN', 'sistema de presión negativa')",SPN,sistema de presión negativa,1
+"('IATTGI', 'intergrupo argentino para el tratamiento de los tumores gastro-intestinales')",IATTGI,intergrupo argentino para el tratamiento de los tumores gastro-intestinales,1
+"('LT', 'laringuectomía total')",LT,laringuectomía total,1
+"('SC', 'sulfuro coloidal')",SC,sulfuro coloidal,1
+"('CPRE', 'colangiopancreatografia retrógrada endoscópica')",CPRE,colangiopancreatografia retrógrada endoscópica,1
+"('SBC', 'subcitrato de bismuto coloidal')",SBC,subcitrato de bismuto coloidal,1
+"('ETM', 'escisión total del mesorrecto')",ETM,escisión total del mesorrecto,1
+"('AINE', 'antiinflamatorios no esteroideos')",AINE,antiinflamatorios no esteroideos,1
+"('GETECCU', 'grupo español de trabajo de enfermedad de crohn y colitis ulcerosa')",GETECCU,grupo español de trabajo de enfermedad de crohn y colitis ulcerosa,1
+"('EHNA', 'esteatohepatitis no alcohólica')",EHNA,esteatohepatitis no alcohólica,4
+"('SEICAP', 'sociedad española de inmunología clínica, alergología y asma pediátrica')",SEICAP,"sociedad española de inmunología clínica, alergología y asma pediátrica",1
+"('SIDA', 'síndrome de inmunodeficiencia adquirida')",SIDA,síndrome de inmunodeficiencia adquirida,1
+"('CNS', 'cartilla nacional de salud')",CNS,cartilla nacional de salud,1
+"('LOLA', 'l-ornitina l-aspartato')",LOLA,l-ornitina l-aspartato,1
+"('EEI', 'esofágico inferior')",EEI,esofágico inferior,1
+"('AIDL', 'absorcíon intestinal deficiente de lactosa')",AIDL,absorcíon intestinal deficiente de lactosa,1
+"('GIST', 'gastroinestinal')",GIST,gastroinestinal,1
+"('IMID', 'inmunomediadas')",IMID,inmunomediadas,2
+"('GCA', 'gastritis crónica antral')",GCA,gastritis crónica antral,3
+"('EPR', 'esofagitis por reflujo')",EPR,esofagitis por reflujo,1
+"('VHC', 'virus hepatitis c')",VHC,virus hepatitis c,1
+"('VMNI', 'ventilación mecánica no invasiva')",VMNI,ventilación mecánica no invasiva,1
+"('NED', 'nutrición enteral domiciliaria')",NED,nutrición enteral domiciliaria,1
+"('VIH', 'virus de inmunodeficiencia humana')",VIH,virus de inmunodeficiencia humana,1
+"('G.T.', 'gastrectomías totales')",G.T.,gastrectomías totales,1
+"('IBP', 'inhibidores de la bomba de protones')",IBP,inhibidores de la bomba de protones,3
+"('EE', 'esofagitis eosinofílica')",EE,esofagitis eosinofílica,1
+"('SEGHNP', 'sociedad española de gastroenterología, hepatología y nutrición pediátrica')",SEGHNP,"sociedad española de gastroenterología, hepatología y nutrición pediátrica",2
+"('CCHS', 'celiac health survey')",CCHS,celiac health survey,1
+"('RCUI', 'relación coste-utilidad')",RCUI,relación coste-utilidad,1
+"('VCO', 'vagotomía de células oxínticas')",VCO,vagotomía de células oxínticas,2
+"('DE', 'de 5 años')",DE,de 5 años,1
+"('EE', 'esfinterotomía endoscópica')",EE,esfinterotomía endoscópica,1
+"('CC', 'cardiopatías congénitas')",CC,cardiopatías congénitas,1
+"('CUCI', 'colitis ulcerativa crónica ideopática')",CUCI,colitis ulcerativa crónica ideopática,5
+"('VGS-GP', 'valoración global subjetiva generada por el paciente')",VGS-GP,valoración global subjetiva generada por el paciente,1
+"('ACAOS', 'arteria coronaria izquierda del seno opuesto')",ACAOS,arteria coronaria izquierda del seno opuesto,1
+"('E C', 'enfermedad celiaca')",E C,enfermedad celiaca,1
+"('INEN', 'instituto nacional de enfermedades neoplásicas')",INEN,instituto nacional de enfermedades neoplásicas,1
+"('VIH', 'virus de la inmunodeficiencia humana')",VIH,virus de la inmunodeficiencia humana,1
+"('Hp', 'helicobacter pylori')",Hp,helicobacter pylori,2
+"('CU', 'colitis ulcerativa')",CU,colitis ulcerativa,1
+"('TH', 'trasplante hepático')",TH,trasplante hepático,1
+"('VHA', 'virus de la hepatitis a')",VHA,virus de la hepatitis a,1
+"('CVF', 'capacidad vital forzada')",CVF,capacidad vital forzada,1
+"('CCRm', 'cáncer colorrectal metastásico')",CCRm,cáncer colorrectal metastásico,1
+"('AVG', 'año de vida ganado')",AVG,año de vida ganado,1
+"('CUCI', 'colitis ulcerativa crónica inespecífica')",CUCI,colitis ulcerativa crónica inespecífica,2
+"('T.T.L.E.', 'test de tolerancia a la lactosa etanol')",T.T.L.E.,test de tolerancia a la lactosa etanol,1
+"('NPD', 'nutrición parenteral en domicilio')",NPD,nutrición parenteral en domicilio,1
+"('Remicade', 'recomendaciones geteccu-2005 para el uso de infliximab')",Remicade,recomendaciones geteccu-2005 para el uso de infliximab,1
+"('DNU', 'dispepsia no ulcerosa')",DNU,dispepsia no ulcerosa,2
+"('CPRE', 'colangiopancreatografía retrógrada endoscópica')",CPRE,colangiopancreatografía retrógrada endoscópica,1
+"('ERGE', 'enfermedad por reflujo gastroesofágico')",ERGE,enfermedad por reflujo gastroesofágico,3
+"('ACZ', 'acexamato de zinc')",ACZ,acexamato de zinc,1
+"('SIDA', 'síndrome de inmuno-deficiencia adquirida')",SIDA,síndrome de inmuno-deficiencia adquirida,1
+"('AA', 'avanzados')",AA,avanzados,1
+"('CCR', 'cáncer aolorrectal invasivo')",CCR,cáncer aolorrectal invasivo,1
+"('EPOC', 'enfermedad pulmonar obstructiva crónica')",EPOC,enfermedad pulmonar obstructiva crónica,1
+"('A.C.A.D.', 'asociación castellana de aparato digestivo')",A.C.A.D.,asociación castellana de aparato digestivo,1
+"('EP', 'enfermedad de parkinson')",EP,enfermedad de parkinson,1
+"('GEHPY', 'grupo de estudio del helicobacter pylori')",GEHPY,grupo de estudio del helicobacter pylori,1
+"('EMRR', 'esclerosis multiple remitente recurrente')",EMRR,esclerosis multiple remitente recurrente,1
+"('EACD', 'enfermedad asociada a clostridium difficile')",EACD,enfermedad asociada a clostridium difficile,1
+"('ACE', 'análisis de coste-efectividad')",ACE,análisis de coste-efectividad,1
+"('THO', 'trasplante hepático ortotópico')",THO,trasplante hepático ortotópico,1
+"('VPH', 'virus del papiloma humano')",VPH,virus del papiloma humano,1
+"('NPD', 'nutrición parenteral domiciliaria')",NPD,nutrición parenteral domiciliaria,2
+"('NA', 'neoplasia avanzada')",,neoplasia avanzada,1
+"('M.E.P.', 'malnutrición energético-proteica')",M.E.P.,malnutrición energético-proteica,1
+"('ABA', 'antagonistas de la bomba de ácido')",ABA,antagonistas de la bomba de ácido,1
+"('PFH', 'pruebas de funcionamiento hepático')",PFH,pruebas de funcionamiento hepático,1
+"('EIPID', 'enfermedad inmunoproliferativa del intestino delgado')",EIPID,enfermedad inmunoproliferativa del intestino delgado,1
+"('MNNG', 'metil-n-nitro-n-nitrosoguanidina')",MNNG,metil-n-nitro-n-nitrosoguanidina,1
+"('LAMG', 'la mucosa gástrica')",LAMG,la mucosa gástrica,1
+"('SLAGO', 'simposio latinoamericano de gastroenterología oncológica')",SLAGO,simposio latinoamericano de gastroenterología oncológica,1
+"('EA', 'escala de alvarado')",EA,escala de alvarado,1
+"('TAMIS', 'transanal mínimamente invasiva')",TAMIS,transanal mínimamente invasiva,1
+"('TDAH', 'trastorno por deficit de atencion/hiperactividad')",TDAH,trastorno por deficit de atencion/hiperactividad,1
+"('SENPE', 'sociedad española de nutrición parenteral y enteral')",SENPE,sociedad española de nutrición parenteral y enteral,1
+"('GIST', 'gastrointestinal')",GIST,gastrointestinal,4
+"('DBH', 'dopamina-beta-hidroxilasa')",DBH,dopamina-beta-hidroxilasa,1
+"('H.D.A.', 'hemorragias digestivas altas')",H.D.A.,hemorragias digestivas altas,1
+"('PANCCO', ""pan american crohn's and colitis organisation"")",PANCCO,pan american crohn's and colitis organisation,1
+"('VHC', 'virus de hepatitis c')",VHC,virus de hepatitis c,1
+"('COX-2', 'ciclooxigenasa-2')",COX-2,ciclooxigenasa-2,1
+"('IBP', 'inhibidores de bomba de protones')",IBP,inhibidores de bomba de protones,1
+"('TI', 'trasplante intestinal')",TI,trasplante intestinal,1
+"('RGE', 'reflujo gastroesofágico')",RGE,reflujo gastroesofágico,1
+"('ENT', 'enfermedades no transmisibles')",ENT,enfermedades no transmisibles,1
+"('TGP', 'transaminasa glutamico piruvica')",TGP,transaminasa glutamico piruvica,1
+"('ASA', 'aceite de salvado de arroz')",ASA,aceite de salvado de arroz,1
+"('EC', 'enfermedad celiaca')",EC,enfermedad celiaca,1
+"('H.P.', 'hipertension portal""')",H.P.,"hipertension portal""",1
+"('MT', 'megacolon tóxico')",MT,megacolon tóxico,1
+"('US', 'ultrasonido')",US,ultrasonido,1
+"('GIST', 'gastrointestinales estromales')",GIST,gastrointestinales estromales,1
+"('SAGE', 'sociedad argentina de gastroenterología')",SAGE,sociedad argentina de gastroenterología,1
+"('EAs', 'efectos adversos')",EAs,efectos adversos,1
+"('H.D.A.', 'hemorragia digestiva alta')",H.D.A.,hemorragia digestiva alta,1
+"('IL-2', 'interleucina 2')",IL-2,interleucina 2,1
+"('II', 'intestinal')",II,intestinal,1
+"('TaETM', 'transanal etm')",TaETM,transanal etm,1
+"('e.i.i.', 'enfermedad inflamatoria intestinal')",e.i.i.,enfermedad inflamatoria intestinal,1
+"('COR', 'característica operativa del receptor')",COR,característica operativa del receptor,1
+"('RG', 'residuo gástrico')",RG,residuo gástrico,1
+"('NPT', 'nutrición parenteral total')",NPT,nutrición parenteral total,1
+"('gtc', 'globulina transportadora de corticoides')",gtc,globulina transportadora de corticoides,1
+"('NAVM', 'neumonía asociada a ventilación mecánica')",NAVM,neumonía asociada a ventilación mecánica,1
+"('SEPEAP', 'sociedad española de pediatría extrahospitalaria y atención primaria')",SEPEAP,sociedad española de pediatría extrahospitalaria y atención primaria,1
+"('EF', 'estreñimiento funcional')",EF,estreñimiento funcional,1
+"('GETECCU', 'grupo español de trabajo en enfermedad de crohn y colitis ulcerosa')",GETECCU,grupo español de trabajo en enfermedad de crohn y colitis ulcerosa,3
+"('AVB', 'atresia de vías biliares')",AVB,atresia de vías biliares,2
+"('AT', 'al trigo')",AT,al trigo,1
+"('TCV', 'tarjeta colorimétrica visual')",TCV,tarjeta colorimétrica visual,1
+"('GSRS', 'gastrointestinales')",GSRS,gastrointestinales,1
+"('SEFH', 'sociedad española de farmacia hospitalaria')",SEFH,sociedad española de farmacia hospitalaria,1
+"('CUCI', 'colitis ulcerosa crónica idiopática')",CUCI,colitis ulcerosa crónica idiopática,1
+"('CCI', 'consultivo de inmunizaciones')",CCI,consultivo de inmunizaciones,1
+"('DPA', 'de pared abdominal')",DPA,de pared abdominal,1
+"('SIC', 'síndrome de intestino corto')",SIC,síndrome de intestino corto,4
+"('DZ', 'de zenker')",DZ,de zenker,1
+"('ECN', 'enterocolitis necrosante')",ECN,enterocolitis necrosante,1
+"('NACO', 'nuevos anticoagulantes orales')",NACO,nuevos anticoagulantes orales,1
+"('FI', 'ferulización intestinal')",FI,ferulización intestinal,1
+"('NK', 'natural killer')",NK,natural killer,1
+"('DHD', 'dosis por 1000 habitantes/día')",DHD,dosis por 1000 habitantes/día,1
+"('EC', 'enfermedad celíaca')",EC,enfermedad celíaca,2
+"('VIH', 'virus de la immunodeficiencia humana')",VIH,virus de la immunodeficiencia humana,1
+"('VG', 'vaciamiento gástrico')",VG,vaciamiento gástrico,1
+"('EUA', 'estados unidos de américa')",EUA,estados unidos de américa,1
+"('EED', 'espasmo esofágico difuso')",EED,espasmo esofágico difuso,1
+"('SELDI', 'surface enhanced laser desorption/ionization')",SELDI,surface enhanced laser desorption/ionization,1
+"('GEIS', 'gastrointestinales')",GEIS,gastrointestinales,1
+"('PPT', 'pacientes politraumáticos')",PPT,pacientes politraumáticos,1
+"('RME', 'resección mucosa endoscópica')",RME,resección mucosa endoscópica,1
+"('AA', 'aguda')",AA,aguda,2
+"('GIST', 'gastrointestinales')",GIST,gastrointestinales,1
+"('NP', 'nutrición parenteral')",NP,nutrición parenteral,1
+"('EHGNA', 'enfermedad hepática grasa no alcohólica')",EHGNA,enfermedad hepática grasa no alcohólica,2
+"('IDCV', 'inmunodeficiencia común variable')",IDCV,inmunodeficiencia común variable,1
+"('IIM', 'intraluminal multicanal')",IIM,intraluminal multicanal,1
+"('EC', 'enfermedad de crohn')",EC,enfermedad de crohn,3
+"('VDA', 'volumen de dieta administrada')",VDA,volumen de dieta administrada,1
+"('DSE', 'disección submucosa endoscópica')",DSE,disección submucosa endoscópica,1
+"('E.E.P.', 'estenosante postoperatoria')",E.E.P.,estenosante postoperatoria,1
+"('HP', 'helicobacter pylori')",HP,helicobacter pylori,1
+"('C.G.T.', 'cáncer gástrico temprano')",C.G.T.,cáncer gástrico temprano,1
+"('GGT', 'gama glutamil transferasa')",GGT,gama glutamil transferasa,1
+"('DE 3,8', 'de 11,8')","DE 3,8","de 11,8",1
+"('AEEH', 'asociación española para el estudio del hígado')",AEEH,asociación española para el estudio del hígado,1
+"('PF', 'prótesis fonatoria')",PF,prótesis fonatoria,1
+"('EII', 'enfermedad inflamatoria intestinal')",EII,enfermedad inflamatoria intestinal,4
+"('A.G.A.', 'american gastroenterological association')",A.G.A.,american gastroenterological association,1
+"('FA', 'fosfatasa alcalina')",FA,fosfatasa alcalina,1
+"('CB', 'cirugía bariátrica')",CB,cirugía bariátrica,1
+"('SiDUP', 'sistema de detección por umbral de prevalencia')",SiDUP,sistema de detección por umbral de prevalencia,1
+"('CGI', 'complicaciones gastrointestinales')",CGI,complicaciones gastrointestinales,1
+"('EB', 'exceso de base')",EB,exceso de base,1
+"('E. P.', 'espleno-portografía')",E. P.,espleno-portografía,1
+"('I.C.S.S.', 'instituto colombiano de seguros sociales')",I.C.S.S.,instituto colombiano de seguros sociales,1
+"('DSG', 'dieta sin gluten')",DSG,dieta sin gluten,1
+"('Fontana', 'forma de ""y"" usando sutura mecánica no reabsorbible')",Fontana,"forma de ""y"" usando sutura mecánica no reabsorbible",1
+"('UEGW', 'united european gastroenterology week')",UEGW,united european gastroenterology week,1
+"('BT', 'bilirrubina total')",BT,bilirrubina total,1
+"('PAC', 'pseudoobstrucción aguda del colon')",PAC,pseudoobstrucción aguda del colon,1
+"('VPM', 'volumen plaquetario medio')",VPM,volumen plaquetario medio,1
+"('PCRE', 'pancreatocolangiografía retrograda endoscópica')",PCRE,pancreatocolangiografía retrograda endoscópica,1
+"('CCR', 'cáncer colorrectal')",CCR,cáncer colorrectal,4
+"('HDA', 'hemorragia digestiva alta')",HDA,hemorragia digestiva alta,1
+"('EM', 'esclerosis multiple')",EM,esclerosis multiple,1
+"('COX-2', 'ciclooxigenasa 2')",COX-2,ciclooxigenasa 2,1
+"('CU', 'colitis ulcerosa')",CU,colitis ulcerosa,2
+"('ANCA', 'anticuerpos frente al citoplasma de los neutrófilos')",ANCA,anticuerpos frente al citoplasma de los neutrófilos,2
+"('ACCU', 'asociaciones de enfermedad de crohn y colitis ulcerosa')",ACCU,asociaciones de enfermedad de crohn y colitis ulcerosa,1
+"('PG-SGA', 'patient generated subjective global assessment')",PG-SGA,patient generated subjective global assessment,1
+"('EII', 'enfermedades intestinales inflamatorias')",EII,enfermedades intestinales inflamatorias,1
+"('EEI', 'enfermedades inflamatoria intestinal')",EEI,enfermedades inflamatoria intestinal,1
+"('SAHS', 'síndrome apnea-hipopnea del sueño')",SAHS,síndrome apnea-hipopnea del sueño,1
+"('FP', 'fractura de pelvis')",FP,fractura de pelvis,1
+"('SII', 'síndrome de intestino irritable')",SII,síndrome de intestino irritable,7

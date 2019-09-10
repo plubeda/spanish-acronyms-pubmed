@@ -1,0 +1,201 @@
+pair,acronym,description,frequency
+"('ERCA', 'enfermedad renal crónica avanzada')",ERCA,enfermedad renal crónica avanzada,1
+"('ADA', 'american diabetes association')",ADA,american diabetes association,1
+"('CGE', 'carga global de la enfermedad')",CGE,carga global de la enfermedad,1
+"('AENP', 'asociación española de nefrología pediátrica')",AENP,asociación española de nefrología pediátrica,1
+"('MAPA', 'monitorización ambulatoria de la presión arterial')",MAPA,monitorización ambulatoria de la presión arterial,2
+"('DT2', 'diabetes tipo 2')",DT2,diabetes tipo 2,1
+"('ITU', 'infección del tracto urinario')",ITU,infección del tracto urinario,1
+"('VRI', 'vena renal izquierda')",VRI,vena renal izquierda,1
+"('HDM', 'hemodiálisis de mantenimiento')",HDM,hemodiálisis de mantenimiento,1
+"('SRA', 'sistema renina-angiotensina')",SRA,sistema renina-angiotensina,1
+"('GNAPE', 'glomerulonefritis aguda postestreptocócica')",GNAPE,glomerulonefritis aguda postestreptocócica,1
+"('NLDV', 'nefrectomía laparoscópica del donante vivo')",NLDV,nefrectomía laparoscópica del donante vivo,1
+"('MAPA', 'monitorización ambulatoria de presión arterial')",MAPA,monitorización ambulatoria de presión arterial,2
+"('TFGe', 'tasa de filtración glomerular estimada')",TFGe,tasa de filtración glomerular estimada,1
+"('CIRC', 'con insuficiencia renal crónica')",CIRC,con insuficiencia renal crónica,1
+"('REPIR', 'registro español pediátrico de insuficiencia renal terminal')",REPIR,registro español pediátrico de insuficiencia renal terminal,1
+"('PGN', 'pacientes (75,8%) con glucosa normalizada')",PGN,"pacientes (75,8%) con glucosa normalizada",1
+"('ANCA', 'anticitoplasma de los neutrófilos')",ANCA,anticitoplasma de los neutrófilos,1
+"('PA', 'presión arterial')",PA,presión arterial,1
+"('LRA', 'lesión renal aguda')",LRA,lesión renal aguda,1
+"('DM', 'diabetes mellitus')",DM,diabetes mellitus,1
+"('IR', 'insuficiencia renal')",IR,insuficiencia renal,1
+"('ICAM-1', 'intercelular-1')",ICAM-1,intercelular-1,1
+"('eTFG', 'estimación de la tasa de filtración glomerular')",eTFG,estimación de la tasa de filtración glomerular,1
+"('PNAnc', 'pna no complicadas')",PNAnc,pna no complicadas,1
+"('GLOMANCHA', 'glomerulonefritis en castilla-la mancha')",GLOMANCHA,glomerulonefritis en castilla-la mancha,1
+"('D. P.', 'dialisis peritoneal')",D. P.,dialisis peritoneal,1
+"('A/C', 'actividad y cronicidad')",A/C,actividad y cronicidad,1
+"('UF', 'ultrafiltración')",UF,ultrafiltración,1
+"('FNT–alfa', 'factor de necrosis tumoral alfa')",FNT–alfa,factor de necrosis tumoral alfa,1
+"('CI', 'control de ingestas')",CI,control de ingestas,1
+"('EDC', 'ecografía doppler color')",EDC,ecografía doppler color,2
+"('M-PTH', 'media de hormona parathiroidea')",M-PTH,media de hormona parathiroidea,1
+"('CV', 'calcificación vascular')",CV,calcificación vascular,1
+"('FRR', 'función renal residual')",FRR,función renal residual,2
+"('PCR', 'proteína c reactiva')",PCR,proteína c reactiva,1
+"('GNMP', 'glomerulonefritis membranoproliferativa')",GNMP,glomerulonefritis membranoproliferativa,1
+"('SNSE', 'sensible a esteroides')",SNSE,sensible a esteroides,1
+"('HChr', 'hormona de crecimiento humana recombinante')",HChr,hormona de crecimiento humana recombinante,1
+"('TW', 'tumor de wilms')",TW,tumor de wilms,1
+"('HTA', 'hipertensión arterial')",HTA,hipertensión arterial,2
+"('IRA', 'insuficiencia renal aguda')",IRA,insuficiencia renal aguda,1
+"('NLPC', 'nefrolitotomía percutánea')",NLPC,nefrolitotomía percutánea,1
+"('FG', 'filtrado glomerular')",FG,filtrado glomerular,1
+"('CC', 'composición corporal')",CC,composición corporal,1
+"('TRRC', 'terapia de reemplazo renal continuo')",TRRC,terapia de reemplazo renal continuo,1
+"('HNERM', 'hospital nacional de edgardo rebagliati martins')",HNERM,hospital nacional de edgardo rebagliati martins,1
+"('PXG', 'pielonefritis xantogranulomatosa')",PXG,pielonefritis xantogranulomatosa,1
+"('AINE', 'aintiinflamatorios no esteroideos')",AINE,aintiinflamatorios no esteroideos,1
+"('SM', 'síndrome metabólico')",SM,síndrome metabólico,2
+"('DP', 'diálisis peritoneal')",DP,diálisis peritoneal,3
+"('HS20', 'heparina sódica 20 ul/ml')",HS20,heparina sódica 20 ul/ml,1
+"('KDPI', 'kidney donor profile index')",KDPI,kidney donor profile index,1
+"('ALECT2', 'amiloidosis derivada del factor quimiotáctico de leucocitos 2')",ALECT2,amiloidosis derivada del factor quimiotáctico de leucocitos 2,1
+"('DPCA', 'diálisis peritoneal continua ambulatoria')",DPCA,diálisis peritoneal continua ambulatoria,5
+"('DMPT', 'diabetes mellitus postrasplante')",DMPT,diabetes mellitus postrasplante,1
+"('CT', 'colesterol total')",CT,colesterol total,1
+"('P.R.', 'poliquistosis renal')",P.R.,poliquistosis renal,1
+"('LA', 'líquido amniótico')",LA,líquido amniótico,1
+"('SGLT2', 'sodio-glucosa tipo 2')",SGLT2,sodio-glucosa tipo 2,1
+"('ECV', 'enfermedad cardiovascular')",ECV,enfermedad cardiovascular,2
+"('URS', 'ureterorrenoscopia')",URS,ureterorrenoscopia,1
+"('Ft', 'ferritina')",Ft,ferritina,1
+"('SEN', 'sociedad española de nefrología')",SEN,sociedad española de nefrología,1
+"('AV', 'acceso vascular')",AV,acceso vascular,1
+"('NAG', 'n-acetil-glucosaminidasa')",NAG,n-acetil-glucosaminidasa,1
+"('DHCC', 'dihidroxicolecalciferol')",DHCC,dihidroxicolecalciferol,1
+"('DFO', 'deferoxamina')",DFO,deferoxamina,1
+"('HNF', 'heparina no fraccionada')",HNF,heparina no fraccionada,1
+"('HD', 'hemodiálisis')",HD,hemodiálisis,6
+"('VFG', 'velocidad de filtración glomerular')",VFG,velocidad de filtración glomerular,1
+"('S.H.U.', 'sindroma hemolítico urémico')",S.H.U.,sindroma hemolítico urémico,1
+"('ANCA-PR3', 'anticitoplasma de neutrófilo tipo proteinasa-3')",ANCA-PR3,anticitoplasma de neutrófilo tipo proteinasa-3,1
+"('VIH', 'virus de inmunodeficiencia humana')",VIH,virus de inmunodeficiencia humana,1
+"('IDB', 'inventario de depresión de beck')",IDB,inventario de depresión de beck,1
+"('NUT', 'nitrógeno urinario total')",NUT,nitrógeno urinario total,1
+"('plan AUGE', 'plan de acceso universal y garantías explícitas')",plan AUGE,plan de acceso universal y garantías explícitas,1
+"('UREA', 'una menor adecuación que la medida por kt/v')",UREA,una menor adecuación que la medida por kt/v,1
+"('VHB', 'virus de la hepatitis b')",VHB,virus de la hepatitis b,1
+"('FAT', 'fosfatasa alcalina total')",FAT,fosfatasa alcalina total,1
+"('PRES', 'posterior reversible')",PRES,posterior reversible,1
+"('PG', 'porcentaje de grasa corporal')",PG,porcentaje de grasa corporal,1
+"('I.R.C.', 'insuficiencia renal crónica')",I.R.C.,insuficiencia renal crónica,2
+"('CENATMER', 'centro nacional de trasplantes y medicina regenerativa')",CENATMER,centro nacional de trasplantes y medicina regenerativa,1
+"('EODD', 'en días alternos sin descanso de 72 horas')",EODD,en días alternos sin descanso de 72 horas,1
+"('SA', 'síndrome de alagille')",SA,síndrome de alagille,1
+"('AR', 'anión restante')",AR,anión restante,1
+"('ERC', 'enfermedad renal crónica')",ERC,enfermedad renal crónica,23
+"('TRS', 'terapia renal sustitutiva')",TRS,terapia renal sustitutiva,1
+"('DPA', 'diálisis peritoneal automatizada')",DPA,diálisis peritoneal automatizada,1
+"('VGS', 'valoración global subjetiva')",VGS,valoración global subjetiva,1
+"('AISBE', 'análisis del área integral de salud barcelona esquerra')",AISBE,análisis del área integral de salud barcelona esquerra,1
+"('IRC', 'insuficiencia renal crónica')",IRC,insuficiencia renal crónica,3
+"('IL-2r', 'interleucina-2r')",IL-2r,interleucina-2r,1
+"('SU', 'servicio de urgencias')",SU,servicio de urgencias,1
+"('SUH', 'síndrome urémico hemolítico')",SUH,síndrome urémico hemolítico,1
+"('SO', 'síndrome de ohvira')",SO,síndrome de ohvira,1
+"('SEH-LELHA', 'sociedad española de hipertensión-liga española para la lucha contra la hipertensión arterial')",SEH-LELHA,sociedad española de hipertensión-liga española para la lucha contra la hipertensión arterial,3
+"('NLP', 'nefrolitotricia percutanea')",NLP,nefrolitotricia percutanea,1
+"('MLG', 'masa libre de grasa')",MLG,masa libre de grasa,1
+"('RIA', 'radioinmunoanálisis')",RIA,radioinmunoanálisis,1
+"('HCP', 'hipercatabolismo proteico')",HCP,hipercatabolismo proteico,1
+"('HPP', 'hiperparatiroidismo')",HPP,hiperparatiroidismo,1
+"('HT', 'hormonas tiroideas')",HT,hormonas tiroideas,1
+"('CPA', 'cociente de los productos de actividad')",CPA,cociente de los productos de actividad,1
+"('CUMS', 'cistouretrografía miccional seriada')",CUMS,cistouretrografía miccional seriada,1
+"('BGN', 'bacilos gram-negativos')",BGN,bacilos gram-negativos,1
+"('NL', 'nefropatía lúpica')",NL,nefropatía lúpica,1
+"('TAC', 'tomografía axial computerizada')",TAC,tomografía axial computerizada,1
+"('TRR', 'terapias de reemplazo renal')",TRR,terapias de reemplazo renal,1
+"('GNRP', 'glomerulonefritis rápidamente progresivas')",GNRP,glomerulonefritis rápidamente progresivas,1
+"('TDAH', 'trastorno por deficit de atencion/hiperactividad')",TDAH,trastorno por deficit de atencion/hiperactividad,1
+"('NL', 'nefritis lúpica')",NL,nefritis lúpica,1
+"('CAD', 'cetoacidosis diabética')",CAD,cetoacidosis diabética,1
+"('NAG', 'n-acetil-b-d-glucosaminidasa a')",NAG,n-acetil-b-d-glucosaminidasa a,1
+"('RAS', 'renina angiotensina')",RAS,renina angiotensina,1
+"('TRS', 'terapia renal sustitutoria')",TRS,terapia renal sustitutoria,1
+"('GMP', 'glomerulonefritis membrano proliferativa')",GMP,glomerulonefritis membrano proliferativa,1
+"('CRIR', 'cirugía retrógrada intrarrenal')",CRIR,cirugía retrógrada intrarrenal,2
+"('DPBE', 'diálisis peritoneal basada en la evidencia')",DPBE,diálisis peritoneal basada en la evidencia,1
+"('GIM', 'grosor intimo-medial carotídeo')",GIM,grosor intimo-medial carotídeo,1
+"('THAM', 'tris(hidroximetil)amino-metane')",THAM,tris(hidroximetil)amino-metane,1
+"('LRH', 'litiasis renal hipercalciúrica')",LRH,litiasis renal hipercalciúrica,1
+"('SRAA', 'sistema renina-angiotensina-aldosterona')",SRAA,sistema renina-angiotensina-aldosterona,2
+"('SCIVDc', 'sindrome de coagulación intravascular diseminada crónica')",SCIVDc,sindrome de coagulación intravascular diseminada crónica,1
+"('TRR', 'terapia de reemplazo renal')",TRR,terapia de reemplazo renal,1
+"('TC', 'tomografía computarizada')",TC,tomografía computarizada,1
+"('ERCA', 'enfermedad renal cronica avanzada')",ERCA,enfermedad renal cronica avanzada,3
+"('AHA', 'american heart association')",AHA,american heart association,1
+"('EPO', 'eritropoyetina')",EPO,eritropoyetina,1
+"('NPA', 'nefropatía secundaria a púrpura anafilactoide')",NPA,nefropatía secundaria a púrpura anafilactoide,1
+"('CCR', 'carcinomas de células renales')",CCR,carcinomas de células renales,1
+"('GID', 'ganancia de peso interdiálisis')",GID,ganancia de peso interdiálisis,1
+"('TSOG', 'test de sobrecarga oral a la glucosa')",TSOG,test de sobrecarga oral a la glucosa,1
+"('IRCT', 'insuficiencia renal crónica terminal')",IRCT,insuficiencia renal crónica terminal,1
+"('URV', 'unidades relativas de valor')",URV,unidades relativas de valor,1
+"('RC', 'ritmo circadiano')",RC,ritmo circadiano,1
+"('ECN', 'enterocolitis necrosante')",ECN,enterocolitis necrosante,1
+"('SNRE', 'sni resistente a esteroides')",SNRE,sni resistente a esteroides,1
+"('UID', 'urografía isotópico diurética')",UID,urografía isotópico diurética,1
+"('ERCO', 'enfermedad renal crónica oculta')",ERCO,enfermedad renal crónica oculta,1
+"('PTH', 'parathormona')",PTH,parathormona,3
+"('ERT', 'enfermedad renal terminal')",ERT,enfermedad renal terminal,2
+"('AM', 'acidosis metabólica')",AM,acidosis metabólica,1
+"('IAL', 'intoxicación aguda por litio')",IAL,intoxicación aguda por litio,1
+"('TRRC', 'terapias de reemplazo renal continuo')",TRRC,terapias de reemplazo renal continuo,1
+"('DDAVP', 'deamino-8-d-arginina vasopresina')",DDAVP,deamino-8-d-arginina vasopresina,1
+"('FRC', 'fístula radiocefálica')",FRC,fístula radiocefálica,1
+"('CAR', 'consulta de alta resolución')",CAR,consulta de alta resolución,1
+"('PTT/SUH', 'púrpura trombótica trombocitopéncia y síndrome urémico hemolítico')",PTT/SUH,púrpura trombótica trombocitopéncia y síndrome urémico hemolítico,1
+"('I.R.F.T.', 'insuficiencia renal functional terminal')",I.R.F.T.,insuficiencia renal functional terminal,1
+"('PCR', 'proteína c-reactiva')",PCR,proteína c-reactiva,1
+"('HDI', 'hemodiálisis intermitente')",HDI,hemodiálisis intermitente,1
+"('CMV', 'citomegalovirus')",CMV,citomegalovirus,1
+"('CMO', 'contenido mineral óseo')",CMO,contenido mineral óseo,1
+"('HN', 'hidronefrosis')",HN,hidronefrosis,1
+"('SW', 'síndrome de wolfram')",SW,síndrome de wolfram,1
+"('STA', 'sistema de tratamiento del agua')",STA,sistema de tratamiento del agua,1
+"('C.C.', 'cirugía conservadora')",C.C.,cirugía conservadora,1
+"('FG', 'filtración glomerular')",FG,filtración glomerular,1
+"('Dx/HA', 'dextranómreo/ácido hialurónico')",Dx/HA,dextranómreo/ácido hialurónico,1
+"('IMC', 'indice de masa corporal')",IMC,indice de masa corporal,2
+"('IU', 'infección urinaria')",IU,infección urinaria,2
+"('ERCT', 'enfermedad renal crónica terminal')",ERCT,enfermedad renal crónica terminal,3
+"('EHEC', 'enterohemorrágico')",EHEC,enterohemorrágico,1
+"('Cr', 'creatinina')",Cr,creatinina,1
+"('IC', 'inmunocomplejos')",IC,inmunocomplejos,1
+"('NCT', 'nefropatía crónica del trasplante')",NCT,nefropatía crónica del trasplante,1
+"('TSFR', 'terapias sustitutivas de la función renal')",TSFR,terapias sustitutivas de la función renal,1
+"('CB', 'circunferencia del brazo')",CB,circunferencia del brazo,1
+"('LD', 'líquido de diálisis')",LD,líquido de diálisis,3
+"('FRV', 'factores de riesgo vascular')",FRV,factores de riesgo vascular,1
+"('ARA-II', 'antagonistas de los receptores de la angiotensina ii')",ARA-II,antagonistas de los receptores de la angiotensina ii,1
+"('AMS', 'arteria mesentérica superior')",AMS,arteria mesentérica superior,1
+"('NAG', 'n-acetil-beta-d-glucosaminidasa')",NAG,n-acetil-beta-d-glucosaminidasa,2
+"('C.R.', 'cirugía radical')",C.R.,cirugía radical,1
+"('PE', 'preeclampsia')",PE,preeclampsia,1
+"('CAM', 'comunidad autónoma de madrid')",CAM,comunidad autónoma de madrid,1
+"('RM', 'razón de momios')",RM,razón de momios,1
+"('MAPA', 'monitoreo ambulatorio de presión arterial de 24 horas')",MAPA,monitoreo ambulatorio de presión arterial de 24 horas,1
+"('PDAs', 'personales digitales')",PDAs,personales digitales,1
+"('Alb', 'albúmina plasmática')",Alb,albúmina plasmática,2
+"('FAL', 'fosfatasa alcalina')",FAL,fosfatasa alcalina,1
+"('FRA', 'fracaso renal agudo')",FRA,fracaso renal agudo,2
+"('Cis-Pt', 'cis-platino')",Cis-Pt,cis-platino,1
+"('OR', 'odds ratio')",OR,odds ratio,1
+"('RVU', 'reflujo vesicoureteral')",RVU,reflujo vesicoureteral,5
+"('SN', 'síndrome nefrótico')",SN,síndrome nefrótico,1
+"('EKI', 'enfermedad de kawasaki incompleta')",EKI,enfermedad de kawasaki incompleta,1
+"('SNI', 'síndrome nefrótico idiopático')",SNI,síndrome nefrótico idiopático,1
+"('Plan AUGE', 'plan de acceso universal y garantías explícitas')",Plan AUGE,plan de acceso universal y garantías explícitas,1
+"('I.R.A.', 'insuficiencia renal aguda')",I.R.A.,insuficiencia renal aguda,1
+"('LEP', 'litofragmentación extracorpórea piezoeléctrica')",LEP,litofragmentación extracorpórea piezoeléctrica,1
+"('DPE', 'desgaste proteico energético')",DPE,desgaste proteico energético,1
+"('AHAI', 'anemia hemolítica autoinmunitaria')",AHAI,anemia hemolítica autoinmunitaria,1
+"('C.C.F.', 'cromatografía en capa fina')",C.C.F.,cromatografía en capa fina,1
+"('ERC', 'enfermedad renal cronica')",ERC,enfermedad renal cronica,2
+"('DM2', 'diabetes mellitus 2')",DM2,diabetes mellitus 2,1
+"('LES', 'lupus eritematoso sistémico')",LES,lupus eritematoso sistémico,2
+"('PNA', 'pielonefritis aguda')",PNA,pielonefritis aguda,1

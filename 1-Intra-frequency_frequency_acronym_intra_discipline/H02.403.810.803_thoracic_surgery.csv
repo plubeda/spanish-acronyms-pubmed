@@ -1,0 +1,96 @@
+pair,acronym,description,frequency
+"('CVCs', 'cvc subclavio')",CVCs,cvc subclavio,1
+"('RENAC', 'registro nacional de angioplastia coronaria')",RENAC,registro nacional de angioplastia coronaria,1
+"('CRPCE', 'cirugía de resección pulmonar de corta estancia')",CRPCE,cirugía de resección pulmonar de corta estancia,1
+"('GCCB-S', 'grupo cooperativo de carcinoma broncogénico de separ')",GCCB-S,grupo cooperativo de carcinoma broncogénico de separ,1
+"('H.P.', 'hipertensión portal')",H.P.,hipertensión portal,1
+"('SEIMC', 'sociedad española de enfermedades infecciosas y microbiología clínica')",SEIMC,sociedad española de enfermedades infecciosas y microbiología clínica,1
+"('SDTA', 'sistema de drenaje torácico autónomo')",SDTA,sistema de drenaje torácico autónomo,1
+"('TLIV', 'trombolisis intravenosa')",TLIV,trombolisis intravenosa,1
+"('FL', 'fibrinolisis')",FL,fibrinolisis,1
+"('IN', 'infección nosocomial')",IN,infección nosocomial,1
+"('NO', 'nítrico')",NO,nítrico,1
+"('CVP', 'catéter venoso periférico')",CVP,catéter venoso periférico,2
+"('PEITHO', 'pulmonary embolism thrombolysis')",PEITHO,pulmonary embolism thrombolysis,1
+"('SECCV', 'sociedad española de cirugía cardiovascular')",SECCV,sociedad española de cirugía cardiovascular,5
+"('EDC', 'ecografía doppler color')",EDC,ecografía doppler color,2
+"('SEPAR', 'sociedad española de neumología y cirugía torácica')",SEPAR,sociedad española de neumología y cirugía torácica,7
+"('ATP', 'angioplastia transluminal percutánea')",ATP,angioplastia transluminal percutánea,2
+"('SEN', 'sociedad española de neurología')",SEN,sociedad española de neurología,1
+"('PVC', 'presión venosa central')",PVC,presión venosa central,1
+"('ATP', 'angioplastía transluminal percutánea')",ATP,angioplastía transluminal percutánea,1
+"('GOS', 'glasgow outcome score')",GOS,glasgow outcome score,1
+"('CMN', 'centro médico nacional')",CMN,centro médico nacional,1
+"('IC 95%', 'intervalos de confianza al 95%')",IC 95%,intervalos de confianza al 95%,1
+"('ECG-IC', 'electrocardiográfico intracavitario')",ECG-IC,electrocardiográfico intracavitario,2
+"('FAVIDE', 'fístulas arteriovenosas intradurales dorsales espinales')",FAVIDE,fístulas arteriovenosas intradurales dorsales espinales,1
+"('HR', 'hazard ratio')",HR,hazard ratio,2
+"('TASPE', 'trasplante autólogo de progenitores hematopoyéticos de sangre periférica')",TASPE,trasplante autólogo de progenitores hematopoyéticos de sangre periférica,1
+"('PT', 'presión de tratamiento')",PT,presión de tratamiento,1
+"('AV', 'acceso vascular')",AV,acceso vascular,1
+"('IMSS', 'instituto mexicano del seguro social')",IMSS,instituto mexicano del seguro social,1
+"('PCM', 'primer contacto médico')",PCM,primer contacto médico,1
+"('DPNC', 'derrame pleural neoplásico complicado')",DPNC,derrame pleural neoplásico complicado,1
+"('SENR', 'sociedad española de neurorradiología')",SENR,sociedad española de neurorradiología,1
+"('REALSICA', 'registro de alteplasa en síndromes coronarios agudos con elevación del st')",REALSICA,registro de alteplasa en síndromes coronarios agudos con elevación del st,1
+"('PCT', 'procalcitonina')",PCT,procalcitonina,1
+"('CC', 'cardiopatías congénitas')",CC,cardiopatías congénitas,3
+"('GIHV', 'grupo interhospitalario valenciano')",GIHV,grupo interhospitalario valenciano,2
+"('TC', 'tiempo de corrección')",TC,tiempo de corrección,1
+"('SAVC', 'sistemas de acceso venoso central')",SAVC,sistemas de acceso venoso central,1
+"('EPOC', 'enfermedad pulmonar obstructiva crónica')",EPOC,enfermedad pulmonar obstructiva crónica,2
+"('CEC', 'circulación extracorpórea')",CEC,circulación extracorpórea,1
+"('VCI', 'vena cava inferior')",VCI,vena cava inferior,1
+"('TEV', 'terapia endovascular')",TEV,terapia endovascular,1
+"('EPES', 'empresa pública de emergencias sanitarias')",EPES,empresa pública de emergencias sanitarias,1
+"('SEPAR', 'sociedad española de neumología y cirugía torácicaa')",SEPAR,sociedad española de neumología y cirugía torácicaa,1
+"('NPD', 'nutrición parenteral domiciliaria')",NPD,nutrición parenteral domiciliaria,1
+"('CVC', 'cateterización venosa central')",CVC,cateterización venosa central,1
+"('DCC', 'defectos cardíacos congénitos')",DCC,defectos cardíacos congénitos,1
+"('PCA', 'persistencia del conducto arterioso')",PCA,persistencia del conducto arterioso,1
+"('TC', 'trasplante cardíaco')",TC,trasplante cardíaco,1
+"('IAMEST', 'infarto agudo de miocardio con elevación del st')",IAMEST,infarto agudo de miocardio con elevación del st,1
+"('España', 'españolas. 31 mayo, 1 y 2 junio 1984 sevilla')",España,"españolas. 31 mayo, 1 y 2 junio 1984 sevilla",1
+"('H.P.', 'hipertension portal""')",H.P.,"hipertension portal""",1
+"('CVC', 'catéteres venosos centrales')",CVC,catéteres venosos centrales,2
+"('GEECV', 'grupo de estudio de enfermedades cerebrovasculares')",GEECV,grupo de estudio de enfermedades cerebrovasculares,1
+"('A.T.P.', 'angioplastia transluminal percutánea')",A.T.P.,angioplastia transluminal percutánea,1
+"('UITB', 'unidad de investigación en tuberculosis de barcelona')",UITB,unidad de investigación en tuberculosis de barcelona,1
+"('AI', 'aneurismas intracraneales')",AI,aneurismas intracraneales,1
+"('HPS', 'hiperglucemia postoperatoria severa')",HPS,hiperglucemia postoperatoria severa,1
+"('CIA', 'comunicación interauricular')",CIA,comunicación interauricular,1
+"('España', 'españolas, 29 de mayo a l de junio de 1983, oviedo')",España,"españolas, 29 de mayo a l de junio de 1983, oviedo",1
+"('CRM', 'cirugía de revascularización miocárdica')",CRM,cirugía de revascularización miocárdica,1
+"('CPCNM', 'carcinoma de pulmón de células no microcelulares')",CPCNM,carcinoma de pulmón de células no microcelulares,1
+"('TM', 'tiempo de mantenimiento')",TM,tiempo de mantenimiento,1
+"('USEB', 'ultrasonografía endobronquial')",USEB,ultrasonografía endobronquial,1
+"('PC', 'presión de corrección')",PC,presión de corrección,1
+"('DPPI', 'derivación portosistémica percutánea intrahepática')",DPPI,derivación portosistémica percutánea intrahepática,1
+"('IAM-CEST', 'infarto agudo al miocardio con elevación del st')",IAM-CEST,infarto agudo al miocardio con elevación del st,1
+"('ETV', 'enfermedad tromboembólica venosa')",ETV,enfermedad tromboembólica venosa,1
+"('EIC', 'ecocardiografía intracardíaca')",EIC,ecocardiografía intracardíaca,1
+"('FRC', 'fístula radiocefálica')",FRC,fístula radiocefálica,1
+"('CVC', 'catéter venoso central')",CVC,catéter venoso central,1
+"('SENEC', 'sociedad española de neurocirugía')",SENEC,sociedad española de neurocirugía,1
+"('DPN', 'derrame pleural neoplásico')",DPN,derrame pleural neoplásico,1
+"('RNICP', 'registro nacional de intervenciones coronarias percutáneas')",RNICP,registro nacional de intervenciones coronarias percutáneas,1
+"('DPNNC', 'derrame pleural neoplásico no complicado')",DPNNC,derrame pleural neoplásico no complicado,1
+"('GESIDA', 'grupo de estudio de sida')",GESIDA,grupo de estudio de sida,1
+"('TIR', 'tuberculosis e infecciones respiratorias')",TIR,tuberculosis e infecciones respiratorias,1
+"('GENI', 'grupo español de neurorradiología intervencionista')",GENI,grupo español de neurorradiología intervencionista,1
+"('TIAM', 'trombectomia intraarterial mecanica')",TIAM,trombectomia intraarterial mecanica,1
+"('UCIN', 'unidad de cuidados intensivos neonatales')",UCIN,unidad de cuidados intensivos neonatales,2
+"('AMA', 'antimiosina')",AMA,antimiosina,1
+"('GesEPOC', 'guía española de la epoc')",GesEPOC,guía española de la epoc,1
+"('IAMCEST', 'infarto agudo de miocardio con elevación del segmento st')",IAMCEST,infarto agudo de miocardio con elevación del segmento st,1
+"('GEMA', 'guía española para el manejo del asma')",GEMA,guía española para el manejo del asma,2
+"('SEC', 'sociedad española de cardiología')",SEC,sociedad española de cardiología,2
+"('OR', 'odds ratio')",OR,odds ratio,1
+"('TQ', 'tiempo quirúrgico')",TQ,tiempo quirúrgico,1
+"('IMCEST', 'infarto agudo de miocardio con elevación del segmento st')",IMCEST,infarto agudo de miocardio con elevación del segmento st,1
+"('CMV', 'curso de microcirugía vascular')",CMV,curso de microcirugía vascular,1
+"('UNAM', 'universidad nacional autónoma de méxico')",UNAM,universidad nacional autónoma de méxico,1
+"('pHi', 'ph intramucoso gástrico')",pHi,ph intramucoso gástrico,1
+"('RN', 'recién nacidos')",RN,recién nacidos,1
+"('AP', 'angioplastia primaria')",AP,angioplastia primaria,1
+"('AAA', 'aorta abdominal')",AAA,aorta abdominal,1

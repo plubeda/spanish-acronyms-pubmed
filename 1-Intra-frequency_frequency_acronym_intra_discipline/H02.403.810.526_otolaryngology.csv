@@ -1,0 +1,49 @@
+pair,acronym,description,frequency
+"('VPPB', 'vértigo posicional paroxístico benigno')",VPPB,vértigo posicional paroxístico benigno,1
+"('EAT-10', 'eating assessment tool 10')",EAT-10,eating assessment tool 10,1
+"('ELA', 'esclerosis lateral amiotrófica')",ELA,esclerosis lateral amiotrófica,1
+"('DT2', 'diabetes tipo 2')",DT2,diabetes tipo 2,1
+"('TANIT', 'tamiz auditivo neonatal e intervención temprana')",TANIT,tamiz auditivo neonatal e intervención temprana,1
+"('OMS', 'otitis media serosa')",OMS,otitis media serosa,1
+"('FORMIR', 'formativa del libro del residente de otorrinolaringología español')",FORMIR,formativa del libro del residente de otorrinolaringología español,1
+"('ICAM-1', 'intercelular-1')",ICAM-1,intercelular-1,1
+"('LPS', 'laringectomía parcial supracricoidea')",LPS,laringectomía parcial supracricoidea,1
+"('EAONO', 'european academy of otology and neurotology')",EAONO,european academy of otology and neurotology,2
+"('AAO-HNS', 'academy of otolaryngology-head and neck surgery')",AAO-HNS,academy of otolaryngology-head and neck surgery,2
+"('PIVh', 'parainfluenza virus humano')",PIVh,parainfluenza virus humano,1
+"('OMS', 'organización mundial de la salud')",OMS,organización mundial de la salud,1
+"('LT', 'laringuectomía total')",LT,laringuectomía total,1
+"('I-V', 'intervalo')",I-V,intervalo,1
+"('NF2', 'neurofibromatosis tipo 2')",NF2,neurofibromatosis tipo 2,1
+"('VMNI', 'ventilación mecánica no invasiva')",VMNI,ventilación mecánica no invasiva,1
+"('FDG', 'fluoro-desoxiglucosa')",FDG,fluoro-desoxiglucosa,1
+"('C.E.A.', 'carcinoembrionario')",C.E.A.,carcinoembrionario,1
+"('CEMPV', 'cuestionario para la evaluación de la minusvalía en patología vestibular')",CEMPV,cuestionario para la evaluación de la minusvalía en patología vestibular,1
+"('VGS-GP', 'valoración global subjetiva generada por el paciente')",VGS-GP,valoración global subjetiva generada por el paciente,1
+"('UPV', 'usuarios profesionales de la voz')",UPV,usuarios profesionales de la voz,1
+"('CVF', 'capacidad vital forzada')",CVF,capacidad vital forzada,1
+"('SCB', 'sindrome de charles bonnet')",SCB,sindrome de charles bonnet,1
+"('NFPVC', 'neurofibromas plexiformes voluminosos en el cuello')",NFPVC,neurofibromas plexiformes voluminosos en el cuello,1
+"('IP', 'indicadores predictivos')",IP,indicadores predictivos,1
+"('PCNA', 'proliferación nuclear')",PCNA,proliferación nuclear,1
+"('ARIA', 'alérgica y su impacto en el asma')",ARIA,alérgica y su impacto en el asma,1
+"('HSP-90', 'heat shock protein-90')",HSP-90,heat shock protein-90,1
+"('He-Ne', 'helio-neón')",He-Ne,helio-neón,1
+"('vHIT', 'video head impulse test')",vHIT,video head impulse test,1
+"('SIADH', 'secrecion inadecuada de adh')",SIADH,secrecion inadecuada de adh,1
+"('CHEP', 'cricohioidoepiglotopexia')",CHEP,cricohioidoepiglotopexia,3
+"('PEAC', 'potenciales evocados auditivos corticales')",PEAC,potenciales evocados auditivos corticales,1
+"('EED', 'espasmo esofágico difuso')",EED,espasmo esofágico difuso,1
+"('RAF', 'rinosinusitis alérgica fúngica')",RAF,rinosinusitis alérgica fúngica,1
+"('NCV', 'nódulos de cuerdas vocales')",NCV,nódulos de cuerdas vocales,1
+"('PTUIP', 'programa de tamizaje universal e intervención precoz')",PTUIP,programa de tamizaje universal e intervención precoz,1
+"('IDCV', 'inmunodeficiencia común variable')",IDCV,inmunodeficiencia común variable,1
+"('IIM', 'intraluminal multicanal')",IIM,intraluminal multicanal,1
+"('SW', 'síndrome de wolfram')",SW,síndrome de wolfram,1
+"('PF', 'prótesis fonatoria')",PF,prótesis fonatoria,1
+"('ISPLN', 'instituto de salud pública y laboral de navarra')",ISPLN,instituto de salud pública y laboral de navarra,1
+"('GFA', 'glotograma de flujo aéreo')",GFA,glotograma de flujo aéreo,1
+"('TC', 'tomografía computada')",TC,tomografía computada,1
+"('LSSC', 'laringectomía subtotal supracricoidea')",LSSC,laringectomía subtotal supracricoidea,1
+"('DF', 'disfonía funcional')",DF,disfonía funcional,1
+"('PG-SGA', 'patient generated subjective global assessment')",PG-SGA,patient generated subjective global assessment,1

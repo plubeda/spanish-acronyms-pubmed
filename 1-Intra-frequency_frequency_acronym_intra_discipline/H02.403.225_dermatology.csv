@@ -1,0 +1,143 @@
+pair,acronym,description,frequency
+"('CaMa', 'cáncer de mama')",CaMa,cáncer de mama,2
+"('N.D.G.A.', 'nor-dihidroguayaretico')",N.D.G.A.,nor-dihidroguayaretico,1
+"('NIC', 'neoplasia intraepitelial cervical')",NIC,neoplasia intraepitelial cervical,1
+"('AJCC', 'american joint committee on cancer')",AJCC,american joint committee on cancer,1
+"('DA', 'dermatitis atópica')",DA,dermatitis atópica,3
+"('MI', 'micosis invasivas')",MI,micosis invasivas,1
+"('VHS', 'vasculitis por hipersensibilidad')",VHS,vasculitis por hipersensibilidad,1
+"('SAF', 'síndrome antifosfolípidos')",SAF,síndrome antifosfolípidos,1
+"('GPC', 'guía de práctica clínica')",GPC,guía de práctica clínica,1
+"('NET', 'necrólisis epidérmica tóxica')",NET,necrólisis epidérmica tóxica,1
+"('FE', 'fístulas enterocutáneas')",FE,fístulas enterocutáneas,1
+"('II', 'inmunodeficiencia humana')",II,inmunodeficiencia humana,1
+"('DE', 'desvio estándar')",DE,desvio estándar,1
+"('UDVP', 'usuarios de drogas por vía parenteral')",UDVP,usuarios de drogas por vía parenteral,1
+"('V.P.H.', 'virus del papiloma humano')",V.P.H.,virus del papiloma humano,1
+"('DM', 'diabetes mellitus')",DM,diabetes mellitus,1
+"('AV', 'anomalías vasculares')",AV,anomalías vasculares,1
+"('5-FU', '5-fluor-uracilo')",5-FU,5-fluor-uracilo,1
+"('LC', 'leucemia cutis')",LC,leucemia cutis,1
+"('VC', 'vasculitis cutáneas')",VC,vasculitis cutáneas,1
+"('HACRE', 'hidroarsenicismo crónico regional endémico')",HACRE,hidroarsenicismo crónico regional endémico,1
+"('PRL', 'prolactina')",PRL,prolactina,2
+"('AEH', 'angioedema hereditario')",AEH,angioedema hereditario,1
+"('M.P.A', 'male pattern alopecia')",M.P.A,male pattern alopecia,1
+"('AF', 'actividad física')",AF,actividad física,1
+"('TN', 'triple negativo')",TN,triple negativo,1
+"('CM', 'cáncer de mama')",CM,cáncer de mama,2
+"('CIP', 'colesteatoma intrapetroso')",CIP,colesteatoma intrapetroso,1
+"('PSH', 'púrpura de schönlein-henoch')",PSH,púrpura de schönlein-henoch,1
+"('FP', 'factor de protección')",FP,factor de protección,1
+"('ATI°', 'a*b* y se estimó el ángulo tipológico individual')",ATI°,a*b* y se estimó el ángulo tipológico individual,1
+"('II', 'insulina-receptor')",II,insulina-receptor,1
+"('CEA', 'carcinoembrionario')",CEA,carcinoembrionario,2
+"('NNT', 'número necesario a tratar')",NNT,número necesario a tratar,1
+"('España', 'en un hospital terciario de la coruña')",España,en un hospital terciario de la coruña,1
+"('SPN', 'sistema de presión negativa')",SPN,sistema de presión negativa,1
+"('VHS II', 'virus de herpes simple tipo ii')",VHS II,virus de herpes simple tipo ii,1
+"('CHCC', 'chapel hill consensus conference')",CHCC,chapel hill consensus conference,1
+"('ES', 'esclerosis sistémica')",ES,esclerosis sistémica,1
+"('AcM', 'anticuerpos monoclonales')",AcM,anticuerpos monoclonales,1
+"('SSJ', 'stevens-johnson')",SSJ,stevens-johnson,1
+"('SM', 'síndrome metabólico')",SM,síndrome metabólico,2
+"('Viannia', 'vectores infectados con leishmania')",Viannia,vectores infectados con leishmania,1
+"('IMID', 'inmunomediadas')",IMID,inmunomediadas,2
+"('SIDA', 'sarcoma epidémico de kaposi')",SIDA,sarcoma epidémico de kaposi,1
+"('DACBI', 'dermatosis ampollosa crónica benigna infantil')",DACBI,dermatosis ampollosa crónica benigna infantil,1
+"('TASPE', 'trasplante autólogo de progenitores hematopoyéticos de sangre periférica')",TASPE,trasplante autólogo de progenitores hematopoyéticos de sangre periférica,1
+"('GEIDAC', 'grupo español de investigación en dermatitis de contacto y alergia cutánea')",GEIDAC,grupo español de investigación en dermatitis de contacto y alergia cutánea,2
+"('ACR', 'american college of rheumatology')",ACR,american college of rheumatology,1
+"('PV', 'pitiriasis versicolor')",PV,pitiriasis versicolor,1
+"('IMSS', 'instituto mexicano del seguro social')",IMSS,instituto mexicano del seguro social,1
+"('B. P.', 'bálsamo del peru?')",B. P.,bálsamo del peru?,1
+"('TAR', 'tratamiento antirretroviral')",TAR,tratamiento antirretroviral,1
+"('RCUI', 'relación coste-utilidad')",RCUI,relación coste-utilidad,1
+"('UVBBE', 'ultravioleta b de banda estrecha')",UVBBE,ultravioleta b de banda estrecha,1
+"('FPS', 'factor de protección solar')",FPS,factor de protección solar,1
+"('MDS', 'multidimensional escalado')",MDS,multidimensional escalado,1
+"('VHS', 'virus herpes simple')",VHS,virus herpes simple,1
+"('VIH', 'virus de la inmunodeficiencia humana')",VIH,virus de la inmunodeficiencia humana,3
+"('SSPA', 'sistema sanitario público de andalucía')",SSPA,sistema sanitario público de andalucía,1
+"('GAFI', 'granuloma aséptico facial idiopático')",GAFI,granuloma aséptico facial idiopático,1
+"('GC', 'ganglio centinela')",GC,ganglio centinela,1
+"('SEMP', 'superficies especiales para el manejo de la presión')",SEMP,superficies especiales para el manejo de la presión,1
+"('ASR', 'acné\xa0severo y recurrente')",ASR,acné severo y recurrente,1
+"('SU', 'servicio de urgencias')",SU,servicio de urgencias,1
+"('EPL', 'erupción polimorfa lumínica')",EPL,erupción polimorfa lumínica,1
+"('LSM', 'lipomatosis simétrica múltiple')",LSM,lipomatosis simétrica múltiple,1
+"('ML', 'malformaciones linfáticas')",ML,malformaciones linfáticas,1
+"('VPH', 'virus del papiloma humano')",VPH,virus del papiloma humano,3
+"('LC', 'leishmaniasis cutánea')",LC,leishmaniasis cutánea,1
+"('RI', 'resistencia a la insulina')",RI,resistencia a la insulina,1
+"('SIVFRENT-A', 'sistema de vigilancia defactores de riesgo de enfermedades no transmisibles')",SIVFRENT-A,sistema de vigilancia defactores de riesgo de enfermedades no transmisibles,1
+"('MCA', 'mucina asociado a carcinoma')",MCA,mucina asociado a carcinoma,1
+"('TCH', 'tomografía computada helicoidal')",TCH,tomografía computada helicoidal,1
+"('AKQoL', 'actinic keratosis quality of life')",AKQoL,actinic keratosis quality of life,1
+"('DRESS', 'denominado reacción a fármacos con eosinofilia y síntomas sistémicos')",DRESS,denominado reacción a fármacos con eosinofilia y síntomas sistémicos,1
+"('III', 'interacción insulina-receptor')",III,interacción insulina-receptor,1
+"('FUE', 'follicular unit extraction')",FUE,follicular unit extraction,1
+"('MBC', 'metastasis sintomaticas de la base craneal')",MBC,metastasis sintomaticas de la base craneal,1
+"('SEMP', 'superficie especial del manejo de la presión')",SEMP,superficie especial del manejo de la presión,2
+"('EMB', 'enfermedad mamaria benigna')",EMB,enfermedad mamaria benigna,1
+"('INSN', 'instituto nacional de salud del niño')",INSN,instituto nacional de salud del niño,1
+"('H.A.C.R.E.', 'hidro-arsenicismo cronico regional endemico')",H.A.C.R.E.,hidro-arsenicismo cronico regional endemico,1
+"('EICH', 'enfermedad del injerto contra huésped')",EICH,enfermedad del injerto contra huésped,1
+"('GTEB', 'grupo de trabajo de expertos en terapia biológica')",GTEB,grupo de trabajo de expertos en terapia biológica,1
+"('CMFP', 'ciclofosfamida, metotrexate, 5-fluorouracilo y prednisona')",CMFP,"ciclofosfamida, metotrexate, 5-fluorouracilo y prednisona",1
+"('Nevil', 'nevus epidérmico verrugoso inflamatorio lineal')",Nevil,nevus epidérmico verrugoso inflamatorio lineal,1
+"('EPI', 'equipos de protección individual')",EPI,equipos de protección individual,1
+"('LT', 'larvaterapia')",LT,larvaterapia,1
+"('ROLL', 'radioguiada de lesiones ocultas de mama')",ROLL,radioguiada de lesiones ocultas de mama,1
+"('A.S.', 'alopecia seborreica')",A.S.,alopecia seborreica,1
+"('IA', 'insuficiencia arterial')",IA,insuficiencia arterial,1
+"('EAs', 'efectos adversos')",EAs,efectos adversos,1
+"('AEDV', 'academia española de dermatología y venereología')",AEDV,academia española de dermatología y venereología,1
+"('SNC', 'sistema nervioso central')",SNC,sistema nervioso central,1
+"('MOAR', 'microscopia optica de alta resolucion')",MOAR,microscopia optica de alta resolucion,1
+"('DPA', 'de pared abdominal')",DPA,de pared abdominal,1
+"('C.P.', 'cirugía plástica')",C.P.,cirugía plástica,1
+"('HRV', 'hipertensión renovascular')",HRV,hipertensión renovascular,1
+"('REGESMOHS', 'registro español de cirugía de mohs')",REGESMOHS,registro español de cirugía de mohs,1
+"('EB', 'epidermólisis bullosa')",EB,epidermólisis bullosa,1
+"('REGEMOHS', 'registro español de cirugía de mohs')",REGEMOHS,registro español de cirugía de mohs,1
+"('Lu.', 'lutzomyia')",Lu.,lutzomyia,1
+"('TEM', 'tri-etilen-melamina')",TEM,tri-etilen-melamina,1
+"('VIH', 'virus de la immunodeficiencia humana')",VIH,virus de la immunodeficiencia humana,1
+"('SELDI', 'surface enhanced laser desorption/ionization')",SELDI,surface enhanced laser desorption/ionization,1
+"('IR', 'imt, índice de resistencia')",IR,"imt, índice de resistencia",1
+"('LM', 'lactancia materna')",LM,lactancia materna,1
+"('EADV', 'european academy of dermatology and venereology')",EADV,european academy of dermatology and venereology,1
+"('rango', 'recambios de generador. seguimiento medio de 8,4 años')",rango,"recambios de generador. seguimiento medio de 8,4 años",1
+"('CEM', 'celulas escamosas en miniatura')",CEM,celulas escamosas en miniatura,1
+"('PAN', 'poliarteritis nodosa')",PAN,poliarteritis nodosa,2
+"('TH', 'terapia hormonal')",TH,terapia hormonal,1
+"('AT', 'arteritis de takayasu')",AT,arteritis de takayasu,2
+"('PAM', 'poliangeítis microscópica')",PAM,poliangeítis microscópica,1
+"('RM', 'reconstrucción mamaria')",RM,reconstrucción mamaria,1
+"('FC', 'frecuencia cardiaca')",FC,frecuencia cardiaca,1
+"('Mch', 'matricaria chamomilla l.')",Mch,matricaria chamomilla l.,1
+"('EVC', 'enfermedad cerebrovascular')",EVC,enfermedad cerebrovascular,1
+"('CaM', 'cáncer de mama')",CaM,cáncer de mama,1
+"('REVAC', 'red española de vigilancia en alergia de contacto')",REVAC,red española de vigilancia en alergia de contacto,1
+"('GPC', 'guías de práctica clínica')",GPC,guías de práctica clínica,1
+"('VPH', 'virus de papiloma humano')",VPH,virus de papiloma humano,1
+"('SCN', 'staphylococcus coagulasa negativo')",SCN,staphylococcus coagulasa negativo,1
+"('NET', 'necrosis epidérmica tóxica')",NET,necrosis epidérmica tóxica,1
+"('Me', 'medianas')",Me,medianas,1
+"('ARA-II', 'antagonistas de los receptores de la angiotensina ii')",ARA-II,antagonistas de los receptores de la angiotensina ii,1
+"('CAM', 'comunidad autónoma de madrid')",CAM,comunidad autónoma de madrid,1
+"('HEK', 'hemangioendotelioma kaposiforme')",HEK,hemangioendotelioma kaposiforme,1
+"('y II', 'y aurotiomalato sódico: una revisión comparada')",y II,y aurotiomalato sódico: una revisión comparada,1
+"('ET', 'esclerosis tuberosa')",ET,esclerosis tuberosa,1
+"('GEDEAS', 'grupo español de dermatología en las enfermedades autoinmunes y sistémicas')",GEDEAS,grupo español de dermatología en las enfermedades autoinmunes y sistémicas,1
+"('ADVP', 'a drogas por vía parenteral')",ADVP,a drogas por vía parenteral,1
+"('JWC', 'journal of wound care')",JWC,journal of wound care,1
+"('PHCT', 'porfiria hepatocutánea tarda')",PHCT,porfiria hepatocutánea tarda,1
+"('AKE', 'acrokeratoelastoidosis')",AKE,acrokeratoelastoidosis,1
+"('MTHFR', 'metilentetrahidrofolato reductasa')",MTHFR,metilentetrahidrofolato reductasa,1
+"('LF', 'lactoferrina')",LF,lactoferrina,1
+"('PCCM', 'programas de cribado de cáncer de mama')",PCCM,programas de cribado de cáncer de mama,1
+"('IDR', 'intradermorreacción')",IDR,intradermorreacción,1
+"('SCS', 'síndrome de churg-strauss')",SCS,síndrome de churg-strauss,1
+"('DC', 'dermatología comunitaria')",DC,dermatología comunitaria,1

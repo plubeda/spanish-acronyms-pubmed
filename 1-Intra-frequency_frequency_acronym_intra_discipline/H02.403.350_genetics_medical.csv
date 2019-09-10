@@ -1,0 +1,138 @@
+pair,acronym,description,frequency
+"('BPN', 'bajo peso al nacer')",BPN,bajo peso al nacer,1
+"('EH', 'enfermedad de huntington')",EH,enfermedad de huntington,1
+"('MTHFR', 'metilén tetrahidrofólico reductasa')",MTHFR,metilén tetrahidrofólico reductasa,1
+"('CMT', 'charcot-marie-tooth')",CMT,charcot-marie-tooth,2
+"('DA', 'dermatitis atópica')",DA,dermatitis atópica,2
+"('TMP', 'tasa de mortalidad posneonatal')",TMP,tasa de mortalidad posneonatal,1
+"('CD', 'cociente de desarrollo')",CD,cociente de desarrollo,1
+"('FHIS', 'fluorescencia con hibridación in situ')",FHIS,fluorescencia con hibridación in situ,1
+"('AME', 'atrofia muscular espinal')",AME,atrofia muscular espinal,3
+"('IgE', 'inmunoglobulina e')",IgE,inmunoglobulina e,1
+"('RENAC', 'red nacional de anomalías congénitas')",RENAC,red nacional de anomalías congénitas,3
+"('CNI', 'cistinosis nefropática infantil')",CNI,cistinosis nefropática infantil,1
+"('Hb A2', 'hemoglobina a2')",Hb A2,hemoglobina a2,1
+"('REDIP', 'registro español de inmunodeficiencias primarias')",REDIP,registro español de inmunodeficiencias primarias,1
+"('HPRT', 'hipoxantina guanina fosforribosiltransferasa')",HPRT,hipoxantina guanina fosforribosiltransferasa,1
+"('MSC', 'muerte súbita cardiaca')",MSC,muerte súbita cardiaca,1
+"('CAMCOG-DS', ""cambridge cognitive examination for older adults with down's syndrome"")",CAMCOG-DS,cambridge cognitive examination for older adults with down's syndrome,1
+"('FC', 'fenilcetonuria')",FC,fenilcetonuria,1
+"('FQ', 'fibrosis quística')",FQ,fibrosis quística,3
+"('HACRE', 'hidroarsenicismo crónico regional endémico')",HACRE,hidroarsenicismo crónico regional endémico,1
+"('AEH', 'angioedema hereditario')",AEH,angioedema hereditario,1
+"('BSF', 'bromosulftaleina')",BSF,bromosulftaleina,1
+"('MSII', 'muerte súbita inesperada infantil')",MSII,muerte súbita inesperada infantil,1
+"('EK2', 'egen klassifikation 2')",EK2,egen klassifikation 2,1
+"('ECO', 'enfermedades constitucionales óseas')",ECO,enfermedades constitucionales óseas,1
+"('HChr', 'hormona de crecimiento humana recombinante')",HChr,hormona de crecimiento humana recombinante,1
+"('EW', 'enfermedad de wilson')",EW,enfermedad de wilson,1
+"('zIMC', 'z del índice de masa corporal')",zIMC,z del índice de masa corporal,1
+"('G6FD', 'glucosa-6-fosfato dehidrogenasa eritrocítica')",G6FD,glucosa-6-fosfato dehidrogenasa eritrocítica,1
+"('II', 'insulina-receptor')",II,insulina-receptor,1
+"('NF1', 'neurofibromatosis tipo 1')",NF1,neurofibromatosis tipo 1,2
+"('EK', 'egen klassifikation')",EK,egen klassifikation,1
+"('CI', 'cociente intelectual')",CI,cociente intelectual,1
+"('RM', 'resonancia magnetica')",RM,resonancia magnetica,1
+"('CET', 'complejo esclerosis tuberosa')",CET,complejo esclerosis tuberosa,2
+"('IVA', 'isovalérica')",IVA,isovalérica,1
+"('STIR', 'short-tau inversion-recovery')",STIR,short-tau inversion-recovery,1
+"('HSRV', 'hiperplasia suprarrenal virilizante')",HSRV,hiperplasia suprarrenal virilizante,1
+"('NF2', 'neurofibromatosis tipo 2')",NF2,neurofibromatosis tipo 2,1
+"('PEL', 'protoporfirina eritrocitaria libre')",PEL,protoporfirina eritrocitaria libre,1
+"('SIDA', 'síndrome de inmunodeficiencia adquirida')",SIDA,síndrome de inmunodeficiencia adquirida,2
+"('TB', 'tuberculosis')",TB,tuberculosis,1
+"('AIDL', 'absorcíon intestinal deficiente de lactosa')",AIDL,absorcíon intestinal deficiente de lactosa,1
+"('SGLT2', 'sodio-glucosa tipo 2')",SGLT2,sodio-glucosa tipo 2,1
+"('PCT', 'pliegue cutáneo tricipital')",PCT,pliegue cutáneo tricipital,1
+"('EVW', 'enfermedad de von willebrand')",EVW,enfermedad de von willebrand,2
+"('TEA', 'trastorno del espectro autista')",TEA,trastorno del espectro autista,1
+"('DHCC', 'dihidroxicolecalciferol')",DHCC,dihidroxicolecalciferol,1
+"('ISD', 'inventario de la situación diagnóstica')",ISD,inventario de la situación diagnóstica,1
+"('GLAITH', 'grupo latinoamericano para el impulso del tratamiento de la hemofilia')",GLAITH,grupo latinoamericano para el impulso del tratamiento de la hemofilia,1
+"('MEN 1', 'múltiple tipo 1')",MEN 1,múltiple tipo 1,1
+"('VHB', 'virus de la hepatitis b')",VHB,virus de la hepatitis b,1
+"('PANDA', 'programa nacional de cáncer del adulto')",PANDA,programa nacional de cáncer del adulto,1
+"('TMI-MC', 'tasa de mortalidad infantil por mc')",TMI-MC,tasa de mortalidad infantil por mc,1
+"('CDI', 'cuestionario de depresión infantil')",CDI,cuestionario de depresión infantil,1
+"('VIH', 'virus de la inmunodeficiencia humana')",VIH,virus de la inmunodeficiencia humana,1
+"('GEHBTA', 'grupo de estudio de hemoglobinopatías y talasemias')",GEHBTA,grupo de estudio de hemoglobinopatías y talasemias,1
+"('T.T.L.E.', 'test de tolerancia a la lactosa etanol')",T.T.L.E.,test de tolerancia a la lactosa etanol,1
+"('FRC', 'factores de riesgo cardiometabólico')",FRC,factores de riesgo cardiometabólico,1
+"('MPS-II', 'mucopolisacaridosisde tipo ii')",MPS-II,mucopolisacaridosisde tipo ii,1
+"('EP', 'enfermedad de parkinson')",EP,enfermedad de parkinson,1
+"('HF', 'hipercolesterolemia familiar')",HF,hipercolesterolemia familiar,1
+"('NFPVC', 'neurofibromas plexiformes voluminosos en el cuello')",NFPVC,neurofibromas plexiformes voluminosos en el cuello,1
+"('TMN', 'tasa de mortalidad neonatal')",TMN,tasa de mortalidad neonatal,1
+"('CT', 'cintigrafía tiroidea')",CT,cintigrafía tiroidea,1
+"('es', 'editorial: sindrome(s) oro-facio-digital')",es,editorial: sindrome(s) oro-facio-digital,1
+"('GER', 'grupo de estudio de rotavirus')",GER,grupo de estudio de rotavirus,1
+"('MCH', 'miocardiopatía hipertrófica')",MCH,miocardiopatía hipertrófica,1
+"('III', 'interacción insulina-receptor')",III,interacción insulina-receptor,1
+"('TAC', 'tomografía axial computerizada')",TAC,tomografía axial computerizada,1
+"('INSN', 'instituto nacional de salud del niño')",INSN,instituto nacional de salud del niño,2
+"('DMC', 'distrofias musculares congenitas')",DMC,distrofias musculares congenitas,1
+"('WPW', 'wolff-parkinson-white')",WPW,wolff-parkinson-white,1
+"('ECV', 'enfermedad cerebrovascular')",ECV,enfermedad cerebrovascular,1
+"('ILAE', 'internacional contra la epilepsia')",ILAE,internacional contra la epilepsia,1
+"('RPAD', 'retinosis pigmentaria autosómica dominante')",RPAD,retinosis pigmentaria autosómica dominante,1
+"('DM-1', 'distrofia miotonica tipo 1')",DM-1,distrofia miotonica tipo 1,1
+"('PGER', 'péridadas gestacionales espontáneas recurrentes')",PGER,péridadas gestacionales espontáneas recurrentes,1
+"('SSHDC', 'susceptibilidad hereditaria humana para desarrollar cáncer')",SSHDC,susceptibilidad hereditaria humana para desarrollar cáncer,1
+"('NL', 'normal')",NL,normal,1
+"('EIM', 'errores innatos del metabolismo')",EIM,errores innatos del metabolismo,1
+"('IDP', 'inmunodeficiencias primarias')",IDP,inmunodeficiencias primarias,1
+"('LNH', 'linfomas no hodgkin')",LNH,linfomas no hodgkin,1
+"('TMI', 'tasas de mortalidad infantil')",TMI,tasas de mortalidad infantil,1
+"('THAM', 'tris(hidroximetil)amino-metane')",THAM,tris(hidroximetil)amino-metane,1
+"('CFP', 'cefditoreno pivoxilo')",CFP,cefditoreno pivoxilo,1
+"('TDAH', 'trastorno de deficit de atencion/hiperactividad')",TDAH,trastorno de deficit de atencion/hiperactividad,1
+"('NEM I', 'neoplasias endocrinas múltiples')",NEM I,neoplasias endocrinas múltiples,1
+"('E.M.I.H.', 'encefalopatía mioclónica infantil hipsarrítmica')",E.M.I.H.,encefalopatía mioclónica infantil hipsarrítmica,1
+"('PPcH', 'pacientes pediátricos con hemofilia')",PPcH,pacientes pediátricos con hemofilia,1
+"('Igs', 'inmunoglobulinas')",Igs,inmunoglobulinas,1
+"('SMD', 'síndromes mielodisplásicos')",SMD,síndromes mielodisplásicos,1
+"('DEIS', 'de estadísticas e información en salud')",DEIS,de estadísticas e información en salud,1
+"('Glut1', 'glucosa tipo 1')",Glut1,glucosa tipo 1,1
+"('SD', 'síndrome de down')",SD,síndrome de down,2
+"('EEH', 'espongiformes en humanos')",EEH,espongiformes en humanos,1
+"('EB', 'epidermólisis bullosa')",EB,epidermólisis bullosa,1
+"('PHHF', 'persistencia hereditaria de hemoglobina fetal')",PHHF,persistencia hereditaria de hemoglobina fetal,1
+"('SIDA', 'síndrome de immunodeficiencia adquirida')",SIDA,síndrome de immunodeficiencia adquirida,1
+"('CV', 'comunitat valenciana')",CV,comunitat valenciana,2
+"('LQ', 'lesion quirurgica')",LQ,lesion quirurgica,1
+"('SEA', 'sociedad española de arteriosclerosis')",SEA,sociedad española de arteriosclerosis,1
+"('DG6F', 'de la glucosa 6-fosfato')",DG6F,de la glucosa 6-fosfato,1
+"('CFQ', 'creatinfosfoquinasa')",CFQ,creatinfosfoquinasa,1
+"('SEGA', 'subependimarios de celulas gigantes')",SEGA,subependimarios de celulas gigantes,1
+"('HISF', 'hibridación in situ fluorescente')",HISF,hibridación in situ fluorescente,1
+"('HC', 'hipotiroidismo congénito')",HC,hipotiroidismo congénito,2
+"('IDCV', 'inmunodeficiencia común variable')",IDCV,inmunodeficiencia común variable,1
+"('FHF', 'fundación hipercolesterolemia familiar')",FHF,fundación hipercolesterolemia familiar,1
+"('iPCSK9', 'inhibidores de proproteína convertasa subtilisina/kexina tipo 9')",iPCSK9,inhibidores de proproteína convertasa subtilisina/kexina tipo 9,1
+"('SW', 'síndrome de wolfram')",SW,síndrome de wolfram,1
+"('Mch', 'matricaria chamomilla l.')",Mch,matricaria chamomilla l.,1
+"('EvW', 'enfermedad de von willebrand')",EvW,enfermedad de von willebrand,1
+"('MEN 2', 'múltiple tipo 2')",MEN 2,múltiple tipo 2,1
+"('HGC', 'hibridación genómica comparada')",HGC,hibridación genómica comparada,1
+"('PB', 'perímetro braquial')",PB,perímetro braquial,1
+"('SIER-CV', 'sistema de información de enfermedades raras de la cv')",SIER-CV,sistema de información de enfermedades raras de la cv,1
+"('SWH', 'sindrome de wolf-hirschhorn')",SWH,sindrome de wolf-hirschhorn,2
+"('OI', 'osteogénesis imperfecta')",OI,osteogénesis imperfecta,1
+"('E.T.', 'esclerosis tuberosa')",E.T.,esclerosis tuberosa,1
+"('HIS', 'hibridación in situ')",HIS,hibridación in situ,1
+"('MC', 'malformaciones congénitas')",MC,malformaciones congénitas,1
+"('CV', 'calidad de vida')",CV,calidad de vida,1
+"('SWB', 'síndrome williams-beuren')",SWB,síndrome williams-beuren,1
+"('Spain-RDR', 'se consolidó la red española de registros de enfermedades raras para la investigación')",Spain-RDR,se consolidó la red española de registros de enfermedades raras para la investigación,1
+"('ET', 'esclerosis tuberosa')",ET,esclerosis tuberosa,1
+"('LCAT', 'lecitina:colesterol aciltransferasa')",LCAT,lecitina:colesterol aciltransferasa,1
+"('AKE', 'acrokeratoelastoidosis')",AKE,acrokeratoelastoidosis,1
+"('MLPA', 'múltiples sondas')",MLPA,múltiples sondas,1
+"('CCR', 'cáncer colorrectal')",CCR,cáncer colorrectal,1
+"('AFP', 'alfa fetoproteína')",AFP,alfa fetoproteína,1
+"('RN', 'recién nacidos')",RN,recién nacidos,1
+"('AC', 'anomalías congénitas')",AC,anomalías congénitas,1
+"('C.C.F.', 'cromatografía en capa fina')",C.C.F.,cromatografía en capa fina,1
+"('RCT', 'receptor de célula t')",RCT,receptor de célula t,1
+"('HSC', 'hiperplasia suprarrenal congénita')",HSC,hiperplasia suprarrenal congénita,1
+"('S.D.J.', 'síndrome de dubín johnson')",S.D.J.,síndrome de dubín johnson,1

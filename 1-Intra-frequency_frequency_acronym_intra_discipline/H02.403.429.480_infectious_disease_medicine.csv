@@ -1,0 +1,106 @@
+pair,acronym,description,frequency
+"('CEFEN', 'comité de estudios fetoneonatales')",CEFEN,comité de estudios fetoneonatales,1
+"('Nemata', 'nematodo strelkovimermis spiculatus')",Nemata,nematodo strelkovimermis spiculatus,1
+"('ERIS', 'escuela regional de ingeniería sanitaria')",ERIS,escuela regional de ingeniería sanitaria,1
+"('NH', 'neoplasias hematológicas')",NH,neoplasias hematológicas,1
+"('ITL', 'infección tuberculosa latente')",ITL,infección tuberculosa latente,1
+"('ODS', 'objetivos de desarrollo sostenible')",ODS,objetivos de desarrollo sostenible,1
+"('SEIMC', 'sociedad española de enfermedades infecciosas y microbiología clínica')",SEIMC,sociedad española de enfermedades infecciosas y microbiología clínica,2
+"('BLEE', 'betalactamasas de espectro extendido')",BLEE,betalactamasas de espectro extendido,1
+"('NAV', 'neumonía asociada a ventilador')",NAV,neumonía asociada a ventilador,1
+"('TARVAE', 'tratamiento antirretroviral de alta eficacia')",TARVAE,tratamiento antirretroviral de alta eficacia,1
+"('Venezuela', 'venezolano de la encefalomielitis equina ocurrida en 1962 en el estado zulia')",Venezuela,venezolano de la encefalomielitis equina ocurrida en 1962 en el estado zulia,1
+"('IN', 'infección nosocomial')",IN,infección nosocomial,1
+"('DO', 'de origen')",DO,de origen,1
+"('E12', 'españa 0012')",E12,españa 0012,1
+"('RH""', 'rh segunda')","RH""",rh segunda,1
+"('CME', 'centro de materiales y esterilización')",CME,centro de materiales y esterilización,1
+"('TNasa', 'termonucleasa')",TNasa,termonucleasa,1
+"('CCAA', 'comunidades y ciudades autónomas')",CCAA,comunidades y ciudades autónomas,1
+"('SEPAR', 'sociedad española de neumología y cirugía torácica')",SEPAR,sociedad española de neumología y cirugía torácica,1
+"('EPI', 'enteropatógeno infantil')",EPI,enteropatógeno infantil,1
+"('SVGE', 'sistema de vigilancia de la gripe en españa')",SVGE,sistema de vigilancia de la gripe en españa,1
+"('DCI', 'desnutrición crónica infantil')",DCI,desnutrición crónica infantil,1
+"('SEIMC', 'sociedad española enfermedades infecciosas y microbiología clínica')",SEIMC,sociedad española enfermedades infecciosas y microbiología clínica,1
+"('GENTE', 'grupo de estudio de nuevas terapias de enfermedades reumáticas')",GENTE,grupo de estudio de nuevas terapias de enfermedades reumáticas,1
+"('OMS', 'organización mundial de la salud')",OMS,organización mundial de la salud,2
+"('EP', 'enfermedades profesionales')",EP,enfermedades profesionales,1
+"('HVB', 'hepatitis vírica tipo b')",HVB,hepatitis vírica tipo b,1
+"('SIDA', 'síndrome de inmunodeficiencia adquirida')",SIDA,síndrome de inmunodeficiencia adquirida,1
+"('PNCT', 'programa nacional de control de la tuberculosis')",PNCT,programa nacional de control de la tuberculosis,1
+"('sic.', 'social para la apropiación o ""empoderamiento""')",sic.,"social para la apropiación o ""empoderamiento""",1
+"('VCN13', 'vacuna neumocócica conjugada de 13 serotipos')",VCN13,vacuna neumocócica conjugada de 13 serotipos,1
+"('LLA', 'leucemia linfoide aguda')",LLA,leucemia linfoide aguda,1
+"('IC', 'intervalo de confianza')",IC,intervalo de confianza,2
+"('HD', 'hemodiálisis')",HD,hemodiálisis,1
+"('BGN-MR', 'bacilos gram-negativos multirresistentes')",BGN-MR,bacilos gram-negativos multirresistentes,1
+"('PCT', 'procalcitonina')",PCT,procalcitonina,1
+"('VHB', 'virus de la hepatitis b')",VHB,virus de la hepatitis b,1
+"('VIH', 'virus de la inmunodeficiencia humana')",VIH,virus de la inmunodeficiencia humana,1
+"('SEIP', 'sociedad española de infectología pediátrica')",SEIP,sociedad española de infectología pediátrica,2
+"('ESPII', 'emergencia de salud pública de importancia internacional')",ESPII,emergencia de salud pública de importancia internacional,1
+"('PRP-T', 'poliribofosfato capsular de hib conjugada al toxoide tetánico')",PRP-T,poliribofosfato capsular de hib conjugada al toxoide tetánico,1
+"('SEMTSI', 'sociedad española de medicina tropical y salud internacional')",SEMTSI,sociedad española de medicina tropical y salud internacional,1
+"('DON', 'deoxinivalenol')",DON,deoxinivalenol,1
+"('EHS', 'encefalitis por herpes simple')",EHS,encefalitis por herpes simple,1
+"('NN', 'neumonía nosocomial')",NN,neumonía nosocomial,1
+"('MILD', 'mosquiteros insecticidas de larga duración')",MILD,mosquiteros insecticidas de larga duración,1
+"('VPH', 'virus del papiloma humano')",VPH,virus del papiloma humano,1
+"('BGN', 'bacilos gram-negativos')",BGN,bacilos gram-negativos,1
+"('ZBS', 'zonas básicas de salud')",ZBS,zonas básicas de salud,1
+"('SA', 'staphylococcus aureus')",SA,staphylococcus aureus,1
+"('Hib', 'haemophilus influenzae tipo b')",Hib,haemophilus influenzae tipo b,1
+"('VPH', 'virus papiloma humano')",VPH,virus papiloma humano,1
+"('CMI', 'concentración mínima inhibitoria')",CMI,concentración mínima inhibitoria,1
+"('TARMA', 'terapia antirretroviral muy activa')",TARMA,terapia antirretroviral muy activa,1
+"('GETH', 'grupo español de trasplante hemopoyético')",GETH,grupo español de trasplante hemopoyético,1
+"('MRV', 'monitoreo rápido de vacunación')",MRV,monitoreo rápido de vacunación,1
+"('IDP', 'inmunodeficiencias primarias')",IDP,inmunodeficiencias primarias,1
+"('ENDS', 'encuesta nacional de salud')",ENDS,encuesta nacional de salud,1
+"('VIH-1', 'virus de inmunodeficiencia humana tipo 1')",VIH-1,virus de inmunodeficiencia humana tipo 1,1
+"('VBTF', 'vapor a baja temperatura con formaldehído')",VBTF,vapor a baja temperatura con formaldehído,2
+"('VAG', 'vacunación antigripal')",VAG,vacunación antigripal,1
+"('UITB', 'unidad de investigación en tuberculosis de barcelona')",UITB,unidad de investigación en tuberculosis de barcelona,1
+"('MORTAR', 'mortalidad de pacientes vih (+) chilenos: estudio caso-control')",MORTAR,mortalidad de pacientes vih (+) chilenos: estudio caso-control,1
+"('Nematoda', 'nematodo parásito romanomermis iyengari (welch, 1964)')",Nematoda,"nematodo parásito romanomermis iyengari (welch, 1964)",2
+"('CAP', 'centros de atención primaria')",CAP,centros de atención primaria,1
+"('VM', 'ventilación mecánica')",VM,ventilación mecánica,1
+"('RR', 'riesgos relativos')",RR,riesgos relativos,1
+"('U.A.M.', 'unidad clínica hematológica de la clínica puerta de hierro')",U.A.M.,unidad clínica hematológica de la clínica puerta de hierro,1
+"('E1', 'españa 0001')",E1,españa 0001,1
+"('CCI', 'consultivo de inmunizaciones')",CCI,consultivo de inmunizaciones,2
+"('SNS', 'sistema nacional de salud')",SNS,sistema nacional de salud,1
+"('INPer', 'instituto nacional de perinatología')",INPer,instituto nacional de perinatología,1
+"('LM', 'lactancia materna')",LM,lactancia materna,1
+"('EEB', 'espongiformes bovinas')",EEB,espongiformes bovinas,1
+"('NCV', 'nódulos de cuerdas vocales')",NCV,nódulos de cuerdas vocales,1
+"('CVC', 'catéter venoso central')",CVC,catéter venoso central,1
+"('SL', 'sucedáneo de la leche')",SL,sucedáneo de la leche,1
+"('GESIDA', 'grupo de estudio de sida')",GESIDA,grupo de estudio de sida,1
+"('STA', 'sistema de tratamiento del agua')",STA,sistema de tratamiento del agua,1
+"('CAV-AEP', 'calendario de vacunaciones de la asociación española de pediatría')",CAV-AEP,calendario de vacunaciones de la asociación española de pediatría,2
+"('TIR', 'tuberculosis e infecciones respiratorias')",TIR,tuberculosis e infecciones respiratorias,1
+"('SMS', 'servicio murciano de salud')",SMS,servicio murciano de salud,1
+"('SENP', 'sociedad española de neumología pediátrica')",SENP,sociedad española de neumología pediátrica,2
+"('Nematoda', 'nematodo romanomermis iyengari')",Nematoda,nematodo romanomermis iyengari,1
+"('LMA', 'leucemia mieloide aguda')",LMA,leucemia mieloide aguda,1
+"('SUH', 'servicio de urgencias hospitalario')",SUH,servicio de urgencias hospitalario,1
+"('Chile', 'consumo habitual por la población humana de valdivia')",Chile,consumo habitual por la población humana de valdivia,1
+"('UCIN', 'unidad de cuidados intensivos neonatales')",UCIN,unidad de cuidados intensivos neonatales,1
+"('NNN', 'neumocócica necrosante')",NNN,neumocócica necrosante,1
+"('LD', 'líquido de diálisis')",LD,líquido de diálisis,3
+"('PVA', 'programa de vacunación de andalucía')",PVA,programa de vacunación de andalucía,1
+"('EII', 'enfermedad inflamatoria intestinal')",EII,enfermedad inflamatoria intestinal,1
+"('SIR', 'susceptible-infectado-recuperado')",SIR,susceptible-infectado-recuperado,1
+"('ISPLN', 'instituto de salud pública y laboral de navarra')",ISPLN,instituto de salud pública y laboral de navarra,1
+"('RM', 'razón de momios')",RM,razón de momios,1
+"('OR', 'odds ratio')",OR,odds ratio,1
+"('EDO', 'enfermedades de declaración obligatoria')",EDO,enfermedades de declaración obligatoria,4
+"('SAMR-ac', 'staphylococcus aureus meticilino resistente adquirido en la comunidad')",SAMR-ac,staphylococcus aureus meticilino resistente adquirido en la comunidad,1
+"('TQ', 'tiempo quirúrgico')",TQ,tiempo quirúrgico,1
+"('VHS', 'virus del herpes simple')",VHS,virus del herpes simple,1
+"('HM', 'higiene de manos')",HM,higiene de manos,1
+"('IC', 'intervalos de confianza')",IC,intervalos de confianza,1
+"('VRS', 'virus respiratorio sincitial')",VRS,virus respiratorio sincitial,1
+"('EM', 'esclerosis multiple')",EM,esclerosis multiple,1
+"('EN', 'enfermedad neumocócica')",EN,enfermedad neumocócica,1

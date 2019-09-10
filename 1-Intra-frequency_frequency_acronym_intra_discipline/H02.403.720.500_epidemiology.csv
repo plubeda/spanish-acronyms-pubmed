@@ -1,0 +1,956 @@
+pair,acronym,description,frequency
+"('CaMa', 'cáncer de mama')",CaMa,cáncer de mama,1
+"('Sinasc', 'sistema de informações sobre nascidos vivos')",Sinasc,sistema de informações sobre nascidos vivos,1
+"('ESUS', 'embolic stroke of undetermined source')",ESUS,embolic stroke of undetermined source,1
+"('SIS', 'seguro integral de salud')",SIS,seguro integral de salud,1
+"('BPN', 'bajo peso al nacer')",BPN,bajo peso al nacer,3
+"('PEG', 'para su edad gestacional')",PEG,para su edad gestacional,1
+"('RVS', 'respuesta viral sobtenida')",RVS,respuesta viral sobtenida,1
+"('CAR', 'conductas alimentarias de riesgo')",CAR,conductas alimentarias de riesgo,1
+"('UDVP', 'uso de drogas por vía parenteral')",UDVP,uso de drogas por vía parenteral,1
+"('SWFL', 'satisfaction with food-related life')",SWFL,satisfaction with food-related life,1
+"('CGE', 'carga global de la enfermedad')",CGE,carga global de la enfermedad,1
+"('SCA', 'síndromes coronarios agudos')",SCA,síndromes coronarios agudos,1
+"('CEFEN', 'comité de estudios fetoneonatales')",CEFEN,comité de estudios fetoneonatales,1
+"('SAHOS', 'sindrome de apnea/hipopnea obstructiva del sueño')",SAHOS,sindrome de apnea/hipopnea obstructiva del sueño,1
+"('VADS', 'vías aerodigestivas superiores')",VADS,vías aerodigestivas superiores,1
+"('ACE', 'aid to capacity evaluation')",ACE,aid to capacity evaluation,1
+"('CI', 'calorimetría indirecta')",CI,calorimetría indirecta,1
+"('CVP', 'complejos ventriculares prematuros')",CVP,complejos ventriculares prematuros,1
+"('ASRS', 'adhd self-report scale</i>')",ASRS,adhd self-report scale</i>,1
+"('NIC', 'neoplasia intraepitelial cervical')",NIC,neoplasia intraepitelial cervical,1
+"('RIC', 'rango intercuartíl')",RIC,rango intercuartíl,1
+"('EH', 'enfermedad de huntington')",EH,enfermedad de huntington,1
+"('PEG', 'para la edad gestacional')",PEG,para la edad gestacional,1
+"('VPP', 'valor predictivo positivo')",VPP,valor predictivo positivo,1
+"('ET', 'entidades territoriales')",ET,entidades territoriales,1
+"('RP', 'razones de prevalencia')",RP,razones de prevalencia,5
+"('MDC', 'malformaciones del desarrollo cortical')",MDC,malformaciones del desarrollo cortical,1
+"('EVS', 'estilo de vida saludable')",EVS,estilo de vida saludable,1
+"('NPT', 'nutricion parental total')",NPT,nutricion parental total,1
+"('CMT', 'charcot-marie-tooth')",CMT,charcot-marie-tooth,2
+"('DA', 'dermatitis atópica')",DA,dermatitis atópica,1
+"('PPI', 'prescripción potencialmente inadecuada')",PPI,prescripción potencialmente inadecuada,2
+"('MI', 'micosis invasivas')",MI,micosis invasivas,1
+"('REMAH', 'registro molecular de adenomas hipofisarios')",REMAH,registro molecular de adenomas hipofisarios,1
+"('SF', 'síndrome de fragilidad')",SF,síndrome de fragilidad,1
+"('TMI', 'tasa de mortalidad infantil')",TMI,tasa de mortalidad infantil,1
+"('SEN', 'sociedad española de neurologia')",SEN,sociedad española de neurologia,1
+"('OPS', 'organización panamericana de la salud')",OPS,organización panamericana de la salud,1
+"('ECLAMC', 'estudio colaborativo latino americano de malformaciones congénitas')",ECLAMC,estudio colaborativo latino americano de malformaciones congénitas,2
+"('GCCB-S', 'grupo cooperativo de carcinoma broncogénico de separ')",GCCB-S,grupo cooperativo de carcinoma broncogénico de separ,1
+"('ITS', 'infecciones de transmisión sexual')",ITS,infecciones de transmisión sexual,3
+"('DT2', 'diabetes tipo 2')",DT2,diabetes tipo 2,3
+"('VHC', 'virus de la hepatitis c')",VHC,virus de la hepatitis c,3
+"('SOH', 'sangre oculta en heces')",SOH,sangre oculta en heces,1
+"('ENSE', 'encuesta nacional de salud de españa')",ENSE,encuesta nacional de salud de españa,1
+"('CRM', 'customer relationship management')",CRM,customer relationship management,1
+"('NCI', 'national cancer institute')",NCI,national cancer institute,1
+"('TANIT', 'tamiz auditivo neonatal e intervención temprana')",TANIT,tamiz auditivo neonatal e intervención temprana,1
+"('HDM', 'hemodiálisis de mantenimiento')",HDM,hemodiálisis de mantenimiento,1
+"('CF', 'condición física')",CF,condición física,3
+"('PM(2,5)', 'partículas de diámetro inferior a 2,5 micras')","PM(2,5)","partículas de diámetro inferior a 2,5 micras",1
+"('GEO', 'gravedad específica de la orina')",GEO,gravedad específica de la orina,1
+"('HaD', 'hospitalización a\xa0domicilio')",HaD,hospitalización a domicilio,1
+"('NH', 'neoplasias hematológicas')",NH,neoplasias hematológicas,1
+"('HAP', 'hipertensión arterial pulmonar')",HAP,hipertensión arterial pulmonar,1
+"('BIC', 'bayesian information criterion')",BIC,bayesian information criterion,1
+"('SCOPA-Cog', ""scales for outcomes in parkinson's disease-cognition"")",SCOPA-Cog,scales for outcomes in parkinson's disease-cognition,1
+"('IC95', 'intervalos de confianza al 95%')",IC95,intervalos de confianza al 95%,1
+"('H-LDL', 'hipercolesterolemia-ldl')",H-LDL,hipercolesterolemia-ldl,1
+"('AGEMZA', 'academia general militar de zaragoza')",AGEMZA,academia general militar de zaragoza,1
+"('iam', 'infarto agudo de miocardio')",iam,infarto agudo de miocardio,1
+"('TRA', 'técnicas de reproducción asistida')",TRA,técnicas de reproducción asistida,1
+"('ITL', 'infección tuberculosa latente')",ITL,infección tuberculosa latente,3
+"('ODS', 'objetivos de desarrollo sostenible')",ODS,objetivos de desarrollo sostenible,2
+"('MAPA', 'monitorización ambulatoria de presión arterial')",MAPA,monitorización ambulatoria de presión arterial,1
+"('IMIP', 'intención de migrar al interior del país')",IMIP,intención de migrar al interior del país,1
+"('PMIT', 'proyecto multicéntrico de investigación en tuberculosis')",PMIT,proyecto multicéntrico de investigación en tuberculosis,2
+"('OC', 'otras carreras')",OC,otras carreras,1
+"('II', 'inmunodeficiencia humana')",II,inmunodeficiencia humana,1
+"('EF', 'educación física')",EF,educación física,1
+"('FIVTE', 'fertilización in vitro con transferencia de embriones')",FIVTE,fertilización in vitro con transferencia de embriones,1
+"('GEMPO', 'grupo de estudio de morbimortalidad postoperatoria')",GEMPO,grupo de estudio de morbimortalidad postoperatoria,1
+"('SEIMC', 'sociedad española de enfermedades infecciosas y microbiología clínica')",SEIMC,sociedad española de enfermedades infecciosas y microbiología clínica,2
+"('CG', 'carga glucémica')",CG,carga glucémica,1
+"('AUDIT-C', 'alcohol use disorders identification test – consumption')",AUDIT-C,alcohol use disorders identification test – consumption,1
+"('BLEE', 'betalactamasas de espectro extendido')",BLEE,betalactamasas de espectro extendido,1
+"('TCC', 'tumores del cuerpo carotídeo')",TCC,tumores del cuerpo carotídeo,1
+"('EIA', 'enzimoinmunoanálisis')",EIA,enzimoinmunoanálisis,2
+"('SCORE', 'systematic coronary risk evaluation')",SCORE,systematic coronary risk evaluation,1
+"('NSE', 'nivel socioeconómico')",NSE,nivel socioeconómico,2
+"('EIICEA', 'estudio asturiano en cinco áreas')",EIICEA,estudio asturiano en cinco áreas,1
+"('IgE', 'inmunoglobulina e')",IgE,inmunoglobulina e,1
+"('UDVP', 'usuarios de drogas por vía parenteral')",UDVP,usuarios de drogas por vía parenteral,1
+"('RENAC', 'red nacional de anomalías congénitas')",RENAC,red nacional de anomalías congénitas,2
+"('SAAS', 'sin antecedente de abuso sexual')",SAAS,sin antecedente de abuso sexual,1
+"('PRL', 'prostatectomía radical laparoscópica')",PRL,prostatectomía radical laparoscópica,1
+"('RCEI', 'relación costeeficacia incremental')",RCEI,relación costeeficacia incremental,1
+"('HSH', 'hombres que tienen sexo con hombres')",HSH,hombres que tienen sexo con hombres,1
+"('CIR', 'crecimiento intrauterino')",CIR,crecimiento intrauterino,1
+"('PubMed', 'publicados en medline')",PubMed,publicados en medline,1
+"('IC 95%', 'intervalo de confianza del 95%')",IC 95%,intervalo de confianza del 95%,1
+"('SPI', 'sindrome de piernas inquietas')",SPI,sindrome de piernas inquietas,1
+"('EHGNA', 'enfermedad por hígado graso no alcohólico')",EHGNA,enfermedad por hígado graso no alcohólico,1
+"('ITA', 'incapacidad temporal atribuible')",ITA,incapacidad temporal atribuible,1
+"('REDIP', 'registro español de inmunodeficiencias primarias')",REDIP,registro español de inmunodeficiencias primarias,1
+"('Venezuela', 'venezolano de la encefalomielitis equina ocurrida en 1962 en el estado zulia')",Venezuela,venezolano de la encefalomielitis equina ocurrida en 1962 en el estado zulia,1
+"('HaD', 'hospitalización a domicilio')",HaD,hospitalización a domicilio,1
+"('FRCV', 'factores de riesgo cardiovascular')",FRCV,factores de riesgo cardiovascular,4
+"('EV', 'enterovirus sp.')",EV,enterovirus sp.,1
+"('REPIR', 'registro español pediátrico de insuficiencia renal terminal')",REPIR,registro español pediátrico de insuficiencia renal terminal,1
+"('EO', 'enfermedad osteoarticular')",EO,enfermedad osteoarticular,1
+"('EEV', 'encefalitis equina venezolana')",EEV,encefalitis equina venezolana,1
+"('IN', 'infección nosocomial')",IN,infección nosocomial,2
+"('PPCI', 'pubertad precoz central idiopatica')",PPCI,pubertad precoz central idiopatica,1
+"('HC', 'hemicranea continua')",HC,hemicranea continua,1
+"('EPG', 'enfermedad periodontal grave')",EPG,enfermedad periodontal grave,1
+"('CITBM', 'centro de investigaciones, tecnológicas, biomédicas y medioambientales')",CITBM,"centro de investigaciones, tecnológicas, biomédicas y medioambientales",1
+"('CTR', 'cistectomía radical')",CTR,cistectomía radical,1
+"('PGN', 'pacientes (75,8%) con glucosa normalizada')",PGN,"pacientes (75,8%) con glucosa normalizada",1
+"('BPT', 'bajo peso a término')",BPT,bajo peso a término,1
+"('CA', 'conducta alimentaria')",CA,conducta alimentaria,1
+"('RCV', 'riesgo cardiovascular')",RCV,riesgo cardiovascular,2
+"('AAS', 'antecedente de abuso sexual')",AAS,antecedente de abuso sexual,1
+"('REV-H-30d', 'revisita a urgencias u hospitalización por ica a 30 días')",REV-H-30d,revisita a urgencias u hospitalización por ica a 30 días,1
+"('ANCA', 'anticitoplasma de los neutrófilos')",ANCA,anticitoplasma de los neutrófilos,1
+"('LME', 'lactancia materna exclusiva')",LME,lactancia materna exclusiva,2
+"('LEPR', 'lep o en su receptor')",LEPR,lep o en su receptor,1
+"('MIAP', 'maltrato entre iguales por abuso de poder')",MIAP,maltrato entre iguales por abuso de poder,1
+"('RPa', 'razones de prevalencia ajustadas')",RPa,razones de prevalencia ajustadas,1
+"('Sinais', 'sistema nacional de información en salud')",Sinais,sistema nacional de información en salud,1
+"('AVAD', 'años de vida ajustados por discapacidad')",AVAD,años de vida ajustados por discapacidad,1
+"('CAS', 'composite abuse scale')",CAS,composite abuse scale,1
+"('PA', 'presión arterial')",PA,presión arterial,1
+"('E12', 'españa 0012')",E12,españa 0012,1
+"('DM', 'diabetes mellitus')",DM,diabetes mellitus,7
+"('SARM', 'staphylococcus aureus resistente a meticilina')",SARM,staphylococcus aureus resistente a meticilina,1
+"('GEMI', 'grupo de estudio multicéntrico del infarto')",GEMI,grupo de estudio multicéntrico del infarto,1
+"('SUH', 'servicios de urgencias hospitalarios')",SUH,servicios de urgencias hospitalarios,4
+"('IR', 'insulino resistencia')",IR,insulino resistencia,1
+"('APOE', 'apolipoproteína e')",APOE,apolipoproteína e,1
+"('SWLS', 'satisfaction with life scale')",SWLS,satisfaction with life scale,1
+"('AUDIT', 'alcohol use disorders identification test')",AUDIT,alcohol use disorders identification test,1
+"('GMSI', 'gamapatía monoclonal de significado indeterminado')",GMSI,gamapatía monoclonal de significado indeterminado,1
+"('LC', 'leucemia cutis')",LC,leucemia cutis,1
+"('FA', 'fibrilación auricular')",FA,fibrilación auricular,1
+"('VitD', 'vitamina d')",VitD,vitamina d,1
+"('PNAnc', 'pna no complicadas')",PNAnc,pna no complicadas,1
+"('FQ', 'fibrosis quística')",FQ,fibrosis quística,1
+"('EA', 'estudios aleatorizados')",EA,estudios aleatorizados,1
+"('PRL', 'prolactina')",PRL,prolactina,1
+"('EC', 'europa central')",EC,europa central,1
+"('ZSO', 'zona suroeste')",ZSO,zona suroeste,1
+"('ENSIN 2010', 'encuesta nacional de la situacion nutricional 2010')",ENSIN 2010,encuesta nacional de la situacion nutricional 2010,1
+"('ROP', 'retinopatía del prematuro')",ROP,retinopatía del prematuro,1
+"('as', 'agricultores y sus compañeros')",as,agricultores y sus compañeros,1
+"('IR', 'inferior a la recomendada')",IR,inferior a la recomendada,1
+"('CN', 'complicaciones neurologicas')",CN,complicaciones neurologicas,1
+"('RedMIVA', 'red de vigilancia microbiológica de la comunidad valenciana')",RedMIVA,red de vigilancia microbiológica de la comunidad valenciana,1
+"('TVU', 'tumores de vías urinarias')",TVU,tumores de vías urinarias,1
+"('DCP', 'desnutrición calórico-proteica')",DCP,desnutrición calórico-proteica,1
+"('MSII', 'muerte súbita inesperada infantil')",MSII,muerte súbita inesperada infantil,1
+"('CMC', 'consulta monografica de cefaleas')",CMC,consulta monografica de cefaleas,1
+"('BN', 'binomial negativa')",BN,binomial negativa,1
+"('AF', 'actividad física')",AF,actividad física,5
+"('VGE', 'vacuna de la gripe estacional')",VGE,vacuna de la gripe estacional,1
+"('STE', 'síndrome tóxico epidémico')",STE,síndrome tóxico epidémico,1
+"('copep-es', 'copeptina de elevada sensibilidad')",copep-es,copeptina de elevada sensibilidad,1
+"('AF', 'atención farmacéutica')",AF,atención farmacéutica,1
+"('RN', 'receptores nucleares')",RN,receptores nucleares,1
+"('RAD', 'reacción aguda tras consumo de drogas')",RAD,reacción aguda tras consumo de drogas,1
+"('VNI', 'ventilación no invasiva')",VNI,ventilación no invasiva,1
+"('MIPSE', ""mortalidad innecesariamente prematura y sanitariamente evitable'"")",MIPSE,mortalidad innecesariamente prematura y sanitariamente evitable',1
+"('GMSI', 'gammapatías monoclonales de significado indeterminado')",GMSI,gammapatías monoclonales de significado indeterminado,1
+"('GLOMANCHA', 'glomerulonefritis en castilla-la mancha')",GLOMANCHA,glomerulonefritis en castilla-la mancha,1
+"('TN', 'triple negativo')",TN,triple negativo,1
+"('RN', 'recién nacido')",RN,recién nacido,2
+"('CIN III', 'casos de neoplasia intraepitelial grado iii')",CIN III,casos de neoplasia intraepitelial grado iii,1
+"('R.G.E.', 'reflujo gastroesofágico')",R.G.E.,reflujo gastroesofágico,1
+"('PGR', 'pérdida gestacional recurrente')",PGR,pérdida gestacional recurrente,1
+"('CCU-112', 'coordinador de urgencias y emergencias-112')",CCU-112,coordinador de urgencias y emergencias-112,1
+"('EP', 'estrés percibido')",EP,estrés percibido,1
+"('FI', 'fracaso intestinal')",FI,fracaso intestinal,1
+"('CCAA', 'comunidades y ciudades autónomas')",CCAA,comunidades y ciudades autónomas,1
+"('cLDL', 'colesterol ldl')",cLDL,colesterol ldl,2
+"('CI', 'control de ingestas')",CI,control de ingestas,1
+"('IGU', 'infecciones genitourinarias')",IGU,infecciones genitourinarias,1
+"('EC', 'estenosis carotidea')",EC,estenosis carotidea,1
+"('TRE', 'terapia de rehidratación endovenosa')",TRE,terapia de rehidratación endovenosa,1
+"('SEPAR', 'sociedad española de neumología y cirugía torácica')",SEPAR,sociedad española de neumología y cirugía torácica,1
+"('CM', 'cáncer de mama')",CM,cáncer de mama,1
+"('DMT2', 'diabetes mellitus tipo 2')",DMT2,diabetes mellitus tipo 2,3
+"('CIE-9', 'clasificación internacional de enfermedades, 9.(a) revisión')",CIE-9,"clasificación internacional de enfermedades, 9.(a) revisión",1
+"('LIEBG', 'lesión intraepitelial escamosa de bajo grado')",LIEBG,lesión intraepitelial escamosa de bajo grado,1
+"('CCU', 'cáncer de cuello uterino')",CCU,cáncer de cuello uterino,1
+"('SIDA', 'síndrome de inmunodeficiencia humana adquirida')",SIDA,síndrome de inmunodeficiencia humana adquirida,1
+"('CAT', 'comisaría general de abastecimientos y transportes')",CAT,comisaría general de abastecimientos y transportes,1
+"('SVGE', 'sistema de vigilancia de la gripe en españa')",SVGE,sistema de vigilancia de la gripe en españa,1
+"('ESO', 'educación secundaria obligatoria')",ESO,educación secundaria obligatoria,1
+"('FID', 'federación internacional de diabetes')",FID,federación internacional de diabetes,1
+"('NYHA', 'new yorl health asosiation')",NYHA,new yorl health asosiation,1
+"('RISC II', 'revised injury severity classification score ii')",RISC II,revised injury severity classification score ii,1
+"('RHAI', 'reacción de hemaglutinación indirecta')",RHAI,reacción de hemaglutinación indirecta,1
+"('PSRs', 'puntuaciones sumarias recientes')",PSRs,puntuaciones sumarias recientes,1
+"('SEM', 'servicios de emergencias médicas')",SEM,servicios de emergencias médicas,1
+"('GBA', 'glucemia basal alterada')",GBA,glucemia basal alterada,1
+"('DR', 'dificultad respiratoria')",DR,dificultad respiratoria,1
+"('INMA', 'infancia y medio ambiente')",INMA,infancia y medio ambiente,1
+"('PNED', 'progetto nazionale emorragia digestiva')",PNED,progetto nazionale emorragia digestiva,1
+"('cHDL', 'colesterol hdl')",cHDL,colesterol hdl,2
+"('CR', 'cefalea en racimos')",CR,cefalea en racimos,1
+"('CIRH', 'centro de investigación en reproducción humana')",CIRH,centro de investigación en reproducción humana,1
+"('LIEAG', 'lesión intraepitelial escamosa de alto grado')",LIEAG,lesión intraepitelial escamosa de alto grado,1
+"('MINI', 'mini international neuropsychiatric interview')",MINI,mini international neuropsychiatric interview,1
+"('BEDS', 'bipolar eating disorder scale')",BEDS,bipolar eating disorder scale,1
+"('EW', 'enfermedad de wilson')",EW,enfermedad de wilson,1
+"('MN', 'meningitis neonatal')",MN,meningitis neonatal,1
+"('DE', 'de 80,1 años')",DE,"de 80,1 años",1
+"('zIMC', 'z del índice de masa corporal')",zIMC,z del índice de masa corporal,1
+"('TGO', 'transaminasa glutamico oxalacetica')",TGO,transaminasa glutamico oxalacetica,1
+"('CHMSS', 'complejo hospitalario metropolitano del seguro social')",CHMSS,complejo hospitalario metropolitano del seguro social,1
+"('G6FD', 'glucosa-6-fosfato dehidrogenasa eritrocítica')",G6FD,glucosa-6-fosfato dehidrogenasa eritrocítica,1
+"('Gln', 'glutamina')",Gln,glutamina,1
+"('SUN', 'seguimiento universidad de navarra')",SUN,seguimiento universidad de navarra,1
+"('DCI', 'desnutrición crónica infantil')",DCI,desnutrición crónica infantil,2
+"('NIHSS', 'national institute of health stroke scale')",NIHSS,national institute of health stroke scale,1
+"('NNT', 'número necesario a tratar')",NNT,número necesario a tratar,1
+"('NGPP', 'neisseria gonorrhoeae productoras de penicilinasa')",NGPP,neisseria gonorrhoeae productoras de penicilinasa,1
+"('CV', 'carcinoma vesical')",CV,carcinoma vesical,1
+"('SEIMC', 'sociedad española enfermedades infecciosas y microbiología clínica')",SEIMC,sociedad española enfermedades infecciosas y microbiología clínica,1
+"('GENTE', 'grupo de estudio de nuevas terapias de enfermedades reumáticas')",GENTE,grupo de estudio de nuevas terapias de enfermedades reumáticas,1
+"('HTA', 'hipertensión arterial')",HTA,hipertensión arterial,4
+"('PM10', 'partículas menores de 10 µm')",PM10,partículas menores de 10 µm,1
+"('SSPA 7', 'servicio de salud pública del área 7')",SSPA 7,servicio de salud pública del área 7,1
+"('IC 95%', 'intervalos de confianza al 95%')",IC 95%,intervalos de confianza al 95%,4
+"('SIDA', 'sindrome de immunodeficiencia adquirida')",SIDA,sindrome de immunodeficiencia adquirida,1
+"('Tnc T-es', 'troponina cardiaca t de elevada sensibilidad')",Tnc T-es,troponina cardiaca t de elevada sensibilidad,1
+"('OP', 'osteoporosis')",OP,osteoporosis,1
+"('GEMEBA', 'grupo de estudio del mesotelioma en barcelona')",GEMEBA,grupo de estudio del mesotelioma en barcelona,1
+"('TARGA', 'tratamiento antirretroviral de gran actividad')",TARGA,tratamiento antirretroviral de gran actividad,1
+"('VINCat', 'vigilancia de la infección nosocomial en cataluña')",VINCat,vigilancia de la infección nosocomial en cataluña,1
+"('EC', 'enfermedad colelitiasica')",EC,enfermedad colelitiasica,1
+"('MPD', 'marcapasos definitivos')",MPD,marcapasos definitivos,1
+"('PIVh', 'parainfluenza virus humano')",PIVh,parainfluenza virus humano,1
+"('ES', 'esclerosis sistémica')",ES,esclerosis sistémica,1
+"('LEP', 'leptina')",LEP,leptina,1
+"('M-30d', 'mortalidad por cualquier causa a 30 días')",M-30d,mortalidad por cualquier causa a 30 días,1
+"('GEN-VN', 'grupo de estudios neonatales vasco-navarro')",GEN-VN,grupo de estudios neonatales vasco-navarro,1
+"('SP+O', 'sobrepeso y obe\xadsidad')",SP+O,sobrepeso y obe­sidad,1
+"('OMS', 'organización mundial de la salud')",OMS,organización mundial de la salud,9
+"('UE', 'unión europea')",UE,unión europea,1
+"('PAB', 'prostatitis aguda bacteriana')",PAB,prostatitis aguda bacteriana,1
+"('VCMP', 'vincristina, ciclofosfamida, melfalán y prednisona')",VCMP,"vincristina, ciclofosfamida, melfalán y prednisona",1
+"('CC', 'circunferencia de cintura')",CC,circunferencia de cintura,1
+"('IIEF', 'internacional de disfuncion erectil')",IIEF,internacional de disfuncion erectil,1
+"('MM', 'mujeres mayores')",MM,mujeres mayores,1
+"('HBP', 'hiperplasia benigna de la próstata')",HBP,hiperplasia benigna de la próstata,1
+"('AINE', 'antiinflamatorios no esteroideos')",AINE,antiinflamatorios no esteroideos,3
+"('PAOP', 'productos avanzados de oxidación proteica')",PAOP,productos avanzados de oxidación proteica,1
+"('LME', 'lista de medicamentos esenciales')",LME,lista de medicamentos esenciales,1
+"('EP', 'enfermedades profesionales')",EP,enfermedades profesionales,1
+"('IOP', 'instituto de orientación profesional de barcelona')",IOP,instituto de orientación profesional de barcelona,1
+"('SM', 'síndrome metabólico')",SM,síndrome metabólico,18
+"('SOCALPAR', 'sociedad castellano-leonesa de patología respiratoria')",SOCALPAR,sociedad castellano-leonesa de patología respiratoria,1
+"('FOO', 'fiebre de origen oscuro')",FOO,fiebre de origen oscuro,1
+"('PAPPS', 'programa de actividades preventivas y de promoción de la salud')",PAPPS,programa de actividades preventivas y de promoción de la salud,1
+"('CP', 'cáncer de próstata')",CP,cáncer de próstata,2
+"('HR', 'hazard ratio')",HR,hazard ratio,1
+"('FIAB', 'federación de industrias de alimentación y bebidas')",FIAB,federación de industrias de alimentación y bebidas,1
+"('Viannia', 'vectores infectados con leishmania')",Viannia,vectores infectados con leishmania,1
+"('EHNA', 'esteatohepatitis no alcohólica')",EHNA,esteatohepatitis no alcohólica,3
+"('FMIC', 'fondo mundial para la investigación sobre cáncer')",FMIC,fondo mundial para la investigación sobre cáncer,1
+"('SIDA', 'síndrome de inmunodeficiencia adquirida')",SIDA,síndrome de inmunodeficiencia adquirida,12
+"('FRS', 'familiares')",FRS,familiares,1
+"('CNS', 'cartilla nacional de salud')",CNS,cartilla nacional de salud,1
+"('TB', 'tuberculosis')",TB,tuberculosis,3
+"('QUALIDIAB', 'quality of diabetes care')",QUALIDIAB,quality of diabetes care,1
+"('pacientes', 'personas con sobrepeso u obesidad, interesadas en usar orlistat (prospectos) o usuarios')",pacientes,"personas con sobrepeso u obesidad, interesadas en usar orlistat (prospectos) o usuarios",1
+"('ULM', 'unidades de lesionados medulares')",ULM,unidades de lesionados medulares,1
+"('PNCT', 'programa nacional de control de la tuberculosis')",PNCT,programa nacional de control de la tuberculosis,1
+"('XC', 'x-collar')",XC,x-collar,1
+"('IC 95%', 'intervalos de confianza al 95 %')",IC 95%,intervalos de confianza al 95 %,1
+"('AC-VIH', 'anticuerpos contra el virus de la inmunodeficiencia humana')",AC-VIH,anticuerpos contra el virus de la inmunodeficiencia humana,1
+"('AIDL', 'absorcíon intestinal deficiente de lactosa')",AIDL,absorcíon intestinal deficiente de lactosa,1
+"('DMPT', 'diabetes mellitus postrasplante')",DMPT,diabetes mellitus postrasplante,1
+"('SPC', 'síndrome postcolecistectomía')",SPC,síndrome postcolecistectomía,1
+"('CT', 'colesterol total')",CT,colesterol total,2
+"('TS', 'trabajadoras sexuales')",TS,trabajadoras sexuales,1
+"('EMJ', 'epilepsia mioclonica juvenil')",EMJ,epilepsia mioclonica juvenil,1
+"('SG', 'supervivencia global')",SG,supervivencia global,1
+"('SMSL', 'síndrome de la muerte súbita del lactante')",SMSL,síndrome de la muerte súbita del lactante,1
+"('IMID', 'inmunomediadas')",IMID,inmunomediadas,2
+"('SIDA', 'sarcoma epidémico de kaposi')",SIDA,sarcoma epidémico de kaposi,1
+"('ENNyS', 'encuesta nacional de nutrición y salud')",ENNyS,encuesta nacional de nutrición y salud,1
+"('IA', 'incidencias acumuladas')",IA,incidencias acumuladas,1
+"('GESEPOC', 'guía española de la epoc')",GESEPOC,guía española de la epoc,1
+"('sic.', 'social para la apropiación o ""empoderamiento""')",sic.,"social para la apropiación o ""empoderamiento""",1
+"('ECV', 'enfermedad cardiovascular')",ECV,enfermedad cardiovascular,2
+"('TASPE', 'trasplante autólogo de progenitores hematopoyéticos de sangre periférica')",TASPE,trasplante autólogo de progenitores hematopoyéticos de sangre periférica,1
+"('DMRE', 'degeneración macular relacionada con la edad')",DMRE,degeneración macular relacionada con la edad,1
+"('Ft', 'ferritina')",Ft,ferritina,1
+"('VGA', 'vacuna de la gripe a h1n1')",VGA,vacuna de la gripe a h1n1,1
+"('SAS', 'síntomas asociados con el sueño')",SAS,síntomas asociados con el sueño,1
+"('P/E', 'para la edad')",P/E,para la edad,1
+"('CPNM', 'carcinoma de pulmón no microcelular')",CPNM,carcinoma de pulmón no microcelular,1
+"('GEIDAC', 'grupo español de investigación en dermatitis de contacto y alergia cutánea')",GEIDAC,grupo español de investigación en dermatitis de contacto y alergia cutánea,1
+"('VHE', 'virus de la hepatitis e')",VHE,virus de la hepatitis e,1
+"('GEIH', 'grupo de estudio de infección hospitalaria')",GEIH,grupo de estudio de infección hospitalaria,1
+"('TEA', 'trastorno del espectro autista')",TEA,trastorno del espectro autista,2
+"('II', 'inestables hospitalizados en barcelona')",II,inestables hospitalizados en barcelona,1
+"('CoRIS', 'con infección por vih sin tratamiento antirretroviral previo')",CoRIS,con infección por vih sin tratamiento antirretroviral previo,1
+"('T/E', 'talla para la edad')",T/E,talla para la edad,1
+"('MUSIC', 'muerte súbita en insuficiencia cardíaca')",MUSIC,muerte súbita en insuficiencia cardíaca,1
+"('SAHS', 'síndrome de apneas-hipopneas durante el sueño')",SAHS,síndrome de apneas-hipopneas durante el sueño,1
+"('VHC', 'virus hepatitis c')",VHC,virus hepatitis c,2
+"('MAT', 'microaglutinación')",MAT,microaglutinación,2
+"('EFED', 'evaluación funcional endoscópica de la deglución')",EFED,evaluación funcional endoscópica de la deglución,1
+"('PV', 'pitiriasis versicolor')",PV,pitiriasis versicolor,1
+"('IMSS', 'instituto mexicano del seguro social')",IMSS,instituto mexicano del seguro social,6
+"('EC', 'enfermedades cardiovasculares')",EC,enfermedades cardiovasculares,1
+"('BRA-II', 'bloqueador del receptor de angiotensina ii')",BRA-II,bloqueador del receptor de angiotensina ii,1
+"('ORs', 'odds ratios')",ORs,odds ratios,1
+"('IC', 'intervalo de confianza')",IC,intervalo de confianza,1
+"('HD', 'hemodiálisis')",HD,hemodiálisis,2
+"('Fontana', 'forma de ‘‘y’’ usando sutura mecánica no reabsorbible')",Fontana,forma de ‘‘y’’ usando sutura mecánica no reabsorbible,1
+"('ISVP', 'instrumento índice de severidad de violencia de pareja')",ISVP,instrumento índice de severidad de violencia de pareja,1
+"('GPAA', 'glaucoma primario de ángulo abierto')",GPAA,glaucoma primario de ángulo abierto,1
+"('R24', 'recordatorios de 24 horas')",R24,recordatorios de 24 horas,1
+"('CMLALM', 'centro médico “lic. adolfo lópez mateos”')",CMLALM,centro médico “lic. adolfo lópez mateos”,1
+"('TAR', 'tratamiento antirretroviral')",TAR,tratamiento antirretroviral,1
+"('VIH', 'virus de la inmunodeficiencia del humano')",VIH,virus de la inmunodeficiencia del humano,1
+"('CEBQ', 'child eating behaviour questionnaire')",CEBQ,child eating behaviour questionnaire,1
+"('VPH-AR', 'virus del papiloma humano de alto riesgo')",VPH-AR,virus del papiloma humano de alto riesgo,2
+"('BGN-MR', 'bacilos gram-negativos multirresistentes')",BGN-MR,bacilos gram-negativos multirresistentes,1
+"('ECh', 'enfermedad de chagas')",ECh,enfermedad de chagas,1
+"('AC', 'análisis conjunto')",AC,análisis conjunto,1
+"('UC', 'unidades de cefalea')",UC,unidades de cefalea,1
+"('CCU', 'cáncer de cérvix uterino')",CCU,cáncer de cérvix uterino,1
+"('LVQOL', 'low vision quality of life')",LVQOL,low vision quality of life,1
+"('MRT', 'mortalidad relacionada con el trasplante')",MRT,mortalidad relacionada con el trasplante,1
+"('TR', 'termorresistente de leptospira')",TR,termorresistente de leptospira,1
+"('AFE', 'análisis factorial exploratorio')",AFE,análisis factorial exploratorio,1
+"('SINAN', 'sistema de información de enfermedades de notificación')",SINAN,sistema de información de enfermedades de notificación,1
+"('SC', 'síndrome de cushing')",SC,síndrome de cushing,1
+"('BQs', 'bronquiectasias')",BQs,bronquiectasias,1
+"('VIH', 'virus de inmunodeficiencia humana')",VIH,virus de inmunodeficiencia humana,8
+"('UME', 'unidades medicalizadas de emergencia')",UME,unidades medicalizadas de emergencia,1
+"('SDR', 'síndrome de dificultad respiratoria')",SDR,síndrome de dificultad respiratoria,2
+"('EE', 'esofagitis eosinofílica')",EE,esofagitis eosinofílica,1
+"('RACat', 'registro de artroplastias de cataluña')",RACat,registro de artroplastias de cataluña,1
+"('IRA', 'infección respiratoria aguda')",IRA,infección respiratoria aguda,1
+"('MRC', 'medical research council')",MRC,medical research council,1
+"('RCUI', 'relación coste-utilidad')",RCUI,relación coste-utilidad,1
+"('HAS', 'hipertensión arterial sistémica')",HAS,hipertensión arterial sistémica,1
+"('IDB', 'inventario de depresión de beck')",IDB,inventario de depresión de beck,1
+"('DE', 'de 5 años')",DE,de 5 años,1
+"('GEE', 'generalized estimating equations')",GEE,generalized estimating equations,1
+"(""DIU's"", 'dispositivos intrauterinos')",DIU's,dispositivos intrauterinos,1
+"('CPAQ', 'chronic pain acceptance questionnaire')",CPAQ,chronic pain acceptance questionnaire,1
+"('CG', 'carga glicémica')",CG,carga glicémica,1
+"('EV', 'efectividad vacunal')",EV,efectividad vacunal,1
+"('DPNT', 'de la psicosis no tratada')",DPNT,de la psicosis no tratada,1
+"('URMES', 'urgencias reumatológicas y musculoesqueléticas')",URMES,urgencias reumatológicas y musculoesqueléticas,1
+"('NRS-2002', 'nutritional risk screening 2002')",NRS-2002,nutritional risk screening 2002,1
+"('CI', 'coeficiente intelectual')",CI,coeficiente intelectual,1
+"('IECA', 'inhibidor de la enzima convertidora de angiotensina')",IECA,inhibidor de la enzima convertidora de angiotensina,1
+"('ECV', 'eventos cardiovasculares')",ECV,eventos cardiovasculares,1
+"('VHB', 'virus de la hepatitis b')",VHB,virus de la hepatitis b,4
+"('SHC', 'síndrome de hiperémesis cannábica')",SHC,síndrome de hiperémesis cannábica,1
+"('TCE', 'traumatismo craneoencefalico')",TCE,traumatismo craneoencefalico,1
+"('RENAVE', 'red nacional de vigilancia epidemiológica')",RENAVE,red nacional de vigilancia epidemiológica,1
+"('AVPP', 'años de vida perdidos por muerte prematura')",AVPP,años de vida perdidos por muerte prematura,1
+"('DE', 'disruptores endocrinos')",DE,disruptores endocrinos,1
+"('TARGA', 'terapia antirretroviral de gran actividad')",TARGA,terapia antirretroviral de gran actividad,1
+"('HPRL', 'hiperprolactinemia')",HPRL,hiperprolactinemia,1
+"('INEN', 'instituto nacional de enfermedades neoplásicas')",INEN,instituto nacional de enfermedades neoplásicas,1
+"('VIH', 'virus de la inmunodeficiencia humana')",VIH,virus de la inmunodeficiencia humana,19
+"('RM', 'razones de momios')",RM,razones de momios,3
+"('UPV', 'usuarios profesionales de la voz')",UPV,usuarios profesionales de la voz,1
+"('FDF', 'fractura de diáfisis femoral')",FDF,fractura de diáfisis femoral,1
+"('IMCEST', 'infarto del miocardio con elevación del segmento st')",IMCEST,infarto del miocardio con elevación del segmento st,1
+"('RNTI', 'registro nacional de tumores infantiles')",RNTI,registro nacional de tumores infantiles,1
+"('VHA', 'virus de la hepatitis a')",VHA,virus de la hepatitis a,1
+"('SSPA', 'sistema sanitario público de andalucía')",SSPA,sistema sanitario público de andalucía,1
+"('SAHS', 'síndrome de apneas-hipoapneas del sueño, en lo adelante')",SAHS,"síndrome de apneas-hipoapneas del sueño, en lo adelante",1
+"('OR', 'odds ratios')",OR,odds ratios,1
+"('GEHBTA', 'grupo de estudio de hemoglobinopatías y talasemias')",GEHBTA,grupo de estudio de hemoglobinopatías y talasemias,1
+"('ACP', 'análisis de componentes principales')",ACP,análisis de componentes principales,2
+"('RE', 'receptor de estrógenos')",RE,receptor de estrógenos,1
+"('MG', 'miastenia gravis')",MG,miastenia gravis,1
+"('ECV', 'enfermedades cardiovasculares')",ECV,enfermedades cardiovasculares,2
+"('TAR', 'trombocitopenia con aplasia de radio')",TAR,trombocitopenia con aplasia de radio,1
+"('NNH', 'número necesario para hacer daño')",NNH,número necesario para hacer daño,1
+"('APSO', 'autopercepción de la salud oral')",APSO,autopercepción de la salud oral,1
+"('ESPII', 'emergencia de salud pública de importancia internacional')",ESPII,emergencia de salud pública de importancia internacional,1
+"('NAC', 'neuropatía autonómica cardíaca')",NAC,neuropatía autonómica cardíaca,1
+"('DMNID', 'diabetes mellitus no insulino dependiente')",DMNID,diabetes mellitus no insulino dependiente,1
+"('FRC', 'factores de riesgo cardiometabólico')",FRC,factores de riesgo cardiometabólico,1
+"('IDR', 'ingesta diaria recomendada')",IDR,ingesta diaria recomendada,1
+"('GESIDA', 'grupo de estudio del sida')",GESIDA,grupo de estudio del sida,2
+"('SEMTSI', 'sociedad española de medicina tropical y salud internacional')",SEMTSI,sociedad española de medicina tropical y salud internacional,1
+"('SLP', 'supervivencia libre de progresión')",SLP,supervivencia libre de progresión,1
+"('ENI', 'enfermedad neumocócica invasiva')",ENI,enfermedad neumocócica invasiva,2
+"('CyL', 'castilla y león')",CyL,castilla y león,1
+"('Hib', 'h influenzae tipo b')",Hib,h influenzae tipo b,1
+"('ERGE', 'enfermedad por reflujo gastroesofágico')",ERGE,enfermedad por reflujo gastroesofágico,1
+"('España', 'emplazamiento del mismo fue la atención primaria de cataluña')",España,emplazamiento del mismo fue la atención primaria de cataluña,1
+"('BIA', 'bioimpedancia')",BIA,bioimpedancia,1
+"('ENAHO', 'encuesta nacional de hogares sobre condiciones de vida y pobreza')",ENAHO,encuesta nacional de hogares sobre condiciones de vida y pobreza,1
+"('IVPH', 'infección por virus de papiloma humano')",IVPH,infección por virus de papiloma humano,1
+"('SCB', 'sindrome de charles bonnet')",SCB,sindrome de charles bonnet,1
+"('TG', 'triglicéridos')",TG,triglicéridos,3
+"('DPC', 'dolor pélvico crónico')",DPC,dolor pélvico crónico,1
+"('y II', 'y control de la infección nosocomial')",y II,y control de la infección nosocomial,1
+"('IC95%', 'intervalos de confianza al 95%')",IC95%,intervalos de confianza al 95%,1
+"('SAEI', 'sociedad andaluza de enfermedades infecciosas')",SAEI,sociedad andaluza de enfermedades infecciosas,1
+"('AA', 'avanzados')",AA,avanzados,1
+"('CONUT', 'control nutricional')",CONUT,control nutricional,1
+"('HCC', 'hepatitis c crónica')",HCC,hepatitis c crónica,1
+"('AP', 'atención primaria')",AP,atención primaria,5
+"('AMMOM', 'asociación mexicana de metabolismo oseo y mineral')",AMMOM,asociación mexicana de metabolismo oseo y mineral,1
+"('GEM', 'grup d’emergències mèdiques')",GEM,grup d’emergències mèdiques,1
+"('MIR', 'médicos internos y residentes')",MIR,médicos internos y residentes,1
+"('LEOC', 'litotricia extracorpórea por ondas de choque')",LEOC,litotricia extracorpórea por ondas de choque,1
+"('GIMC', 'grosor de la íntima media carotídea')",GIMC,grosor de la íntima media carotídea,1
+"('I.A.A.S.', 'infección asociada a asistencia sanitaria')",I.A.A.S.,infección asociada a asistencia sanitaria,1
+"('ERC', 'enfermedad renal crónica')",ERC,enfermedad renal crónica,8
+"('CCR', 'cáncer aolorrectal invasivo')",CCR,cáncer aolorrectal invasivo,1
+"('MUST', 'malnutrition universal screening tool')",MUST,malnutrition universal screening tool,1
+"('UMAE', 'unidad médica de alta especialidad')",UMAE,unidad médica de alta especialidad,1
+"('TR', 'trasplante renal')",TR,trasplante renal,1
+"('ENDORSE II', 'en méxico de un estudio transversal multicéntrico')",ENDORSE II,en méxico de un estudio transversal multicéntrico,1
+"('PIB', 'producto interno bruto')",PIB,producto interno bruto,1
+"('EPOC', 'enfermedad pulmonar obstructiva crónica')",EPOC,enfermedad pulmonar obstructiva crónica,4
+"('A.C.A.D.', 'asociación castellana de aparato digestivo')",A.C.A.D.,asociación castellana de aparato digestivo,1
+"('NN', 'neumonía nosocomial')",NN,neumonía nosocomial,1
+"('MNA', 'mini nutritional assessment')",MNA,mini nutritional assessment,2
+"('EMAD', 'encefalomielitis aguda diseminada')",EMAD,encefalomielitis aguda diseminada,1
+"('UNC', 'unidad de cuidados intensivos neurocriticos')",UNC,unidad de cuidados intensivos neurocriticos,1
+"('ANC', 'atención nutricional convencional')",ANC,atención nutricional convencional,1
+"('EP', 'enfermedad de parkinson')",EP,enfermedad de parkinson,7
+"('PDQ', 'personality disorder questionnaire')",PDQ,personality disorder questionnaire,1
+"('AD8', ""alzheimer's disease 8"")",AD8,alzheimer's disease 8,1
+"('CapPsi', 'capital psicológico')",CapPsi,capital psicológico,1
+"('CEC', 'circulación extracorpórea')",CEC,circulación extracorpórea,1
+"('DT2', 'diabetes mellitus tipo 2')",DT2,diabetes mellitus tipo 2,1
+"('VIH-2', 'virus de la inmunodeficiencia humana tipo 2')",VIH-2,virus de la inmunodeficiencia humana tipo 2,2
+"('IT', 'incapacidad temporal')",IT,incapacidad temporal,1
+"('PFA', 'pinzamiento femoroacetabular')",PFA,pinzamiento femoroacetabular,1
+"('IRC', 'insuficiencia renal crónica')",IRC,insuficiencia renal crónica,1
+"('EMRR', 'esclerosis multiple remitente recurrente')",EMRR,esclerosis multiple remitente recurrente,1
+"('CC', 'consultas monograficas de cefalea')",CC,consultas monograficas de cefalea,1
+"('GEDSRT-VHC', 'grupo español de estudio de donantes de sangre en riesgo de transmisión del vhc')",GEDSRT-VHC,grupo español de estudio de donantes de sangre en riesgo de transmisión del vhc,2
+"('MHib', 'meningitis por haemophilus influenzae b')",MHib,meningitis por haemophilus influenzae b,1
+"('AVPMP', 'años de vida perdidos por muerte prematura')",AVPMP,años de vida perdidos por muerte prematura,1
+"('VN', 'vejiga neurógena')",VN,vejiga neurógena,1
+"('IP', 'indicadores predictivos')",IP,indicadores predictivos,1
+"('EPIC', 'europeo sobre dieta, cáncer y salud')",EPIC,"europeo sobre dieta, cáncer y salud",2
+"('EACD', 'enfermedad asociada a clostridium difficile')",EACD,enfermedad asociada a clostridium difficile,1
+"('OOS', 'osteosarcopénica')",OOS,osteosarcopénica,1
+"('SU', 'servicio de urgencias')",SU,servicio de urgencias,6
+"('SUH', 'síndrome urémico hemolítico')",SUH,síndrome urémico hemolítico,1
+"('DAS', 'de ansiedad ante la muerte')",DAS,de ansiedad ante la muerte,1
+"('SD', 'sindrome de dravet')",SD,sindrome de dravet,1
+"('NAC', 'neumonía adquirida en la comunidad')",NAC,neumonía adquirida en la comunidad,1
+"('HI B', 'h. influenzae tipo b')",HI B,h. influenzae tipo b,1
+"('CMBD', 'conjunto mínimo básico de datos')",CMBD,conjunto mínimo básico de datos,1
+"('DME', 'de malestar emocional')",DME,de malestar emocional,1
+"('CA', 'comportamiento alimentario')",CA,comportamiento alimentario,1
+"('ADVISE', 'adenovirus initiative study in epidemiology')",ADVISE,adenovirus initiative study in epidemiology,1
+"('VPH', 'virus del papiloma humano')",VPH,virus del papiloma humano,3
+"('TNC', 'trastornos neurocognitivos')",TNC,trastornos neurocognitivos,1
+"('OCB', 'oclusion carotidea bilateral')",OCB,oclusion carotidea bilateral,1
+"('MN', 'mortalidad neonatal')",MN,mortalidad neonatal,1
+"('RI', 'resistencia a la insulina')",RI,resistencia a la insulina,5
+"('NPD', 'nutrición parenteral domiciliaria')",NPD,nutrición parenteral domiciliaria,5
+"('NA', 'neoplasia avanzada')",,neoplasia avanzada,1
+"('MSL', 'medicina social latinoamericana')",MSL,medicina social latinoamericana,1
+"('HGNA', 'hígado graso no alcohólico')",HGNA,hígado graso no alcohólico,3
+"('M.E.P.', 'malnutrición energético-proteica')",M.E.P.,malnutrición energético-proteica,1
+"('EVC', 'enfermedad vascular cerebral')",EVC,enfermedad vascular cerebral,1
+"('BGN', 'bacilos gram-negativos')",BGN,bacilos gram-negativos,1
+"('ZBS', 'zonas básicas de salud')",ZBS,zonas básicas de salud,1
+"('ENCA', 'encuesta nacional de consumo alimentario')",ENCA,encuesta nacional de consumo alimentario,1
+"('GER', 'grupo de estudio de rotavirus')",GER,grupo de estudio de rotavirus,2
+"('HTAS', 'hipertensión arterial sistémica')",HTAS,hipertensión arterial sistémica,1
+"('IOF', 'international osteoporosis foundation')",IOF,international osteoporosis foundation,1
+"('CHUA', 'complejo hospitalario universitario de albacete')",CHUA,complejo hospitalario universitario de albacete,1
+"('SDRA', 'síndrome de dificultad respiratoria aguda')",SDRA,síndrome de dificultad respiratoria aguda,1
+"('ENSIN 2010', 'encuesta nacional de la situación nutricional 2010')",ENSIN 2010,encuesta nacional de la situación nutricional 2010,2
+"('EIPID', 'enfermedad inmunoproliferativa del intestino delgado')",EIPID,enfermedad inmunoproliferativa del intestino delgado,1
+"('FC', 'fracturas de cadera')",FC,fracturas de cadera,1
+"('HAD', 'hospital anxiety and depression scale')",HAD,hospital anxiety and depression scale,1
+"('RENAHTA', 're-encuesta nacional de hipertensión arterial')",RENAHTA,re-encuesta nacional de hipertensión arterial,1
+"('CMS', 'complicación materna severa')",CMS,complicación materna severa,1
+"('PRMs', 'problemas relacionados con la medicación')",PRMs,problemas relacionados con la medicación,1
+"('TDAH', 'trastorno por déficit de atención e hiperactividad')",TDAH,trastorno por déficit de atención e hiperactividad,3
+"('IAM', 'infarto agudo del miocardio')",IAM,infarto agudo del miocardio,1
+"('II', 'iniciado')",II,iniciado,1
+"('ARIA', 'alérgica y su impacto en el asma')",ARIA,alérgica y su impacto en el asma,1
+"('VPH', 'virus papiloma humano')",VPH,virus papiloma humano,1
+"('VHS-1', 'virus del herpes simple tipo 1')",VHS-1,virus del herpes simple tipo 1,1
+"('RHC', 'reserva hemodinamica cerebral')",RHC,reserva hemodinamica cerebral,1
+"('II', 'iniciales')",II,iniciales,1
+"('AR', 'artritis reumatoide')",AR,artritis reumatoide,1
+"('EE', 'epileptico')",EE,epileptico,1
+"('LAM', 'leucemia aguda mieloide')",LAM,leucemia aguda mieloide,1
+"('VCN7', 'vacuna neumocócica de 7 serotipos')",VCN7,vacuna neumocócica de 7 serotipos,1
+"('CVC', 'cateterización venosa central')",CVC,cateterización venosa central,1
+"('LM', 'lesiones medulares')",LM,lesiones medulares,1
+"('ISO', 'infección de sitio operatorio')",ISO,infección de sitio operatorio,1
+"('TDAH', 'trastorno por deficit de atencion/hiperactividad')",TDAH,trastorno por deficit de atencion/hiperactividad,8
+"('UMF 171', 'unidad de medicina familiar 171')",UMF 171,unidad de medicina familiar 171,1
+"('CPN', 'control prenatal')",CPN,control prenatal,1
+"('CFC', 'convulsiones febriles complejas')",CFC,convulsiones febriles complejas,1
+"('ENSM', 'encuesta nacional de\xa0salud mental')",ENSM,encuesta nacional de salud mental,1
+"('CCI', 'correlación intraclase')",CCI,correlación intraclase,1
+"('INSN', 'instituto nacional de salud del niño')",INSN,instituto nacional de salud del niño,1
+"('CF', 'componente físico')",CF,componente físico,1
+"('SENPE', 'sociedad española de nutrición parenteral y enteral')",SENPE,sociedad española de nutrición parenteral y enteral,1
+"('ADMMR', 'artropatía por desgarro masivo del manguito de los rotadores')",ADMMR,artropatía por desgarro masivo del manguito de los rotadores,1
+"('GIST', 'gastrointestinal')",GIST,gastrointestinal,1
+"('HADS', 'hospital anxiety-depressionscale')",HADS,hospital anxiety-depressionscale,1
+"('TN', 'transición nutricia')",TN,transición nutricia,1
+"('SOP', 'síndrome de ovarios poliquísticos')",SOP,síndrome de ovarios poliquísticos,1
+"('BPTR', 'biopsia prostática transrectal')",BPTR,biopsia prostática transrectal,1
+"('CB', 'candidiasis bucal')",CB,candidiasis bucal,1
+"('H.D.A.', 'hemorragias digestivas altas')",H.D.A.,hemorragias digestivas altas,1
+"('ZBS', 'zona básica de salud')",ZBS,zona básica de salud,1
+"('DRE', 'desnutrición relacionada con la enfermedad')",DRE,desnutrición relacionada con la enfermedad,1
+"('BVS', 'biblioteca virtual en salud')",BVS,biblioteca virtual en salud,1
+"('ECV', 'enfermedad cerebrovascular')",ECV,enfermedad cerebrovascular,2
+"('SU', 'servicios de urgencias')",SU,servicios de urgencias,6
+"('UCI', 'unidad de cuidados intensivos')",UCI,unidad de cuidados intensivos,3
+"('SOCALPAR', 'sociedad castellano-leonesa y cántabra de patología respiratoria')",SOCALPAR,sociedad castellano-leonesa y cántabra de patología respiratoria,1
+"('PPT', 'partos pretérmino')",PPT,partos pretérmino,1
+"('QT', 'quimioterapia')",QT,quimioterapia,1
+"('CrS', 'creatinina sérica')",CrS,creatinina sérica,1
+"('AL', 'actividad laboral')",AL,actividad laboral,1
+"('VHC', 'virus de hepatitis c')",VHC,virus de hepatitis c,2
+"('UNITEC', 'universidad technológica de méxico')",UNITEC,universidad technológica de méxico,1
+"('RCVG', 'red centinela de vigilancia de la gripe')",RCVG,red centinela de vigilancia de la gripe,1
+"('TCGA', 'transposición corregida de las grandes arterias')",TCGA,transposición corregida de las grandes arterias,1
+"('NPH', 'neuralgia posherpética')",NPH,neuralgia posherpética,1
+"('SEM', 'sistema d’emergències mèdiques')",SEM,sistema d’emergències mèdiques,1
+"('VEB', 'virus de epstein-barr')",VEB,virus de epstein-barr,1
+"('CEAR', 'consorcio español para la artritis reumatoide')",CEAR,consorcio español para la artritis reumatoide,1
+"('SIVFRENT-A', 'sistema de vigilancia de factores de riesgo de enfermedades no transmisibles')",SIVFRENT-A,sistema de vigilancia de factores de riesgo de enfermedades no transmisibles,1
+"('IBP', 'inhibidores de bomba de protones')",IBP,inhibidores de bomba de protones,1
+"('UCIP', 'unidad de cuidados intensivos pediatricos')",UCIP,unidad de cuidados intensivos pediatricos,1
+"('HZ', 'herpes zoster')",HZ,herpes zoster,2
+"('PMC', 'programa madre canguro')",PMC,programa madre canguro,1
+"('LCR', 'liquido cefalorraquideo')",LCR,liquido cefalorraquideo,1
+"('VRP', 'vitreorretinopatía proliferante')",VRP,vitreorretinopatía proliferante,1
+"('TGP', 'transaminasa glutamico piruvica')",TGP,transaminasa glutamico piruvica,1
+"('ECVs', 'enfermedades cardiovasculares')",ECVs,enfermedades cardiovasculares,1
+"('IC', 'insuficiencia cardiaca')",IC,insuficiencia cardiaca,3
+"('DCL', 'deterioro cognitivo leve')",DCL,deterioro cognitivo leve,3
+"('DM', 'dieta mediterránea')",DM,dieta mediterránea,1
+"('FR', 'factores de riesgo')",FR,factores de riesgo,1
+"('EV', 'estilo de vida')",EV,estilo de vida,1
+"('CHUC', 'complejo hospitalario universitario de canarias')",CHUC,complejo hospitalario universitario de canarias,1
+"('R.T.U.', 'resección transuretral')",R.T.U.,resección transuretral,1
+"('GEITDAH', 'grupo de especial interes en el trastorno por deficit de atencion/hiperactividad')",GEITDAH,grupo de especial interes en el trastorno por deficit de atencion/hiperactividad,1
+"('COMESEM', 'corona metropolitana sudeste de madrid')",COMESEM,corona metropolitana sudeste de madrid,1
+"('MRV', 'monitoreo rápido de vacunación')",MRV,monitoreo rápido de vacunación,1
+"('FHD', 'fiebre hemorrágica por dengue')",FHD,fiebre hemorrágica por dengue,1
+"('SED', 'sociedad española de diabetes')",SED,sociedad española de diabetes,1
+"('IDP', 'inmunodeficiencias primarias')",IDP,inmunodeficiencias primarias,1
+"('CIMEC-V', 'cuestionario de infl uencias del modelo estético corporal, versión para varones')",CIMEC-V,"cuestionario de infl uencias del modelo estético corporal, versión para varones",1
+"('SB', 'síndrome de burnout')",SB,síndrome de burnout,1
+"('EAD', 'encefalomielitis aguda diseminada')",EAD,encefalomielitis aguda diseminada,1
+"('SCOFF', 'sick, control, one, fat, food')",SCOFF,"sick, control, one, fat, food",1
+"('EPS', 'entidades promotoras de salud')",EPS,entidades promotoras de salud,2
+"('INR', 'instituto nacional de rehabilitación')",INR,instituto nacional de rehabilitación,1
+"('GCED', 'grupo catalán de estudio de la diabetes')",GCED,grupo catalán de estudio de la diabetes,1
+"('SCAS', 'spence children anxiety scale')",SCAS,spence children anxiety scale,1
+"('MT', 'megacolon tóxico')",MT,megacolon tóxico,1
+"('RMM', 'razón de muerte materna')",RMM,razón de muerte materna,1
+"('OR', 'odds ratios ajustadas')",OR,odds ratios ajustadas,1
+"('DSM', 'desarrollo psicomotor')",DSM,desarrollo psicomotor,1
+"('PPC', 'patología pulmonar crónica')",PPC,patología pulmonar crónica,1
+"('AMB', 'años del área metropolitana de barranquilla')",AMB,años del área metropolitana de barranquilla,1
+"('ATP III', 'adultos iii')",ATP III,adultos iii,1
+"('HSV-2', 'herpes simple-2')",HSV-2,herpes simple-2,1
+"('REM', 'razones de mortalidad estandarizadas')",REM,razones de mortalidad estandarizadas,1
+"('DN', 'dolor neuropático')",DN,dolor neuropático,1
+"('CVC', 'catéteres venosos centrales')",CVC,catéteres venosos centrales,1
+"('IPM', 'intoxicación paralítica por mariscos')",IPM,intoxicación paralítica por mariscos,1
+"('VPH-AR', 'virus de papiloma humano de alto riesgo')",VPH-AR,virus de papiloma humano de alto riesgo,1
+"('IP', 'inhibidores de la proteasa')",IP,inhibidores de la proteasa,1
+"('VIH-1', 'virus de inmunodeficiencia humana tipo 1')",VIH-1,virus de inmunodeficiencia humana tipo 1,1
+"('EAs', 'efectos adversos')",EAs,efectos adversos,1
+"('ICC', 'indice cintura-cadera')",ICC,indice cintura-cadera,1
+"('TMFT', 'tasa de mortalidad fetal total')",TMFT,tasa de mortalidad fetal total,1
+"('SBA', 'sindrome de boca ardiente')",SBA,sindrome de boca ardiente,1
+"('REGITELL', 'registro de pacientes con ataque isquémico transitorio de lleida')",REGITELL,registro de pacientes con ataque isquémico transitorio de lleida,1
+"('IISP', 'invasivas por streptococcus pyogenes')",IISP,invasivas por streptococcus pyogenes,1
+"('SABE', 'salud, bienestar y envejecimiento')",SABE,"salud, bienestar y envejecimiento",2
+"('AE', 'autoextracción')",AE,autoextracción,1
+"('ADM', 'al patrón de dieta mediterránea')",ADM,al patrón de dieta mediterránea,1
+"('TRS', 'trastornos respiratorios del sueño')",TRS,trastornos respiratorios del sueño,1
+"('IRAB', 'ira baja')",IRAB,ira baja,1
+"('IRT', 'insuficiencia renal terminal,')",IRT,"insuficiencia renal terminal,",1
+"('RPC', 'recomendaciones para prevenir las caídas')",RPC,recomendaciones para prevenir las caídas,1
+"('VGE+VGA', 'vge y después vga')",VGE+VGA,vge y después vga,1
+"('EVA', 'escala visual analógica')",EVA,escala visual analógica,1
+"('WISCI', 'walking index spinal cord injury')",WISCI,walking index spinal cord injury,1
+"('RITA', 'radiofrecuencia intersticial')",RITA,radiofrecuencia intersticial,1
+"('TC', 'tomografía computarizada')",TC,tomografía computarizada,1
+"('TDAH', 'trastorno de deficit de atencion/hiperactividad')",TDAH,trastorno de deficit de atencion/hiperactividad,1
+"('BA', 'bebidas azucaradas')",BA,bebidas azucaradas,1
+"('RR', 'riesgo relativo')",RR,riesgo relativo,4
+"('lp(a)', 'lipoproteína (a)')",lp(a),lipoproteína (a),1
+"('IAH', 'indice de apnea/hipopnea')",IAH,indice de apnea/hipopnea,1
+"('PAC', 'porcentaje anual de cambio')",PAC,porcentaje anual de cambio,1
+"('MD', 'mediana')",MD,mediana,1
+"('SNS', 'servicio nacional de salud')",SNS,servicio nacional de salud,1
+"('NE', 'nutrición enteral')",NE,nutrición enteral,1
+"('FIWOS', 'first international workshop on ocular sarcoidosis')",FIWOS,first international workshop on ocular sarcoidosis,1
+"('PERSTEMI', 'peruvian registry of st-segment elevation myocardial infarction')",PERSTEMI,peruvian registry of st-segment elevation myocardial infarction,1
+"('TDI', 'trastornos del desarrollo intelectual')",TDI,trastornos del desarrollo intelectual,2
+"('UITB', 'unidad de investigación en tuberculosis de barcelona')",UITB,unidad de investigación en tuberculosis de barcelona,1
+"('MORTAR', 'mortalidad de pacientes vih (+) chilenos: estudio caso-control')",MORTAR,mortalidad de pacientes vih (+) chilenos: estudio caso-control,1
+"('ECPP', 'estudio chileno de prevalencia de patología psiquiátrica (dsm-iii-r/cidi)')",ECPP,estudio chileno de prevalencia de patología psiquiátrica (dsm-iii-r/cidi),1
+"('RCE', 'relación cintura-estatura')",RCE,relación cintura-estatura,1
+"('Aecosan', 'agencia española de consumo, seguridad alimentaria y nutrición')",Aecosan,"agencia española de consumo, seguridad alimentaria y nutrición",1
+"('TMG', 'trastorno mental grave')",TMG,trastorno mental grave,1
+"('IRCV', 'integrado de riesgo cardiovascular')",IRCV,integrado de riesgo cardiovascular,1
+"('COR', 'característica operativa del receptor')",COR,característica operativa del receptor,3
+"('EE', 'embarazo ectópico')",EE,embarazo ectópico,1
+"('PALOC', 'perimetría automatizada de longitud de onda corta')",PALOC,perimetría automatizada de longitud de onda corta,1
+"('MINSA', 'ministerio de salud')",MINSA,ministerio de salud,2
+"('IAAS', 'infecciones asociadas a la atención en salud')",IAAS,infecciones asociadas a la atención en salud,2
+"('ZNO', 'zona noroeste')",ZNO,zona noroeste,1
+"('TRO', 'terapias de rehidratación oral')",TRO,terapias de rehidratación oral,1
+"('RR', 'riesgos relativos')",RR,riesgos relativos,3
+"('SIADH', 'secrecion inadecuada de adh')",SIADH,secrecion inadecuada de adh,1
+"('AS', 'años de edad beneficiarios')",AS,años de edad beneficiarios,1
+"('SRAS', 'síndrome respiratorio agudo severo')",SRAS,síndrome respiratorio agudo severo,1
+"('NPT', 'nutrición parenteral total')",NPT,nutrición parenteral total,3
+"('SUP', 'servicios de urgencias pediátricos')",SUP,servicios de urgencias pediátricos,1
+"('EO', 'emergencias obstétricas')",EO,emergencias obstétricas,1
+"('NAVM', 'neumonía asociada a ventilación mecánica')",NAVM,neumonía asociada a ventilación mecánica,1
+"('ATM', 'articulación temporomandibular')",ATM,articulación temporomandibular,1
+"('MAV', 'malformaciones arteriovenosas')",MAV,malformaciones arteriovenosas,2
+"('BCS', 'bebidas carbonatadas')",BCS,bebidas carbonatadas,1
+"('ITS-AC', 'its adquiridas en la comunidad')",ITS-AC,its adquiridas en la comunidad,1
+"('ROC', 'receiver operating characteristic')",ROC,receiver operating characteristic,1
+"('NICE', 'national institute for health and clinical excellence')",NICE,national institute for health and clinical excellence,1
+"('SNC', 'sistema nervioso central')",SNC,sistema nervioso central,4
+"('SNT', 'sindrome neurologico tardio')",SNT,sindrome neurologico tardio,1
+"('MCC-Spain', 'multicase-control study in common tumours in spain')",MCC-Spain,multicase-control study in common tumours in spain,1
+"('CPCNM', 'carcinoma de pulmón de células no microcelulares')",CPCNM,carcinoma de pulmón de células no microcelulares,1
+"('ASA', 'american society of anesthesiologists')",ASA,american society of anesthesiologists,1
+"('BLEE', 'betalactamasa de espectro extendido')",BLEE,betalactamasa de espectro extendido,1
+"('Pt', 'puntuaciones típicas')",Pt,puntuaciones típicas,1
+"('PG', 'puntuación de gleason')",PG,puntuación de gleason,1
+"('AVB', 'atresia de vías biliares')",AVB,atresia de vías biliares,2
+"('DE', 'disruptor endócrino')",DE,disruptor endócrino,1
+"('IAMSEST', 'infarto agudo de miocardio sin elevación del segmento st')",IAMSEST,infarto agudo de miocardio sin elevación del segmento st,1
+"('ANCA', 'anticitoplasma de neutrófilo')",ANCA,anticitoplasma de neutrófilo,1
+"('TCV', 'tarjeta colorimétrica visual')",TCV,tarjeta colorimétrica visual,1
+"('TMI-M', 'tasa de mortalidad infantil por microcefalia')",TMI-M,tasa de mortalidad infantil por microcefalia,1
+"('CIA', 'consumo intensivo de alcohol')",CIA,consumo intensivo de alcohol,1
+"('ODM', 'objetivos de desarrollo del milenio')",ODM,objetivos de desarrollo del milenio,1
+"('E1', 'españa 0001')",E1,españa 0001,1
+"('SAOS', 'sindrome de apnea obstructiva del sueño')",SAOS,sindrome de apnea obstructiva del sueño,2
+"('ENAHO', 'encuesta nacional de hogares')",ENAHO,encuesta nacional de hogares,2
+"('GHB', 'gamma-hidroxi-butirato')",GHB,gamma-hidroxi-butirato,1
+"('PMR', 'patógenos multirresistentes')",PMR,patógenos multirresistentes,1
+"('ECRAF', 'european consortium for rheumatoid arthritis familiar')",ECRAF,european consortium for rheumatoid arthritis familiar,1
+"('ReDeGi', 'registro de demencias de girona')",ReDeGi,registro de demencias de girona,1
+"('DE', 'desviación estándar')",DE,desviación estándar,1
+"('CCI', 'consultivo de inmunizaciones')",CCI,consultivo de inmunizaciones,2
+"('SILEX', 'sistema de información de lesiones de causa externa')",SILEX,sistema de información de lesiones de causa externa,1
+"('WAST', 'woman abuse screening tool')",WAST,woman abuse screening tool,1
+"('DM2', 'diabetes mellitus tipo 2')",DM2,diabetes mellitus tipo 2,3
+"('ETS', 'enfermedades de transmisión sexual')",ETS,enfermedades de transmisión sexual,2
+"('RPa', 'razones de prevalencia ajustada')",RPa,razones de prevalencia ajustada,1
+"('SD', 'síndrome de down')",SD,síndrome de down,1
+"('SIVELCE', 'sistema de vigilancia epidemiológica de lesiones de causa externa')",SIVELCE,sistema de vigilancia epidemiológica de lesiones de causa externa,1
+"('ABiF', 'andalusian bipolar family')",ABiF,andalusian bipolar family,1
+"('ZN', 'ziehl-neelsen')",ZN,ziehl-neelsen,1
+"('SCI', 'science citation index')",SCI,science citation index,1
+"('EPRCD', 'escala de perfil de riesgo de consumo de drogas')",EPRCD,escala de perfil de riesgo de consumo de drogas,1
+"('UCIP', 'unidades de cuidados intensivos pediatricos')",UCIP,unidades de cuidados intensivos pediatricos,1
+"('EV-D68', 'enterovirus d68')",EV-D68,enterovirus d68,1
+"('EEH', 'espongiformes en humanos')",EEH,espongiformes en humanos,1
+"('SIC', 'síndrome de intestino corto')",SIC,síndrome de intestino corto,3
+"('FHA', 'fiebre hemorrágica argentina')",FHA,fiebre hemorrágica argentina,2
+"('LAL', 'leucemia aguda linfoide')",LAL,leucemia aguda linfoide,1
+"('UMI', 'unidad de medicina intensiva')",UMI,unidad de medicina intensiva,1
+"('US', 'uso de sustancias')",US,uso de sustancias,1
+"('REGESMOHS', 'registro español de cirugía de mohs')",REGESMOHS,registro español de cirugía de mohs,1
+"('SNS', 'sistema nacional de salud')",SNS,sistema nacional de salud,2
+"('EB', 'epidermólisis bullosa')",EB,epidermólisis bullosa,1
+"('IAM-CEST', 'infarto agudo al miocardio con elevación del st')",IAM-CEST,infarto agudo al miocardio con elevación del st,1
+"('Argentina', 'agrupamientos (conglomerados) de incidencia de cáncer infantil en la provincia de córdoba')",Argentina,agrupamientos (conglomerados) de incidencia de cáncer infantil en la provincia de córdoba,1
+"('EPT', 'eventos potencialmente traumáticos')",EPT,eventos potencialmente traumáticos,1
+"('EOM', 'enfermedades osteomusculares')",EOM,enfermedades osteomusculares,1
+"('NUSFPS', 'no utilización de los servicios formales de prestación de salud')",NUSFPS,no utilización de los servicios formales de prestación de salud,1
+"('EC', 'enfermedad celíaca')",EC,enfermedad celíaca,1
+"('IRA', 'infecciones respiratorias agudas')",IRA,infecciones respiratorias agudas,3
+"('OA', 'obesidad abdominal')",OA,obesidad abdominal,1
+"('CB', 'carcinoma broncogénico')",CB,carcinoma broncogénico,1
+"('AP', 'asfixia perinatal')",AP,asfixia perinatal,1
+"('EVLD', 'esperanza de vida libre de discapacidad')",EVLD,esperanza de vida libre de discapacidad,1
+"('ESNPCT', 'estrategia sanitaria nacional de prevención y control de la tuberculosis')",ESNPCT,estrategia sanitaria nacional de prevención y control de la tuberculosis,1
+"('ERCO', 'enfermedad renal crónica oculta')",ERCO,enfermedad renal crónica oculta,1
+"('VIH', 'virus de la immunodeficiencia humana')",VIH,virus de la immunodeficiencia humana,1
+"('TCA', 'trastorno del comportamiento alimentario')",TCA,trastorno del comportamiento alimentario,1
+"('EAT', 'eating attitudes test')",EAT,eating attitudes test,1
+"('PEAC', 'potenciales evocados auditivos corticales')",PEAC,potenciales evocados auditivos corticales,1
+"('ERT', 'enfermedad renal terminal')",ERT,enfermedad renal terminal,2
+"('CES-D', 'center for epidemiologic studies-depresion')",CES-D,center for epidemiologic studies-depresion,1
+"('ACG', 'adjusted clinical groups\x94')",ACG,adjusted clinical groups,1
+"('NRS- 2002', 'nutritional risk screening 2002')",NRS- 2002,nutritional risk screening 2002,1
+"('CV', 'comunitat valenciana')",CV,comunitat valenciana,4
+"('EUA', 'estados unidos de américa')",EUA,estados unidos de américa,1
+"('CBM', 'cuadro básico de medicamentos')",CBM,cuadro básico de medicamentos,1
+"('MRP', 'modelo de regresión de poisson')",MRP,modelo de regresión de poisson,1
+"('TD', 'test de denver')",TD,test de denver,1
+"('IAL', 'intoxicación aguda por litio')",IAL,intoxicación aguda por litio,1
+"('EED', 'espasmo esofágico difuso')",EED,espasmo esofágico difuso,1
+"('C.A.V.', 'comunidad autónoma vasca')",C.A.V.,comunidad autónoma vasca,1
+"('LB', 'lesiones bucales')",LB,lesiones bucales,1
+"('ERIDA', 'estudio regional de incidentes derivados de la atención')",ERIDA,estudio regional de incidentes derivados de la atención,2
+"('LM', 'lactancia materna')",LM,lactancia materna,1
+"('IC95%', 'intervalo de confianza al 95%')",IC95%,intervalo de confianza al 95%,1
+"('SALVAR', 'sistema de administración, logística y vigilancia de antirretrovirales')",SALVAR,"sistema de administración, logística y vigilancia de antirretrovirales",1
+"('ECA', 'ensayos controlados aleatorizados')",ECA,ensayos controlados aleatorizados,1
+"('Sintrom', 'sometidos a cirugía urológica en tratamiento con acenocumarol')",Sintrom,sometidos a cirugía urológica en tratamiento con acenocumarol,1
+"('SARM', 'staphylococcus aureus resistente a la meticilina')",SARM,staphylococcus aureus resistente a la meticilina,1
+"('DM', 'deficientes mentales')",DM,deficientes mentales,1
+"('PTG', 'pacientes con traumatismo grave')",PTG,pacientes con traumatismo grave,1
+"('CI', 'cardiopatía isquémica')",CI,cardiopatía isquémica,1
+"('TUS', 'trastornos por uso de sustancias')",TUS,trastornos por uso de sustancias,2
+"('SIRS', 'síndrome de respuesta inflamatoria sistémica')",SIRS,síndrome de respuesta inflamatoria sistémica,1
+"('LTSV', 'limitación del tratamiento de soporte vital')",LTSV,limitación del tratamiento de soporte vital,1
+"('P/T', 'peso/talla')",P/T,peso/talla,1
+"('EEB', 'espongiformes bovinas')",EEB,espongiformes bovinas,1
+"('NCV', 'nódulos de cuerdas vocales')",NCV,nódulos de cuerdas vocales,1
+"('TCA', 'trastornos de la conducta alimentaria')",TCA,trastornos de la conducta alimentaria,2
+"('AO', 'asma ocupacional')",AO,asma ocupacional,1
+"('IAP', 'investigación acción participación')",IAP,investigación acción participación,1
+"('PEECU', 'programa de evaluación externa de calidad en uroanálisis')",PEECU,programa de evaluación externa de calidad en uroanálisis,1
+"('VIH-2', 'virus de la inmunodeficiencia humana de tipo 2')",VIH-2,virus de la inmunodeficiencia humana de tipo 2,2
+"('HTVC', 'hospital de tortosa verge de la cinta')",HTVC,hospital de tortosa verge de la cinta,1
+"('GBS', 'gasto de bolsillo en salud')",GBS,gasto de bolsillo en salud,1
+"('VG', 'violencia de género')",VG,violencia de género,1
+"('CVC', 'catéter venoso central')",CVC,catéter venoso central,1
+"('HUM Mederi', 'hospital universitario mayor mederi')",HUM Mederi,hospital universitario mayor mederi,1
+"('MBI', 'maslach burnout inventory')",MBI,maslach burnout inventory,1
+"('ITS', 'infecciones del torrente sanguíneo')",ITS,infecciones del torrente sanguíneo,1
+"('NBI', 'necesidades básicas insatisfechas')",NBI,necesidades básicas insatisfechas,2
+"('APMP', 'años perdidos por muerte prematura')",APMP,años perdidos por muerte prematura,1
+"('CMV', 'citomegalovirus')",CMV,citomegalovirus,1
+"('PTUIP', 'programa de tamizaje universal e intervención precoz')",PTUIP,programa de tamizaje universal e intervención precoz,1
+"('TAC', 'tomografia axial computarizada')",TAC,tomografia axial computarizada,1
+"('IDCV', 'inmunodeficiencia común variable')",IDCV,inmunodeficiencia común variable,4
+"('IRAG', 'insuficiencia respiratoria aguda grave')",IRAG,insuficiencia respiratoria aguda grave,1
+"('SAT', 'sueroaglutinación')",SAT,sueroaglutinación,1
+"('BACOVA', 'balance del contenido vaginal')",BACOVA,balance del contenido vaginal,1
+"('HCC', 'hepatitisc crónica')",HCC,hepatitisc crónica,1
+"('RECCyL', 'riesgo de enfermedad cardiovascular en castilla y león')",RECCyL,riesgo de enfermedad cardiovascular en castilla y león,1
+"('TH', 'terapia hormonal')",TH,terapia hormonal,1
+"('OT', 'objetivo terapéutico')",OT,objetivo terapéutico,2
+"('BP', 'bajo peso')",BP,bajo peso,1
+"('CBCL/1.5-5', 'child behavior checklist 1.5-5')",CBCL/1.5-5,child behavior checklist 1.5-5,1
+"('GESIDA', 'grupo de estudio de sida')",GESIDA,grupo de estudio de sida,1
+"('PAM', 'poliangeítis microscópica')",PAM,poliangeítis microscópica,1
+"('EP', 'enfermedad periodontal')",EP,enfermedad periodontal,1
+"('RM', 'reconstrucción mamaria')",RM,reconstrucción mamaria,1
+"('SW', 'síndrome de wolfram')",SW,síndrome de wolfram,1
+"('HB', 'hepatitis b')",HB,hepatitis b,1
+"('VRS', 'virus respiratorio sincicial')",VRS,virus respiratorio sincicial,1
+"('SPA', 'sustancias psicoactivas')",SPA,sustancias psicoactivas,1
+"('VSR', 'virus sincicial respiratorio')",VSR,virus sincicial respiratorio,1
+"('ATPO', 'anti-tiroperoxidasa')",ATPO,anti-tiroperoxidasa,1
+"('HR', 'hipertensión arterial')",HR,hipertensión arterial,1
+"('SIOP', 'sociedad internacional de oncología pediátrica')",SIOP,sociedad internacional de oncología pediátrica,1
+"('GEVA', 'grupo de enfermedades vasculares de albacete')",GEVA,grupo de enfermedades vasculares de albacete,1
+"('ROP', 'retinopatía del prematuro""')",ROP,"retinopatía del prematuro""",1
+"('REVAC', 'red española de vigilancia en alergia de contacto')",REVAC,red española de vigilancia en alergia de contacto,1
+"('ECNEI', 'endocarditis infecciosa')",ECNEI,endocarditis infecciosa,1
+"('IMC', 'indice de masa corporal')",IMC,indice de masa corporal,3
+"('TAD', 'tensión arterial diastólica')",TAD,tensión arterial diastólica,1
+"('EC', 'enfermedad de crohn')",EC,enfermedad de crohn,2
+"('TIR', 'tuberculosis e infecciones respiratorias')",TIR,tuberculosis e infecciones respiratorias,1
+"('TDR', 'tesis doctorales en red')",TDR,tesis doctorales en red,1
+"('MPVh', 'metapneumovirus humano')",MPVh,metapneumovirus humano,1
+"('SMS', 'servicio murciano de salud')",SMS,servicio murciano de salud,1
+"('IFI', 'inmunofluorescenia')",IFI,inmunofluorescenia,1
+"('ASIS', 'análisis de situación de salud')",ASIS,análisis de situación de salud,1
+"('LMA', 'leucemia mieloide aguda')",LMA,leucemia mieloide aguda,1
+"('Acari', 'amblyomma triste en simpatría con amblyomma tigrinum')",Acari,amblyomma triste en simpatría con amblyomma tigrinum,1
+"('HP', 'helicobacter pylori')",HP,helicobacter pylori,1
+"('Acari', 'abundancia relativa de amblyomma spp.')",Acari,abundancia relativa de amblyomma spp.,1
+"('GGT', 'gama glutamil transferasa')",GGT,gama glutamil transferasa,1
+"('ER', 'enfermedades respiratorias')",ER,enfermedades respiratorias,1
+"('GPC', 'guías de práctica clínica')",GPC,guías de práctica clínica,1
+"('EMBL', 'epilepsia mioclonica benigna del lactante')",EMBL,epilepsia mioclonica benigna del lactante,1
+"('DM', 'dismorfia muscular')",DM,dismorfia muscular,1
+"('TEA', 'trastornos del espectro autista')",TEA,trastornos del espectro autista,2
+"('ST', 'sepsis tardía')",ST,sepsis tardía,1
+"('DS', 'desviación estándar')",DS,desviación estándar,1
+"('ENH', 'encuesta de nutrición hospitalaria')",ENH,encuesta de nutrición hospitalaria,1
+"('AM', 'adultos mayores')",AM,adultos mayores,3
+"('SUH', 'servicio de urgencias hospitalario')",SUH,servicio de urgencias hospitalario,5
+"('TAB', 'tasa anualizada de brotes')",TAB,tasa anualizada de brotes,1
+"('WURS', 'wender-utah rating scale')",WURS,wender-utah rating scale,1
+"('SN', 'stifneck')",SN,stifneck,1
+"('TCSS', 'toronto clinical scoring system')",TCSS,toronto clinical scoring system,1
+"('SChS', 'síndrome de churg-strauss')",SChS,síndrome de churg-strauss,1
+"('VPH', 'virus de papiloma humano')",VPH,virus de papiloma humano,6
+"('HECMNSXXI', 'hospital de especialidades del centro médico nacional siglo xxi')",HECMNSXXI,hospital de especialidades del centro médico nacional siglo xxi,1
+"('Chile', 'consumo habitual por la población humana de valdivia')",Chile,consumo habitual por la población humana de valdivia,1
+"('GER', 'gasto energético en reposo')",GER,gasto energético en reposo,1
+"('CCC', 'cáncer de cabeza y cuello')",CCC,cáncer de cabeza y cuello,1
+"('HNHU', 'hospital nacional hipolito unanue')",HNHU,hospital nacional hipolito unanue,1
+"('AH', 'atención hospitalaria')",AH,atención hospitalaria,1
+"('IMSS', 'instituto mexicano seguro social')",IMSS,instituto mexicano seguro social,1
+"('NCT', 'nefropatía crónica del trasplante')",NCT,nefropatía crónica del trasplante,1
+"('CC', 'contorno de cintura')",CC,contorno de cintura,1
+"('ICNND', 'interdepartamental commitee on nutririon for national defense')",ICNND,interdepartamental commitee on nutririon for national defense,1
+"('Hb', 'hemoglobina')",Hb,hemoglobina,1
+"('SURPS', 'substance use risk profile scale')",SURPS,substance use risk profile scale,1
+"('EEH', 'exceso de estancia hospitalaria')",EEH,exceso de estancia hospitalaria,1
+"('UCIN', 'unidad de cuidados intensivos neonatales')",UCIN,unidad de cuidados intensivos neonatales,2
+"('PCRus', 'proteína c reactiva ultrasensible')",PCRus,proteína c reactiva ultrasensible,1
+"('Zn', 'zinc')",Zn,zinc,1
+"('ASPB', 'agencia de salud pública de barcelona')",ASPB,agencia de salud pública de barcelona,1
+"('VIH-1', 'virus de la inmunodeficiencia humana tipo 1')",VIH-1,virus de la inmunodeficiencia humana tipo 1,2
+"('CB', 'circunferencia del brazo')",CB,circunferencia del brazo,1
+"('ECI-4', 'early childhood inventory-4')",ECI-4,early childhood inventory-4,1
+"('AIC', ""akaike's information criterion"")",AIC,akaike's information criterion,1
+"('EM', 'esclerosis múltiple')",EM,esclerosis múltiple,1
+"('RDoC', 'research domain criteria')",RDoC,research domain criteria,1
+"('PEPSI', 'programa de investigaciones en epidemiología psiquiátrica')",PEPSI,programa de investigaciones en epidemiología psiquiátrica,1
+"('LJ', 'lowenstein-jensen')",LJ,lowenstein-jensen,1
+"('NNIS', 'nosocomial infection surveillance')",NNIS,nosocomial infection surveillance,1
+"('UMF', 'unidades de medicina familiar')",UMF,unidades de medicina familiar,1
+"('LCR', 'líquido cefalorraquídeo')",LCR,líquido cefalorraquídeo,2
+"('PRESENCIAP', 'prevención secundaria de la cardiopatía isquémica en la atención primaria')",PRESENCIAP,prevención secundaria de la cardiopatía isquémica en la atención primaria,1
+"('VFD', 'vídeo fluoroscopia de deglución')",VFD,vídeo fluoroscopia de deglución,1
+"('EII', 'enfermedad inflamatoria intestinal')",EII,enfermedad inflamatoria intestinal,2
+"('TUS', 'trastorno por uso de sustancias')",TUS,trastorno por uso de sustancias,1
+"('REV-7d', 'revisita a urgencias por ica a 7 días')",REV-7d,revisita a urgencias por ica a 7 días,1
+"('GesEPOC', 'guía española de la epoc')",GesEPOC,guía española de la epoc,1
+"('FRV', 'factores de riesgo vascular')",FRV,factores de riesgo vascular,1
+"('SIER-CV', 'sistema de información de enfermedades raras de la cv')",SIER-CV,sistema de información de enfermedades raras de la cv,1
+"('RETOSS', 'reumatología y osteoporosis')",RETOSS,reumatología y osteoporosis,1
+"('SWH', 'sindrome de wolf-hirschhorn')",SWH,sindrome de wolf-hirschhorn,2
+"('SIR', 'susceptible-infectado-recuperado')",SIR,susceptible-infectado-recuperado,1
+"('MCF', 'malformaciones creaneofaciales')",MCF,malformaciones creaneofaciales,1
+"('HP', 'hemicranea paroxistica')",HP,hemicranea paroxistica,1
+"('OI', 'osteogénesis imperfecta')",OI,osteogénesis imperfecta,1
+"('ISPLN', 'instituto de salud pública y laboral de navarra')",ISPLN,instituto de salud pública y laboral de navarra,1
+"('NE', 'norte de europa')",NE,norte de europa,1
+"('FA', 'fosfatasa alcalina')",FA,fosfatasa alcalina,1
+"('AMS', 'arteria mesentérica superior')",AMS,arteria mesentérica superior,1
+"('CB', 'cirugía bariátrica')",CB,cirugía bariátrica,1
+"('PTH', 'papillas tradicionales hondureñas')",PTH,papillas tradicionales hondureñas,1
+"('PC', 'perímetro de cintura')",PC,perímetro de cintura,1
+"('VHD', 'virus de la hepatitis delta')",VHD,virus de la hepatitis delta,1
+"('Ca', 'calcio')",Ca,calcio,1
+"('EUBE', 'escala unidimensional de burnout estudiantil')",EUBE,escala unidimensional de burnout estudiantil,1
+"('SiDUP', 'sistema de detección por umbral de prevalencia')",SiDUP,sistema de detección por umbral de prevalencia,1
+"('BPM', 'batería psicomotora')",BPM,batería psicomotora,1
+"('ICA', 'insuficiencia cardiaca aguda')",ICA,insuficiencia cardiaca aguda,7
+"('RP', 'razón de prevalencia')",RP,razón de prevalencia,1
+"('GEMA', 'guía española para el manejo del asma')",GEMA,guía española para el manejo del asma,2
+"('ENS', 'encuesta nacional de salud')",ENS,encuesta nacional de salud,1
+"('PE', 'preeclampsia')",PE,preeclampsia,1
+"('TGR', 'transfusión de glóbulos rojos')",TGR,transfusión de glóbulos rojos,1
+"('ECLAMC', 'estudio colaborativo latinoamericano de malformaciones congénitas')",ECLAMC,estudio colaborativo latinoamericano de malformaciones congénitas,2
+"('RM', 'razón de momios')",RM,razón de momios,4
+"('ENSM', 'encuesta nacional de salud mental')",ENSM,encuesta nacional de salud mental,1
+"('Alb', 'albúmina plasmática')",Alb,albúmina plasmática,1
+"('SASM', 'staphylococcus aureus sensible a meticilina')",SASM,staphylococcus aureus sensible a meticilina,1
+"('SNPs', 'sugieren que los polimorfismos de nucleótido único')",SNPs,sugieren que los polimorfismos de nucleótido único,1
+"('SAOS', 'síndrome de apnea obstructiva del sueño')",SAOS,síndrome de apnea obstructiva del sueño,1
+"('PTI', 'púrpura trombocitopénico idiopático')",PTI,púrpura trombocitopénico idiopático,1
+"('FRA', 'fracaso renal agudo')",FRA,fracaso renal agudo,1
+"('DERA', 'desajuste emocional y recursos adaptativos en infertilidad')",DERA,desajuste emocional y recursos adaptativos en infertilidad,1
+"('CIE-10', 'clasificacion internacional de enfermedades, 10.ª revision')",CIE-10,"clasificacion internacional de enfermedades, 10.ª revision",1
+"('GEMI', 'grupo de estudios multicéntrico de infarto')",GEMI,grupo de estudios multicéntrico de infarto,1
+"('Fontana', 'forma de ""y"" usando sutura mecánica no reabsorbible')",Fontana,"forma de ""y"" usando sutura mecánica no reabsorbible",1
+"('GPSIDA', 'grupos de prevención del sida')",GPSIDA,grupos de prevención del sida,1
+"('CSP', 'cultura de seguridad del paciente')",CSP,cultura de seguridad del paciente,1
+"('GEMPPZ, AP', 'grupo de estudio de la morbilidad psíquica y psicosomática de zaragoza, sección de atención primaria')","GEMPPZ, AP","grupo de estudio de la morbilidad psíquica y psicosomática de zaragoza, sección de atención primaria",1
+"('pH1N1', 'por virus influenza a h1n1')",pH1N1,por virus influenza a h1n1,1
+"('Spain-RDR', 'se consolidó la red española de registros de enfermedades raras para la investigación')",Spain-RDR,se consolidó la red española de registros de enfermedades raras para la investigación,1
+"('BT', 'bilirrubina total')",BT,bilirrubina total,1
+"('LLA', 'linfoblástica aguda')",LLA,linfoblástica aguda,3
+"('RCIU', 'restricción del crecimiento intrauterino')",RCIU,restricción del crecimiento intrauterino,1
+"('ET', 'esclerosis tuberosa')",ET,esclerosis tuberosa,1
+"('SNSAF', 'spain: nutrition survey of the armed forces')",SNSAF,spain: nutrition survey of the armed forces,1
+"('CPV_2011', 'censo de población y viviendas de 2011')",CPV_2011,censo de población y viviendas de 2011,1
+"('SGB', 'síndrome de guillain-barré')",SGB,síndrome de guillain-barré,3
+"('OR', 'odds ratio')",OR,odds ratio,9
+"('PANDA', 'programa nacional de drogas antineoplásicas')",PANDA,programa nacional de drogas antineoplásicas,1
+"('EDO', 'enfermedades de declaración obligatoria')",EDO,enfermedades de declaración obligatoria,4
+"('DEH', 'de estancia hospitalaria')",DEH,de estancia hospitalaria,1
+"('MPMN', 'modelo de predicción de mortalidad de navarra')",MPMN,modelo de predicción de mortalidad de navarra,1
+"('EHGNA', 'enfermedad de higado graso no alcohólico')",EHGNA,enfermedad de higado graso no alcohólico,1
+"('SF-LDQOL', 'short form-liver disease quality of life')",SF-LDQOL,short form-liver disease quality of life,1
+"('MMSE', 'mini-mental state examination')",MMSE,mini-mental state examination,1
+"('ENSA', 'encuesta nacional de salud')",ENSA,encuesta nacional de salud,3
+"('CABA', 'ciudad autónoma de buenos aires')",CABA,ciudad autónoma de buenos aires,1
+"('LNH', 'linfomas no hodgkinianos')",LNH,linfomas no hodgkinianos,1
+"('SNE', 'soporte nutricional especializado')",SNE,soporte nutricional especializado,1
+"('EDAH', 'evaluación del trastorno por déficit de atención/hiperactividad')",EDAH,evaluación del trastorno por déficit de atención/hiperactividad,1
+"('SGB', 'sindrome de guillain-barre')",SGB,sindrome de guillain-barre,1
+"('TC', 'tomografia computarizada')",TC,tomografia computarizada,1
+"('SS', 'síndrome de sjögren')",SS,síndrome de sjögren,1
+"('BAC', 'bacteriemia asociada al catéter')",BAC,bacteriemia asociada al catéter,1
+"('CT', 'computarizada')",CT,computarizada,1
+"('IM', 'intoxicaciones medicamentosas')",IM,intoxicaciones medicamentosas,1
+"('SDR', 'síndrome de distrés respiratorio')",SDR,síndrome de distrés respiratorio,1
+"('HCF', 'historia clínica familiar')",HCF,historia clínica familiar,1
+"('ASI-6', 'addiction severity index-6')",ASI-6,addiction severity index-6,1
+"('DE', 'de 63')",DE,de 63,1
+"('IC', 'intervalos de confianza')",IC,intervalos de confianza,4
+"('LCE', 'lesiones de causa externa')",LCE,lesiones de causa externa,1
+"('SEE', 'sociedad española de epidemiología')",SEE,sociedad española de epidemiología,1
+"('ELA', 'esclerosis lateral amiotrofica')",ELA,esclerosis lateral amiotrofica,2
+"('CAA', 'colecistitis alitiásica aguda')",CAA,colecistitis alitiásica aguda,1
+"('RNHMD', 'recién nacido hijo de madre diabética')",RNHMD,recién nacido hijo de madre diabética,2
+"('CCR', 'cáncer colorrectal')",CCR,cáncer colorrectal,2
+"('Plan AUGE', 'plan de acceso universal y garantías explícitas')",Plan AUGE,plan de acceso universal y garantías explícitas,1
+"('VRS', 'virus respiratorio sincitial')",VRS,virus respiratorio sincitial,1
+"('RNM', 'resultados negativos asociados a la medicación')",RNM,resultados negativos asociados a la medicación,1
+"('FESNAD', 'federación española de sociedades de alimentación, nutrición y dietética')",FESNAD,"federación española de sociedades de alimentación, nutrición y dietética",1
+"('AFP', 'alfa fetoproteína')",AFP,alfa fetoproteína,1
+"('RN', 'recién nacidos')",RN,recién nacidos,1
+"('PCCM', 'programas de cribado de cáncer de mama')",PCCM,programas de cribado de cáncer de mama,1
+"('DC', 'dermatología comunitaria')",DC,dermatología comunitaria,1
+"('EM', 'esclerosis multiple')",EM,esclerosis multiple,6
+"('AP', 'atencion primaria')",AP,atencion primaria,1
+"('GEIH', 'grupo de estudio de infección hospitalaia')",GEIH,grupo de estudio de infección hospitalaia,1
+"('FCRS', 'framingham coronary risk score')",FCRS,framingham coronary risk score,1
+"('CU', 'colitis ulcerosa')",CU,colitis ulcerosa,1
+"('DF', 'disfonía funcional')",DF,disfonía funcional,1
+"('AC', 'anomalías congénitas')",AC,anomalías congénitas,1
+"('EAT-40', 'eating attitudes test-40')",EAT-40,eating attitudes test-40,1
+"('LARCE', 'laboratorio regional de citología exfoliativa')",LARCE,laboratorio regional de citología exfoliativa,1
+"('VPN', 'valor predictivo negativo')",VPN,valor predictivo negativo,1
+"('ERC', 'enfermedad renal cronica')",ERC,enfermedad renal cronica,1
+"('EPIC', 'europeo sobre cáncer y nutrición')",EPIC,europeo sobre cáncer y nutrición,1
+"('CIV', 'comunicación interventricular aislada')",CIV,comunicación interventricular aislada,1
+"('EVB', 'estados vaginales básicos')",EVB,estados vaginales básicos,1
+"('Pap', 'papanicolaou')",Pap,papanicolaou,1
+"('EG', 'edad gestacional')",EG,edad gestacional,2
+"('EN', 'enfermedad neumocócica')",EN,enfermedad neumocócica,1
+"('LES', 'lupus eritematoso sistémico')",LES,lupus eritematoso sistémico,1
+"('VHB', 'virus de hepatitis b')",VHB,virus de hepatitis b,3
+"('HSC', 'hiperplasia suprarrenal congénita')",HSC,hiperplasia suprarrenal congénita,1
+"('LEI', 'lesión escamosa intraepitelial')",LEI,lesión escamosa intraepitelial,1
+"('PNA', 'pielonefritis aguda')",PNA,pielonefritis aguda,1
+"('SAHS', 'síndrome apnea-hipopnea del sueño')",SAHS,síndrome apnea-hipopnea del sueño,1
+"('SII', 'síndrome de intestino irritable')",SII,síndrome de intestino irritable,1
+"('ADH', 'anemia por déficit de hierro')",ADH,anemia por déficit de hierro,1
+"('UO', 'urgencias obstétricas')",UO,urgencias obstétricas,1
+"('TAS', 'tensión arterial sistólica')",TAS,tensión arterial sistólica,1

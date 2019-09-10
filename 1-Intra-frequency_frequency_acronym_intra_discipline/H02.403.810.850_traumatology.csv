@@ -1,0 +1,156 @@
+pair,acronym,description,frequency
+"('RIC', 'rangos intercuartílicos')",RIC,rangos intercuartílicos,1
+"('PSC', 'placa de sostén condíleo')",PSC,placa de sostén condíleo,1
+"('TTT', 'total de la técnica')",TTT,total de la técnica,1
+"('KOOS', 'knee injury and osteoarthritis outcome score')",KOOS,knee injury and osteoarthritis outcome score,1
+"('SAAa', 'subluxación atlantoaxial anterior')",SAAa,subluxación atlantoaxial anterior,1
+"('TTP', 'tiempo parcial de tromboplastina')",TTP,tiempo parcial de tromboplastina,1
+"('TEP', 'tromboembolismo pulmonar')",TEP,tromboembolismo pulmonar,1
+"('T.A.C.', 'tomografía computerizada')",T.A.C.,tomografía computerizada,1
+"('IRSPC', 'iowa rating scale for personality change')",IRSPC,iowa rating scale for personality change,2
+"('ACV', 'accidentes cerebrovasculares')",ACV,accidentes cerebrovasculares,2
+"('TMA', 'tiempo máximo de apnea')",TMA,tiempo máximo de apnea,1
+"('AVAD', 'años de vida ajustados por discapacidad')",AVAD,años de vida ajustados por discapacidad,1
+"('PRP', 'plasma rico en plaquetas')",PRP,plasma rico en plaquetas,2
+"('SDRA', 'síndrome de distrés respiratorio del adulto')",SDRA,síndrome de distrés respiratorio del adulto,1
+"('HBPM', 'heparina de bajo peso molecular')",HBPM,heparina de bajo peso molecular,1
+"('ISP', 'inventario de sintomas prefrontales')",ISP,inventario de sintomas prefrontales,3
+"('LCA', 'ligamento cruzado anterior')",LCA,ligamento cruzado anterior,4
+"('CCU-112', 'coordinador de urgencias y emergencias-112')",CCU-112,coordinador de urgencias y emergencias-112,1
+"('SEM', 'servicio de emergencias médicas')",SEM,servicio de emergencias médicas,1
+"('TE', 'tablero espinal')",TE,tablero espinal,1
+"('SDOM', 'síndrome de disfunción orgánica múltiple')",SDOM,síndrome de disfunción orgánica múltiple,1
+"('T.E.C.', 'traumatismo encefalo craneano')",T.E.C.,traumatismo encefalo craneano,1
+"('STC', 'síndrome del túnel del carpo')",STC,síndrome del túnel del carpo,1
+"('PCR', 'proteína c reactiva')",PCR,proteína c reactiva,2
+"('RISC II', 'revised injury severity classification score ii')",RISC II,revised injury severity classification score ii,1
+"('RAFI', 'reducción abierta y fijación interna')",RAFI,reducción abierta y fijación interna,2
+"('Gln', 'glutamina')",Gln,glutamina,1
+"('SV', 'subluxación vertical')",SV,subluxación vertical,1
+"('RM', 'resonancia magnetica')",RM,resonancia magnetica,1
+"('GRD', 'grupos relacionados por el diagnóstico')",GRD,grupos relacionados por el diagnóstico,1
+"('LRINEC', 'laboratory risk indicator for necrotizing fasciitis')",LRINEC,laboratory risk indicator for necrotizing fasciitis,1
+"('OP', 'osteoporosis')",OP,osteoporosis,1
+"('MPD', 'marcapasos definitivos')",MPD,marcapasos definitivos,1
+"('STC', 'sindrome del tunel carpiano')",STC,sindrome del tunel carpiano,2
+"('VR', 'valgo de rodilla')",VR,valgo de rodilla,1
+"('HSDC', 'hematoma subdural cronico')",HSDC,hematoma subdural cronico,1
+"('MD', 'merle daubigné')",MD,merle daubigné,1
+"('END', 'escala numérica de dolor')",END,escala numérica de dolor,1
+"('AP', 'admisión primaria')",AP,admisión primaria,1
+"('FR', 'flexión de rodilla')",FR,flexión de rodilla,1
+"('UME', 'unidades medicalizadas de emergencia')",UME,unidades medicalizadas de emergencia,1
+"('RACat', 'registro de artroplastias de cataluña')",RACat,registro de artroplastias de cataluña,1
+"('MRC', 'medical research council')",MRC,medical research council,1
+"('LMR', 'lesión del manguito rotador')",LMR,lesión del manguito rotador,1
+"('BoNT-A', 'botulínica tipo a')",BoNT-A,botulínica tipo a,1
+"('UVBBE', 'ultravioleta b de banda estrecha')",UVBBE,ultravioleta b de banda estrecha,1
+"('TCE', 'traumatismos craneoencefalicos')",TCE,traumatismos craneoencefalicos,2
+"('FPS', 'factor de protección solar')",FPS,factor de protección solar,1
+"('TCE', 'traumatismo craneoencefalico')",TCE,traumatismo craneoencefalico,3
+"('PPA', 'placa periarticular')",PPA,placa periarticular,1
+"('ORN', 'osteoradionecrosis')",ORN,osteoradionecrosis,1
+"('VIH', 'virus de la inmunodeficiencia humana')",VIH,virus de la inmunodeficiencia humana,1
+"('FDF', 'fractura de diáfisis femoral')",FDF,fractura de diáfisis femoral,1
+"('MCF', 'metacarpofalángico')",MCF,metacarpofalángico,1
+"('AS', 'admisión secundaria')",AS,admisión secundaria,1
+"('RCP', 'reanimación cardiopulmonar')",RCP,reanimación cardiopulmonar,1
+"('TBC', 'tuberculosis de la columna')",TBC,tuberculosis de la columna,1
+"('AMMOM', 'asociación mexicana de metabolismo oseo y mineral')",AMMOM,asociación mexicana de metabolismo oseo y mineral,1
+"('MIR', 'médicos internos residentes')",MIR,médicos internos residentes,1
+"('IP', 'indicadores de proceso')",IP,indicadores de proceso,1
+"('SU', 'servicio de urgencias')",SU,servicio de urgencias,2
+"('ENG', 'electroneurograma')",ENG,electroneurograma,2
+"('RMP', 'relajación muscular progresiva')",RMP,relajación muscular progresiva,1
+"('CGEO', 'celulas de la glia envolvente olfatoria')",CGEO,celulas de la glia envolvente olfatoria,1
+"('AESP', 'actividad eléctrica sin pulso')",AESP,actividad eléctrica sin pulso,1
+"('kcal', 'kilocalorías')",kcal,kilocalorías,1
+"('EIA', 'escoliosis idiopática del adolescente')",EIA,escoliosis idiopática del adolescente,1
+"('FC', 'fracturas de cadera')",FC,fracturas de cadera,1
+"('FLL', 'fractura-luxación de lisfranc')",FLL,fractura-luxación de lisfranc,1
+"('AR', 'artritis reumatoide')",AR,artritis reumatoide,1
+"('TCE', 'traumatismo craneoencefálico')",TCE,traumatismo craneoencefálico,1
+"('IE', 'intubar en estático')",IE,intubar en estático,1
+"('LM', 'lesiones medulares')",LM,lesiones medulares,1
+"('ISO', 'infección de sitio operatorio')",ISO,infección de sitio operatorio,1
+"('CC', 'cuchara')",CC,cuchara,1
+"('TNO', 'tratamiento no operatorio')",TNO,tratamiento no operatorio,1
+"('HTIC', 'hipertensión intracraneal')",HTIC,hipertensión intracraneal,1
+"('ADMMR', 'artropatía por desgarro masivo del manguito de los rotadores')",ADMMR,artropatía por desgarro masivo del manguito de los rotadores,1
+"('DBH', 'dopamina-beta-hidroxilasa')",DBH,dopamina-beta-hidroxilasa,1
+"('LNI', 'lesiones no intencionales')",LNI,lesiones no intencionales,1
+"('BS', 'banda sagital')",BS,banda sagital,1
+"('SU', 'servicios de urgencias')",SU,servicios de urgencias,1
+"('UCI', 'unidad de cuidados intensivos')",UCI,unidad de cuidados intensivos,1
+"('MF', 'microfracturas')",MF,microfracturas,1
+"('RVI', 'radiología vascular intervencionista')",RVI,radiología vascular intervencionista,1
+"('SIS', 'síndrome de pinzamiento subacromial')",SIS,síndrome de pinzamiento subacromial,1
+"('TAVEC', 'test de aprendizaje verbal españa-complutense')",TAVEC,test de aprendizaje verbal españa-complutense,1
+"('CPL', 'complejo posterolateral')",CPL,complejo posterolateral,1
+"('NL', 'normal')",NL,normal,1
+"('AIS', 'abbreviated injury scale')",AIS,abbreviated injury scale,2
+"('ISP', 'inventario de síntomas prefrontales')",ISP,inventario de síntomas prefrontales,1
+"('INR', 'instituto nacional de rehabilitación')",INR,instituto nacional de rehabilitación,1
+"('Neuro-ACMI', 'neurología crítica de la asociación catalana de medicina intensiva')",Neuro-ACMI,neurología crítica de la asociación catalana de medicina intensiva,1
+"('PAS', 'presión arterial sistólica')",PAS,presión arterial sistólica,1
+"('AEMPS', 'agencia española de medicamentos y productos sanitarios')",AEMPS,agencia española de medicamentos y productos sanitarios,1
+"('RPC', 'recomendaciones para prevenir las caídas')",RPC,recomendaciones para prevenir las caídas,1
+"('EVA', 'escala visual analógica')",EVA,escala visual analógica,2
+"('WISCI', 'walking index spinal cord injury')",WISCI,walking index spinal cord injury,1
+"('TC', 'tomografía computarizada')",TC,tomografía computarizada,1
+"('T.E.C.', 'traumatismo encéfano craneano')",T.E.C.,traumatismo encéfano craneano,1
+"('RR', 'riesgo relativo')",RR,riesgo relativo,1
+"('TVP', 'trombosis venosa profunda')",TVP,trombosis venosa profunda,1
+"('NE', 'nutrición enteral')",NE,nutrición enteral,1
+"('COR', 'característica operativa del receptor')",COR,característica operativa del receptor,1
+"('MIS', 'mínima invasión')",MIS,mínima invasión,1
+"('TP', 'tiempo de protrombina')",TP,tiempo de protrombina,1
+"('AST', 'abordaje del seno del tarso')",AST,abordaje del seno del tarso,1
+"('FC', 'flexión de cadera')",FC,flexión de cadera,1
+"('SILEX', 'sistema de información de lesiones de causa externa')",SILEX,sistema de información de lesiones de causa externa,1
+"('DM2', 'diabetes mellitus tipo 2')",DM2,diabetes mellitus tipo 2,1
+"('SIVELCE', 'sistema de vigilancia epidemiológica de lesiones de causa externa')",SIVELCE,sistema de vigilancia epidemiológica de lesiones de causa externa,1
+"('C.P.', 'cirugía plástica')",C.P.,cirugía plástica,1
+"('PIC', 'presión intracraneal')",PIC,presión intracraneal,1
+"('US', 'uso de sustancias')",US,uso de sustancias,1
+"('NISS', 'new injury severity score')",NISS,new injury severity score,1
+"('FC', 'fractura de cadera')",FC,fractura de cadera,1
+"('RA', 'reparación artroscópica')",RA,reparación artroscópica,1
+"('ISS', 'injury severity score')",ISS,injury severity score,2
+"('EC', 'esguince cervical')",EC,esguince cervical,1
+"('OA', 'osteoartritis')",OA,osteoartritis,1
+"('SCIE', 'science citation index expanded')",SCIE,science citation index expanded,1
+"('LQ', 'lesion quirurgica')",LQ,lesion quirurgica,1
+"('PPT', 'pacientes politraumáticos')",PPT,pacientes politraumáticos,1
+"('PTG', 'pacientes con traumatismo grave')",PTG,pacientes con traumatismo grave,1
+"('TUS', 'trastornos por uso de sustancias')",TUS,trastornos por uso de sustancias,1
+"('rango', 'recambios de generador. seguimiento medio de 8,4 años')",rango,"recambios de generador. seguimiento medio de 8,4 años",1
+"('T.E.C.', 'traumatismo encefalocraneal')",T.E.C.,traumatismo encefalocraneal,1
+"('RCE', 'recuperación de la circulación espontánea')",RCE,recuperación de la circulación espontánea,1
+"('RA-LMMR', 'reparación artroscópica de lesión masiva del manguito rotador')",RA-LMMR,reparación artroscópica de lesión masiva del manguito rotador,1
+"('CBCL/1.5-5', 'child behavior checklist 1.5-5')",CBCL/1.5-5,child behavior checklist 1.5-5,1
+"('HB', 'hepatitis b')",HB,hepatitis b,1
+"('GER', 'gasto energético en reposo')",GER,gasto energético en reposo,1
+"('SEHER', 'sociedad española de heridas')",SEHER,sociedad española de heridas,1
+"('RETOSS', 'reumatología y osteoporosis')",RETOSS,reumatología y osteoporosis,1
+"('UNP', 'unidades de nitrógeno proteico')",UNP,unidades de nitrógeno proteico,1
+"('RM', 'razón de momios')",RM,razón de momios,1
+"('EB', 'exceso de base')",EB,exceso de base,1
+"('AST-M', 'area de seccion transversal del nervio mediano en la muñeca')",AST-M,area de seccion transversal del nervio mediano en la muñeca,2
+"('FR', 'factor reumatoide')",FR,factor reumatoide,1
+"('PC', 'parada cardiaca')",PC,parada cardiaca,1
+"('RCP', 'reanimación cardiopulmonar pediátrica')",RCP,reanimación cardiopulmonar pediátrica,1
+"('UCI', 'unidades de cuidados intensivos')",UCI,unidades de cuidados intensivos,1
+"('TDC', 'tornillo dinámico condíleo')",TDC,tornillo dinámico condíleo,1
+"('OR', 'odds ratio')",OR,odds ratio,1
+"('MPMN', 'modelo de predicción de mortalidad de navarra')",MPMN,modelo de predicción de mortalidad de navarra,1
+"('VPM', 'volumen plaquetario medio')",VPM,volumen plaquetario medio,1
+"('ESCID', 'escala de conductas indicadoras de dolor')",ESCID,escala de conductas indicadoras de dolor,2
+"('TC', 'tomografía computada')",TC,tomografía computada,1
+"('TH', 'traumatismos hepáticos')",TH,traumatismos hepáticos,1
+"('PCT', 'parada cardiaca traumática')",PCT,parada cardiaca traumática,1
+"('IC', 'intervalos de confianza')",IC,intervalos de confianza,1
+"('LCE', 'lesiones de causa externa')",LCE,lesiones de causa externa,1
+"('VNG', 'videonistagmográfico')",VNG,videonistagmográfico,1
+"('FP', 'fractura de pelvis')",FP,fractura de pelvis,1
+"('IET', 'intubación endotraqueal')",IET,intubación endotraqueal,1

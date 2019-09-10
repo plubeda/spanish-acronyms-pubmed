@@ -1,0 +1,26 @@
+pair,acronym,description,frequency
+"('RIC', 'rangos intercuartílicos')",RIC,rangos intercuartílicos,1
+"('PRP', 'plasma rico en plaquetas')",PRP,plasma rico en plaquetas,2
+"('LCA', 'ligamento cruzado anterior')",LCA,ligamento cruzado anterior,4
+"('D-D', 'dimero-d')",D-D,dimero-d,1
+"('PCR', 'proteína c reactiva')",PCR,proteína c reactiva,1
+"('MD', 'merle daubigné')",MD,merle daubigné,1
+"('RACat', 'registro de artroplastias de cataluña')",RACat,registro de artroplastias de cataluña,1
+"('SSPA', 'sistema sanitario público de andalucía')",SSPA,sistema sanitario público de andalucía,1
+"('ML', 'malformaciones linfáticas')",ML,malformaciones linfáticas,1
+"('CPL', 'complejo posterolateral')",CPL,complejo posterolateral,1
+"('RR', 'recovery')",RR,recovery,1
+"('ATR', 'artroplastia total de rodilla')",ATR,artroplastia total de rodilla,1
+"('IPL', 'injertos de piel liofilizada')",IPL,injertos de piel liofilizada,1
+"('TVP', 'trombosis venosa profunda')",TVP,trombosis venosa profunda,1
+"('GEEEAAC', 'grupo español de estudio del empleo de aprotinina en artroplastia de cadera')",GEEEAAC,grupo español de estudio del empleo de aprotinina en artroplastia de cadera,1
+"('C.P.', 'cirugía plástica')",C.P.,cirugía plástica,1
+"('REGESMOHS', 'registro español de cirugía de mohs')",REGESMOHS,registro español de cirugía de mohs,1
+"('ETV', 'enfermedad tromboembólica venosa')",ETV,enfermedad tromboembólica venosa,1
+"('REGEMOHS', 'registro español de cirugía de mohs')",REGEMOHS,registro español de cirugía de mohs,1
+"('RM', 'reconstrucción mamaria')",RM,reconstrucción mamaria,1
+"('AV', 'aneurismas venosos')",AV,aneurismas venosos,1
+"('ATC', 'artroplastia total de cadera')",ATC,artroplastia total de cadera,1
+"('GER', 'gasto energético en reposo')",GER,gasto energético en reposo,1
+"('EAD', 'enfermedad articular degenerativa')",EAD,enfermedad articular degenerativa,1
+"('LMNT', 'linfadenitis por micobacterias no tuberculosas')",LMNT,linfadenitis por micobacterias no tuberculosas,1

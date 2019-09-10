@@ -1,0 +1,16 @@
+pair,acronym,description,frequency
+"('MC', 'monohidrato de creatina')",MC,monohidrato de creatina,1
+"('CuSum', 'curvas de sumas acumulativas')",CuSum,curvas de sumas acumulativas,1
+"('PRC', 'programa de rehabilitación cardiaca')",PRC,programa de rehabilitación cardiaca,1
+"('ECV', 'enfermedades cardiovasculares')",ECV,enfermedades cardiovasculares,1
+"('MILD', 'mosquiteros insecticidas de larga duración')",MILD,mosquiteros insecticidas de larga duración,1
+"('MF', 'microfracturas')",MF,microfracturas,1
+"('EPI', 'equipos de protección individual')",EPI,equipos de protección individual,1
+"('DM', 'dieta mediterránea')",DM,dieta mediterránea,1
+"('DOMS', 'delayed onset muscular soreness')",DOMS,delayed onset muscular soreness,1
+"('FC', 'frecuencia cardiaca')",FC,frecuencia cardiaca,1
+"('BS', 'bicarbonato sódico')",BS,bicarbonato sódico,1
+"('CAFYD', 'ciencias de la actividad física y del deporte')",CAFYD,ciencias de la actividad física y del deporte,1
+"('GFA', 'glotograma de flujo aéreo')",GFA,glotograma de flujo aéreo,1
+"('HMB', 'hidroxi-β-metilbutirato')",HMB,hidroxi-β-metilbutirato,1
+"('DP', 'dieta proteica')",DP,dieta proteica,1

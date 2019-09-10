@@ -1,0 +1,58 @@
+pair,acronym,description,frequency
+"('GOLD', 'global para la enfermedad pulmonar obstructiva crónica')",GOLD,global para la enfermedad pulmonar obstructiva crónica,1
+"('GCCB-S', 'grupo cooperativo de carcinoma broncogénico de separ')",GCCB-S,grupo cooperativo de carcinoma broncogénico de separ,2
+"('CAT', 'copd asessment test')",CAT,copd asessment test,2
+"('TEP', 'tromboembolismo pulmonar')",TEP,tromboembolismo pulmonar,1
+"('IL-10', 'interleucina 10')",IL-10,interleucina 10,1
+"('SUH', 'servicios de urgencias hospitalarios')",SUH,servicios de urgencias hospitalarios,1
+"('GesEPOC', 'guía española de la enfermedad pulmonar obstructiva crónica')",GesEPOC,guía española de la enfermedad pulmonar obstructiva crónica,1
+"('EA-EPOC', 'exacerbación de la enfermedad pulmonar obstructiva crónica')",EA-EPOC,exacerbación de la enfermedad pulmonar obstructiva crónica,1
+"('SEPAR', 'sociedad española de neumología y cirugía torácica')",SEPAR,sociedad española de neumología y cirugía torácica,4
+"('OD', 'oxigenoterapia domiciliaria')",OD,oxigenoterapia domiciliaria,2
+"('GLI', 'global de función pulmonar')",GLI,global de función pulmonar,1
+"('AINES', 'antiinflamatorios no esteroides')",AINES,antiinflamatorios no esteroides,1
+"('SAHS', 'síndrome de apneas-hipopneas del sueño')",SAHS,síndrome de apneas-hipopneas del sueño,1
+"('ECA', 'enzima conversora de la angiotensina')",ECA,enzima conversora de la angiotensina,1
+"('SAHS', 'síndrome de apnea-hipopnea durante el sueño')",SAHS,síndrome de apnea-hipopnea durante el sueño,1
+"('ESTA', 'estenosis subglóticas y traqueales adquiridas')",ESTA,estenosis subglóticas y traqueales adquiridas,1
+"('Neumosur', 'neumólogos del sur')",Neumosur,neumólogos del sur,1
+"('MNT', 'micobacterias no tuberculosas')",MNT,micobacterias no tuberculosas,1
+"('GOLD', 'global initiative for chronic obstructive lung disease')",GOLD,global initiative for chronic obstructive lung disease,2
+"('GESEPOC', 'guía española de la epoc')",GESEPOC,guía española de la epoc,1
+"('CPNM', 'carcinoma de pulmón no microcelular')",CPNM,carcinoma de pulmón no microcelular,1
+"('SAHS', 'síndrome de apneas-hipopneas durante el sueño')",SAHS,síndrome de apneas-hipopneas durante el sueño,1
+"('AQ20', 'airways questionnaire 20')",AQ20,airways questionnaire 20,1
+"('AAS', 'a ácido acetilsalicílico')",AAS,a ácido acetilsalicílico,1
+"('IC', 'indicadores de calidad')",IC,indicadores de calidad,1
+"('VIH', 'virus de la inmunodeficiencia humana')",VIH,virus de la inmunodeficiencia humana,2
+"('NEC', 'neumonía eosinófila crónica')",NEC,neumonía eosinófila crónica,1
+"('ATINA-EPOC', 'atención integral de las agudizaciones de la enfermedad pulmonar obstructiva crónica')",ATINA-EPOC,atención integral de las agudizaciones de la enfermedad pulmonar obstructiva crónica,7
+"('SEIP', 'sociedad española de infectología pediátrica')",SEIP,sociedad española de infectología pediátrica,2
+"('EPOC', 'enfermedad pulmonar obstructiva crónica')",EPOC,enfermedad pulmonar obstructiva crónica,10
+"('VCI', 'vena cava inferior')",VCI,vena cava inferior,1
+"('VD', 'visita domiciliaria')",VD,visita domiciliaria,1
+"('NAC', 'neumonía adquirida en la comunidad')",NAC,neumonía adquirida en la comunidad,1
+"('NAC', 'neumonía adquirida en comunidad')",NAC,neumonía adquirida en comunidad,1
+"('SEPAR', 'sociedad española de neumología y cirugía torácicaa')",SEPAR,sociedad española de neumología y cirugía torácicaa,1
+"('y II', 'y nuevas indicaciones')",y II,y nuevas indicaciones,1
+"('DD', 'dímero d')",DD,dímero d,1
+"('PSA', 'pleurodesis con sangre autóloga')",PSA,pleurodesis con sangre autóloga,1
+"('SOCALPAR', 'sociedad castellano-leonesa y cántabra de patología respiratoria')",SOCALPAR,sociedad castellano-leonesa y cántabra de patología respiratoria,1
+"('TC', 'tomografía computarizada')",TC,tomografía computarizada,1
+"('mMRC', 'modificada del medical research council')",mMRC,modificada del medical research council,1
+"('SUP', 'servicios de urgencias pediátricos')",SUP,servicios de urgencias pediátricos,1
+"('CPCNM', 'carcinoma de pulmón de células no microcelulares')",CPCNM,carcinoma de pulmón de células no microcelulares,1
+"('GesEPOC', 'guía española de la enfermedad pulmonar obstructiva crónica (epoc)')",GesEPOC,guía española de la enfermedad pulmonar obstructiva crónica (epoc),1
+"('ETV', 'enfermedad tromboembólica venosa')",ETV,enfermedad tromboembólica venosa,2
+"('PAPTAF', 'punción-aspiración pulmonar transtorácica con aguja fina')",PAPTAF,punción-aspiración pulmonar transtorácica con aguja fina,1
+"('CB', 'carcinoma broncogénico')",CB,carcinoma broncogénico,1
+"('SENP', 'sociedad española de neumología pediátrica')",SENP,sociedad española de neumología pediátrica,2
+"('ECA', 'enzima conversora de angiotensina')",ECA,enzima conversora de angiotensina,1
+"('GINA', 'global initiative for asthma')",GINA,global initiative for asthma,1
+"('FAP', 'fuga aérea persistente')",FAP,fuga aérea persistente,1
+"('GesEPOC', 'guía española de la epoc')",GesEPOC,guía española de la epoc,2
+"('GEMA', 'guía española para el manejo del asma')",GEMA,guía española para el manejo del asma,1
+"('SAHS', 'síndrome de apneas-hipoapneas del sueño')",SAHS,síndrome de apneas-hipoapneas del sueño,1
+"('SAOS', 'síndrome de apnea obstructiva del sueño')",SAOS,síndrome de apnea obstructiva del sueño,2
+"('LCFA', 'limitación crónica al flujo aéreo')",LCFA,limitación crónica al flujo aéreo,1
+"('SEC', 'sociedad española de cardiología')",SEC,sociedad española de cardiología,2

@@ -1,0 +1,59 @@
+pair,acronym,description,frequency
+"('RIC', 'rangos intercuartílicos')",RIC,rangos intercuartílicos,1
+"('PSC', 'placa de sostén condíleo')",PSC,placa de sostén condíleo,1
+"('RN', 'riesgo nutricional')",RN,riesgo nutricional,1
+"('KOOS', 'knee injury and osteoarthritis outcome score')",KOOS,knee injury and osteoarthritis outcome score,1
+"('TEP', 'tromboembolismo pulmonar')",TEP,tromboembolismo pulmonar,1
+"('PEVAC', 'pie equinovaro aducto congénito')",PEVAC,pie equinovaro aducto congénito,1
+"('PRP', 'plasma rico en plaquetas')",PRP,plasma rico en plaquetas,1
+"('DM', 'diabetes mellitus')",DM,diabetes mellitus,1
+"('LCA', 'ligamento cruzado anterior')",LCA,ligamento cruzado anterior,5
+"('DN', 'desnutrición')",DN,desnutrición,1
+"('D-D', 'dimero-d')",D-D,dimero-d,1
+"('PCR', 'proteína c reactiva')",PCR,proteína c reactiva,1
+"('RAFI', 'reducción abierta y fijación interna')",RAFI,reducción abierta y fijación interna,2
+"('GRD', 'grupos relacionados por el diagnóstico')",GRD,grupos relacionados por el diagnóstico,1
+"('VR', 'valgo de rodilla')",VR,valgo de rodilla,1
+"('MD', 'merle daubigné')",MD,merle daubigné,1
+"('END', 'escala numérica de dolor')",END,escala numérica de dolor,1
+"('FR', 'flexión de rodilla')",FR,flexión de rodilla,1
+"('IMSS', 'instituto mexicano del seguro social')",IMSS,instituto mexicano del seguro social,1
+"('PEVAC', 'pie equino varo aducto congénito')",PEVAC,pie equino varo aducto congénito,1
+"('RACat', 'registro de artroplastias de cataluña')",RACat,registro de artroplastias de cataluña,1
+"('MRC', 'medical research council')",MRC,medical research council,1
+"('LMR', 'lesión del manguito rotador')",LMR,lesión del manguito rotador,1
+"('BoNT-A', 'botulínica tipo a')",BoNT-A,botulínica tipo a,1
+"('MeSH', 'medical subject headings')",MeSH,medical subject headings,1
+"('NRS-2002', 'nutritional risk screening 2002')",NRS-2002,nutritional risk screening 2002,1
+"('PPA', 'placa periarticular')",PPA,placa periarticular,1
+"('FEFCO2', 'fracción espiratoria final de co2')",FEFCO2,fracción espiratoria final de co2,1
+"('TBC', 'tuberculosis de la columna')",TBC,tuberculosis de la columna,1
+"('MUST', 'malnutrition universal screening tool')",MUST,malnutrition universal screening tool,1
+"('MNA', 'mini nutritional assessment')",MNA,mini nutritional assessment,1
+"('PFA', 'pinzamiento femoroacetabular')",PFA,pinzamiento femoroacetabular,1
+"('EIA', 'escoliosis idiopática del adolescente')",EIA,escoliosis idiopática del adolescente,1
+"('FLL', 'fractura-luxación de lisfranc')",FLL,fractura-luxación de lisfranc,1
+"('TCE', 'traumatismo craneoencefálico')",TCE,traumatismo craneoencefálico,1
+"('SVP', 'sinovitis vellonodular pigmentada')",SVP,sinovitis vellonodular pigmentada,1
+"('RVI', 'radiología vascular intervencionista')",RVI,radiología vascular intervencionista,1
+"('CPL', 'complejo posterolateral')",CPL,complejo posterolateral,1
+"('RR', 'recovery')",RR,recovery,1
+"('EVA', 'escala visual analógica')",EVA,escala visual analógica,1
+"('ATR', 'artroplastia total de rodilla')",ATR,artroplastia total de rodilla,1
+"('TVP', 'trombosis venosa profunda')",TVP,trombosis venosa profunda,1
+"('MIS', 'mínima invasión')",MIS,mínima invasión,1
+"('AST', 'abordaje del seno del tarso')",AST,abordaje del seno del tarso,1
+"('GEEEAAC', 'grupo español de estudio del empleo de aprotinina en artroplastia de cadera')",GEEEAAC,grupo español de estudio del empleo de aprotinina en artroplastia de cadera,1
+"('FC', 'flexión de cadera')",FC,flexión de cadera,1
+"('RA', 'reparación artroscópica')",RA,reparación artroscópica,1
+"('ETV', 'enfermedad tromboembólica venosa')",ETV,enfermedad tromboembólica venosa,1
+"('TAP', 'tenotomía y aponeurotomía percutánea')",TAP,tenotomía y aponeurotomía percutánea,1
+"('OA', 'osteoartritis')",OA,osteoartritis,1
+"('RA-LMMR', 'reparación artroscópica de lesión masiva del manguito rotador')",RA-LMMR,reparación artroscópica de lesión masiva del manguito rotador,1
+"('ATC', 'artroplastia total de cadera')",ATC,artroplastia total de cadera,1
+"('EAD', 'enfermedad articular degenerativa')",EAD,enfermedad articular degenerativa,1
+"('RM', 'razón de momios')",RM,razón de momios,1
+"('CORA', 'centro de rotación de la deformidad')",CORA,centro de rotación de la deformidad,1
+"('TDC', 'tornillo dinámico condíleo')",TDC,tornillo dinámico condíleo,1
+"('IC', 'intervalos de confianza')",IC,intervalos de confianza,1
+"('VSG', 'valoración subjetiva global')",VSG,valoración subjetiva global,1

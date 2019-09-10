@@ -1,0 +1,189 @@
+pair,acronym,description,frequency
+"('atPIG', 'activador tisular del plasminógeno')",atPIG,activador tisular del plasminógeno,1
+"('AEHH', 'asociación española de hematología y hemoterapia')",AEHH,asociación española de hematología y hemoterapia,1
+"('RN', 'riesgo nutricional')",RN,riesgo nutricional,1
+"('MTHFR', 'metilén tetrahidrofólico reductasa')",MTHFR,metilén tetrahidrofólico reductasa,2
+"('PMN', 'polimorfonucleares neutrófilos')",PMN,polimorfonucleares neutrófilos,2
+"('INR', 'international normalized ratio')",INR,international normalized ratio,2
+"('FHIS', 'fluorescencia con hibridación in situ')",FHIS,fluorescencia con hibridación in situ,1
+"('NH', 'neoplasias hematológicas')",NH,neoplasias hematológicas,1
+"('TFGe', 'tasa de filtración glomerular estimada')",TFGe,tasa de filtración glomerular estimada,1
+"('SEIMC', 'sociedad española de enfermedades infecciosas y microbiología clínica')",SEIMC,sociedad española de enfermedades infecciosas y microbiología clínica,1
+"('LMC', 'leucemia mieloide crónica')",LMC,leucemia mieloide crónica,5
+"('Hb A2', 'hemoglobina a2')",Hb A2,hemoglobina a2,1
+"('REDIP', 'registro español de inmunodeficiencias primarias')",REDIP,registro español de inmunodeficiencias primarias,1
+"('AT', 'autotrasplante')",AT,autotrasplante,1
+"('LMA', 'leucemia mieloblástica')",LMA,leucemia mieloblástica,1
+"('TTPa', 'tromboplastina parcial activada')",TTPa,tromboplastina parcial activada,1
+"('EDTA', 'etilén-diamino-tetraacético')",EDTA,etilén-diamino-tetraacético,1
+"('EP', 'en profundidad')",EP,en profundidad,1
+"('PRP', 'plasma rico en plaquetas')",PRP,plasma rico en plaquetas,1
+"('AL', 'anticoagulante lúpico')",AL,anticoagulante lúpico,1
+"('SUH', 'servicios de urgencias hospitalarios')",SUH,servicios de urgencias hospitalarios,1
+"('CID', 'coagulación intravascular diseminada')",CID,coagulación intravascular diseminada,2
+"('GMSI', 'gamapatía monoclonal de significado indeterminado')",GMSI,gamapatía monoclonal de significado indeterminado,1
+"('FA', 'fibrilación auricular')",FA,fibrilación auricular,1
+"('IFI', 'inmunofluorescencia indirecta')",IFI,inmunofluorescencia indirecta,1
+"('SEDAR', 'sociedad española de anestesiología, reanimación y terapéutica del dolor')",SEDAR,"sociedad española de anestesiología, reanimación y terapéutica del dolor",1
+"('OAH', 'osteoartropatía hipertrófica')",OAH,osteoartropatía hipertrófica,1
+"('PCCE-H', 'programa de control de calidad externo en hematología')",PCCE-H,programa de control de calidad externo en hematología,1
+"('GMSI', 'gammapatías monoclonales de significado indeterminado')",GMSI,gammapatías monoclonales de significado indeterminado,1
+"('DN', 'desnutrición')",DN,desnutrición,1
+"('LAL', 'leucemia aguda linfoblástica')",LAL,leucemia aguda linfoblástica,1
+"('HPN', 'hemoglobinuria paroxistica nocturna')",HPN,hemoglobinuria paroxistica nocturna,1
+"('PEL', 'protoporfirina eritrocítica libre')",PEL,protoporfirina eritrocítica libre,1
+"('CSA', 'ciclosporina a')",CSA,ciclosporina a,1
+"('SEDAR', 'sociedades españolas de anestesiología y reanimación')",SEDAR,sociedades españolas de anestesiología y reanimación,1
+"('H.P.N', 'hemoglobinuria paroxística nocturna')",H.P.N,hemoglobinuria paroxística nocturna,1
+"('G6FD', 'glucosa-6-fosfato dehidrogenasa eritrocítica')",G6FD,glucosa-6-fosfato dehidrogenasa eritrocítica,1
+"('NMP', 'neoplasias mieloproliferativas')",NMP,neoplasias mieloproliferativas,1
+"('OR', 'odss ratio')",OR,odss ratio,1
+"('VCMP', 'vincristina, ciclofosfamida, melfalán y prednisona')",VCMP,"vincristina, ciclofosfamida, melfalán y prednisona",1
+"('GETECCU', 'grupo español de trabajo de enfermedad de crohn y colitis ulcerosa')",GETECCU,grupo español de trabajo de enfermedad de crohn y colitis ulcerosa,1
+"('PEL', 'protoporfirina eritrocitaria libre')",PEL,protoporfirina eritrocitaria libre,1
+"('SIDA', 'síndrome de inmunodeficiencia adquirida')",SIDA,síndrome de inmunodeficiencia adquirida,3
+"('RTNHF', 'reacciones transfusionales no hemolíticas de tipo febril')",RTNHF,reacciones transfusionales no hemolíticas de tipo febril,1
+"('TASPE', 'trasplante autólogo de progenitores hematopoyéticos de sangre periférica')",TASPE,trasplante autólogo de progenitores hematopoyéticos de sangre periférica,1
+"('LLA', 'leucemia linfoide aguda')",LLA,leucemia linfoide aguda,2
+"('GCA', 'gastritis crónica antral')",GCA,gastritis crónica antral,1
+"('EVW', 'enfermedad de von willebrand')",EVW,enfermedad de von willebrand,2
+"('HNF', 'heparina no fraccionada')",HNF,heparina no fraccionada,1
+"('VHC', 'virus hepatitis c')",VHC,virus hepatitis c,1
+"('SCID', 'síndrome de coagulación intravascular diseminada')",SCID,síndrome de coagulación intravascular diseminada,1
+"('TIP', 'trombocitopenia inmune primaria')",TIP,trombocitopenia inmune primaria,2
+"('HD', 'hemodiálisis')",HD,hemodiálisis,2
+"('S.H.U.', 'sindroma hemolítico urémico')",S.H.U.,sindroma hemolítico urémico,1
+"('VIH', 'virus de inmunodeficiencia humana')",VIH,virus de inmunodeficiencia humana,1
+"('EE', 'esofagitis eosinofílica')",EE,esofagitis eosinofílica,1
+"('NMPc', 'neoplasia mieloproliferativa crónica')",NMPc,neoplasia mieloproliferativa crónica,1
+"('RCUI', 'relación coste-utilidad')",RCUI,relación coste-utilidad,1
+"('CFC-GM', 'células formadoras de colonias granulomonocíticas')",CFC-GM,células formadoras de colonias granulomonocíticas,1
+"('GLAITH', 'grupo latinoamericano para el impulso del tratamiento de la hemofilia')",GLAITH,grupo latinoamericano para el impulso del tratamiento de la hemofilia,1
+"('NRS-2002', 'nutritional risk screening 2002')",NRS-2002,nutritional risk screening 2002,1
+"('UCIP', 'unidades de cuidados intensivos pediátricos')",UCIP,unidades de cuidados intensivos pediátricos,1
+"('CDI', 'cuestionario de depresión infantil')",CDI,cuestionario de depresión infantil,1
+"('INEN', 'instituto nacional de enfermedades neoplásicas')",INEN,instituto nacional de enfermedades neoplásicas,1
+"('VIH', 'virus de la inmunodeficiencia humana')",VIH,virus de la inmunodeficiencia humana,5
+"('SENACREDH', 'segundo estudio nacional de crecimiento y desarrollo humano')",SENACREDH,segundo estudio nacional de crecimiento y desarrollo humano,1
+"('NEC', 'neumonía eosinófila crónica')",NEC,neumonía eosinófila crónica,1
+"('GEHBTA', 'grupo de estudio de hemoglobinopatías y talasemias')",GEHBTA,grupo de estudio de hemoglobinopatías y talasemias,1
+"('AF', 'anemia ferropénica')",AF,anemia ferropénica,2
+"('TAR', 'trombocitopenia con aplasia de radio')",TAR,trombocitopenia con aplasia de radio,1
+"('DNU', 'dispepsia no ulcerosa')",DNU,dispepsia no ulcerosa,1
+"('SEMTSI', 'sociedad española de medicina tropical y salud internacional')",SEMTSI,sociedad española de medicina tropical y salud internacional,1
+"('RHR', 'respuesta immune de hipersensibilidad retardada')",RHR,respuesta immune de hipersensibilidad retardada,1
+"('APC', 'anticuerpos monoclonales para cd38 (pecyc5), cd138')",APC,"anticuerpos monoclonales para cd38 (pecyc5), cd138",1
+"('ERC', 'enfermedad renal crónica')",ERC,enfermedad renal crónica,1
+"('MUST', 'malnutrition universal screening tool')",MUST,malnutrition universal screening tool,1
+"('GETIM', 'grupo de estudio y tratamiento de las insuficiencias medulares')",GETIM,grupo de estudio y tratamiento de las insuficiencias medulares,1
+"('NN', 'neumonía nosocomial')",NN,neumonía nosocomial,1
+"('MNA', 'mini nutritional assessment')",MNA,mini nutritional assessment,1
+"('EMRR', 'esclerosis multiple remitente recurrente')",EMRR,esclerosis multiple remitente recurrente,1
+"('SLE', 'sobrevida libre de enfermedad')",SLE,sobrevida libre de enfermedad,1
+"('GEDSRT-VHC', 'grupo español de estudio de donantes de sangre en riesgo de transmisión del vhc')",GEDSRT-VHC,grupo español de estudio de donantes de sangre en riesgo de transmisión del vhc,1
+"('SU', 'servicio de urgencias')",SU,servicio de urgencias,1
+"('SUH', 'síndrome urémico hemolítico')",SUH,síndrome urémico hemolítico,1
+"('TCPH', 'trasplante de células progenitoras hematopoyéticas')",TCPH,trasplante de células progenitoras hematopoyéticas,1
+"('PANDA', 'programa nacional de drogas antineoplásicas del adulto')",PANDA,programa nacional de drogas antineoplásicas del adulto,1
+"('RCP', 'reacción en cadena de la polimerasa')",RCP,reacción en cadena de la polimerasa,1
+"('GF', 'grupos focales')",GF,grupos focales,1
+"('EIPID', 'enfermedad inmunoproliferativa del intestino delgado')",EIPID,enfermedad inmunoproliferativa del intestino delgado,1
+"('LAP', 'leucinaminopeptidasis')",LAP,leucinaminopeptidasis,1
+"('RVR', 'recuento visual de reticulocitos')",RVR,recuento visual de reticulocitos,1
+"('IAM', 'infarto agudo del miocardio')",IAM,infarto agudo del miocardio,1
+"('CTAT', 'complejos trombina-antitrombina iii')",CTAT,complejos trombina-antitrombina iii,1
+"('AEHH', 'asociación española de hematolgía y hemoterapia')",AEHH,asociación española de hematolgía y hemoterapia,1
+"('NAG', 'n-acetil-b-d-glucosaminidasa a')",NAG,n-acetil-b-d-glucosaminidasa a,1
+"('ECV', 'enfermedad cerebrovascular')",ECV,enfermedad cerebrovascular,1
+"('SU', 'servicios de urgencias')",SU,servicios de urgencias,1
+"('UCI', 'unidad de cuidados intensivos')",UCI,unidad de cuidados intensivos,1
+"('QT', 'quimioterapia')",QT,quimioterapia,1
+"('DAM', 'desnutrición aguda moderada')",DAM,desnutrición aguda moderada,1
+"('P.T.C.', 'púrpura trombocitopénica crónica')",P.T.C.,púrpura trombocitopénica crónica,1
+"('ICT', 'inhibidores de cinasas de tirosina')",ICT,inhibidores de cinasas de tirosina,1
+"('GETH', 'grupo español de trasplante hemopoyético')",GETH,grupo español de trasplante hemopoyético,1
+"('TAO', 'tratamiento con anticoagulación oral')",TAO,tratamiento con anticoagulación oral,1
+"('RST', 'receptor soluble de transferrina')",RST,receptor soluble de transferrina,1
+"('FHD', 'fiebre hemorrágica por dengue')",FHD,fiebre hemorrágica por dengue,1
+"('IDP', 'inmunodeficiencias primarias')",IDP,inmunodeficiencias primarias,1
+"('INNSZ', 'instituto nacional de la nutrición ""salvador zubirán""')",INNSZ,"instituto nacional de la nutrición ""salvador zubirán""",1
+"('MM', 'mieloma múltiple')",MM,mieloma múltiple,1
+"('EAs', 'efectos adversos')",EAs,efectos adversos,1
+"('SG', 'sobrevida global')",SG,sobrevida global,1
+"('MEB', 'microscopia electrónica de barrido')",MEB,microscopia electrónica de barrido,1
+"('SCIVDc', 'sindrome de coagulación intravascular diseminada crónica')",SCIVDc,sindrome de coagulación intravascular diseminada crónica,1
+"('OR', 'ohd en madres')",OR,ohd en madres,1
+"('TTPA', 'tromboplastina parcial activado')",TTPA,tromboplastina parcial activado,2
+"('ATSA', 'a la tsa')",ATSA,a la tsa,1
+"('LM', 'leucocitos mononucleares')",LM,leucocitos mononucleares,1
+"('PPcH', 'pacientes pediátricos con hemofilia')",PPcH,pacientes pediátricos con hemofilia,1
+"('Igs', 'inmunoglobulinas')",Igs,inmunoglobulinas,1
+"('VCM', 'volumen corpuscular medio')",VCM,volumen corpuscular medio,1
+"('NPT', 'nutrición parenteral total')",NPT,nutrición parenteral total,1
+"('SMD', 'síndromes mielodisplásicos')",SMD,síndromes mielodisplásicos,1
+"('EPO', 'eritropoyetina')",EPO,eritropoyetina,1
+"('NPA', 'nefropatía secundaria a púrpura anafilactoide')",NPA,nefropatía secundaria a púrpura anafilactoide,1
+"('A.H.F.', 'anemia hipocroma ferropriva')",A.H.F.,anemia hipocroma ferropriva,1
+"('Hb', 'hemoglobina plasmática')",Hb,hemoglobina plasmática,1
+"('QTI', 'quimioterapia intensa')",QTI,quimioterapia intensa,1
+"('LCD', 'leucemia en células del donador')",LCD,leucemia en células del donador,1
+"('LMC', 'leucemia mieloide cr&oacute;nica')",LMC,leucemia mieloide cr&oacute;nica,1
+"('GETMON', 'grupo español para el trasplante de médula osea en niños')",GETMON,grupo español para el trasplante de médula osea en niños,2
+"('SD', 'síndrome de down')",SD,síndrome de down,1
+"('IgA', 'immunoglobulina a')",IgA,immunoglobulina a,1
+"('SNS', 'sistema nacional de salud')",SNS,sistema nacional de salud,1
+"('ETV', 'enfermedad tromboembólica venosa')",ETV,enfermedad tromboembólica venosa,3
+"('PHHF', 'persistencia hereditaria de hemoglobina fetal')",PHHF,persistencia hereditaria de hemoglobina fetal,1
+"('NACO', 'nuevos anticoagulantes orales')",NACO,nuevos anticoagulantes orales,1
+"('INPer', 'instituto nacional de perinatología')",INPer,instituto nacional de perinatología,1
+"('ERCO', 'enfermedad renal crónica oculta')",ERCO,enfermedad renal crónica oculta,1
+"('VIH', 'virus de la immunodeficiencia humana')",VIH,virus de la immunodeficiencia humana,1
+"('SIDA', 'síndrome de immunodeficiencia adquirida')",SIDA,síndrome de immunodeficiencia adquirida,1
+"('PTA', 'purpura trombocitopénica autoinmune')",PTA,purpura trombocitopénica autoinmune,1
+"('SMD', 'síndrome mielodisplásico')",SMD,síndrome mielodisplásico,1
+"('SCIE', 'science citation index expanded')",SCIE,science citation index expanded,1
+"('ACV', 'accidente cerebrovascular')",ACV,accidente cerebrovascular,1
+"('PTT/SUH', 'púrpura trombótica trombocitopéncia y síndrome urémico hemolítico')",PTT/SUH,púrpura trombótica trombocitopéncia y síndrome urémico hemolítico,1
+"('SEA', 'sociedad española de arteriosclerosis')",SEA,sociedad española de arteriosclerosis,1
+"('DG6F', 'de la glucosa 6-fosfato')",DG6F,de la glucosa 6-fosfato,1
+"('MF', 'mielofibrosis')",MF,mielofibrosis,1
+"('VIH-2', 'virus de la inmunodeficiencia humana de tipo 2')",VIH-2,virus de la inmunodeficiencia humana de tipo 2,1
+"('HISF', 'hibridación in situ fluorescente')",HISF,hibridación in situ fluorescente,1
+"('IDCV', 'inmunodeficiencia común variable')",IDCV,inmunodeficiencia común variable,1
+"('FHF', 'fundación hipercolesterolemia familiar')",FHF,fundación hipercolesterolemia familiar,1
+"('TTPA', 'tromboplastina parcial activada')",TTPA,tromboplastina parcial activada,1
+"('RMN', 'resonancia magnética nuclear')",RMN,resonancia magnética nuclear,1
+"('ER-IgG4', 'enfermedad relacionada con la inmunoglobulina g4')",ER-IgG4,enfermedad relacionada con la inmunoglobulina g4,1
+"('HB', 'hepatitis b')",HB,hepatitis b,1
+"('SIOP', 'sociedad internacional de oncología pediátrica')",SIOP,sociedad internacional de oncología pediátrica,1
+"('LMA', 'leucemia mieloide aguda')",LMA,leucemia mieloide aguda,1
+"('EHEC', 'enterohemorrágico')",EHEC,enterohemorrágico,1
+"('EvW', 'enfermedad de von willebrand')",EvW,enfermedad de von willebrand,1
+"('Cr', 'creatinina')",Cr,creatinina,1
+"('Hb', 'hemoglobina')",Hb,hemoglobina,1
+"('HGC', 'hibridación genómica comparada')",HGC,hibridación genómica comparada,1
+"('ERC', 'enfermedades respiratorias crónicas')",ERC,enfermedades respiratorias crónicas,1
+"('GesEPOC', 'guía española de la epoc')",GesEPOC,guía española de la epoc,1
+"('FRV', 'factores de riesgo vascular')",FRV,factores de riesgo vascular,1
+"('PTI', 'púrpura trombocitopénica idiopática')",PTI,púrpura trombocitopénica idiopática,4
+"('AMS', 'arteria mesentérica superior')",AMS,arteria mesentérica superior,1
+"('ICA', 'insuficiencia cardiaca aguda')",ICA,insuficiencia cardiaca aguda,1
+"('GEMA', 'guía española para el manejo del asma')",GEMA,guía española para el manejo del asma,1
+"('ILE', 'intervalo libre de eventos')",ILE,intervalo libre de eventos,1
+"('AD', 'anemias dishemopoyéticas')",AD,anemias dishemopoyéticas,1
+"('HIS', 'hibridación in situ')",HIS,hibridación in situ,1
+"('SAF', 'síndrome antifosfolípido')",SAF,síndrome antifosfolípido,1
+"('ICSH', 'internacional de estandarización en hematología')",ICSH,internacional de estandarización en hematología,2
+"('PTI', 'púrpura trombocitopénico idiopático')",PTI,púrpura trombocitopénico idiopático,1
+"('TSA', 'transfusión de sangre alogénica')",TSA,transfusión de sangre alogénica,1
+"('LLA', 'linfoblástica aguda')",LLA,linfoblástica aguda,3
+"('y II', 'y aurotiomalato sódico: una revisión comparada')",y II,y aurotiomalato sódico: una revisión comparada,1
+"('AVK', 'antivitamina k')",AVK,antivitamina k,1
+"('PANDA', 'programa nacional de drogas antineoplásicas')",PANDA,programa nacional de drogas antineoplásicas,1
+"('VPM', 'volumen plaquetario medio')",VPM,volumen plaquetario medio,1
+"('CCP', 'concentrados de complejo protrombínico')",CCP,concentrados de complejo protrombínico,1
+"('LF', 'lactoferrina')",LF,lactoferrina,1
+"('VSG', 'valoración subjetiva global')",VSG,valoración subjetiva global,1
+"('RCT', 'receptor de célula t')",RCT,receptor de célula t,1
+"('LES', 'lupus eritematoso sistémico')",LES,lupus eritematoso sistémico,1
+"('ADH', 'anemia por déficit de hierro')",ADH,anemia por déficit de hierro,1
