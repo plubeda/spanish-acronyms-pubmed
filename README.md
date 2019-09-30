@@ -1,2 +1,6 @@
-# Improving-Contextual-Knowledge-forAcronym-Expansion-in-MedicalNarratives
-Text normalization in clinical natural language processing involves theidentification and resolution of acronyms contained in the documents to obtain theirstandard definitions. Previous approaches to solve this problem varied dependingon whether the expansion was explicitly in the document or not. In both cases, theproblem of ambiguity arises when an identified acronym has different expansions(e.g. RA for Right Atrial or Rheumatoid Arthritis). The ambiguity issue can be addressed by analyzing the different contexts in which the acronym may exist; however, the absence of an acronym sense inventory linked with possible contexts inwhich particular expansion can be used hinders these solutions. 
+# Leveraging PubMed to create a specialty-based sense inventory for acronym resolution in Spanish
+Text normalization in clinical natural language processing includes the task to identify acronyms  to obtain their appropriate expanded form.
+This paper contributes to acronym resolution in Spanish through the creation of a data resource that facilitates acronym resolution.
+It is based on a set of acronym dictionaries classified by clinical specialty, where each acronyms is characterized by its expansion and a set of features.
+The new acronym resource is composed of 51 clinical specialties with 3,603 acronyms. Including 228 language independent acronyms and 391 language dependent expansions.
+We further analyzed the sense inventory across specialties and present novel insights of acronym usage in biomedical Spanish texts.
